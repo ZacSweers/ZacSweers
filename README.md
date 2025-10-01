@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-30** — merged PR [#1110](https://github.com/ZacSweers/metro/pull/1110) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update junit-framework monorepo to v6 (major)"
+
+**2025-09-30** — opened PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
+
+**2025-09-30** — created branch `z/refactorIrBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-30** — merged PR [#1111](https://github.com/ZacSweers/metro/pull/1111) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.21"
 
 **2025-09-30** — closed PR [#281](https://github.com/ZacSweers/FieldSpottr/pull/281) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.6"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-29** — opened PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
 
 **2025-09-29** — created branch `z/moreFir` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-29** — opened PR [#1107](https://github.com/ZacSweers/metro/pull/1107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Read-only CC on PRs"
-
-**2025-09-29** — created branch `z/readOnly` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-29** — merged PR [#2324](https://github.com/slackhq/circuit/pull/2324) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix minor typo in setup doc"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
