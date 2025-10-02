@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-02** — merged PR [#1116](https://github.com/ZacSweers/metro/pull/1116) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2.1"
+
+**2025-10-02** — closed issue [#1115](https://github.com/ZacSweers/metro/issues/1115) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 0.6.6 breaks when provider method has the same name as the accessor method"
+
+**2025-10-02** — commented on [#1115](https://github.com/ZacSweers/metro/issues/1115#issuecomment-3361262247) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-30** — merged PR [#1072](https://github.com/ZacSweers/metro/pull/1072) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency click to v8.3.0"
 
 **2025-09-30** — merged PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-30** — opened PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
 
 **2025-09-30** — created branch `z/refactorIrBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-30** — merged PR [#1111](https://github.com/ZacSweers/metro/pull/1111) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.21"
-
-**2025-09-30** — closed PR [#281](https://github.com/ZacSweers/FieldSpottr/pull/281) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.6"
-
-**2025-09-30** — merged PR [#288](https://github.com/ZacSweers/FieldSpottr/pull/288) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
