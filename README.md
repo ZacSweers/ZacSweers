@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-02** — commented on [#1115](https://github.com/ZacSweers/metro/issues/1115#issuecomment-3361415333) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-02** — merged PR [#1116](https://github.com/ZacSweers/metro/pull/1116) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2.1"
 
 **2025-10-02** — closed issue [#1115](https://github.com/ZacSweers/metro/issues/1115) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 0.6.6 breaks when provider method has the same name as the accessor method"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-30** — merged PR [#1110](https://github.com/ZacSweers/metro/pull/1110) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update junit-framework monorepo to v6 (major)"
 
 **2025-09-30** — opened PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
-
-**2025-09-30** — created branch `z/refactorIrBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
