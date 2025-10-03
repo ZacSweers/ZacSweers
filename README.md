@@ -4,25 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-02** — opened PR [#1565](https://github.com/slackhq/foundry/pull/1565) to [slackhq/foundry](https://github.com/slackhq/foundry): "Propagate deprecations in FileChooser"
+**2025-10-02** — merged PR [#2103](https://github.com/ZacSweers/CatchUp/pull/2103) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency ru.ldralighieri.corbind:corbind to v1.12.0"
 
-**2025-10-02** — opened PR [#1564](https://github.com/slackhq/foundry/pull/1564) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 prep"
+**2025-10-02** — merged PR [#2110](https://github.com/ZacSweers/CatchUp/pull/2110) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha09"
 
-**2025-10-02** — opened PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
+**2025-10-02** — merged PR [#2112](https://github.com/ZacSweers/CatchUp/pull/2112) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.1"
 
-**2025-10-02** — created branch `z/filechoosingDeps` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-10-02** — merged PR [#2111](https://github.com/ZacSweers/CatchUp/pull/2111) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.1"
 
-**2025-10-02** — created branch `z/agp9` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-10-02** — merged PR [#2113](https://github.com/ZacSweers/CatchUp/pull/2113) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.9.2"
 
-**2025-10-02** — created branch `z/removeAndroidSourcesConfigurer` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-10-02** — merged PR [#2114](https://github.com/ZacSweers/CatchUp/pull/2114) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.4.0-alpha04"
 
-**2025-10-02** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-3362434826) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-10-02** — merged PR [#2115](https://github.com/ZacSweers/CatchUp/pull/2115) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
 
-**2025-10-02** — opened PR [#1562](https://github.com/slackhq/foundry/pull/1562) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update deprecated IJ API + enable -Werror on buildscripts"
-
-**2025-10-02** — created branch `z/deprecation` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-10-02** — commented on [#1115](https://github.com/ZacSweers/metro/issues/1115#issuecomment-3361415333) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-02** — merged PR [#1565](https://github.com/slackhq/foundry/pull/1565) to [slackhq/foundry](https://github.com/slackhq/foundry): "Propagate deprecations in FileChooser"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
