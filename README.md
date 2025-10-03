@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-02** — opened PR [#1565](https://github.com/slackhq/foundry/pull/1565) to [slackhq/foundry](https://github.com/slackhq/foundry): "Propagate deprecations in FileChooser"
+
+**2025-10-02** — opened PR [#1564](https://github.com/slackhq/foundry/pull/1564) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 prep"
+
+**2025-10-02** — opened PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
+
+**2025-10-02** — created branch `z/filechoosingDeps` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-10-02** — created branch `z/agp9` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-10-02** — created branch `z/removeAndroidSourcesConfigurer` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-10-02** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-3362434826) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-10-02** — opened PR [#1562](https://github.com/slackhq/foundry/pull/1562) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update deprecated IJ API + enable -Werror on buildscripts"
+
+**2025-10-02** — created branch `z/deprecation` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-10-02** — commented on [#1115](https://github.com/ZacSweers/metro/issues/1115#issuecomment-3361415333) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-02** — merged PR [#1116](https://github.com/ZacSweers/metro/pull/1116) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2.1"
-
-**2025-10-02** — closed issue [#1115](https://github.com/ZacSweers/metro/issues/1115) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 0.6.6 breaks when provider method has the same name as the accessor method"
-
-**2025-10-02** — commented on [#1115](https://github.com/ZacSweers/metro/issues/1115#issuecomment-3361262247) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-30** — merged PR [#1072](https://github.com/ZacSweers/metro/pull/1072) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency click to v8.3.0"
-
-**2025-09-30** — merged PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
-
-**2025-09-30** — commented on [#2002](https://github.com/square/moshi/pull/2002#issuecomment-3354280663) in [square/moshi](https://github.com/square/moshi)
-
-**2025-09-30** — closed PR [#2002](https://github.com/square/moshi/pull/2002) to [square/moshi](https://github.com/square/moshi): "Implement automatic generation of Moshi.AdapterRegistry to avoid looking up code gen entities by reflection class names"
-
-**2025-09-30** — merged PR [#1110](https://github.com/ZacSweers/metro/pull/1110) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update junit-framework monorepo to v6 (major)"
-
-**2025-09-30** — opened PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
