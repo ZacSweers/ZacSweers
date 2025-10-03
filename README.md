@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-02** — merged PR [#2332](https://github.com/slackhq/circuit/pull/2332) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update gradle/actions action to v5"
+
+**2025-10-02** — opened PR [#2333](https://github.com/slackhq/circuit/pull/2333) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP project isolation"
+
+**2025-10-02** — created branch `z/pi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-10-02** — merged PR [#2128](https://github.com/ZacSweers/CatchUp/pull/2128) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v3.0.4"
+
+**2025-10-02** — merged PR [#2131](https://github.com/ZacSweers/CatchUp/pull/2131) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.4.0"
+
+**2025-10-02** — merged PR [#2122](https://github.com/ZacSweers/CatchUp/pull/2122) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.2"
+
 **2025-10-02** — merged PR [#2136](https://github.com/ZacSweers/CatchUp/pull/2136) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.17.0"
 
 **2025-10-02** — merged PR [#2132](https://github.com/ZacSweers/CatchUp/pull/2132) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.42.0"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-02** — merged PR [#2124](https://github.com/ZacSweers/CatchUp/pull/2124) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.2"
 
 **2025-10-02** — merged PR [#2118](https://github.com/ZacSweers/CatchUp/pull/2118) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.57.2"
-
-**2025-10-02** — merged PR [#2126](https://github.com/ZacSweers/CatchUp/pull/2126) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.8"
-
-**2025-10-02** — merged PR [#2119](https://github.com/ZacSweers/CatchUp/pull/2119) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.5.0"
-
-**2025-10-02** — merged PR [#2120](https://github.com/ZacSweers/CatchUp/pull/2120) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha05"
-
-**2025-10-02** — merged PR [#2121](https://github.com/ZacSweers/CatchUp/pull/2121) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-database to v22.0.1"
-
-**2025-10-02** — merged PR [#2123](https://github.com/ZacSweers/CatchUp/pull/2123) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.2"
-
-**2025-10-02** — merged PR [#2125](https://github.com/ZacSweers/CatchUp/pull/2125) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
