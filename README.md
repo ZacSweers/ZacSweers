@@ -4,21 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-02** — merged PR [#2103](https://github.com/ZacSweers/CatchUp/pull/2103) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency ru.ldralighieri.corbind:corbind to v1.12.0"
+**2025-10-02** — merged PR [#2136](https://github.com/ZacSweers/CatchUp/pull/2136) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.17.0"
 
-**2025-10-02** — merged PR [#2110](https://github.com/ZacSweers/CatchUp/pull/2110) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha09"
+**2025-10-02** — merged PR [#2132](https://github.com/ZacSweers/CatchUp/pull/2132) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.42.0"
 
-**2025-10-02** — merged PR [#2112](https://github.com/ZacSweers/CatchUp/pull/2112) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.1"
+**2025-10-02** — merged PR [#2124](https://github.com/ZacSweers/CatchUp/pull/2124) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.2"
 
-**2025-10-02** — merged PR [#2111](https://github.com/ZacSweers/CatchUp/pull/2111) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.1"
+**2025-10-02** — merged PR [#2118](https://github.com/ZacSweers/CatchUp/pull/2118) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.57.2"
 
-**2025-10-02** — merged PR [#2113](https://github.com/ZacSweers/CatchUp/pull/2113) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.9.2"
+**2025-10-02** — merged PR [#2126](https://github.com/ZacSweers/CatchUp/pull/2126) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.8"
 
-**2025-10-02** — merged PR [#2114](https://github.com/ZacSweers/CatchUp/pull/2114) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.4.0-alpha04"
+**2025-10-02** — merged PR [#2119](https://github.com/ZacSweers/CatchUp/pull/2119) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.5.0"
 
-**2025-10-02** — merged PR [#2115](https://github.com/ZacSweers/CatchUp/pull/2115) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
+**2025-10-02** — merged PR [#2120](https://github.com/ZacSweers/CatchUp/pull/2120) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha05"
 
-**2025-10-02** — merged PR [#1565](https://github.com/slackhq/foundry/pull/1565) to [slackhq/foundry](https://github.com/slackhq/foundry): "Propagate deprecations in FileChooser"
+**2025-10-02** — merged PR [#2121](https://github.com/ZacSweers/CatchUp/pull/2121) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-database to v22.0.1"
+
+**2025-10-02** — merged PR [#2123](https://github.com/ZacSweers/CatchUp/pull/2123) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.2"
+
+**2025-10-02** — merged PR [#2125](https://github.com/ZacSweers/CatchUp/pull/2125) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
