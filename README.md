@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-03** — merged PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
+
+**2025-10-03** — merged PR [#1117](https://github.com/ZacSweers/metro/pull/1117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.googlejavaformat:google-java-format to v1.29.0"
+
+**2025-10-03** — closed PR [#1188](https://github.com/slackhq/foundry/pull/1188) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP validate source dirs"
+
+**2025-10-03** — commented on [#1564](https://github.com/slackhq/foundry/pull/1564#issuecomment-3366644729) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-10-02** — merged PR [#2332](https://github.com/slackhq/circuit/pull/2332) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update gradle/actions action to v5"
 
 **2025-10-02** — opened PR [#2333](https://github.com/slackhq/circuit/pull/2333) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP project isolation"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-02** — merged PR [#2131](https://github.com/ZacSweers/CatchUp/pull/2131) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.4.0"
 
 **2025-10-02** — merged PR [#2122](https://github.com/ZacSweers/CatchUp/pull/2122) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.2"
-
-**2025-10-02** — merged PR [#2136](https://github.com/ZacSweers/CatchUp/pull/2136) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.17.0"
-
-**2025-10-02** — merged PR [#2132](https://github.com/ZacSweers/CatchUp/pull/2132) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.42.0"
-
-**2025-10-02** — merged PR [#2124](https://github.com/ZacSweers/CatchUp/pull/2124) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.2"
-
-**2025-10-02** — merged PR [#2118](https://github.com/ZacSweers/CatchUp/pull/2118) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.57.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
