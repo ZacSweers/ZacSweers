@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-03** — merged PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
+
+**2025-10-03** — opened PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
+
+**2025-10-03** — created branch `z/k2Gradle` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2025-10-03** — merged PR [#794](https://github.com/ZacSweers/MoshiX/pull/794) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.58"
+
 **2025-10-03** — merged PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
 
 **2025-10-03** — merged PR [#1117](https://github.com/ZacSweers/metro/pull/1117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.googlejavaformat:google-java-format to v1.29.0"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-02** — merged PR [#2332](https://github.com/slackhq/circuit/pull/2332) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update gradle/actions action to v5"
 
 **2025-10-02** — opened PR [#2333](https://github.com/slackhq/circuit/pull/2333) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP project isolation"
-
-**2025-10-02** — created branch `z/pi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-10-02** — merged PR [#2128](https://github.com/ZacSweers/CatchUp/pull/2128) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v3.0.4"
-
-**2025-10-02** — merged PR [#2131](https://github.com/ZacSweers/CatchUp/pull/2131) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.4.0"
-
-**2025-10-02** — merged PR [#2122](https://github.com/ZacSweers/CatchUp/pull/2122) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
