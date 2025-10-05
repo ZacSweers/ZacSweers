@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-04** — commented on [#1118](https://github.com/ZacSweers/metro/issues/1118#issuecomment-3368518655) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-04** — closed issue [#1118](https://github.com/ZacSweers/metro/issues/1118) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@property:Provides` on primary constructor properties in `@BindingContainer` classes"
+
 **2025-10-03** — merged PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
 
 **2025-10-03** — opened PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-03** — closed PR [#1188](https://github.com/slackhq/foundry/pull/1188) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP validate source dirs"
 
 **2025-10-03** — commented on [#1564](https://github.com/slackhq/foundry/pull/1564#issuecomment-3366644729) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-10-02** — merged PR [#2332](https://github.com/slackhq/circuit/pull/2332) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update gradle/actions action to v5"
-
-**2025-10-02** — opened PR [#2333](https://github.com/slackhq/circuit/pull/2333) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP project isolation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
