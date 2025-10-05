@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-04** — merged PR [#2019](https://github.com/square/moshi/pull/2019) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.9"
+
+**2025-10-04** — merged PR [#2139](https://github.com/ZacSweers/CatchUp/pull/2139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.18.0"
+
 **2025-10-04** — commented on [#1118](https://github.com/ZacSweers/metro/issues/1118#issuecomment-3368518655) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-04** — closed issue [#1118](https://github.com/ZacSweers/metro/issues/1118) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@property:Provides` on primary constructor properties in `@BindingContainer` classes"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-03** — merged PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
 
 **2025-10-03** — merged PR [#1117](https://github.com/ZacSweers/metro/pull/1117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.googlejavaformat:google-java-format to v1.29.0"
-
-**2025-10-03** — closed PR [#1188](https://github.com/slackhq/foundry/pull/1188) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP validate source dirs"
-
-**2025-10-03** — commented on [#1564](https://github.com/slackhq/foundry/pull/1564#issuecomment-3366644729) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
