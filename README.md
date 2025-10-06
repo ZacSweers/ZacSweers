@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-05** — opened PR [#385](https://github.com/ZacSweers/kotlin-compile-testing/pull/385) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove kotlin 1.x and ksp 1"
+
+**2025-10-05** — created branch `z/removeLegacyKapt` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-10-05** — merged PR [#382](https://github.com/ZacSweers/kotlin-compile-testing/pull/382) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.6"
+
+**2025-10-05** — merged PR [#383](https://github.com/ZacSweers/kotlin-compile-testing/pull/383) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.20.0"
+
 **2025-10-04** — merged PR [#2019](https://github.com/square/moshi/pull/2019) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.9"
 
 **2025-10-04** — merged PR [#2139](https://github.com/ZacSweers/CatchUp/pull/2139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.18.0"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-03** — merged PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
 
 **2025-10-03** — opened PR [#807](https://github.com/ZacSweers/MoshiX/pull/807) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Target kotlin 2.0 in gradle"
-
-**2025-10-03** — created branch `z/k2Gradle` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2025-10-03** — merged PR [#794](https://github.com/ZacSweers/MoshiX/pull/794) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.58"
-
-**2025-10-03** — merged PR [#1563](https://github.com/slackhq/foundry/pull/1563) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove AndroidSourcesConfigurer"
-
-**2025-10-03** — merged PR [#1117](https://github.com/ZacSweers/metro/pull/1117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.googlejavaformat:google-java-format to v1.29.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
