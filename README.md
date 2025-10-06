@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-05** — opened PR [#1120](https://github.com/ZacSweers/metro/pull/1120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce CompatContext"
+
+**2025-10-05** — created branch `z/compat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-05** — created tag `0.10.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-10-05** — merged PR [#385](https://github.com/ZacSweers/kotlin-compile-testing/pull/385) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove kotlin 1.x and ksp 1"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-04** — merged PR [#2019](https://github.com/square/moshi/pull/2019) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.9"
 
 **2025-10-04** — merged PR [#2139](https://github.com/ZacSweers/CatchUp/pull/2139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.18.0"
-
-**2025-10-04** — commented on [#1118](https://github.com/ZacSweers/metro/issues/1118#issuecomment-3368518655) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-04** — closed issue [#1118](https://github.com/ZacSweers/metro/issues/1118) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@property:Provides` on primary constructor properties in `@BindingContainer` classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
