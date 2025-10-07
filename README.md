@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-07** — commented on [#1127](https://github.com/ZacSweers/metro/issues/1127#issuecomment-3377250763) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-07** — created branch `z/modernize` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-10-07** — closed issue [#1127](https://github.com/ZacSweers/metro/issues/1127) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multibinding over type with generic parameter doesn't work"
+**2025-10-07** — merged PR [#1130](https://github.com/ZacSweers/metro/pull/1130) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update okhttp monorepo to v5.2.0"
 
-**2025-10-06** — commented on [#1121](https://github.com/ZacSweers/metro/pull/1121#issuecomment-3374140082) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-07** — merged PR [#1129](https://github.com/ZacSweers/metro/pull/1129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
 
-**2025-10-06** — commented on [#1121](https://github.com/ZacSweers/metro/pull/1121#issuecomment-3373217236) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-07** — closed PR [#1128](https://github.com/ZacSweers/metro/pull/1128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency org.jetbrains.kotlin:kotlin-compiler-internal-test-framework to v2.3.0-beta1"
 
-**2025-10-06** — opened PR [#596](https://github.com/drewhamilton/Poko/pull/596) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Use KtElement instead of class workaround"
+**2025-10-07** — merged PR [#2142](https://github.com/ZacSweers/CatchUp/pull/2142) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.14.0"
 
-**2025-10-06** — created branch `z/ktElement` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
+**2025-10-07** — merged PR [#2140](https://github.com/ZacSweers/CatchUp/pull/2140) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update github/codeql-action action to v4"
 
-**2025-10-06** — merged PR [#291](https://github.com/ZacSweers/FieldSpottr/pull/291) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-rc01"
+**2025-10-07** — merged PR [#2141](https://github.com/ZacSweers/CatchUp/pull/2141) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.2.0"
 
-**2025-10-06** — merged PR [#1120](https://github.com/ZacSweers/metro/pull/1120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce CompatContext"
+**2025-10-07** — opened PR [#1131](https://github.com/ZacSweers/metro/pull/1131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc error formatting improvements"
 
-**2025-10-06** — commented on [#1122](https://github.com/ZacSweers/metro/pull/1122#issuecomment-3372673397) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-07** — created branch `z/formattingStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-10-06** — closed PR [#1122](https://github.com/ZacSweers/metro/pull/1122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: #460 - FIR Analysis Diagnostics Hints"
+**2025-10-07** — commented on [#1125](https://github.com/ZacSweers/metro/pull/1125#issuecomment-3377977036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
