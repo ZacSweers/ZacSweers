@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-06** — commented on [#1121](https://github.com/ZacSweers/metro/pull/1121#issuecomment-3373217236) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-06** — opened PR [#596](https://github.com/drewhamilton/Poko/pull/596) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Use KtElement instead of class workaround"
 
 **2025-10-06** — created branch `z/ktElement` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-05** — created branch `z/compat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-05** — created tag `0.10.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-10-05** — merged PR [#385](https://github.com/ZacSweers/kotlin-compile-testing/pull/385) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove kotlin 1.x and ksp 1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
