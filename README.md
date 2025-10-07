@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-06** — commented on [#1122](https://github.com/ZacSweers/metro/pull/1122#issuecomment-3372673397) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-06** — closed PR [#1122](https://github.com/ZacSweers/metro/pull/1122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: #460 - FIR Analysis Diagnostics Hints"
+
 **2025-10-05** — opened PR [#1120](https://github.com/ZacSweers/metro/pull/1120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce CompatContext"
 
 **2025-10-05** — created branch `z/compat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-05** — merged PR [#382](https://github.com/ZacSweers/kotlin-compile-testing/pull/382) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.6"
 
 **2025-10-05** — merged PR [#383](https://github.com/ZacSweers/kotlin-compile-testing/pull/383) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.20.0"
-
-**2025-10-04** — merged PR [#2019](https://github.com/square/moshi/pull/2019) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.9"
-
-**2025-10-04** — merged PR [#2139](https://github.com/ZacSweers/CatchUp/pull/2139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.18.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
