@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-06** — opened PR [#596](https://github.com/drewhamilton/Poko/pull/596) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Use KtElement instead of class workaround"
+
+**2025-10-06** — created branch `z/ktElement` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
+
+**2025-10-06** — merged PR [#291](https://github.com/ZacSweers/FieldSpottr/pull/291) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-rc01"
+
+**2025-10-06** — merged PR [#1120](https://github.com/ZacSweers/metro/pull/1120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce CompatContext"
+
 **2025-10-06** — commented on [#1122](https://github.com/ZacSweers/metro/pull/1122#issuecomment-3372673397) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-06** — closed PR [#1122](https://github.com/ZacSweers/metro/pull/1122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: #460 - FIR Analysis Diagnostics Hints"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-05** — created tag `0.10.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-10-05** — merged PR [#385](https://github.com/ZacSweers/kotlin-compile-testing/pull/385) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove kotlin 1.x and ksp 1"
-
-**2025-10-05** — opened PR [#385](https://github.com/ZacSweers/kotlin-compile-testing/pull/385) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove kotlin 1.x and ksp 1"
-
-**2025-10-05** — created branch `z/removeLegacyKapt` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-10-05** — merged PR [#382](https://github.com/ZacSweers/kotlin-compile-testing/pull/382) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.6"
-
-**2025-10-05** — merged PR [#383](https://github.com/ZacSweers/kotlin-compile-testing/pull/383) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.20.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
