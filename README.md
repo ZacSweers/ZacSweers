@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — opened PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
+
+**2025-10-07** — created branch `z/230beta1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-07** — created branch `z/modernize` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2025-10-07** — merged PR [#1130](https://github.com/ZacSweers/metro/pull/1130) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update okhttp monorepo to v5.2.0"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-07** — merged PR [#2141](https://github.com/ZacSweers/CatchUp/pull/2141) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.2.0"
 
 **2025-10-07** — opened PR [#1131](https://github.com/ZacSweers/metro/pull/1131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc error formatting improvements"
-
-**2025-10-07** — created branch `z/formattingStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — commented on [#1125](https://github.com/ZacSweers/metro/pull/1125#issuecomment-3377977036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
