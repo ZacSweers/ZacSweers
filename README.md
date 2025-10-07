@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — commented on [#1127](https://github.com/ZacSweers/metro/issues/1127#issuecomment-3377250763) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-07** — closed issue [#1127](https://github.com/ZacSweers/metro/issues/1127) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multibinding over type with generic parameter doesn't work"
+
 **2025-10-06** — commented on [#1121](https://github.com/ZacSweers/metro/pull/1121#issuecomment-3374140082) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-06** — commented on [#1121](https://github.com/ZacSweers/metro/pull/1121#issuecomment-3373217236) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-06** — commented on [#1122](https://github.com/ZacSweers/metro/pull/1122#issuecomment-3372673397) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-06** — closed PR [#1122](https://github.com/ZacSweers/metro/pull/1122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: #460 - FIR Analysis Diagnostics Hints"
-
-**2025-10-05** — opened PR [#1120](https://github.com/ZacSweers/metro/pull/1120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce CompatContext"
-
-**2025-10-05** — created branch `z/compat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
