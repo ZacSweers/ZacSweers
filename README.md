@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — opened PR [#1138](https://github.com/ZacSweers/metro/pull/1138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IrErrorType messages"
+
+**2025-10-07** — created branch `z/improveIrErrorTypeerror` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-07** — merged PR [#386](https://github.com/ZacSweers/kotlin-compile-testing/pull/386) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin buildconfig to v5.7.0"
 
 **2025-10-07** — merged PR [#380](https://github.com/ZacSweers/kotlin-compile-testing/pull/380) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp monorepo to v2.2.20-2.0.4"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-07** — opened PR [#1137](https://github.com/ZacSweers/metro/pull/1137) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle wiring fixes"
 
 **2025-10-07** — created branch `z/230fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — merged PR [#809](https://github.com/ZacSweers/MoshiX/pull/809) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp monorepo to v5.2.0"
-
-**2025-10-07** — merged PR [#286](https://github.com/ZacSweers/ZacSweers/pull/286) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
