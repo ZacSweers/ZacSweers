@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — merged PR [#386](https://github.com/ZacSweers/kotlin-compile-testing/pull/386) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin buildconfig to v5.7.0"
+
+**2025-10-07** — merged PR [#380](https://github.com/ZacSweers/kotlin-compile-testing/pull/380) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp monorepo to v2.2.20-2.0.4"
+
+**2025-10-07** — merged PR [#287](https://github.com/ZacSweers/ZacSweers/pull/287) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.20-2.0.4"
+
 **2025-10-07** — created tag `0.6.9` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-07** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3378591700) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-07** — merged PR [#809](https://github.com/ZacSweers/MoshiX/pull/809) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp monorepo to v5.2.0"
 
 **2025-10-07** — merged PR [#286](https://github.com/ZacSweers/ZacSweers/pull/286) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.2.0"
-
-**2025-10-07** — commented on [#806](https://github.com/ZacSweers/metro/pull/806#issuecomment-3378436298) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — closed PR [#619](https://github.com/ZacSweers/metro/pull/619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compilerVersion API for gradle and compiler"
-
-**2025-10-07** — merged PR [#1135](https://github.com/ZacSweers/metro/pull/1135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate stack entries"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
