@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — merged PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
+
+**2025-10-07** — opened PR [#1135](https://github.com/ZacSweers/metro/pull/1135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate stack entries"
+
+**2025-10-07** — created branch `z/multipleRequestedAts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-07** — merged PR [#1133](https://github.com/ZacSweers/metro/pull/1133) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency python to 3.14""
+
+**2025-10-07** — merged PR [#292](https://github.com/ZacSweers/FieldSpottr/pull/292) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.12.1"
+
+**2025-10-07** — opened PR [#1133](https://github.com/ZacSweers/metro/pull/1133) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency python to 3.14""
+
+**2025-10-07** — created branch `revert-1129-renovate/python-3.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-07** — merged PR [#1131](https://github.com/ZacSweers/metro/pull/1131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc error formatting improvements"
+
 **2025-10-07** — opened PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
 
 **2025-10-07** — created branch `z/230beta1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — created branch `z/modernize` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-10-07** — merged PR [#1130](https://github.com/ZacSweers/metro/pull/1130) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update okhttp monorepo to v5.2.0"
-
-**2025-10-07** — merged PR [#1129](https://github.com/ZacSweers/metro/pull/1129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
-
-**2025-10-07** — closed PR [#1128](https://github.com/ZacSweers/metro/pull/1128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency org.jetbrains.kotlin:kotlin-compiler-internal-test-framework to v2.3.0-beta1"
-
-**2025-10-07** — merged PR [#2142](https://github.com/ZacSweers/CatchUp/pull/2142) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.14.0"
-
-**2025-10-07** — merged PR [#2140](https://github.com/ZacSweers/CatchUp/pull/2140) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update github/codeql-action action to v4"
-
-**2025-10-07** — merged PR [#2141](https://github.com/ZacSweers/CatchUp/pull/2141) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.2.0"
-
-**2025-10-07** — opened PR [#1131](https://github.com/ZacSweers/metro/pull/1131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc error formatting improvements"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
