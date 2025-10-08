@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3378591700) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-07** — merged PR [#1137](https://github.com/ZacSweers/metro/pull/1137) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle wiring fixes"
+
 **2025-10-07** — opened PR [#1137](https://github.com/ZacSweers/metro/pull/1137) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle wiring fixes"
 
 **2025-10-07** — created branch `z/230fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-07** — merged PR [#1135](https://github.com/ZacSweers/metro/pull/1135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate stack entries"
 
 **2025-10-07** — opened PR [#1136](https://github.com/ZacSweers/metro/pull/1136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to AGP 8.13.0"
-
-**2025-10-07** — created branch `z/agp813` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — merged PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
