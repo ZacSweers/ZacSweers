@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-07** — commented on [#806](https://github.com/ZacSweers/metro/pull/806#issuecomment-3378436298) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-07** — closed PR [#619](https://github.com/ZacSweers/metro/pull/619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compilerVersion API for gradle and compiler"
+
+**2025-10-07** — merged PR [#1135](https://github.com/ZacSweers/metro/pull/1135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate stack entries"
+
+**2025-10-07** — opened PR [#1136](https://github.com/ZacSweers/metro/pull/1136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to AGP 8.13.0"
+
+**2025-10-07** — created branch `z/agp813` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-07** — merged PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
 
 **2025-10-07** — opened PR [#1135](https://github.com/ZacSweers/metro/pull/1135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate stack entries"
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-07** — merged PR [#1133](https://github.com/ZacSweers/metro/pull/1133) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency python to 3.14""
 
 **2025-10-07** — merged PR [#292](https://github.com/ZacSweers/FieldSpottr/pull/292) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.12.1"
-
-**2025-10-07** — opened PR [#1133](https://github.com/ZacSweers/metro/pull/1133) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency python to 3.14""
-
-**2025-10-07** — created branch `revert-1129-renovate/python-3.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-07** — merged PR [#1131](https://github.com/ZacSweers/metro/pull/1131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc error formatting improvements"
-
-**2025-10-07** — opened PR [#1132](https://github.com/ZacSweers/metro/pull/1132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.3.0-Beta1"
-
-**2025-10-07** — created branch `z/230beta1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
