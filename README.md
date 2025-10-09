@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-08** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3382004193) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-08** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3382000037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-08** — merged PR [#2116](https://github.com/ZacSweers/CatchUp/pull/2116) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.2.20-2.0.4"
 
 **2025-10-08** — merged PR [#2143](https://github.com/ZacSweers/CatchUp/pull/2143) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.9"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-08** — merged PR [#294](https://github.com/ZacSweers/FieldSpottr/pull/294) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.9"
 
 **2025-10-08** — merged PR [#387](https://github.com/ZacSweers/kotlin-compile-testing/pull/387) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp monorepo to v2.2.20-2.0.4"
-
-**2025-10-08** — merged PR [#1138](https://github.com/ZacSweers/metro/pull/1138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IrErrorType messages"
-
-**2025-10-07** — opened PR [#1138](https://github.com/ZacSweers/metro/pull/1138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IrErrorType messages"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
