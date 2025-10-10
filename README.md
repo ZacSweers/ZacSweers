@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-09** — merged PR [#1146](https://github.com/ZacSweers/metro/pull/1146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop for `@BindsOptionalOf`"
+
 **2025-10-09** — opened PR [#1146](https://github.com/ZacSweers/metro/pull/1146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop for `@BindsOptionalOf`"
 
 **2025-10-09** — created branch `z/optionals` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-08** — merged PR [#1140](https://github.com/ZacSweers/metro/pull/1140) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin buildconfig to v5.7.0"
 
 **2025-10-08** — merged PR [#810](https://github.com/ZacSweers/MoshiX/pull/810) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.2.20-2.0.4"
-
-**2025-10-08** — merged PR [#357](https://github.com/ZacSweers/redacted-compiler-plugin/pull/357) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
