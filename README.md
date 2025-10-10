@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391242248) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391100942) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-10** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3391020622) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-09** — closed issue [#1143](https://github.com/ZacSweers/metro/issues/1143) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multiple graph factory accessors causes DuplicateBinding error"
 
 **2025-10-09** — merged PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
-
-**2025-10-09** — opened PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
