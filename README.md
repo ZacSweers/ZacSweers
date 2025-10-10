@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-10** — merged PR [#438](https://github.com/slackhq/slack-lints/pull/438) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.7.0"
+
+**2025-10-10** — closed PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
+
+**2025-10-10** — merged PR [#2152](https://github.com/ZacSweers/CatchUp/pull/2152) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.11.1"
+
 **2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391242248) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391100942) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-09** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3387392226) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-09** — opened PR [#1149](https://github.com/ZacSweers/metro/pull/1149) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add configurable `statementsPerInitFun` to option"
-
-**2025-10-09** — created branch `z/configurableInitStatements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — closed issue [#1143](https://github.com/ZacSweers/metro/issues/1143) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multiple graph factory accessors causes DuplicateBinding error"
-
-**2025-10-09** — merged PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
