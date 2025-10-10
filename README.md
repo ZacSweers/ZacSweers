@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-09** — opened PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
+
+**2025-10-09** — created branch `z/allowMultipleFactoryAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — closed issue [#1144](https://github.com/ZacSweers/metro/issues/1144) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro crashes when exposing a `@Include` dependency in a `@DependencyGraph`"
+
+**2025-10-09** — merged PR [#1147](https://github.com/ZacSweers/metro/pull/1147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@Includes` types to participate in graph gen"
+
+**2025-10-09** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3387314112) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — opened PR [#1147](https://github.com/ZacSweers/metro/pull/1147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@Includes` types to participate in graph gen"
+
+**2025-10-09** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3387290956) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — created branch `z/accessorsOfIncludes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3387278573) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-09** — merged PR [#1146](https://github.com/ZacSweers/metro/pull/1146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop for `@BindsOptionalOf`"
-
-**2025-10-09** — opened PR [#1146](https://github.com/ZacSweers/metro/pull/1146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop for `@BindsOptionalOf`"
-
-**2025-10-09** — created branch `z/optionals` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-08** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3382004193) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-08** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3382000037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-08** — merged PR [#2116](https://github.com/ZacSweers/CatchUp/pull/2116) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.2.20-2.0.4"
-
-**2025-10-08** — merged PR [#2143](https://github.com/ZacSweers/CatchUp/pull/2143) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.9"
-
-**2025-10-08** — merged PR [#1139](https://github.com/ZacSweers/metro/pull/1139) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ksp monorepo to v2.2.20-2.0.4"
-
-**2025-10-08** — merged PR [#1140](https://github.com/ZacSweers/metro/pull/1140) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin buildconfig to v5.7.0"
-
-**2025-10-08** — merged PR [#810](https://github.com/ZacSweers/MoshiX/pull/810) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.2.20-2.0.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
