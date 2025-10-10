@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-09** — merged PR [#1149](https://github.com/ZacSweers/metro/pull/1149) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add configurable `statementsPerInitFun` to option"
+
+**2025-10-09** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3387392226) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — opened PR [#1149](https://github.com/ZacSweers/metro/pull/1149) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add configurable `statementsPerInitFun` to option"
+
+**2025-10-09** — created branch `z/configurableInitStatements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-09** — closed issue [#1143](https://github.com/ZacSweers/metro/issues/1143) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multiple graph factory accessors causes DuplicateBinding error"
+
+**2025-10-09** — merged PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
+
 **2025-10-09** — opened PR [#1148](https://github.com/ZacSweers/metro/pull/1148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow multiple graph extension factory accessors"
 
 **2025-10-09** — created branch `z/allowMultipleFactoryAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-09** — closed issue [#1144](https://github.com/ZacSweers/metro/issues/1144) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro crashes when exposing a `@Include` dependency in a `@DependencyGraph`"
 
 **2025-10-09** — merged PR [#1147](https://github.com/ZacSweers/metro/pull/1147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@Includes` types to participate in graph gen"
-
-**2025-10-09** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3387314112) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — opened PR [#1147](https://github.com/ZacSweers/metro/pull/1147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@Includes` types to participate in graph gen"
-
-**2025-10-09** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3387290956) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — created branch `z/accessorsOfIncludes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3387278573) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — merged PR [#1146](https://github.com/ZacSweers/metro/pull/1146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop for `@BindsOptionalOf`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
