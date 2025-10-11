@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-10** — closed issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
+
+**2025-10-10** — merged PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
+
+**2025-10-10** — merged PR [#1142](https://github.com/ZacSweers/metro/pull/1142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.1"
+
 **2025-10-10** — opened PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
 
 **2025-10-10** — created branch `z/optionalDependency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-10** — merged PR [#2152](https://github.com/ZacSweers/CatchUp/pull/2152) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.11.1"
 
 **2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391242248) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391100942) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-10** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3391020622) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391018958) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
