@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-11** — merged PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
+
+**2025-10-11** — opened PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
+
+**2025-10-11** — created branch `z/optionalDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-11** — closed issue [#1154](https://github.com/ZacSweers/metro/issues/1154) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Default method in contributed interface causes IllegalStateException"
+
+**2025-10-11** — merged PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
+
 **2025-10-11** — opened PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
 
 **2025-10-11** — created branch `z/openChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-10** — merged PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
 
 **2025-10-10** — merged PR [#1142](https://github.com/ZacSweers/metro/pull/1142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.1"
-
-**2025-10-10** — opened PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
-
-**2025-10-10** — created branch `z/optionalDependency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-10** — merged PR [#1152](https://github.com/ZacSweers/metro/pull/1152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.184"
-
-**2025-10-10** — merged PR [#438](https://github.com/slackhq/slack-lints/pull/438) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.7.0"
-
-**2025-10-10** — closed PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
