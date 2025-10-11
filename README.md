@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-10** — opened PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
+
+**2025-10-10** — created branch `z/optionalDependency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-10** — merged PR [#1152](https://github.com/ZacSweers/metro/pull/1152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.184"
+
 **2025-10-10** — merged PR [#438](https://github.com/slackhq/slack-lints/pull/438) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.7.0"
 
 **2025-10-10** — closed PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-10** — commented on [#1144](https://github.com/ZacSweers/metro/issues/1144#issuecomment-3391020622) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391018958) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — merged PR [#1149](https://github.com/ZacSweers/metro/pull/1149) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add configurable `statementsPerInitFun` to option"
-
-**2025-10-09** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3387392226) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-09** — opened PR [#1149](https://github.com/ZacSweers/metro/pull/1149) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add configurable `statementsPerInitFun` to option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
