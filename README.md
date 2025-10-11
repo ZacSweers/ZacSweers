@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-11** — merged PR [#299](https://github.com/ZacSweers/FieldSpottr/pull/299) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v13"
+
+**2025-10-11** — merged PR [#295](https://github.com/ZacSweers/FieldSpottr/pull/295) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.7.0"
+
+**2025-10-11** — merged PR [#297](https://github.com/ZacSweers/FieldSpottr/pull/297) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update okio to v3.16.1"
+
+**2025-10-11** — merged PR [#296](https://github.com/ZacSweers/FieldSpottr/pull/296) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.3.1"
+
+**2025-10-11** — merged PR [#298](https://github.com/ZacSweers/FieldSpottr/pull/298) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-rc02"
+
+**2025-10-11** — merged PR [#300](https://github.com/ZacSweers/FieldSpottr/pull/300) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.5.0"
+
 **2025-10-11** — merged PR [#1160](https://github.com/ZacSweers/metro/pull/1160) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in docs of `OptionalDependencyBehavior`"
 
 **2025-10-11** — commented on [#1158](https://github.com/ZacSweers/metro/issues/1158#issuecomment-3393553885) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-11** — closed issue [#1158](https://github.com/ZacSweers/metro/issues/1158) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Proposal: Injecting dependencies provided by @IntoMap multibinding without the Map itself"
 
 **2025-10-11** — merged PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
-
-**2025-10-11** — opened PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
-
-**2025-10-11** — created branch `z/optionalDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-11** — closed issue [#1154](https://github.com/ZacSweers/metro/issues/1154) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Default method in contributed interface causes IllegalStateException"
-
-**2025-10-11** — merged PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
-
-**2025-10-11** — opened PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
-
-**2025-10-11** — created branch `z/openChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
