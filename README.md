@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-11** — merged PR [#1160](https://github.com/ZacSweers/metro/pull/1160) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in docs of `OptionalDependencyBehavior`"
+
+**2025-10-11** — commented on [#1158](https://github.com/ZacSweers/metro/issues/1158#issuecomment-3393553885) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-11** — closed issue [#1158](https://github.com/ZacSweers/metro/issues/1158) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Proposal: Injecting dependencies provided by @IntoMap multibinding without the Map itself"
+
 **2025-10-11** — merged PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
 
 **2025-10-11** — opened PR [#1157](https://github.com/ZacSweers/metro/pull/1157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostics for BindsOptionalOf"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-11** — opened PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
 
 **2025-10-11** — created branch `z/openChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-10** — closed issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
-
-**2025-10-10** — merged PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
-
-**2025-10-10** — merged PR [#1142](https://github.com/ZacSweers/metro/pull/1142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
