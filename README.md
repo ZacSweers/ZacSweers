@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-11** — opened PR [#1156](https://github.com/ZacSweers/metro/pull/1156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check open for abstract bodies"
+
+**2025-10-11** — created branch `z/openChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-10** — closed issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
 
 **2025-10-10** — merged PR [#1155](https://github.com/ZacSweers/metro/pull/1155) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add `@OptionalDependency`"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-10** — merged PR [#438](https://github.com/slackhq/slack-lints/pull/438) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.7.0"
 
 **2025-10-10** — closed PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
-
-**2025-10-10** — merged PR [#2152](https://github.com/ZacSweers/CatchUp/pull/2152) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.11.1"
-
-**2025-10-10** — commented on [#1141](https://github.com/ZacSweers/metro/issues/1141#issuecomment-3391242248) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
