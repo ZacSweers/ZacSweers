@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-12** — merged PR [#1164](https://github.com/ZacSweers/metro/pull/1164) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wire test compiler version into IC tests"
+
+**2025-10-12** — closed issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
+
+**2025-10-12** — merged PR [#1163](https://github.com/ZacSweers/metro/pull/1163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finalize assisted inject annotation migration"
+
+**2025-10-12** — opened PR [#1164](https://github.com/ZacSweers/metro/pull/1164) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wire test compiler version into IC tests"
+
+**2025-10-12** — created branch `z/matrixICTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-12** — opened PR [#1163](https://github.com/ZacSweers/metro/pull/1163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finalize assisted inject annotation migration"
 
 **2025-10-12** — created branch `z/finalizeNewAssistedInjectBehavior` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-11** — closed issue [#1141](https://github.com/ZacSweers/metro/issues/1141) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`MethodTooLargeException` while generating a graph"
 
 **2025-10-11** — merged PR [#1162](https://github.com/ZacSweers/metro/pull/1162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix constructor-injected class ref counting"
-
-**2025-10-11** — merged PR [#389](https://github.com/ZacSweers/kotlin-compile-testing/pull/389) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.184"
-
-**2025-10-11** — merged PR [#2145](https://github.com/ZacSweers/CatchUp/pull/2145) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.10.0-alpha02"
-
-**2025-10-11** — merged PR [#2146](https://github.com/ZacSweers/CatchUp/pull/2146) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha05"
-
-**2025-10-11** — merged PR [#2147](https://github.com/ZacSweers/CatchUp/pull/2147) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v3.1.0"
-
-**2025-10-11** — merged PR [#2148](https://github.com/ZacSweers/CatchUp/pull/2148) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
