@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-11** — closed issue [#1093](https://github.com/ZacSweers/metro/issues/1093) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`NoSuchFieldError` when using `@GraphExtension`"
+**2025-10-11** — created tag `0.6.10` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-10-11** — merged PR [#1161](https://github.com/ZacSweers/metro/pull/1161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't dupe includes accessor keys across parent context lvls"
+**2025-10-11** — closed issue [#1141](https://github.com/ZacSweers/metro/issues/1141) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`MethodTooLargeException` while generating a graph"
 
-**2025-10-11** — opened PR [#1161](https://github.com/ZacSweers/metro/pull/1161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't dupe includes accessor keys across parent context lvls"
+**2025-10-11** — merged PR [#1162](https://github.com/ZacSweers/metro/pull/1162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix constructor-injected class ref counting"
 
-**2025-10-11** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3393812826) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-11** — merged PR [#389](https://github.com/ZacSweers/kotlin-compile-testing/pull/389) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.184"
 
-**2025-10-11** — created branch `z/transitiveIncludesBits` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-11** — merged PR [#2145](https://github.com/ZacSweers/CatchUp/pull/2145) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.10.0-alpha02"
 
-**2025-10-11** — merged PR [#299](https://github.com/ZacSweers/FieldSpottr/pull/299) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v13"
+**2025-10-11** — merged PR [#2146](https://github.com/ZacSweers/CatchUp/pull/2146) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha05"
 
-**2025-10-11** — merged PR [#295](https://github.com/ZacSweers/FieldSpottr/pull/295) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.7.0"
+**2025-10-11** — merged PR [#2147](https://github.com/ZacSweers/CatchUp/pull/2147) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v3.1.0"
 
-**2025-10-11** — merged PR [#297](https://github.com/ZacSweers/FieldSpottr/pull/297) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update okio to v3.16.1"
+**2025-10-11** — merged PR [#2148](https://github.com/ZacSweers/CatchUp/pull/2148) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.14.1"
 
-**2025-10-11** — merged PR [#296](https://github.com/ZacSweers/FieldSpottr/pull/296) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.3.1"
+**2025-10-11** — merged PR [#2144](https://github.com/ZacSweers/CatchUp/pull/2144) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.9.3"
 
-**2025-10-11** — merged PR [#298](https://github.com/ZacSweers/FieldSpottr/pull/298) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-rc02"
+**2025-10-11** — merged PR [#2149](https://github.com/ZacSweers/CatchUp/pull/2149) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
