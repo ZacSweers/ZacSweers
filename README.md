@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-13** — merged PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level injection functions"
+
+**2025-10-12** — closed PR [#1134](https://github.com/ZacSweers/metro/pull/1134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
+
+**2025-10-12** — closed PR [#889](https://github.com/ZacSweers/metro/pull/889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.13.0"
+
 **2025-10-12** — opened PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level functions"
 
 **2025-10-12** — created branch `z/topLevelContextParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395603593) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-12** — merged PR [#1165](https://github.com/ZacSweers/metro/pull/1165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wasm wasi runtime support"
-
-**2025-10-12** — commented on [#647](https://github.com/ZacSweers/metro/issues/647#issuecomment-3395594051) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-12** — closed issue [#647](https://github.com/ZacSweers/metro/issues/647) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "wasm optimize fails when using graph extension"
-
-**2025-10-12** — closed issue [#1167](https://github.com/ZacSweers/metro/issues/1167) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations looked up with index can fall back to incorrect assumptions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
