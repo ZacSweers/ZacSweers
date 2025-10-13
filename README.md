@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-12** — opened PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level functions"
+
+**2025-10-12** — created branch `z/topLevelContextParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-12** — merged PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
 
 **2025-10-12** — opened PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — closed issue [#647](https://github.com/ZacSweers/metro/issues/647) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "wasm optimize fails when using graph extension"
 
 **2025-10-12** — closed issue [#1167](https://github.com/ZacSweers/metro/issues/1167) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations looked up with index can fall back to incorrect assumptions"
-
-**2025-10-12** — merged PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
-
-**2025-10-12** — opened PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
