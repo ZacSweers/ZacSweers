@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-13** — closed issue [#820](https://github.com/ZacSweers/metro/issues/820) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support injecting top-level functions with context parameters"
+
 **2025-10-13** — merged PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level injection functions"
 
 **2025-10-12** — closed PR [#1134](https://github.com/ZacSweers/metro/pull/1134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — created branch `z/faqbit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395603593) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-12** — merged PR [#1165](https://github.com/ZacSweers/metro/pull/1165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wasm wasi runtime support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
