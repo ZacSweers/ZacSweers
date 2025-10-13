@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395317976) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-12** — created branch `z/fixScopesLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-12** — opened issue [#1168](https://github.com/ZacSweers/metro/issues/1168) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache `IrTypeKey` and `IrContextualTypeKey` instances in IrMetroContext"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — created branch `z/matrixICTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-12** — opened PR [#1163](https://github.com/ZacSweers/metro/pull/1163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finalize assisted inject annotation migration"
-
-**2025-10-12** — created branch `z/finalizeNewAssistedInjectBehavior` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
