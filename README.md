@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-12** — merged PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
+
+**2025-10-12** — opened PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
+
+**2025-10-12** — created branch `z/faqbit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395603593) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-12** — merged PR [#1165](https://github.com/ZacSweers/metro/pull/1165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wasm wasi runtime support"
+
+**2025-10-12** — commented on [#647](https://github.com/ZacSweers/metro/issues/647#issuecomment-3395594051) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-12** — closed issue [#647](https://github.com/ZacSweers/metro/issues/647) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "wasm optimize fails when using graph extension"
+
 **2025-10-12** — closed issue [#1167](https://github.com/ZacSweers/metro/issues/1167) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations looked up with index can fall back to incorrect assumptions"
 
 **2025-10-12** — merged PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
 
 **2025-10-12** — opened PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
-
-**2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395317976) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-12** — created branch `z/fixScopesLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-12** — opened issue [#1168](https://github.com/ZacSweers/metro/issues/1168) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache `IrTypeKey` and `IrContextualTypeKey` instances in IrMetroContext"
-
-**2025-10-12** — opened issue [#1167](https://github.com/ZacSweers/metro/issues/1167) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations looked up with index can fall back to incorrect assumptions"
-
-**2025-10-12** — merged PR [#1164](https://github.com/ZacSweers/metro/pull/1164) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wire test compiler version into IC tests"
-
-**2025-10-12** — closed issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
-
-**2025-10-12** — merged PR [#1163](https://github.com/ZacSweers/metro/pull/1163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finalize assisted inject annotation migration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
