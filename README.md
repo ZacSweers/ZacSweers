@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-12** — closed issue [#1167](https://github.com/ZacSweers/metro/issues/1167) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations looked up with index can fall back to incorrect assumptions"
+
+**2025-10-12** — merged PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
+
 **2025-10-12** — opened PR [#1169](https://github.com/ZacSweers/metro/pull/1169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle mismatched interop annotation arguments"
 
 **2025-10-12** — commented on [#1165](https://github.com/ZacSweers/metro/pull/1165#issuecomment-3395317976) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — closed issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
 
 **2025-10-12** — merged PR [#1163](https://github.com/ZacSweers/metro/pull/1163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finalize assisted inject annotation migration"
-
-**2025-10-12** — opened PR [#1164](https://github.com/ZacSweers/metro/pull/1164) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Wire test compiler version into IC tests"
-
-**2025-10-12** — created branch `z/matrixICTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
