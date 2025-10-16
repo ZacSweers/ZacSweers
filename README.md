@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-15** — closed issue [#1195](https://github.com/ZacSweers/metro/issues/1195) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ContributesBinding` with `@Inject internal class` on `public` DependencyGraph"
+
+**2025-10-15** — commented on [#1195](https://github.com/ZacSweers/metro/issues/1195#issuecomment-3407031273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-13** — commented on [#1173](https://github.com/ZacSweers/metro/issues/1173#issuecomment-3396071124) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-13** — closed issue [#820](https://github.com/ZacSweers/metro/issues/820) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support injecting top-level functions with context parameters"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — created branch `z/topLevelContextParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-12** — merged PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
-
-**2025-10-12** — opened PR [#1170](https://github.com/ZacSweers/metro/pull/1170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc another faq"
-
-**2025-10-12** — created branch `z/faqbit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
