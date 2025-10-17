@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-17** — commented on [#1216](https://github.com/ZacSweers/metro/issues/1216#issuecomment-3414304394) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-17** — closed issue [#1216](https://github.com/ZacSweers/metro/issues/1216) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Something is up with the docs page"
+
+**2025-10-17** — commented on [#1216](https://github.com/ZacSweers/metro/issues/1216#issuecomment-3414284257) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-17** — created tag `0.7.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-16** — created branch `z/typeRendering` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-13** — closed issue [#820](https://github.com/ZacSweers/metro/issues/820) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support injecting top-level functions with context parameters"
 
 **2025-10-13** — merged PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level injection functions"
-
-**2025-10-12** — closed PR [#1134](https://github.com/ZacSweers/metro/pull/1134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
-
-**2025-10-12** — closed PR [#889](https://github.com/ZacSweers/metro/pull/889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.13.0"
-
-**2025-10-12** — opened PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
