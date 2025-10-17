@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-17** — created tag `0.7.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-16** — created branch `z/typeRendering` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-15** — closed issue [#1195](https://github.com/ZacSweers/metro/issues/1195) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ContributesBinding` with `@Inject internal class` on `public` DependencyGraph"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-10-12** — closed PR [#889](https://github.com/ZacSweers/metro/pull/889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.13.0"
 
 **2025-10-12** — opened PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level functions"
-
-**2025-10-12** — created branch `z/topLevelContextParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
