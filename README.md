@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-16** — created branch `z/typeRendering` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-15** — closed issue [#1195](https://github.com/ZacSweers/metro/issues/1195) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ContributesBinding` with `@Inject internal class` on `public` DependencyGraph"
-
-**2025-10-15** — commented on [#1195](https://github.com/ZacSweers/metro/issues/1195#issuecomment-3407031273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-13** — commented on [#1173](https://github.com/ZacSweers/metro/issues/1173#issuecomment-3396071124) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-13** — closed issue [#820](https://github.com/ZacSweers/metro/issues/820) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support injecting top-level functions with context parameters"
-
-**2025-10-13** — merged PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level injection functions"
-
-**2025-10-12** — closed PR [#1134](https://github.com/ZacSweers/metro/pull/1134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency python to 3.14"
-
-**2025-10-12** — closed PR [#889](https://github.com/ZacSweers/metro/pull/889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.13.0"
-
-**2025-10-12** — opened PR [#1171](https://github.com/ZacSweers/metro/pull/1171) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params in top-level functions"
-
-**2025-10-12** — created branch `z/topLevelContextParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-10-17** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
