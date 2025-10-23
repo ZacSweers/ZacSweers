@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-23** — closed issue [#1272](https://github.com/ZacSweers/metro/issues/1272) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[WasmJS] @ContributesBinding(AppScope::class) not working in multi-module settings"
+
+**2025-10-23** — commented on [#1272](https://github.com/ZacSweers/metro/issues/1272#issuecomment-3438819173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-23** — commented on [#2660](https://github.com/google/ksp/issues/2660#issuecomment-3437254579) in [google/ksp](https://github.com/google/ksp)
 
 **2025-10-22** — commented on [#2224](https://github.com/square/kotlinpoet/pull/2224#issuecomment-3434492941) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
