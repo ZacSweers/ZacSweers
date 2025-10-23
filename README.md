@@ -4,13 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-23** — commented on [#2660](https://github.com/google/ksp/issues/2660#issuecomment-3437254579) in [google/ksp](https://github.com/google/ksp)
-
-**2025-10-22** — commented on [#2224](https://github.com/square/kotlinpoet/pull/2224#issuecomment-3434492941) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-10-22** — created branch `renovate/org.jetbrains.dokka-2.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-10-22** — commented on [#2224](https://github.com/square/kotlinpoet/pull/2224#issuecomment-3434197115) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2025-10-23** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
