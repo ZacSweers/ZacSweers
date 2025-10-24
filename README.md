@@ -4,15 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-24** — closed issue [#1198](https://github.com/ZacSweers/metro/issues/1198) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Harden NameAllocator to more platforms"
+
 **2025-10-23** — closed issue [#1266](https://github.com/ZacSweers/metro/issues/1266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dagger-generated MemberInjector not invoked"
 
 **2025-10-23** — commented on [#1266](https://github.com/ZacSweers/metro/issues/1266#issuecomment-3440868735) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-23** — closed issue [#1272](https://github.com/ZacSweers/metro/issues/1272) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[WasmJS] @ContributesBinding(AppScope::class) not working in multi-module settings"
-
-**2025-10-23** — commented on [#1272](https://github.com/ZacSweers/metro/issues/1272#issuecomment-3438819173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-10-23** — commented on [#2660](https://github.com/google/ksp/issues/2660#issuecomment-3437254579) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
