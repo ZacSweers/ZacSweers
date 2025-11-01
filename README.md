@@ -4,7 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-31** — Could not load GitHub activity. Please check back later.
+**2025-10-31** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3472710212) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-31** — closed issue [#1305](https://github.com/ZacSweers/metro/issues/1305) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "iOS target does not see contribute bindings on kotlin 2.3.0-Beta1"
+
+**2025-10-31** — commented on [#1305](https://github.com/ZacSweers/metro/issues/1305#issuecomment-3472701845) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-31** — commented on [#997](https://github.com/ZacSweers/metro/issues/997#issuecomment-3472699429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-10-31** — unlabeled issue [#997](https://github.com/ZacSweers/metro/issues/997) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incremental compilation issue with Metro and KSP processor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
