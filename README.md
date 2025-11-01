@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-01** — commented on [#1301](https://github.com/ZacSweers/metro/pull/1301#issuecomment-3476175078) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-10-31** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3472710212) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-10-31** — closed issue [#1305](https://github.com/ZacSweers/metro/issues/1305) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "iOS target does not see contribute bindings on kotlin 2.3.0-Beta1"
