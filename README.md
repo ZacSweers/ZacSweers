@@ -4,13 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-01** — commented on [#886](https://github.com/ZacSweers/metro/pull/886#issuecomment-3476617253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-01** — commented on [#886](https://github.com/ZacSweers/metro/pull/886#issuecomment-3476545734) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-01** — commented on [#1297](https://github.com/ZacSweers/metro/pull/1297#issuecomment-3476538644) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-01** — commented on [#1301](https://github.com/ZacSweers/metro/pull/1301#issuecomment-3476175078) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-11-01** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
