@@ -4,7 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-05** — Could not load GitHub activity. Please check back later.
+**2025-11-05** — commented on [#1301](https://github.com/ZacSweers/metro/pull/1301#issuecomment-3492909358) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-05** — commented on [#1329](https://github.com/ZacSweers/metro/issues/1329#issuecomment-3492761478) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-05** — commented on [#1301](https://github.com/ZacSweers/metro/pull/1301#issuecomment-3492669801) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-04** — created branch `z/guice` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-04** — closed issue [#1320](https://github.com/ZacSweers/metro/issues/1320) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException when accessing a Provider contributed from a dagger.Module"
+
+**2025-11-04** — commented on [#1320](https://github.com/ZacSweers/metro/issues/1320#issuecomment-3488344087) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
