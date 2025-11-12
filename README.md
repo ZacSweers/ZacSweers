@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-12** — commented on [#1349](https://github.com/ZacSweers/metro/pull/1349#issuecomment-3523377746) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-11-11** — closed issue [#1353](https://github.com/ZacSweers/metro/issues/1353) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multibinds with Enum key causes an error"
 
 **2025-11-11** — commented on [#1349](https://github.com/ZacSweers/metro/pull/1349#issuecomment-3518669084) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
