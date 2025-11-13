@@ -4,15 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-12** — commented on [#1361](https://github.com/ZacSweers/metro/issues/1361#issuecomment-3523441933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-12** — commented on [#1360](https://github.com/ZacSweers/metro/issues/1360#issuecomment-3523435216) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-12** — labeled issue [#1348](https://github.com/ZacSweers/metro/issues/1348) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Restoring a previous multibinding contribution is not detected"
-
-**2025-11-12** — commented on [#1349](https://github.com/ZacSweers/metro/pull/1349#issuecomment-3523377746) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-11** — closed issue [#1353](https://github.com/ZacSweers/metro/issues/1353) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multibinds with Enum key causes an error"
+**2025-11-13** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
