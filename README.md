@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-13** — commented on [#1325](https://github.com/ZacSweers/metro/issues/1325#issuecomment-3530818984) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-11-13** — commented on [#1325](https://github.com/ZacSweers/metro/issues/1325#issuecomment-3530773927) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-13** — labeled issue [#1325](https://github.com/ZacSweers/metro/issues/1325) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Provider return type cannot be resolved when defined in the same binding container"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-11-13** — closed issue [#1361](https://github.com/ZacSweers/metro/issues/1361) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor injector class based on Members injected parent on another module throws IllegalStateException"
 
 **2025-11-13** — closed issue [#1360](https://github.com/ZacSweers/metro/issues/1360) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Member injection causes out of bounds exception if parent class is injected in different module"
-
-**2025-11-13** — commented on [#1364](https://github.com/ZacSweers/metro/issues/1364#issuecomment-3530702830) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
