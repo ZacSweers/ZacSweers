@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-15** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-3536772219) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2025-11-14** — commented on [#1301](https://github.com/ZacSweers/metro/pull/1301#issuecomment-3534309370) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-14** — closed issue [#1366](https://github.com/ZacSweers/metro/issues/1366) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A duplicate binding error is reported for a manually-constructor-injected Dagger Module declared in a Component annotation [Dagger Interop]"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-11-13** — labeled issue [#896](https://github.com/ZacSweers/metro/issues/896) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support member injection on classes that only inherit injected members"
 
 **2025-11-13** — commented on [#1360](https://github.com/ZacSweers/metro/issues/1360#issuecomment-3530742509) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-13** — commented on [#1361](https://github.com/ZacSweers/metro/issues/1361#issuecomment-3530742432) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
