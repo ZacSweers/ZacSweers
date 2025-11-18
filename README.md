@@ -4,7 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-17** — Could not load GitHub activity. Please check back later.
+**2025-11-17** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3544796125) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-17** — closed issue [#1348](https://github.com/ZacSweers/metro/issues/1348) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Restoring a previous multibinding contribution is not detected"
+
+**2025-11-17** — commented on [#1348](https://github.com/ZacSweers/metro/issues/1348#issuecomment-3544254113) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-17** — closed issue [#1355](https://github.com/ZacSweers/metro/issues/1355) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Changing the scope of a contributed interface causes NoClassDefFoundError"
+
+**2025-11-17** — commented on [#1355](https://github.com/ZacSweers/metro/issues/1355#issuecomment-3544253822) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-11-17** — closed issue [#1379](https://github.com/ZacSweers/metro/issues/1379) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Occasional file I/O failures during compilation"
+
+**2025-11-17** — commented on [#1379](https://github.com/ZacSweers/metro/issues/1379#issuecomment-3544230900) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
