@@ -4,19 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-18** — labeled issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
+
+**2025-11-18** — labeled issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
+
+**2025-11-18** — opened issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
+
+**2025-11-18** — labeled issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
+
+**2025-11-18** — labeled issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
+
+**2025-11-18** — opened issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
+
+**2025-11-18** — commented on [#93](https://github.com/ZacSweers/anvil/pull/93#issuecomment-3549601108) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2025-11-18** — commented on [#1379](https://github.com/ZacSweers/metro/issues/1379#issuecomment-3545779235) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-18** — commented on [#1206](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/1206#issuecomment-3545580947) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
-
-**2025-11-17** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3544796125) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-17** — closed issue [#1348](https://github.com/ZacSweers/metro/issues/1348) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Restoring a previous multibinding contribution is not detected"
-
-**2025-11-17** — commented on [#1348](https://github.com/ZacSweers/metro/issues/1348#issuecomment-3544254113) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-17** — closed issue [#1355](https://github.com/ZacSweers/metro/issues/1355) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Changing the scope of a contributed interface causes NoClassDefFoundError"
-
-**2025-11-17** — commented on [#1355](https://github.com/ZacSweers/metro/issues/1355#issuecomment-3544253822) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
