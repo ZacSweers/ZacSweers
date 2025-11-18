@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-18** — commented on [#1206](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/1206#issuecomment-3545580947) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
 **2025-11-17** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3544796125) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-17** — closed issue [#1348](https://github.com/ZacSweers/metro/issues/1348) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[IC] Restoring a previous multibinding contribution is not detected"
