@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-18** — commented on [#1370](https://github.com/ZacSweers/metro/pull/1370#issuecomment-3549817671) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-18** — labeled issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
-
-**2025-11-18** — labeled issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
-
-**2025-11-18** — opened issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
-
-**2025-11-18** — labeled issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
-
-**2025-11-18** — labeled issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
-
-**2025-11-18** — opened issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
-
-**2025-11-18** — commented on [#93](https://github.com/ZacSweers/anvil/pull/93#issuecomment-3549601108) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2025-11-18** — commented on [#1379](https://github.com/ZacSweers/metro/issues/1379#issuecomment-3545779235) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-18** — commented on [#1206](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/1206#issuecomment-3545580947) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+**2025-11-18** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
