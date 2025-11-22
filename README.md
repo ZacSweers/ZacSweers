@@ -4,17 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-21** — labeled issue [#1396](https://github.com/ZacSweers/metro/issues/1396) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Compiler crash] Unable to generate code for unexpected BoundInstance binding for BindingContainer class"
-
-**2025-11-21** — commented on [#1396](https://github.com/ZacSweers/metro/issues/1396#issuecomment-3563620117) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-21** — labeled issue [#1397](https://github.com/ZacSweers/metro/issues/1397) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Too large multibinded maps can crash"
-
-**2025-11-21** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3563603803) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-21** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3563597070) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-20** — created branch `z/k230` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-11-21** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
