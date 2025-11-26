@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-11-26** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-3579242914) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2025-11-26** — commented on [#8335](https://github.com/robolectric/robolectric/issues/8335#issuecomment-3579233034) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2025-11-26** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-3579232827) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2025-11-25** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3579028598) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-25** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3579015333) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
