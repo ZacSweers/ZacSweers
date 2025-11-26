@@ -4,21 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-26** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-3579242914) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2025-11-26** — commented on [#8335](https://github.com/robolectric/robolectric/issues/8335#issuecomment-3579233034) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2025-11-26** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-3579232827) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2025-11-25** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3579028598) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-25** — commented on [#1373](https://github.com/ZacSweers/metro/issues/1373#issuecomment-3579015333) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-25** — commented on [#1393](https://github.com/ZacSweers/metro/issues/1393#issuecomment-3578823525) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-25** — commented on [#1400](https://github.com/ZacSweers/metro/pull/1400#issuecomment-3578797894) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-25** — closed issue [#1409](https://github.com/ZacSweers/metro/issues/1409) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Anvil's exclude is not supported"
+**2025-11-26** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
