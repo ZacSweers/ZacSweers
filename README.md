@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-11-27** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3587281877) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-11-27** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3587167183) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-27** — closed issue [#1427](https://github.com/ZacSweers/metro/issues/1427) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Function calls in annotation arguments fail in FIR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
