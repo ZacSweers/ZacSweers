@@ -4,21 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-11-28** — commented on [#1426](https://github.com/ZacSweers/metro/pull/1426#issuecomment-3590607124) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-28** — commented on [#1426](https://github.com/ZacSweers/metro/pull/1426#issuecomment-3590361680) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-27** — commented on [#360](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/360#issuecomment-3587686067) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2025-11-27** — closed issue [#360](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/360) on [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin): "Suggestion: only release when there's public-facing changes?"
-
-**2025-11-27** — commented on [#360](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/360#issuecomment-3587662593) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2025-11-27** — opened issue [#360](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/360) on [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin): "Suggestion: only release when there's public-facing changes?"
-
-**2025-11-27** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3587281877) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-11-27** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3587167183) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-11-28** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
