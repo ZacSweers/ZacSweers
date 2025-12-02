@@ -4,17 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-12-01** — closed issue [#1365](https://github.com/ZacSweers/metro/issues/1365) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update FIR processing to handle Kotlin compiler’s rename of FirSimpleFunction to FirNamedFunction"
+
 **2025-12-01** — commented on [#1397](https://github.com/ZacSweers/metro/issues/1397#issuecomment-3598652721) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-12-01** — closed issue [#1455](https://github.com/ZacSweers/metro/issues/1455) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dagger + Multibinding + Provider = Runtime crash"
 
 **2025-12-01** — commented on [#1456](https://github.com/ZacSweers/metro/pull/1456#issuecomment-3598445654) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-12-01** — closed issue [#919](https://github.com/ZacSweers/metro/issues/919) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automatically order before the compose compiler"
-
-**2025-12-01** — commented on [#919](https://github.com/ZacSweers/metro/issues/919#issuecomment-3594824923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-12-01** — labeled issue [#1180](https://github.com/ZacSweers/metro/issues/1180) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run IC tests on js/wasm too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
