@@ -4,13 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-12-07** — commented on [#31625](https://github.com/gradle/gradle/issues/31625#issuecomment-3624549128) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-12-07** — commented on [#1206](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/1206#issuecomment-3623216578) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
-
-**2025-12-07** — commented on [#31625](https://github.com/gradle/gradle/issues/31625#issuecomment-3623190313) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-12-07** — commented on [#1380](https://github.com/ZacSweers/metro/issues/1380#issuecomment-3622541643) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-12-08** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
