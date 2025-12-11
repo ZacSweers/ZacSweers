@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-12-11** — commented on [#1462](https://github.com/ZacSweers/metro/issues/1462#issuecomment-3643447211) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-12-11** — commented on [#1510](https://github.com/ZacSweers/metro/issues/1510#issuecomment-3643413372) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-12-10** — commented on [#1462](https://github.com/ZacSweers/metro/issues/1462#issuecomment-3639592027) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-12-10** — commented on [#1478](https://github.com/ZacSweers/metro/issues/1478#issuecomment-3638687294) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-12-10** — created branch `z/shardingWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-12-10** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3635524397) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-12-10** — labeled issue [#1502](https://github.com/ZacSweers/metro/issues/1502) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add customization for function inject class name"
-
-**2025-12-10** — labeled issue [#1502](https://github.com/ZacSweers/metro/issues/1502) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add customization for function inject class name"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
