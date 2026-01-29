@@ -10,6 +10,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## On My Blog
 <!-- blog starts -->
+**2026-01-29** — [Sponsoring Metro](https://www.zacsweers.dev/sponsoring-metro/)
+
 **2025-11-06** — [Metro's Design Doc](https://www.zacsweers.dev/metros-design-doc/)
 
 **2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
@@ -27,8 +29,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2024-08-09** — [Introducing: Anvil-KSP](https://www.zacsweers.dev/introducing-anvil-ksp/)
 
 **2024-05-06** — [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
-
-**2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
