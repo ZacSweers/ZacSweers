@@ -10,6 +10,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## On My Blog
 <!-- blog starts -->
+**2026-02-20** — [Re: Dependency Injection vs. Service Locators](https://www.zacsweers.dev/re-dependency-injection-vs-service-locators/)
+
 **2026-02-09** — [Where are all the staff+ Android product engineers?](https://www.zacsweers.dev/where-are-the-staf-android-product-engineers/)
 
 **2026-01-29** — [Sponsoring Metro](https://www.zacsweers.dev/sponsoring-metro/)
@@ -27,8 +29,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2024-09-11** — [Gradle Footguns: Don't add potentially-empty providers to collection properties](https://www.zacsweers.dev/gradle-footgun-adding-empty-providers-to-collection-properties/)
 
 **2024-08-25** — [Writing a Kotlin Multiplatform App from Start to Store](https://www.zacsweers.dev/writing-a-kotlin-multiplatform-app-from-start-to-store/)
-
-**2024-08-09** — [Introducing: Anvil-KSP](https://www.zacsweers.dev/introducing-anvil-ksp/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
