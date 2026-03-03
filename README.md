@@ -4,23 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-03** — created branch `z/rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
 
-**2026-03-03** — created branch `z/reportMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-03** — merged PR [#1937](https://github.com/ZacSweers/metro/pull/1937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.3.20-RC2"
 
-**2026-03-03** — closed PR [#335](https://github.com/ZacSweers/ZacSweers/pull/335) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.runtime:runtime to v23"
+**2026-03-03** — opened PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
 
-**2026-03-03** — commented on [#73](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/issues/73#issuecomment-3992857786) in [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin)
+**2026-03-03** — created branch `z/studioUpdate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-03** — closed issue [#73](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/issues/73) on [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin): "Plugin never progresses past "Server is initializing""
+**2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
 
-**2026-03-03** — commented on [#2589](https://github.com/slackhq/circuit/pull/2589#issuecomment-3992825000) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-03-03** — reopened PR [#2589](https://github.com/slackhq/circuit/pull/2589) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update navigation.md"
-
-**2026-03-03** — closed PR [#2589](https://github.com/slackhq/circuit/pull/2589) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update navigation.md"
-
-**2026-03-03** — commented on [#2589](https://github.com/slackhq/circuit/pull/2589#issuecomment-3992823644) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-03-03** — merged PR [#1937](https://github.com/ZacSweers/metro/pull/1937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.3.20-RC2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
