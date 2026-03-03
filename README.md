@@ -4,7 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-03** — Could not load GitHub activity. Please check back later.
+**2026-03-03** — merged PR [#332](https://github.com/ZacSweers/ZacSweers/pull/332) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github API"
+
+**2026-03-03** — merged PR [#332](https://github.com/ZacSweers/ZacSweers/pull/332) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github API"
+
+**2026-03-03** — created branch `z/updateApi` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2026-03-02** — commented on [#2084](https://github.com/square/moshi/pull/2084#issuecomment-3988660642) in [square/moshi](https://github.com/square/moshi)
+
+**2026-03-02** — commented on [#1932](https://github.com/ZacSweers/metro/issues/1932#issuecomment-3986567993) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-02** — closed issue [#1932](https://github.com/ZacSweers/metro/issues/1932) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`SuspiciousUnusedMultibinding` warning seems to be wrong and can't be disabled"
+
+**2026-03-02** — unlabeled issue [#1932](https://github.com/ZacSweers/metro/issues/1932) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`SuspiciousUnusedMultibinding` warning seems to be wrong and can't be disabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
