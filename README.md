@@ -18,6 +18,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## On My Blog
 <!-- blog starts -->
+**2026-03-03** — [Two Pillars of (Engineering) Management](https://www.zacsweers.dev/two-pillars-of-engineering-management/)
+
 **2026-02-25** — [Metro 0.11.0 and MEEPs!](https://www.zacsweers.dev/metro-0-11-0-and-meeps/)
 
 **2026-02-20** — [Re: Dependency Injection vs. Service Locators](https://www.zacsweers.dev/re-dependency-injection-vs-service-locators/)
@@ -35,8 +37,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-04-03** — [Introducing Metro](https://www.zacsweers.dev/introducing-metro/)
 
 **2025-02-17** — [One Last View of Mom](https://www.zacsweers.dev/one-last-view-of-mom/)
-
-**2024-09-11** — [Gradle Footguns: Don't add potentially-empty providers to collection properties](https://www.zacsweers.dev/gradle-footgun-adding-empty-providers-to-collection-properties/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
