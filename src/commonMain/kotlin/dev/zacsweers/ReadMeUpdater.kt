@@ -75,51 +75,56 @@ class ReadMeUpdater {
           )
         )
       }
-    return events
-      .filter { it.public }
-      .mapNotNull { event ->
-        when (val payload = event.payload) {
-          UnknownPayload,
-          null -> return@mapNotNull null
-          is IssuesEventPayload -> {
-            ActivityItem(
-              "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
-              event.createdAt,
-            )
-          }
-          is IssueCommentEventPayload -> {
-            ActivityItem(
-              "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
-              event.createdAt,
-            )
-          }
-          is PullRequestPayload -> {
-            val action = if (payload.pullRequest.merged == true) "merged" else payload.action
-            ActivityItem(
-              "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-              event.createdAt,
-            )
-          }
-          is CreateEvent -> {
-            ActivityItem(
-              "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-              event.createdAt,
-            )
-          }
-          is DeleteEvent -> {
-            if (payload.refType == "branch") {
-              // Filter out branch deletions
-              // https://github.com/ZacSweers/ZacSweers/issues/65
-              return@mapNotNull null
+    return buildList {
+      for (event in events) {
+        if (!event.public) continue
+        val item =
+          when (val payload = event.payload) {
+            UnknownPayload,
+            null -> continue
+            is IssuesEventPayload -> {
+              ActivityItem(
+                "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
+                event.createdAt,
+              )
             }
-            ActivityItem(
-              "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-              event.createdAt,
-            )
+            is IssueCommentEventPayload -> {
+              ActivityItem(
+                "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
+                event.createdAt,
+              )
+            }
+            is PullRequestPayload -> {
+              val repoName = event.repo?.name ?: continue
+              val pr = githubApi.getPullRequest(repoName, payload.number)
+              val action = if (pr.merged == true) "merged" else payload.action
+              ActivityItem(
+                "$action PR [#${payload.number}](${pr.htmlUrl}) to ${event.repo.markdownUrl()}: \"${pr.title}\"",
+                event.createdAt,
+              )
+            }
+            is CreateEvent -> {
+              ActivityItem(
+                "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                event.createdAt,
+              )
+            }
+            is DeleteEvent -> {
+              if (payload.refType == "branch") {
+                // Filter out branch deletions
+                // https://github.com/ZacSweers/ZacSweers/issues/65
+                continue
+              }
+              ActivityItem(
+                "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                event.createdAt,
+              )
+            }
           }
-        }
+        add(item)
+        if (size == 10) break
       }
-      .take(10)
+    }
   }
 
   data class ActivityItem(val text: String, val timestamp: Instant) {
