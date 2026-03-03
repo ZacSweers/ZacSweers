@@ -61,8 +61,8 @@ kotlin {
   sourceSets {
     commonMain {
       dependencies {
-        implementation(compose.runtime)
-        implementation(compose.material3)
+        implementation(libs.compose.runtime)
+        implementation(libs.compose.material3)
         implementation(libs.compose.markdown)
         implementation(libs.compose.markdown.m3)
         implementation(libs.kotlinx.coroutines)
@@ -83,7 +83,7 @@ kotlin {
       dependencies {
         // To silence this stupid log https://www.slf4j.org/codes.html#StaticLoggerBinder
         implementation(libs.slf4jNop)
-        implementation(compose.runtime)
+        implementation(libs.compose.runtime)
         // https://github.com/ajalt/clikt/issues/438
         implementation(libs.clikt)
         implementation(compose.desktop.currentOs)
@@ -94,12 +94,12 @@ kotlin {
     }
     maybeCreate("wasmJsMain").apply {
       dependencies {
-        implementation(compose.runtime)
-        implementation(compose.ui)
-        implementation(compose.foundation)
-        implementation(compose.material)
-        implementation(compose.components.resources)
-        implementation(npm("@js-joda/timezone", "2.18.2"))
+        implementation(libs.compose.runtime)
+        implementation(libs.compose.ui)
+        implementation(libs.compose.foundation)
+        implementation(libs.compose.material)
+        implementation(libs.compose.components.resources)
+        implementation(npm("@js-joda/timezone", "2.23.0"))
       }
     }
   }
@@ -111,8 +111,8 @@ tasks.withType<KotlinJsCompile>().configureEach {
 }
 
 spotless {
-  kotlin { ktfmt("0.54").googleStyle() }
-  kotlinGradle { ktfmt("0.54").googleStyle() }
+  kotlin { ktfmt("0.61").googleStyle() }
+  kotlinGradle { ktfmt("0.61").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {

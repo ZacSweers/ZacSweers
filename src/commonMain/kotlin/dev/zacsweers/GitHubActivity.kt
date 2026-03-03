@@ -20,6 +20,8 @@ import kotlinx.serialization.json.jsonPrimitive
 interface GitHubApi {
   suspend fun getUserActivity(login: String): List<GitHubActivityEvent>
 
+  suspend fun getPullRequest(repoName: String, number: Int): PullRequest
+
   companion object {
     fun create(client: HttpClient): GitHubApi {
       return object : GitHubApi {
@@ -27,6 +29,12 @@ interface GitHubApi {
           return client
             .get("https://api.github.com/users/$login/events")
             .body<List<GitHubActivityEvent>>()
+        }
+
+        override suspend fun getPullRequest(repoName: String, number: Int): PullRequest {
+          return client
+            .get("https://api.github.com/repos/$repoName/pulls/$number")
+            .body<PullRequest>()
         }
       }
     }
@@ -114,11 +122,8 @@ data class IssueCommentEventPayload(val action: String, val comment: Comment, va
 data class Comment(@SerialName(value = "html_url") val htmlUrl: String, val body: String)
 
 @Serializable
-data class PullRequestPayload(
-  val action: String,
-  val number: Int,
-  @SerialName(value = "pull_request") val pullRequest: PullRequest,
-) : GitHubActivityEventPayload
+data class PullRequestPayload(val action: String, val number: Int) :
+  GitHubActivityEventPayload
 
 @Serializable
 data class PullRequest(
