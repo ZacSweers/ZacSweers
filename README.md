@@ -4,7 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-03** — Could not load GitHub activity. Please check back later.
+**2026-03-03** — created branch `z/rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-03** — created branch `z/reportMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-03** — closed PR [#335](https://github.com/ZacSweers/ZacSweers/pull/335) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.runtime:runtime to v23"
+
+**2026-03-03** — commented on [#73](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/issues/73#issuecomment-3992857786) in [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin)
+
+**2026-03-03** — closed issue [#73](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/issues/73) on [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin): "Plugin never progresses past "Server is initializing""
+
+**2026-03-03** — commented on [#2589](https://github.com/slackhq/circuit/pull/2589#issuecomment-3992825000) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-03-03** — reopened PR [#2589](https://github.com/slackhq/circuit/pull/2589) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update navigation.md"
+
+**2026-03-03** — closed PR [#2589](https://github.com/slackhq/circuit/pull/2589) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update navigation.md"
+
+**2026-03-03** — commented on [#2589](https://github.com/slackhq/circuit/pull/2589#issuecomment-3992823644) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
