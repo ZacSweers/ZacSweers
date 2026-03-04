@@ -4,7 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-03** — Could not load GitHub activity. Please check back later.
+**2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
+
+**2026-03-03** — merged PR [#1937](https://github.com/ZacSweers/metro/pull/1937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.3.20-RC2"
+
+**2026-03-03** — opened PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
+
+**2026-03-03** — created branch `z/studioUpdate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
