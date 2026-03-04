@@ -4,15 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-04** — merged PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
+
+**2026-03-04** — closed PR [#1942](https://github.com/ZacSweers/metro/pull/1942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false positive SuspiciousUnusedMultibinding for reachable multibindings"
+
+**2026-03-04** — commented on [#1942](https://github.com/ZacSweers/metro/pull/1942#issuecomment-3995584009) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
 
 **2026-03-03** — merged PR [#1937](https://github.com/ZacSweers/metro/pull/1937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.3.20-RC2"
 
-**2026-03-03** — opened PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
+**2026-03-03** — merged PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
 
 **2026-03-03** — created branch `z/studioUpdate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-03** — merged PR [#1938](https://github.com/ZacSweers/metro/pull/1938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph extensions hint to suspicious multibindings diag"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
