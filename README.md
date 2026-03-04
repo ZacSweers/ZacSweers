@@ -11,10 +11,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-04** — merged PR [#1943](https://github.com/ZacSweers/metro/pull/1943) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-04** — merged PR [#1939](https://github.com/ZacSweers/metro/pull/1939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ide update testing + add more"
-
-**2026-03-04** — closed PR [#1942](https://github.com/ZacSweers/metro/pull/1942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false positive SuspiciousUnusedMultibinding for reachable multibindings"
-
-**2026-03-04** — commented on [#1942](https://github.com/ZacSweers/metro/pull/1942#issuecomment-3995584009) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
