@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-06** — opened PR [#1953](https://github.com/ZacSweers/metro/pull/1953) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move class and provides factory function generation back to IR"
+
 **2026-03-05** — closed PR [#877](https://github.com/ZacSweers/MoshiX/pull/877) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.4.0-vega-82"
 
 **2026-03-05** — created branch `z/irProvidesCallableFactoryGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
