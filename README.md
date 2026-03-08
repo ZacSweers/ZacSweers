@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-07** — closed issue [#1947](https://github.com/ZacSweers/metro/issues/1947) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen error when a replacement is consumed in multibinding map"
+
 **2026-03-07** — closed issue [#1325](https://github.com/ZacSweers/metro/issues/1325) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Provider return type cannot be resolved when defined in the same binding container"
 
 **2026-03-07** — merged PR [#1958](https://github.com/ZacSweers/metro/pull/1958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for #1325"
@@ -15,8 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-07** — merged PR [#1953](https://github.com/ZacSweers/metro/pull/1953) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move class and provides factory function generation back to IR"
 
 **2026-03-06** — merged PR [#1953](https://github.com/ZacSweers/metro/pull/1953) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move class and provides factory function generation back to IR"
-
-**2026-03-05** — closed PR [#877](https://github.com/ZacSweers/MoshiX/pull/877) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.4.0-vega-82"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
