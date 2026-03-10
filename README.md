@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-07** — merged PR [#1958](https://github.com/ZacSweers/metro/pull/1958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for #1325"
 
 **2026-03-07** — created branch `z/nestedClassprovider` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-07** — merged PR [#1953](https://github.com/ZacSweers/metro/pull/1953) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move class and provides factory function generation back to IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
