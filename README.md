@@ -11,14 +11,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-10** — merged PR [#1962](https://github.com/ZacSweers/metro/pull/1962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-07** — closed issue [#1947](https://github.com/ZacSweers/metro/issues/1947) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen error when a replacement is consumed in multibinding map"
-
-**2026-03-07** — closed issue [#1325](https://github.com/ZacSweers/metro/issues/1325) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Provider return type cannot be resolved when defined in the same binding container"
-
-**2026-03-07** — merged PR [#1958](https://github.com/ZacSweers/metro/pull/1958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for #1325"
-
-**2026-03-07** — merged PR [#1958](https://github.com/ZacSweers/metro/pull/1958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for #1325"
-
-**2026-03-07** — created branch `z/nestedClassprovider` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
