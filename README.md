@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-12** — closed issue [#878](https://github.com/ZacSweers/MoshiX/issues/878) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "NullPointerException in renderType when using a typealias to a nested generic class"
 
-**2026-03-12** — merged PR [#880](https://github.com/ZacSweers/MoshiX/pull/880) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use a raw type for newParameterezedType call"
-
-**2026-03-12** — merged PR [#880](https://github.com/ZacSweers/MoshiX/pull/880) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use a raw type for newParameterezedType call"
-
-**2026-03-12** — created branch `z/fixrawtype` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-03-12** — merged PR [#879](https://github.com/ZacSweers/MoshiX/pull/879) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update GJF"
-
-**2026-03-12** — merged PR [#879](https://github.com/ZacSweers/MoshiX/pull/879) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update GJF"
-
-**2026-03-12** — created branch `z/gjf` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-03-12** — commented on [#1973](https://github.com/ZacSweers/metro/issues/1973#issuecomment-4049577103) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-12** — closed issue [#1973](https://github.com/ZacSweers/metro/issues/1973) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro will crash with @Named function type"
-
-**2026-03-12** — commented on [#1973](https://github.com/ZacSweers/metro/issues/1973#issuecomment-4047354027) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
