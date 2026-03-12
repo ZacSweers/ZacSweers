@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-12** — merged PR [#1977](https://github.com/ZacSweers/metro/pull/1977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.20-RC3"
+
+**2026-03-12** — merged PR [#1977](https://github.com/ZacSweers/metro/pull/1977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.20-RC3"
+
+**2026-03-12** — created branch `z/rc3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-12** — opened PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
 
 **2026-03-12** — created branch `z/betterKotlinDump` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
