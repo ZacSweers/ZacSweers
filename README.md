@@ -4,7 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-12** — opened PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
 
+**2026-03-12** — created branch `z/betterKotlinDump` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
+
+**2026-03-12** — opened PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
+
+**2026-03-12** — created branch `z/betterDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
