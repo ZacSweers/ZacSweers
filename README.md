@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-13** — merged PR [#1978](https://github.com/ZacSweers/metro/pull/1978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-03-13** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-13** — merged PR [#1978](https://github.com/ZacSweers/metro/pull/1978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-03-12** — closed issue [#1801](https://github.com/slackhq/circuit/issues/1801) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter example"
 
 **2026-03-12** — merged PR [#1977](https://github.com/ZacSweers/metro/pull/1977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.20-RC3"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-12** — created branch `z/betterKotlinDump` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2026-03-12** — opened PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
-
-**2026-03-12** — created branch `z/betterDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
