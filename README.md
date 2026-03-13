@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-12** — closed issue [#1801](https://github.com/slackhq/circuit/issues/1801) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter example"
+
 **2026-03-12** — merged PR [#1977](https://github.com/ZacSweers/metro/pull/1977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.20-RC3"
 
 **2026-03-12** — merged PR [#1977](https://github.com/ZacSweers/metro/pull/1977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.20-RC3"
