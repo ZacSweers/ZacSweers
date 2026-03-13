@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-13** — commented on [#1979](https://github.com/ZacSweers/metro/issues/1979#issuecomment-4056040952) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-13** — closed issue [#1979](https://github.com/ZacSweers/metro/issues/1979) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Robolectric's Unit test fails with kotlin.UninitializedPropertyAccessException at MetroAppComponentFactory.kt"
+
 **2026-03-13** — merged PR [#1978](https://github.com/ZacSweers/metro/pull/1978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-13** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-12** — created branch `z/rc3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-12** — opened PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
-
-**2026-03-12** — created branch `z/betterKotlinDump` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-03-12** — opened PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
