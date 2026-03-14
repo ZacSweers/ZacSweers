@@ -4,9 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-13** — merged PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
+
+**2026-03-13** — commented on [#1986](https://github.com/ZacSweers/metro/pull/1986#issuecomment-4059060173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-13** — closed PR [#1986](https://github.com/ZacSweers/metro/pull/1986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop for Kotlin-Inject-Anvil multibinding=true"
+
 **2026-03-13** — merged PR [#1776](https://github.com/slackhq/foundry/pull/1776) to [slackhq/foundry](https://github.com/slackhq/foundry): "Suppress some noisy JVM warnings in JDK 24+"
 
-**2026-03-13** — opened PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
+**2026-03-13** — merged PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
 
 **2026-03-13** — created branch `z/zensical` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-13** — created branch `z/moreArgs` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2026-03-13** — created branch `z/agp9Fixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-03-13** — commented on [#1979](https://github.com/ZacSweers/metro/issues/1979#issuecomment-4056040952) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-13** — closed issue [#1979](https://github.com/ZacSweers/metro/issues/1979) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Robolectric's Unit test fails with kotlin.UninitializedPropertyAccessException at MetroAppComponentFactory.kt"
-
-**2026-03-13** — merged PR [#1978](https://github.com/ZacSweers/metro/pull/1978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
