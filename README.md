@@ -19,6 +19,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-13** — merged PR [#1776](https://github.com/slackhq/foundry/pull/1776) to [slackhq/foundry](https://github.com/slackhq/foundry): "Suppress some noisy JVM warnings in JDK 24+"
 
 **2026-03-13** — opened PR [#1775](https://github.com/slackhq/foundry/pull/1775) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 fixes"
+
+**2026-03-13** — created branch `z/moreArgs` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
