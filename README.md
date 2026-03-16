@@ -4,23 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-15** — commented on [#1994](https://github.com/ZacSweers/metro/issues/1994#issuecomment-4062391603) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-15** — closed issue [#1994](https://github.com/ZacSweers/metro/issues/1994) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Infer default `value` for `@ViewModelKey` when applied to a class"
-
-**2026-03-13** — merged PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
-
-**2026-03-13** — commented on [#1986](https://github.com/ZacSweers/metro/pull/1986#issuecomment-4059060173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-13** — closed PR [#1986](https://github.com/ZacSweers/metro/pull/1986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop for Kotlin-Inject-Anvil multibinding=true"
-
-**2026-03-13** — merged PR [#1776](https://github.com/slackhq/foundry/pull/1776) to [slackhq/foundry](https://github.com/slackhq/foundry): "Suppress some noisy JVM warnings in JDK 24+"
-
-**2026-03-13** — merged PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
-
-**2026-03-13** — created branch `z/zensical` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-13** — merged PR [#1776](https://github.com/slackhq/foundry/pull/1776) to [slackhq/foundry](https://github.com/slackhq/foundry): "Suppress some noisy JVM warnings in JDK 24+"
+**2026-03-15** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
