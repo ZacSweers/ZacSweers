@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-16** — closed issue [#1995](https://github.com/ZacSweers/metro/issues/1995) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "0.11: false positive warning for unused BindingContainer/multibind"
 
 **2026-03-16** — closed issue [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JVM and JS compilers should be polymorphic over `compile()`"
-
-**2026-03-16** — commented on [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177#issuecomment-4069973221) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-03-16** — closed issue [#197](https://github.com/ZacSweers/kotlin-compile-testing/issues/197) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Compilation doesn't fail when ksp processor is added"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
