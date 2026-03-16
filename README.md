@@ -4,15 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-16** — merged PR [#385](https://github.com/ZacSweers/redacted-compiler-plugin/pull/385) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.3.20"
+**2026-03-16** — merged PR [#1996](https://github.com/ZacSweers/metro/pull/1996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.3.20 final"
 
-**2026-03-16** — closed PR [#1781](https://github.com/slackhq/foundry/pull/1781) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.3.20"
+**2026-03-16** — closed PR [#1761](https://github.com/slackhq/foundry/pull/1761) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v9.1.0"
 
-**2026-03-16** — closed PR [#406](https://github.com/ZacSweers/FieldSpottr/pull/406) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.3.20"
+**2026-03-16** — closed issue [#1974](https://github.com/ZacSweers/metro/issues/1974) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replacement using @Binds does not apply in child graph extensions"
 
-**2026-03-16** — merged PR [#845](https://github.com/ZacSweers/MoshiX/pull/845) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.3.20"
+**2026-03-16** — merged PR [#1996](https://github.com/ZacSweers/metro/pull/1996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.3.20 final"
 
-**2026-03-14** — closed PR [#881](https://github.com/ZacSweers/MoshiX/pull/881) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.4.0-vega-85"
+**2026-03-16** — created branch `z/2320final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-16** — merged PR [#369](https://github.com/ZacSweers/FieldSpottr/pull/369) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.3.20"
+
+**2026-03-16** — commented on [#1992](https://github.com/ZacSweers/metro/pull/1992#issuecomment-4069566552) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
