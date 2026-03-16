@@ -4,19 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-16** — merged PR [#1996](https://github.com/ZacSweers/metro/pull/1996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.3.20 final"
+**2026-03-16** — closed issue [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JVM and JS compilers should be polymorphic over `compile()`"
 
-**2026-03-16** — closed PR [#1761](https://github.com/slackhq/foundry/pull/1761) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v9.1.0"
+**2026-03-16** — commented on [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177#issuecomment-4069973221) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2026-03-16** — closed issue [#1974](https://github.com/ZacSweers/metro/issues/1974) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replacement using @Binds does not apply in child graph extensions"
+**2026-03-16** — closed issue [#197](https://github.com/ZacSweers/kotlin-compile-testing/issues/197) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Compilation doesn't fail when ksp processor is added"
 
-**2026-03-16** — merged PR [#1996](https://github.com/ZacSweers/metro/pull/1996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.3.20 final"
+**2026-03-16** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-4069971661) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2026-03-16** — created branch `z/2320final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-16** — closed issue [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JS compilation fails without `moduleName` being set"
 
-**2026-03-16** — merged PR [#369](https://github.com/ZacSweers/FieldSpottr/pull/369) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.3.20"
+**2026-03-16** — commented on [#298](https://github.com/ZacSweers/kotlin-compile-testing/issues/298#issuecomment-4069971198) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2026-03-16** — commented on [#1992](https://github.com/ZacSweers/metro/pull/1992#issuecomment-4069566552) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-16** — closed issue [#298](https://github.com/ZacSweers/kotlin-compile-testing/issues/298) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support compiling common source and platform source"
+
+**2026-03-16** — closed issue [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "NoSuchMethodError thrown when calling compile"
+
+**2026-03-16** — closed issue [#323](https://github.com/ZacSweers/kotlin-compile-testing/issues/323) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "KSP package seems to be breaking service loader"
+
+**2026-03-03** — closed PR [#439](https://github.com/ZacSweers/kotlin-compile-testing/pull/439) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.3.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
