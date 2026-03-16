@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-16** — commented on [#1994](https://github.com/ZacSweers/metro/issues/1994#issuecomment-4070107796) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-16** — merged PR [#1775](https://github.com/slackhq/foundry/pull/1775) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 fixes"
+
+**2026-03-16** — commented on [#1986](https://github.com/ZacSweers/metro/pull/1986#issuecomment-4070086992) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-16** — commented on [#1995](https://github.com/ZacSweers/metro/issues/1995#issuecomment-4070047095) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-16** — closed issue [#1995](https://github.com/ZacSweers/metro/issues/1995) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "0.11: false positive warning for unused BindingContainer/multibind"
+
 **2026-03-16** — closed issue [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JVM and JS compilers should be polymorphic over `compile()`"
 
 **2026-03-16** — commented on [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177#issuecomment-4069973221) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-16** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-4069971661) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-03-16** — closed issue [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JS compilation fails without `moduleName` being set"
-
-**2026-03-16** — commented on [#298](https://github.com/ZacSweers/kotlin-compile-testing/issues/298#issuecomment-4069971198) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-03-16** — closed issue [#298](https://github.com/ZacSweers/kotlin-compile-testing/issues/298) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support compiling common source and platform source"
-
-**2026-03-16** — closed issue [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "NoSuchMethodError thrown when calling compile"
-
-**2026-03-16** — closed issue [#323](https://github.com/ZacSweers/kotlin-compile-testing/issues/323) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "KSP package seems to be breaking service loader"
-
-**2026-03-03** — closed PR [#439](https://github.com/ZacSweers/kotlin-compile-testing/pull/439) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.3.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
