@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-16** — merged PR [#1718](https://github.com/slackhq/foundry/pull/1718) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.3.20"
+
 **2026-03-16** — commented on [#1994](https://github.com/ZacSweers/metro/issues/1994#issuecomment-4070107796) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-16** — merged PR [#1775](https://github.com/slackhq/foundry/pull/1775) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 fixes"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-16** — closed issue [#197](https://github.com/ZacSweers/kotlin-compile-testing/issues/197) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Compilation doesn't fail when ksp processor is added"
 
 **2026-03-16** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-4069971661) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-03-16** — closed issue [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JS compilation fails without `moduleName` being set"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
