@@ -4,19 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-16** — closed issue [#884](https://github.com/ZacSweers/MoshiX/issues/884) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Moshi IR Incompatibility with Kotlin 2.3.20"
+**2026-03-16** — merged PR [#385](https://github.com/ZacSweers/redacted-compiler-plugin/pull/385) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.3.20"
 
-**2026-03-16** — commented on [#884](https://github.com/ZacSweers/MoshiX/issues/884#issuecomment-4068318867) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2026-03-16** — closed PR [#1781](https://github.com/slackhq/foundry/pull/1781) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.3.20"
 
-**2026-03-15** — commented on [#1994](https://github.com/ZacSweers/metro/issues/1994#issuecomment-4062391603) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-16** — closed PR [#406](https://github.com/ZacSweers/FieldSpottr/pull/406) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.3.20"
 
-**2026-03-15** — closed issue [#1994](https://github.com/ZacSweers/metro/issues/1994) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Infer default `value` for `@ViewModelKey` when applied to a class"
+**2026-03-16** — merged PR [#845](https://github.com/ZacSweers/MoshiX/pull/845) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.3.20"
 
-**2026-03-13** — merged PR [#1983](https://github.com/ZacSweers/metro/pull/1983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Partial zensical support"
-
-**2026-03-13** — commented on [#1986](https://github.com/ZacSweers/metro/pull/1986#issuecomment-4059060173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-13** — closed PR [#1986](https://github.com/ZacSweers/metro/pull/1986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop for Kotlin-Inject-Anvil multibinding=true"
+**2026-03-14** — closed PR [#881](https://github.com/ZacSweers/MoshiX/pull/881) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.4.0-vega-85"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
