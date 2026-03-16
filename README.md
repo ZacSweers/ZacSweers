@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-16** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-4071227067) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-03-16** — closed issue [#1513](https://github.com/slackhq/foundry/issues/1513) on [slackhq/foundry](https://github.com/slackhq/foundry): "Prepare for AGP 9.0"
+
 **2026-03-16** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4070579777) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-03-16** — merged PR [#1718](https://github.com/slackhq/foundry/pull/1718) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.3.20"
@@ -17,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-16** — commented on [#1995](https://github.com/ZacSweers/metro/issues/1995#issuecomment-4070047095) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-16** — closed issue [#1995](https://github.com/ZacSweers/metro/issues/1995) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "0.11: false positive warning for unused BindingContainer/multibind"
-
-**2026-03-16** — closed issue [#177](https://github.com/ZacSweers/kotlin-compile-testing/issues/177) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "JVM and JS compilers should be polymorphic over `compile()`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
