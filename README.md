@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-17** — opened PR [#2001](https://github.com/ZacSweers/metro/pull/2001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove spotless"
+**2026-03-17** — closed issue [#1999](https://github.com/ZacSweers/metro/issues/1999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen error when a scoped binding in another compilation has a default value"
 
-**2026-03-17** — created branch `z/removeSpotless` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-17** — merged PR [#2002](https://github.com/ZacSweers/metro/pull/2002) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve default stubs in IR gen"
 
-**2026-03-16** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-4071227067) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2026-03-17** — merged PR [#2001](https://github.com/ZacSweers/metro/pull/2001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove spotless"
 
-**2026-03-16** — closed issue [#1513](https://github.com/slackhq/foundry/issues/1513) on [slackhq/foundry](https://github.com/slackhq/foundry): "Prepare for AGP 9.0"
+**2026-03-17** — closed issue [#698](https://github.com/drewhamilton/Poko/issues/698) on [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "NoSuchMethodError in 2.2.0 release calling createMemberFunction()"
 
-**2026-03-16** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4070579777) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+**2026-03-17** — commented on [#698](https://github.com/drewhamilton/Poko/issues/698#issuecomment-4072427282) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
-**2026-03-16** — merged PR [#1718](https://github.com/slackhq/foundry/pull/1718) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.3.20"
+**2026-03-17** — commented on [#1999](https://github.com/ZacSweers/metro/issues/1999#issuecomment-4072418529) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-16** — commented on [#1994](https://github.com/ZacSweers/metro/issues/1994#issuecomment-4070107796) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-17** — opened issue [#698](https://github.com/drewhamilton/Poko/issues/698) on [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "NoSuchMethodError in 2.2.0 release calling createMemberFunction()"
 
-**2026-03-16** — merged PR [#1775](https://github.com/slackhq/foundry/pull/1775) to [slackhq/foundry](https://github.com/slackhq/foundry): "AGP 9 fixes"
+**2026-03-17** — merged PR [#2002](https://github.com/ZacSweers/metro/pull/2002) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve default stubs in IR gen"
 
-**2026-03-16** — commented on [#1986](https://github.com/ZacSweers/metro/pull/1986#issuecomment-4070086992) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-17** — created branch `z/fixDefaults` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-16** — commented on [#1995](https://github.com/ZacSweers/metro/issues/1995#issuecomment-4070047095) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-17** — merged PR [#2001](https://github.com/ZacSweers/metro/pull/2001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
