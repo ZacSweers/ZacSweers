@@ -4,9 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-17** — merged PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
+
 **2026-03-17** — closed PR [#2608](https://github.com/slackhq/circuit/pull/2608) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.3.20"
 
-**2026-03-17** — opened PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
+**2026-03-17** — merged PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
 
 **2026-03-17** — created branch `z/moreFormat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,14 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-17** — merged PR [#2002](https://github.com/ZacSweers/metro/pull/2002) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve default stubs in IR gen"
 
 **2026-03-17** — merged PR [#2001](https://github.com/ZacSweers/metro/pull/2001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove spotless"
-
-**2026-03-17** — closed issue [#698](https://github.com/drewhamilton/Poko/issues/698) on [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "NoSuchMethodError in 2.2.0 release calling createMemberFunction()"
-
-**2026-03-17** — commented on [#698](https://github.com/drewhamilton/Poko/issues/698#issuecomment-4072427282) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2026-03-17** — commented on [#1999](https://github.com/ZacSweers/metro/issues/1999#issuecomment-4072418529) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-17** — opened issue [#698](https://github.com/drewhamilton/Poko/issues/698) on [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "NoSuchMethodError in 2.2.0 release calling createMemberFunction()"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
