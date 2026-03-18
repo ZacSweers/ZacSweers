@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-17** — created branch `z/moreFormat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-17** — closed issue [#1999](https://github.com/ZacSweers/metro/issues/1999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen error when a scoped binding in another compilation has a default value"
-
-**2026-03-17** — merged PR [#2002](https://github.com/ZacSweers/metro/pull/2002) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve default stubs in IR gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
