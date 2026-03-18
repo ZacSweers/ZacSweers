@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-18** — merged PR [#2009](https://github.com/ZacSweers/metro/pull/2009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-03-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-18** — merged PR [#2009](https://github.com/ZacSweers/metro/pull/2009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-03-17** — opened PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
 
 **2026-03-17** — created branch `z/2320Main` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-17** — closed PR [#2608](https://github.com/slackhq/circuit/pull/2608) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.3.20"
 
 **2026-03-17** — merged PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
-
-**2026-03-17** — created branch `z/moreFormat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
