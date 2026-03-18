@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-18** — commented on [#2008](https://github.com/ZacSweers/metro/pull/2008#issuecomment-4085107747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-18** — merged PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
+
+**2026-03-18** — opened PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
+
+**2026-03-18** — created branch `z/deprecateAssisted` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-18** — merged PR [#2012](https://github.com/ZacSweers/metro/pull/2012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Put metro.base on the benchmarks classpath"
+
+**2026-03-18** — closed issue [#2005](https://github.com/ZacSweers/metro/issues/2005) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate multibinding source errors when using createDynamicGraphFactory intrinsic"
+
+**2026-03-18** — merged PR [#2010](https://github.com/ZacSweers/metro/pull/2010) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Only store owned providers in metadata"
+
+**2026-03-18** — merged PR [#2012](https://github.com/ZacSweers/metro/pull/2012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Put metro.base on the benchmarks classpath"
+
+**2026-03-18** — created branch `z/fixBenchmarkChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-18** — merged PR [#2011](https://github.com/ZacSweers/metro/pull/2011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small suppressions"
+
+**2026-03-18** — merged PR [#2320](https://github.com/ZacSweers/CatchUp/pull/2320) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to AGP 9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
