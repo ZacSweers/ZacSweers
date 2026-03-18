@@ -15,12 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-17** — created branch `z/2320Main` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-17** — merged PR [#2531](https://github.com/slackhq/circuit/pull/2531) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.3.20"
-
-**2026-03-17** — merged PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
-
-**2026-03-17** — closed PR [#2608](https://github.com/slackhq/circuit/pull/2608) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.3.20"
-
-**2026-03-17** — merged PR [#2006](https://github.com/ZacSweers/metro/pull/2006) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More formatting work"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
