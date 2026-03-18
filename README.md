@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-18** — commented on [#2008](https://github.com/ZacSweers/metro/pull/2008#issuecomment-4085107747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-18** — merged PR [#2009](https://github.com/ZacSweers/metro/pull/2009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,10 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-18** — merged PR [#2009](https://github.com/ZacSweers/metro/pull/2009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-17** — opened PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
-
-**2026-03-17** — created branch `z/2320Main` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-17** — merged PR [#2531](https://github.com/slackhq/circuit/pull/2531) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.3.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
