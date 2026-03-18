@@ -4,9 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
+
 **2026-03-18** — merged PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
 
-**2026-03-18** — opened PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
+**2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
 
 **2026-03-18** — created branch `z/deprecateAssisted` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-18** — created branch `z/fixBenchmarkChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-18** — merged PR [#2011](https://github.com/ZacSweers/metro/pull/2011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small suppressions"
-
-**2026-03-18** — merged PR [#2320](https://github.com/ZacSweers/CatchUp/pull/2320) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to AGP 9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
