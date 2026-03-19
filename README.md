@@ -17,10 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
 
 **2026-03-18** — created branch `z/deprecateAssisted` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-18** — merged PR [#2012](https://github.com/ZacSweers/metro/pull/2012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Put metro.base on the benchmarks classpath"
-
-**2026-03-18** — closed issue [#2005](https://github.com/ZacSweers/metro/issues/2005) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate multibinding source errors when using createDynamicGraphFactory intrinsic"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
