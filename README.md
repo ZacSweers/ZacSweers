@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
 
 **2026-03-18** — merged PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
-
-**2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
