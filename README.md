@@ -4,7 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-19** — opened PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
+**2026-03-19** — merged PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
+
+**2026-03-19** — merged PR [#2024](https://github.com/ZacSweers/metro/pull/2024) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicitClassKey"
+
+**2026-02-13** — closed PR [#1822](https://github.com/ZacSweers/metro/pull/1822) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compiler to JVM target 21"
+
+**2026-03-19** — merged PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
 
 **2026-03-19** — created branch `z/raiseCompilerTarget` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -12,11 +18,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-03-19** — created branch `z/cleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-19** — opened PR [#2024](https://github.com/ZacSweers/metro/pull/2024) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicitClassKey"
+**2026-03-19** — merged PR [#2024](https://github.com/ZacSweers/metro/pull/2024) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicitClassKey"
 
 **2026-03-19** — created branch `z/implicitClassKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-19** — merged PR [#33](https://github.com/ZacSweers/socialteesjs/pull/33) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Restore data + handle bad responses from adoptapet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
