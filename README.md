@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-12-18** — closed PR [#340](https://github.com/ZacSweers/FieldSpottr/pull/340) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "IC hint testing"
+
 **2026-03-20** — merged PR [#2028](https://github.com/ZacSweers/metro/pull/2028) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-20** — merged PR [#2028](https://github.com/ZacSweers/metro/pull/2028) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-03-19** — merged PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
-
-**2026-03-19** — merged PR [#2024](https://github.com/ZacSweers/metro/pull/2024) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicitClassKey"
-
-**2026-02-13** — closed PR [#1822](https://github.com/ZacSweers/metro/pull/1822) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compiler to JVM target 21"
-
-**2026-03-19** — merged PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
-
-**2026-03-19** — created branch `z/raiseCompilerTarget` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-19** — opened PR [#2025](https://github.com/ZacSweers/metro/pull/2025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up deprecated native targets"
-
-**2026-03-19** — created branch `z/cleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
