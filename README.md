@@ -4,19 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-20** — opened PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
+**2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
+
+**2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
 
 **2026-03-20** — created branch `z/newStuff` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-03-20** — merged PR [#2025](https://github.com/ZacSweers/metro/pull/2025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up deprecated native targets"
 
 **2025-12-18** — closed PR [#340](https://github.com/ZacSweers/FieldSpottr/pull/340) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "IC hint testing"
-
-**2026-03-20** — merged PR [#2028](https://github.com/ZacSweers/metro/pull/2028) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-03-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-20** — merged PR [#2028](https://github.com/ZacSweers/metro/pull/2028) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
