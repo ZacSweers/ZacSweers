@@ -4,15 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-19** — merged PR [#33](https://github.com/ZacSweers/socialteesjs/pull/33) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Restore data + handle bad responses from adoptapet"
+**2026-03-19** — opened PR [#2026](https://github.com/ZacSweers/metro/pull/2026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise compiler JVM target to 21"
+
+**2026-03-19** — created branch `z/raiseCompilerTarget` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-19** — opened PR [#2025](https://github.com/ZacSweers/metro/pull/2025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up deprecated native targets"
+
+**2026-03-19** — created branch `z/cleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-19** — opened PR [#2024](https://github.com/ZacSweers/metro/pull/2024) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicitClassKey"
+
+**2026-03-19** — created branch `z/implicitClassKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-19** — merged PR [#33](https://github.com/ZacSweers/socialteesjs/pull/33) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Restore data + handle bad responses from adoptapet"
-
-**2026-03-19** — created branch `z/fix` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
-
-**2026-03-18** — merged PR [#2013](https://github.com/ZacSweers/metro/pull/2013) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fully deprecate `Assisted.value`"
-
-**2026-03-18** — merged PR [#2007](https://github.com/ZacSweers/metro/pull/2007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.3.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
