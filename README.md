@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-21** — closed issue [#2029](https://github.com/ZacSweers/metro/issues/2029) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IntoSet and IntoMap have an allowed target of `CLASS` when they do not apply"
+
+**2026-03-21** — closed issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
+
+**2026-03-21** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4103617516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-20** — commented on [#1788](https://github.com/slackhq/foundry/pull/1788#issuecomment-4101783375) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
