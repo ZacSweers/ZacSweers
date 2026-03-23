@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-22** — commented on [#2032](https://github.com/ZacSweers/metro/pull/2032#issuecomment-4107801955) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-22** — merged PR [#2184](https://github.com/slackhq/circuit/pull/2184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add iOS support to STAR sample"
 
 **2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
@@ -11,14 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
 
 **2026-03-22** — created branch `z/moreStuff` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-03-21** — closed issue [#2029](https://github.com/ZacSweers/metro/issues/2029) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IntoSet and IntoMap have an allowed target of `CLASS` when they do not apply"
-
-**2026-03-21** — closed issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
-
-**2026-03-21** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4103617516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-20** — commented on [#1788](https://github.com/slackhq/foundry/pull/1788#issuecomment-4101783375) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
