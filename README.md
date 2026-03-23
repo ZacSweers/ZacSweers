@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
+
+**2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
+
+**2026-03-22** — created branch `z/moreStuff` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-03-21** — closed issue [#2029](https://github.com/ZacSweers/metro/issues/2029) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IntoSet and IntoMap have an allowed target of `CLASS` when they do not apply"
 
 **2026-03-21** — closed issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
@@ -17,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
 
 **2026-03-20** — created branch `z/newStuff` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-03-20** — merged PR [#2025](https://github.com/ZacSweers/metro/pull/2025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up deprecated native targets"
-
-**2025-12-18** — closed PR [#340](https://github.com/ZacSweers/FieldSpottr/pull/340) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "IC hint testing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
