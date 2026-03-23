@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-22** — merged PR [#2184](https://github.com/slackhq/circuit/pull/2184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add iOS support to STAR sample"
+
 **2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
 
 **2026-03-22** — merged PR [#416](https://github.com/ZacSweers/FieldSpottr/pull/416) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bunch of UI tweaks"
@@ -17,12 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-21** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4103617516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-20** — commented on [#1788](https://github.com/slackhq/foundry/pull/1788#issuecomment-4101783375) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
-
-**2026-03-20** — merged PR [#414](https://github.com/ZacSweers/FieldSpottr/pull/414) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add St. Vartan Park, UI tweaks"
-
-**2026-03-20** — created branch `z/newStuff` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
