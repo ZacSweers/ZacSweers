@@ -4,21 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-23** — opened PR [#2039](https://github.com/ZacSweers/metro/pull/2039) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add support for testing IJ prereleases"
+
+**2026-03-23** — created branch `z/moreIJcaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-23** — merged PR [#2038](https://github.com/ZacSweers/metro/pull/2038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update gradle/actions action to v6"
+
+**2026-03-23** — created branch `renovate/gradle-actions-6.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-23** — merged PR [#2037](https://github.com/ZacSweers/metro/pull/2037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.4.0 support"
 
 **2026-03-23** — commented on [#2034](https://github.com/ZacSweers/metro/pull/2034#issuecomment-4113501068) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-23** — commented on [#2038](https://github.com/ZacSweers/metro/pull/2038#issuecomment-4113424772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-23** — closed PR [#2038](https://github.com/ZacSweers/metro/pull/2038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update gradle/actions action to v6"
+**2026-03-23** — merged PR [#2038](https://github.com/ZacSweers/metro/pull/2038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update gradle/actions action to v6"
 
 **2026-03-23** — merged PR [#2037](https://github.com/ZacSweers/metro/pull/2037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.4.0 support"
 
 **2026-03-23** — created branch `z/update240dev` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-23** — commented on [#2036](https://github.com/ZacSweers/metro/pull/2036#issuecomment-4111091838) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-22** — commented on [#2032](https://github.com/ZacSweers/metro/pull/2032#issuecomment-4107801955) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
