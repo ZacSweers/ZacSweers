@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-23** — commented on [#2036](https://github.com/ZacSweers/metro/pull/2036#issuecomment-4111091838) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-22** — commented on [#2032](https://github.com/ZacSweers/metro/pull/2032#issuecomment-4107801955) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-22** — merged PR [#2184](https://github.com/slackhq/circuit/pull/2184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add iOS support to STAR sample"
