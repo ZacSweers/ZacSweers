@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-24** — opened PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
+
+**2026-03-24** — created branch `z/defaultBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-24** — unlabeled issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
 
 **2026-03-23** — merged PR [#418](https://github.com/ZacSweers/FieldSpottr/pull/418) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Better transitions"
