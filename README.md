@@ -17,10 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-23** — merged PR [#2039](https://github.com/ZacSweers/metro/pull/2039) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add support for testing IJ prereleases"
 
 **2026-03-23** — created branch `z/moreIJcaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-23** — merged PR [#2038](https://github.com/ZacSweers/metro/pull/2038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update gradle/actions action to v6"
-
-**2026-03-23** — created branch `renovate/gradle-actions-6.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
