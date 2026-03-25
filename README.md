@@ -4,17 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-24** — merged PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
+**2026-03-25** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-4128075613) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-25** — commented on [#1207](https://github.com/ZacSweers/metro/issues/1207#issuecomment-4128070923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-25** — closed issue [#1207](https://github.com/ZacSweers/metro/issues/1207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable JS tests in compiler-tests"
+
+**2026-03-25** — opened issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
+
+**2026-03-25** — closed issue [#999](https://github.com/ZacSweers/metro/issues/999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate simplifying contributing multiple bindings with less code"
+
+**2026-03-25** — commented on [#999](https://github.com/ZacSweers/metro/issues/999#issuecomment-4128016787) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
+
+**2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
+
+**2026-03-25** — opened issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 
 **2026-03-24** — merged PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
-
-**2026-03-24** — created branch `z/defaultBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-24** — unlabeled issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
-
-**2026-03-23** — merged PR [#418](https://github.com/ZacSweers/FieldSpottr/pull/418) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Better transitions"
-
-**2026-03-23** — commented on [#98](https://github.com/ZacSweers/anvil/pull/98#issuecomment-4115001283) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
