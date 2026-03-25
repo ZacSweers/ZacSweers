@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-24** — opened PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
+**2026-03-24** — merged PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
+
+**2026-03-24** — merged PR [#2044](https://github.com/ZacSweers/metro/pull/2044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DefaultBinding"
 
 **2026-03-24** — created branch `z/defaultBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -13,12 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-23** — merged PR [#418](https://github.com/ZacSweers/FieldSpottr/pull/418) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Better transitions"
 
 **2026-03-23** — commented on [#98](https://github.com/ZacSweers/anvil/pull/98#issuecomment-4115001283) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2026-03-23** — merged PR [#2039](https://github.com/ZacSweers/metro/pull/2039) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add support for testing IJ prereleases"
-
-**2026-03-23** — merged PR [#418](https://github.com/ZacSweers/FieldSpottr/pull/418) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Better transitions"
-
-**2026-03-23** — created branch `z/betterTransition` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
