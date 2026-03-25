@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 
 **2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
-
-**2026-03-25** — opened issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
