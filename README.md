@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-25** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-4128075613) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-25** — commented on [#1207](https://github.com/ZacSweers/metro/issues/1207#issuecomment-4128070923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-25** — closed issue [#1207](https://github.com/ZacSweers/metro/issues/1207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable JS tests in compiler-tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
