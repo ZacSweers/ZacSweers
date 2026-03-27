@@ -4,21 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-27** — merged PR [#2054](https://github.com/ZacSweers/metro/pull/2054) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-03-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-27** — merged PR [#2054](https://github.com/ZacSweers/metro/pull/2054) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-03-25** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-4128075613) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-25** — commented on [#1207](https://github.com/ZacSweers/metro/issues/1207#issuecomment-4128070923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-25** — closed issue [#1207](https://github.com/ZacSweers/metro/issues/1207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable JS tests in compiler-tests"
-
-**2026-03-25** — opened issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
-
-**2026-03-25** — closed issue [#999](https://github.com/ZacSweers/metro/issues/999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate simplifying contributing multiple bindings with less code"
-
-**2026-03-25** — commented on [#999](https://github.com/ZacSweers/metro/issues/999#issuecomment-4128016787) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
-
-**2026-03-25** — labeled issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
