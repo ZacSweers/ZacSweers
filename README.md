@@ -4,11 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-28** — commented on [#2059](https://github.com/ZacSweers/metro/pull/2059#issuecomment-4148423427) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-27** — opened PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
 
 **2026-03-27** — created branch `z/topLevelProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-27** — commented on [#2052](https://github.com/ZacSweers/metro/pull/2052#issuecomment-4144253176) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
