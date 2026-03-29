@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-29** — opened PR [#2068](https://github.com/ZacSweers/metro/pull/2068) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid lockup in AA"
+
+**2026-03-29** — created branch `z/lazySessions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-29** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4150937346) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-29** — reopened issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
+
+**2026-03-29** — opened PR [#421](https://github.com/ZacSweers/FieldSpottr/pull/421) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix staleness handling for local areas"
+
+**2026-03-29** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-03-28** — opened PR [#2065](https://github.com/ZacSweers/metro/pull/2065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to coreLibrariesVersion"
 
 **2026-03-28** — created branch `z/coreLibrariesVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-28** — closed issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 
 **2026-03-28** — merged PR [#2062](https://github.com/ZacSweers/metro/pull/2062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support Kotlin JS FIR gen"
-
-**2026-03-28** — opened PR [#2064](https://github.com/ZacSweers/metro/pull/2064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated options/gradle props"
-
-**2026-03-28** — created branch `z/removeDeprecations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-28** — opened PR [#2063](https://github.com/ZacSweers/metro/pull/2063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Assisted.value"
-
-**2026-03-28** — created branch `z/removeAssistedValue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-28** — merged PR [#2062](https://github.com/ZacSweers/metro/pull/2062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support Kotlin JS FIR gen"
-
-**2026-03-28** — created branch `z/jsIC` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
