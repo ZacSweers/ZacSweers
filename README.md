@@ -4,13 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-28** — merged PR [#2061](https://github.com/ZacSweers/metro/pull/2061) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update multiplatform docs"
+**2026-03-28** — opened PR [#2065](https://github.com/ZacSweers/metro/pull/2065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to coreLibrariesVersion"
 
-**2026-03-28** — merged PR [#2061](https://github.com/ZacSweers/metro/pull/2061) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update multiplatform docs"
+**2026-03-28** — created branch `z/coreLibrariesVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-28** — created branch `z/updatesMultiplatformDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-28** — closed issue [#2045](https://github.com/ZacSweers/metro/issues/2045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable top level FIR gen in JS"
 
-**2026-03-28** — commented on [#2060](https://github.com/ZacSweers/metro/pull/2060#issuecomment-4148839034) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-03-28** — merged PR [#2062](https://github.com/ZacSweers/metro/pull/2062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support Kotlin JS FIR gen"
+
+**2026-03-28** — opened PR [#2064](https://github.com/ZacSweers/metro/pull/2064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated options/gradle props"
+
+**2026-03-28** — created branch `z/removeDeprecations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-28** — opened PR [#2063](https://github.com/ZacSweers/metro/pull/2063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Assisted.value"
+
+**2026-03-28** — created branch `z/removeAssistedValue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-28** — merged PR [#2062](https://github.com/ZacSweers/metro/pull/2062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support Kotlin JS FIR gen"
+
+**2026-03-28** — created branch `z/jsIC` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
