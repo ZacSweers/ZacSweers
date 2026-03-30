@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-30** — Could not load GitHub activity. Please check back later.
+**2026-03-29** — closed issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
+
+**2026-03-29** — merged PR [#2068](https://github.com/ZacSweers/metro/pull/2068) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid lockup in AA"
+
+**2026-03-29** — merged PR [#2068](https://github.com/ZacSweers/metro/pull/2068) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid lockup in AA"
+
+**2026-03-29** — created branch `z/lazySessions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-29** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4150937346) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-29** — reopened issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
+
+**2026-03-29** — opened PR [#421](https://github.com/ZacSweers/FieldSpottr/pull/421) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix staleness handling for local areas"
+
+**2026-03-29** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-03-28** — opened PR [#2065](https://github.com/ZacSweers/metro/pull/2065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to coreLibrariesVersion"
+
+**2026-03-28** — created branch `z/coreLibrariesVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
