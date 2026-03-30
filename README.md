@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-30** — merged PR [#2064](https://github.com/ZacSweers/metro/pull/2064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated options/gradle props"
+
+**2026-03-30** — merged PR [#2070](https://github.com/ZacSweers/metro/pull/2070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "(temp) revert DefaultBinding""
+
 **2026-03-30** — merged PR [#421](https://github.com/ZacSweers/FieldSpottr/pull/421) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix staleness handling for local areas"
 
 **2026-03-30** — closed issue [#132](https://github.com/ZacSweers/metro/issues/132) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generics in top-level function injection"
@@ -14,15 +18,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-03-30** — created branch `z/genericTopLevel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-03-30** — opened PR [#2070](https://github.com/ZacSweers/metro/pull/2070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "(temp) revert DefaultBinding""
+**2026-03-30** — merged PR [#2070](https://github.com/ZacSweers/metro/pull/2070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "(temp) revert DefaultBinding""
 
 **2026-03-30** — created branch `revert-2069-z/revertTemp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-30** — created branch `z/revertTemp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-30** — merged PR [#2069](https://github.com/ZacSweers/metro/pull/2069) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "(temp) revert DefaultBinding"
-
-**2026-03-30** — merged PR [#2069](https://github.com/ZacSweers/metro/pull/2069) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "(temp) revert DefaultBinding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
