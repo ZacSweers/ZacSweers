@@ -4,15 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-30** — closed issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
+
+**2026-03-30** — merged PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
+
 **2026-03-30** — closed issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
 
 **2026-03-30** — merged PR [#2063](https://github.com/ZacSweers/metro/pull/2063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Assisted.value"
 
 **2026-03-30** — merged PR [#2064](https://github.com/ZacSweers/metro/pull/2064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated options/gradle props"
-
-**2026-03-30** — merged PR [#2070](https://github.com/ZacSweers/metro/pull/2070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "(temp) revert DefaultBinding""
-
-**2026-03-30** — merged PR [#421](https://github.com/ZacSweers/FieldSpottr/pull/421) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix staleness handling for local areas"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
