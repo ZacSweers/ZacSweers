@@ -4,25 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-03-30** — opened PR [#2069](https://github.com/ZacSweers/metro/pull/2069) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "(temp) revert DefaultBinding"
+**2026-03-30** — opened PR [#2071](https://github.com/ZacSweers/metro/pull/2071) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generics in top-level function inject"
+
+**2026-03-30** — created branch `z/genericTopLevel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-30** — opened PR [#2070](https://github.com/ZacSweers/metro/pull/2070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "(temp) revert DefaultBinding""
+
+**2026-03-30** — created branch `revert-2069-z/revertTemp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-30** — created branch `z/revertTemp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-03-30** — merged PR [#2069](https://github.com/ZacSweers/metro/pull/2069) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "(temp) revert DefaultBinding"
+
+**2026-03-30** — merged PR [#2069](https://github.com/ZacSweers/metro/pull/2069) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "(temp) revert DefaultBinding"
 
 **2026-03-30** — created branch `z/revertTemp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-29** — closed issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
-
-**2026-03-29** — merged PR [#2068](https://github.com/ZacSweers/metro/pull/2068) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid lockup in AA"
-
-**2026-03-29** — merged PR [#2068](https://github.com/ZacSweers/metro/pull/2068) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid lockup in AA"
-
-**2026-03-29** — created branch `z/lazySessions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-29** — commented on [#2031](https://github.com/ZacSweers/metro/issues/2031#issuecomment-4150937346) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-03-29** — reopened issue [#2031](https://github.com/ZacSweers/metro/issues/2031) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Android Studio is not responding""
-
-**2026-03-29** — opened PR [#421](https://github.com/ZacSweers/FieldSpottr/pull/421) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix staleness handling for local areas"
-
-**2026-03-29** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
