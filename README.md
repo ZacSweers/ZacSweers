@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-31** — opened PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
+
+**2026-03-31** — created branch `z/revampNav` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-03-30** — closed issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
 
 **2026-03-30** — merged PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
