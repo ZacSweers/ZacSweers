@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-30** — merged PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
 
 **2026-03-30** — closed issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
-
-**2026-03-30** — merged PR [#2063](https://github.com/ZacSweers/metro/pull/2063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Assisted.value"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
