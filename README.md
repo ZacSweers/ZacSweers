@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
+
+**2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
+
+**2026-03-31** — created branch `z/betterHandleCrashes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
 
 **2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-30** — closed issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
 
 **2026-03-30** — merged PR [#2063](https://github.com/ZacSweers/metro/pull/2063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Assisted.value"
-
-**2026-03-30** — merged PR [#2064](https://github.com/ZacSweers/metro/pull/2064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated options/gradle props"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
