@@ -15,10 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
 
 **2026-03-31** — created branch `z/betterHandleCrashes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
-
-**2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
