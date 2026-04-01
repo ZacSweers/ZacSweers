@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-31** — opened PR [#2075](https://github.com/ZacSweers/metro/pull/2075) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.0-Beta1"
+
+**2026-03-31** — created branch `z/240beta1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-03-31** — opened PR [#2074](https://github.com/ZacSweers/metro/pull/2074) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code gen"
 
 **2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-31** — created branch `z/revampNav` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-03-30** — closed issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
-
-**2026-03-30** — merged PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
