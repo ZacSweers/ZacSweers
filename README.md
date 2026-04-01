@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
 
 **2026-03-31** — merged PR [#423](https://github.com/ZacSweers/FieldSpottr/pull/423) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More work"
-
-**2026-03-31** — created branch `z/revampNav` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
