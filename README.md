@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-03-31** — opened PR [#2074](https://github.com/ZacSweers/metro/pull/2074) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code gen"
+
 **2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
 
 **2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
@@ -19,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-03-30** — closed issue [#98](https://github.com/ZacSweers/metro/issues/98) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explore IC optimizations for `@Contributes*Binding`"
 
 **2026-03-30** — merged PR [#2057](https://github.com/ZacSweers/metro/pull/2057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Top-level contribution providers"
-
-**2026-03-30** — closed issue [#2046](https://github.com/ZacSweers/metro/issues/2046) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove deprecated Assisted.value"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
