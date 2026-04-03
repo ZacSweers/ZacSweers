@@ -4,17 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-03** — merged PR [#2077](https://github.com/ZacSweers/metro/pull/2077) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-04-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-03** — merged PR [#2077](https://github.com/ZacSweers/metro/pull/2077) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-03-31** — opened PR [#2075](https://github.com/ZacSweers/metro/pull/2075) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.0-Beta1"
 
 **2026-03-31** — created branch `z/240beta1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-03-31** — opened PR [#2074](https://github.com/ZacSweers/metro/pull/2074) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code gen"
-
-**2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
-
-**2026-03-31** — merged PR [#424](https://github.com/ZacSweers/FieldSpottr/pull/424) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Bundle app version with local cache updates"
-
-**2026-03-31** — created branch `z/betterHandleCrashes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
