@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-04** — merged PR [#2079](https://github.com/ZacSweers/metro/pull/2079) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-04-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-04** — merged PR [#2079](https://github.com/ZacSweers/metro/pull/2079) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-04-03** — commented on [#453](https://github.com/ZacSweers/kotlin-compile-testing/pull/453#issuecomment-4185981142) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-04-03** — opened PR [#453](https://github.com/ZacSweers/kotlin-compile-testing/pull/453) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "2.4.0-Beta1"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-03** — merged PR [#2074](https://github.com/ZacSweers/metro/pull/2074) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code gen"
 
 **2026-04-03** — opened PR [#885](https://github.com/ZacSweers/MoshiX/pull/885) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlin 2.4.0"
-
-**2026-04-03** — created branch `z/k240` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
