@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-05** — Could not load GitHub activity. Please check back later.
+**2026-04-05** — opened PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
+
+**2026-04-05** — created branch `z/metroCircuit` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-04-05** — merged PR [#426](https://github.com/ZacSweers/FieldSpottr/pull/426) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Enable circuit code gen in metro"
+
+**2026-04-05** — merged PR [#426](https://github.com/ZacSweers/FieldSpottr/pull/426) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Enable circuit code gen in metro"
+
+**2026-04-05** — created branch `z/circuitCodeGen` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-04-04** — opened PR [#2081](https://github.com/ZacSweers/metro/pull/2081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
+**2026-04-04** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
+
+**2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
+
+**2026-04-04** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
