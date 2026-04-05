@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-05** — commented on [#2083](https://github.com/ZacSweers/metro/issues/2083#issuecomment-4188896253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-05** — opened PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
 
 **2026-04-05** — created branch `z/metroCircuit` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
 
 **2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
-
-**2026-04-04** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
