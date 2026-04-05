@@ -4,7 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-05** — opened PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
+**2026-04-05** — closed issue [#2086](https://github.com/ZacSweers/metro/issues/2086) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code-gen factories not found across modules"
+
+**2026-04-05** — merged PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
+
+**2026-04-05** — merged PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
 
 **2026-04-05** — created branch `z/fixCircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-05** — opened PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
 
 **2026-04-05** — created branch `z/metroCircuit` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-04-05** — merged PR [#426](https://github.com/ZacSweers/FieldSpottr/pull/426) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Enable circuit code gen in metro"
-
-**2026-04-05** — merged PR [#426](https://github.com/ZacSweers/FieldSpottr/pull/426) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Enable circuit code gen in metro"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
