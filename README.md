@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-04** — opened PR [#2081](https://github.com/ZacSweers/metro/pull/2081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
+**2026-04-04** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
+
+**2026-04-04** — merged PR [#2080](https://github.com/ZacSweers/metro/pull/2080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More diagnostics cleanup"
+
+**2026-04-04** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-04** — commented on [#1571](https://github.com/ZacSweers/metro/issues/1571#issuecomment-4188066052) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-04** — closed issue [#1571](https://github.com/ZacSweers/metro/issues/1571) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin Inject interop: crash when using val for provides"
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-04** — merged PR [#2079](https://github.com/ZacSweers/metro/pull/2079) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-04-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-04** — merged PR [#2079](https://github.com/ZacSweers/metro/pull/2079) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-03** — commented on [#453](https://github.com/ZacSweers/kotlin-compile-testing/pull/453#issuecomment-4185981142) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-04-03** — opened PR [#453](https://github.com/ZacSweers/kotlin-compile-testing/pull/453) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "2.4.0-Beta1"
-
-**2026-04-03** — created branch `z/k240` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-04-03** — opened PR [#405](https://github.com/ZacSweers/redacted-compiler-plugin/pull/405) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
