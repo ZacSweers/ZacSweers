@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192350512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192338483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-06** — opened PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
 
 **2026-04-06** — created branch `z/improveContributionDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-05** — merged PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
 
 **2026-04-05** — created branch `z/topLevelContributionsFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-05** — closed issue [#2086](https://github.com/ZacSweers/metro/issues/2086) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code-gen factories not found across modules"
-
-**2026-04-05** — merged PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
