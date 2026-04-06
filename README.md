@@ -4,7 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-06** — opened PR [#2370](https://github.com/ZacSweers/CatchUp/pull/2370) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Move to contribution providers"
+**2026-04-06** — closed issue [#2093](https://github.com/ZacSweers/metro/issues/2093) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`MissingBinding` error gives no hint when caused by `internal` `@ContributesTo` declaration"
+
+**2026-04-06** — commented on [#2093](https://github.com/ZacSweers/metro/issues/2093#issuecomment-4194781773) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-06** — merged PR [#2370](https://github.com/ZacSweers/CatchUp/pull/2370) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Move to contribution providers"
+
+**2026-04-06** — merged PR [#2370](https://github.com/ZacSweers/CatchUp/pull/2370) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Move to contribution providers"
 
 **2026-04-06** — created branch `z/functionProvides` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
 
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4194091556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — created branch `z/implicitClassKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — merged PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
-
-**2026-04-06** — labeled issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
