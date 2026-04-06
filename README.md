@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — closed issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
+
+**2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
+
+**2026-04-06** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4194121818) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
+
+**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4194091556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-06** — created branch `z/implicitClassKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-06** — merged PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
 
 **2026-04-06** — labeled issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4193564343) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-06** — merged PR [#2091](https://github.com/ZacSweers/metro/pull/2091) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit return type handling in Circuit handling"
-
-**2026-04-06** — merged PR [#2091](https://github.com/ZacSweers/metro/pull/2091) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit return type handling in Circuit handling"
-
-**2026-04-06** — created branch `z/circuitFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — commented on [#2083](https://github.com/ZacSweers/metro/issues/2083#issuecomment-4192804850) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192350512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192338483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — opened PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
