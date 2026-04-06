@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — labeled issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
+
+**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4193564343) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-06** — merged PR [#2091](https://github.com/ZacSweers/metro/pull/2091) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit return type handling in Circuit handling"
 
 **2026-04-06** — merged PR [#2091](https://github.com/ZacSweers/metro/pull/2091) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit return type handling in Circuit handling"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — opened PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
 
 **2026-04-06** — created branch `z/improveContributionDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-06** — closed issue [#2083](https://github.com/ZacSweers/metro/issues/2083) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception: Could not close incremental caches when using generateContributionProviders"
-
-**2026-04-06** — closed issue [#2082](https://github.com/ZacSweers/metro/issues/2082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Error when using `@Contributes*` on an `@AssistedFactory` with `generateContributionProviders` enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
