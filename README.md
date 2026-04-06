@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-05** — opened PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
+**2026-04-06** — opened PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
+
+**2026-04-06** — created branch `z/improveContributionDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-06** — closed issue [#2083](https://github.com/ZacSweers/metro/issues/2083) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception: Could not close incremental caches when using generateContributionProviders"
+
+**2026-04-06** — closed issue [#2082](https://github.com/ZacSweers/metro/issues/2082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Error when using `@Contributes*` on an `@AssistedFactory` with `generateContributionProviders` enabled"
+
+**2026-04-06** — closed issue [#2084](https://github.com/ZacSweers/metro/issues/2084) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Qualifiers getting lost when enabling generateContributionProviders"
+
+**2026-04-06** — merged PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
+
+**2026-04-05** — merged PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
 
 **2026-04-05** — created branch `z/topLevelContributionsFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-05** — closed issue [#2086](https://github.com/ZacSweers/metro/issues/2086) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Circuit code-gen factories not found across modules"
 
 **2026-04-05** — merged PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
-
-**2026-04-05** — merged PR [#2087](https://github.com/ZacSweers/metro/pull/2087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit multi-module contribution hints"
-
-**2026-04-05** — created branch `z/fixCircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-05** — commented on [#2086](https://github.com/ZacSweers/metro/issues/2086#issuecomment-4189320433) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-05** — commented on [#2086](https://github.com/ZacSweers/metro/issues/2086#issuecomment-4189267660) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-05** — commented on [#2083](https://github.com/ZacSweers/metro/issues/2083#issuecomment-4189195124) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-05** — commented on [#2083](https://github.com/ZacSweers/metro/issues/2083#issuecomment-4188896253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
