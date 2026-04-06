@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — merged PR [#1797](https://github.com/slackhq/foundry/pull/1797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for metro's circuit code gen"
+
 **2026-04-06** — labeled issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
 
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4193564343) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192338483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-06** — opened PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
-
-**2026-04-06** — created branch `z/improveContributionDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
