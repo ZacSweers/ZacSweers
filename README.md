@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — commented on [#2083](https://github.com/ZacSweers/metro/issues/2083#issuecomment-4192804850) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192350512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4192338483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — merged PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
 
 **2026-04-05** — merged PR [#2088](https://github.com/ZacSweers/metro/pull/2088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc contributionProviders fixes"
-
-**2026-04-05** — created branch `z/topLevelContributionsFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
