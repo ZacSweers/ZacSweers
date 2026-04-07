@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-07** — commented on [#2101](https://github.com/ZacSweers/metro/issues/2101#issuecomment-4202788004) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4202239414) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-07** — closed issue [#2098](https://github.com/ZacSweers/metro/issues/2098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hide generated circuit factories in FIR"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4201398296) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-07** — opened issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
-
-**2026-04-07** — opened issue [#2098](https://github.com/ZacSweers/metro/issues/2098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hide generated circuit factories in FIR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
