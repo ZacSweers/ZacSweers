@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-07** — opened issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
+
+**2026-04-07** — opened issue [#2098](https://github.com/ZacSweers/metro/issues/2098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hide generated circuit factories in FIR"
+
 **2026-04-06** — commented on [#2094](https://github.com/ZacSweers/metro/issues/2094#issuecomment-4195990623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-06** — closed issue [#2094](https://github.com/ZacSweers/metro/issues/2094) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesBinding and @AssistedFactory in other modules will not work"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — created branch `z/functionProvides` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2026-04-06** — closed issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
-
-**2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
-
-**2026-04-06** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4194121818) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
