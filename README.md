@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4201398296) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-07** — opened issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
 
 **2026-04-07** — opened issue [#2098](https://github.com/ZacSweers/metro/issues/2098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hide generated circuit factories in FIR"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — merged PR [#2370](https://github.com/ZacSweers/CatchUp/pull/2370) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Move to contribution providers"
 
 **2026-04-06** — created branch `z/functionProvides` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2026-04-06** — closed issue [#2090](https://github.com/ZacSweers/metro/issues/2090) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedFactory for ViewModel not provided when `generateContributionProviders` is enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
