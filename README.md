@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-06** — commented on [#2094](https://github.com/ZacSweers/metro/issues/2094#issuecomment-4195990623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-06** — closed issue [#2094](https://github.com/ZacSweers/metro/issues/2094) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesBinding and @AssistedFactory in other modules will not work"
+
 **2026-04-06** — closed issue [#2093](https://github.com/ZacSweers/metro/issues/2093) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`MissingBinding` error gives no hint when caused by `internal` `@ContributesTo` declaration"
 
 **2026-04-06** — commented on [#2093](https://github.com/ZacSweers/metro/issues/2093#issuecomment-4194781773) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
 
 **2026-04-06** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4194121818) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-04-06** — merged PR [#2092](https://github.com/ZacSweers/metro/pull/2092) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys in contribution providers"
-
-**2026-04-06** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4194091556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
