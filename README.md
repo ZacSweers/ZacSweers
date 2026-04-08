@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207439854) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207436553) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-08** — opened PR [#2107](https://github.com/ZacSweers/metro/pull/2107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test metro in metro"
+
+**2026-04-08** — created branch `z/metroInMetro` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-07** — closed issue [#2095](https://github.com/ZacSweers/metro/issues/2095) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError during IDE indexing when generateContributionProviders is enabled"
 
 **2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4203453277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-07** — created branch `z/test2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-07** — labeled issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
-
-**2026-04-07** — labeled issue [#2095](https://github.com/ZacSweers/metro/issues/2095) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError during IDE indexing when generateContributionProviders is enabled"
-
-**2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4202871439) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — commented on [#2101](https://github.com/ZacSweers/metro/issues/2101#issuecomment-4202788004) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4202239414) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
