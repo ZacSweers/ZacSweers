@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — closed issue [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Missing diagnostics in result when compiling"
+
 **2026-04-08** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4209114261) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4208592330) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-08** — commented on [#2089](https://github.com/ZacSweers/CatchUp/issues/2089#issuecomment-4208092241) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207439854) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207436553) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
