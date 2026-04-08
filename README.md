@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4208592330) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-08** — commented on [#2106](https://github.com/ZacSweers/metro/issues/2106#issuecomment-4208470205) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-08** — closed issue [#2106](https://github.com/ZacSweers/metro/issues/2106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Assisted factories in another module are not actually added to the map when `generateContributionProviders` is enabled"
+
+**2026-04-08** — commented on [#454](https://github.com/ZacSweers/kotlin-compile-testing/pull/454#issuecomment-4208455737) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4208401772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-08** — commented on [#2025](https://github.com/ZacSweers/metro/pull/2025#issuecomment-4208394092) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-08** — commented on [#2089](https://github.com/ZacSweers/CatchUp/issues/2089#issuecomment-4208092241) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207439854) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207436553) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — opened PR [#2107](https://github.com/ZacSweers/metro/pull/2107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test metro in metro"
-
-**2026-04-08** — created branch `z/metroInMetro` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — closed issue [#2095](https://github.com/ZacSweers/metro/issues/2095) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError during IDE indexing when generateContributionProviders is enabled"
-
-**2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4203453277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4203448793) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — opened PR [#2102](https://github.com/ZacSweers/metro/pull/2102) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.21-RC"
-
-**2026-04-07** — created branch `z/test2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
