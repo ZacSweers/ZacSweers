@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-07** — closed issue [#2095](https://github.com/ZacSweers/metro/issues/2095) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError during IDE indexing when generateContributionProviders is enabled"
+
+**2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4203453277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-07** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4203448793) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-07** — opened PR [#2102](https://github.com/ZacSweers/metro/pull/2102) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.21-RC"
 
 **2026-04-07** — created branch `z/test2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-07** — commented on [#2101](https://github.com/ZacSweers/metro/issues/2101#issuecomment-4202788004) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-07** — commented on [#2097](https://github.com/ZacSweers/metro/pull/2097#issuecomment-4202239414) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — closed issue [#2098](https://github.com/ZacSweers/metro/issues/2098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hide generated circuit factories in FIR"
-
-**2026-04-07** — merged PR [#2100](https://github.com/ZacSweers/metro/pull/2100) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Mark generated factories as hidden"
-
-**2026-04-07** — commented on [#2096](https://github.com/ZacSweers/metro/pull/2096#issuecomment-4201709982) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
