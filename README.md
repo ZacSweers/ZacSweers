@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4209114261) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4208592330) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — commented on [#2106](https://github.com/ZacSweers/metro/issues/2106#issuecomment-4208470205) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207439854) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207436553) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-08** — opened PR [#2107](https://github.com/ZacSweers/metro/pull/2107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test metro in metro"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
