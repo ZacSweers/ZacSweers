@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — commented on [#2089](https://github.com/ZacSweers/CatchUp/issues/2089#issuecomment-4208092241) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207439854) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4207436553) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-07** — opened PR [#2102](https://github.com/ZacSweers/metro/pull/2102) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.3.21-RC"
 
 **2026-04-07** — created branch `z/test2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-07** — labeled issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
