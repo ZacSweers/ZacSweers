@@ -4,21 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-09** — closed issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
+
+**2026-04-09** — opened PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
+
+**2026-04-09** — created branch `z/removedetekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-09** — commented on [#2116](https://github.com/ZacSweers/metro/pull/2116#issuecomment-4217076025) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-09** — opened PR [#2647](https://github.com/slackhq/circuit/pull/2647) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.4.0"
 
 **2026-04-09** — created branch `z/k240` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-09** — commented on [#2117](https://github.com/ZacSweers/metro/pull/2117#issuecomment-4215007627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-09** — closed issue [#2113](https://github.com/ZacSweers/metro/issues/2113) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Exception during IR lowering when using private constructor"
-
-**2026-04-09** — merged PR [#2115](https://github.com/ZacSweers/metro/pull/2115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable contribution providers on private constructors"
-
-**2026-04-09** — labeled issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
-
-**2026-04-09** — closed issue [#2104](https://github.com/ZacSweers/metro/issues/2104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE error: Expected FirResolvedTypeRef with ConeKotlinType but was FirUserTypeRefImpl"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
