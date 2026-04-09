@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-09** — merged PR [#2115](https://github.com/ZacSweers/metro/pull/2115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable contribution providers on private constructors"
 
 **2026-04-09** — created branch `z/privateConstructorInContribProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-09** — opened issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
