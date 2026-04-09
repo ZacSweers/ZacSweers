@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-09** — commented on [#2117](https://github.com/ZacSweers/metro/pull/2117#issuecomment-4215007627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-09** — closed issue [#2113](https://github.com/ZacSweers/metro/issues/2113) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Exception during IR lowering when using private constructor"
 
 **2026-04-09** — merged PR [#2115](https://github.com/ZacSweers/metro/pull/2115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable contribution providers on private constructors"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-08** — commented on [#2113](https://github.com/ZacSweers/metro/issues/2113#issuecomment-4211316579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — closed issue [#2110](https://github.com/ZacSweers/metro/issues/2110) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "new circuit codegen support is not 1:1 with circuit's metro codegen"
-
-**2026-04-08** — merged PR [#2112](https://github.com/ZacSweers/metro/pull/2112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support non-injected targets in circuit code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
