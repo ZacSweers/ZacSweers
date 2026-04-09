@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-09** — opened PR [#2647](https://github.com/slackhq/circuit/pull/2647) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.4.0"
+
+**2026-04-09** — created branch `z/k240` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-09** — commented on [#2117](https://github.com/ZacSweers/metro/pull/2117#issuecomment-4215007627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-09** — closed issue [#2113](https://github.com/ZacSweers/metro/issues/2113) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Exception during IR lowering when using private constructor"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-09** — created branch `z/privateConstructorInContribProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-09** — opened issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
-
-**2026-04-08** — commented on [#2113](https://github.com/ZacSweers/metro/issues/2113#issuecomment-4211316579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-08** — closed issue [#2110](https://github.com/ZacSweers/metro/issues/2110) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "new circuit codegen support is not 1:1 with circuit's metro codegen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
