@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-08** — opened PR [#2112](https://github.com/ZacSweers/metro/pull/2112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support non-injected targets in circuit code gen"
+**2026-04-09** — closed issue [#2113](https://github.com/ZacSweers/metro/issues/2113) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Exception during IR lowering when using private constructor"
 
-**2026-04-08** — created branch `z/circuitFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-09** — merged PR [#2115](https://github.com/ZacSweers/metro/pull/2115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable contribution providers on private constructors"
 
-**2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4210870981) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-09** — labeled issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
 
-**2026-04-08** — closed issue [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Missing diagnostics in result when compiling"
+**2026-04-09** — closed issue [#2104](https://github.com/ZacSweers/metro/issues/2104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE error: Expected FirResolvedTypeRef with ConeKotlinType but was FirUserTypeRefImpl"
 
-**2026-04-08** — commented on [#2090](https://github.com/ZacSweers/metro/issues/2090#issuecomment-4209114261) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-09** — merged PR [#2115](https://github.com/ZacSweers/metro/pull/2115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable contribution providers on private constructors"
 
-**2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4208592330) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-09** — created branch `z/privateConstructorInContribProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-08** — commented on [#2106](https://github.com/ZacSweers/metro/issues/2106#issuecomment-4208470205) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-09** — opened issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
 
-**2026-04-08** — closed issue [#2106](https://github.com/ZacSweers/metro/issues/2106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Assisted factories in another module are not actually added to the map when `generateContributionProviders` is enabled"
+**2026-04-08** — commented on [#2113](https://github.com/ZacSweers/metro/issues/2113#issuecomment-4211316579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-08** — commented on [#454](https://github.com/ZacSweers/kotlin-compile-testing/pull/454#issuecomment-4208455737) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2026-04-08** — closed issue [#2110](https://github.com/ZacSweers/metro/issues/2110) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "new circuit codegen support is not 1:1 with circuit's metro codegen"
 
-**2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4208401772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-08** — merged PR [#2112](https://github.com/ZacSweers/metro/pull/2112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support non-injected targets in circuit code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
