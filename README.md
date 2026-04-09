@@ -4,17 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-09** — merged PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
+
+**2026-04-09** — created branch `z/test24dev` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-09** — closed issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
 
-**2026-04-09** — opened PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
+**2026-04-09** — merged PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
 
 **2026-04-09** — created branch `z/removedetekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-04-09** — commented on [#2116](https://github.com/ZacSweers/metro/pull/2116#issuecomment-4217076025) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-09** — opened PR [#2647](https://github.com/slackhq/circuit/pull/2647) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.4.0"
-
-**2026-04-09** — created branch `z/k240` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
