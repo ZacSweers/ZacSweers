@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-08** — opened PR [#2112](https://github.com/ZacSweers/metro/pull/2112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support non-injected targets in circuit code gen"
+
+**2026-04-08** — created branch `z/circuitFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-08** — commented on [#2103](https://github.com/ZacSweers/metro/pull/2103#issuecomment-4210870981) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-08** — closed issue [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Missing diagnostics in result when compiling"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-08** — commented on [#454](https://github.com/ZacSweers/kotlin-compile-testing/pull/454#issuecomment-4208455737) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-04-08** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4208401772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-08** — commented on [#2025](https://github.com/ZacSweers/metro/pull/2025#issuecomment-4208394092) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-08** — commented on [#2089](https://github.com/ZacSweers/CatchUp/issues/2089#issuecomment-4208092241) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
