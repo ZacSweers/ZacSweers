@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-10** — commented on [#2120](https://github.com/ZacSweers/metro/issues/2120#issuecomment-4224919466) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-10** — opened PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
+
+**2026-04-10** — created branch `z/warningMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2023-07-05** — closed PR [#1268](https://github.com/square/kotlinpoet/pull/1268) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support definitely non-nullable types"
+
+**2026-04-10** — closed issue [#2120](https://github.com/ZacSweers/metro/issues/2120) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Multibinding not working properly when generateContributionProviders is enabled"
+
+**2026-04-10** — commented on [#2120](https://github.com/ZacSweers/metro/issues/2120#issuecomment-4224818438) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-10** — commented on [#2120](https://github.com/ZacSweers/metro/issues/2120#issuecomment-4224015635) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -11,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2024-08-15** — closed PR [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Add jackson benchmarks"
-
-**2026-04-09** — commented on [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18#issuecomment-4220041068) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
-
-**2026-04-09** — commented on [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15#issuecomment-4220040499) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
-
-**2023-02-04** — closed PR [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Updated dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
