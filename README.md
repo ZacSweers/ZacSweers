@@ -4,9 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-10** — merged PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
+
 **2026-04-10** — commented on [#2120](https://github.com/ZacSweers/metro/issues/2120#issuecomment-4224919466) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-10** — opened PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
+**2026-04-10** — merged PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
 
 **2026-04-10** — created branch `z/warningMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-04-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
