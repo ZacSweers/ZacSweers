@@ -4,17 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-15** — closed PR [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Add jackson benchmarks"
+
+**2026-04-09** — commented on [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18#issuecomment-4220041068) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
+
+**2026-04-09** — commented on [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15#issuecomment-4220040499) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
+
+**2023-02-04** — closed PR [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Updated dependencies"
+
 **2026-04-09** — merged PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
 
 **2026-04-09** — created branch `z/test24dev` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-09** — closed issue [#2114](https://github.com/ZacSweers/metro/issues/2114) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reconcile how map keys and qualifiers in DefaultBinding type args work with contribution providers"
-
-**2026-04-09** — merged PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
-
-**2026-04-09** — created branch `z/removedetekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-09** — commented on [#2116](https://github.com/ZacSweers/metro/pull/2116#issuecomment-4217076025) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
