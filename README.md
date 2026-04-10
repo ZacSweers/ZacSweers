@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-04-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-10** — merged PR [#2122](https://github.com/ZacSweers/metro/pull/2122) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2024-08-15** — closed PR [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Add jackson benchmarks"
 
 **2026-04-09** — commented on [#18](https://github.com/ZacSweers/json-serialization-benchmarking/pull/18#issuecomment-4220041068) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
