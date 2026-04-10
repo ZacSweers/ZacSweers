@@ -11,10 +11,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-09** — commented on [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15#issuecomment-4220040499) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
 
 **2023-02-04** — closed PR [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15) to [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking): "Updated dependencies"
-
-**2026-04-09** — merged PR [#2648](https://github.com/slackhq/circuit/pull/2648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove detekt"
-
-**2026-04-09** — created branch `z/test24dev` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
