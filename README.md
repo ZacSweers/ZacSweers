@@ -4,7 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-10** — opened PR [#2129](https://github.com/ZacSweers/metro/pull/2129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor allSessions handling to better prevent lockups"
+**2026-04-10** — closed issue [#2128](https://github.com/ZacSweers/metro/issues/2128) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Audit eager allSessions use"
+
+**2026-04-10** — merged PR [#2129](https://github.com/ZacSweers/metro/pull/2129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor allSessions handling to better prevent lockups"
+
+**2026-04-10** — merged PR [#2129](https://github.com/ZacSweers/metro/pull/2129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor allSessions handling to better prevent lockups"
 
 **2026-04-10** — created branch `z/moreAllSessions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -13,16 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-10** — opened PR [#2650](https://github.com/slackhq/circuit/pull/2650) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract build-logic + migrate to AGP 9"
 
 **2026-04-10** — created branch `z/buildLogic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-10** — merged PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
-
-**2026-04-10** — commented on [#2120](https://github.com/ZacSweers/metro/issues/2120#issuecomment-4224919466) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-10** — merged PR [#2123](https://github.com/ZacSweers/metro/pull/2123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add accessors to exposeimpl diagnostic tests"
-
-**2026-04-10** — created branch `z/warningMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2023-07-05** — closed PR [#1268](https://github.com/square/kotlinpoet/pull/1268) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support definitely non-nullable types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
