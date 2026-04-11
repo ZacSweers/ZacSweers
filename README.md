@@ -5,18 +5,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2026-04-10** — closed issue [#2128](https://github.com/ZacSweers/metro/issues/2128) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Audit eager allSessions use"
-
-**2026-04-10** — merged PR [#2129](https://github.com/ZacSweers/metro/pull/2129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor allSessions handling to better prevent lockups"
-
-**2026-04-10** — merged PR [#2129](https://github.com/ZacSweers/metro/pull/2129) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor allSessions handling to better prevent lockups"
-
-**2026-04-10** — created branch `z/moreAllSessions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-10** — opened issue [#2128](https://github.com/ZacSweers/metro/issues/2128) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Audit eager allSessions use"
-
-**2026-04-10** — opened PR [#2650](https://github.com/slackhq/circuit/pull/2650) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract build-logic + migrate to AGP 9"
-
-**2026-04-10** — created branch `z/buildLogic` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
