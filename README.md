@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-11** — commented on [#2131](https://github.com/ZacSweers/metro/pull/2131#issuecomment-4230105526) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-11** — commented on [#1771](https://github.com/ZacSweers/metro/pull/1771#issuecomment-4230103216) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-11** — opened PR [#2132](https://github.com/ZacSweers/metro/pull/2132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for duplicate circuitinject factories"
 
 **2026-04-11** — created branch `z/dupeFactories` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
