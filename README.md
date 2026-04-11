@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-10** — closed issue [#2128](https://github.com/ZacSweers/metro/issues/2128) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Audit eager allSessions use"
+**2026-04-11** — opened PR [#2132](https://github.com/ZacSweers/metro/pull/2132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for duplicate circuitinject factories"
+
+**2026-04-11** — created branch `z/dupeFactories` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
