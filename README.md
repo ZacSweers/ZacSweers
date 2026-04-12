@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-12** — closed issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
+
+**2026-04-12** — merged PR [#2132](https://github.com/ZacSweers/metro/pull/2132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for duplicate circuitinject factories"
+
 **2026-02-26** — closed PR [#1871](https://github.com/ZacSweers/metro/pull/1871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce `@ContributesTemplate` meta-annotation"
 
 **2026-04-12** — commented on [#1871](https://github.com/ZacSweers/metro/pull/1871#issuecomment-4230873183) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,10 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-11** — commented on [#2131](https://github.com/ZacSweers/metro/pull/2131#issuecomment-4230105526) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-11** — commented on [#1771](https://github.com/ZacSweers/metro/pull/1771#issuecomment-4230103216) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-11** — opened PR [#2132](https://github.com/ZacSweers/metro/pull/2132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for duplicate circuitinject factories"
-
-**2026-04-11** — created branch `z/dupeFactories` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
