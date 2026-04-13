@@ -5,10 +5,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2026-04-12** — merged PR [#2081](https://github.com/ZacSweers/metro/pull/2081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-04-12** — closed issue [#2099](https://github.com/ZacSweers/metro/issues/2099) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Detect duplicate circuit factory names"
-
-**2026-04-12** — merged PR [#2132](https://github.com/ZacSweers/metro/pull/2132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for duplicate circuitinject factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
