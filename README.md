@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-13** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4239219898) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-13** — merged PR [#2650](https://github.com/slackhq/circuit/pull/2650) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract build-logic + migrate to AGP 9"
+
 **2026-04-13** — created branch `z/240failureRepro` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-13** — opened PR [#2136](https://github.com/ZacSweers/metro/pull/2136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stabilization"
@@ -15,12 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-13** — merged PR [#2135](https://github.com/ZacSweers/metro/pull/2135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small cleanup"
 
 **2026-04-13** — merged PR [#2135](https://github.com/ZacSweers/metro/pull/2135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small cleanup"
-
-**2026-04-13** — merged PR [#2134](https://github.com/ZacSweers/metro/pull/2134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't support inject-less circuitinject classes"
-
-**2026-04-13** — created branch `z/circuitChanges` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
