@@ -15,8 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-13** — created branch `z/stabilization` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-13** — merged PR [#2134](https://github.com/ZacSweers/metro/pull/2134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't support inject-less circuitinject classes"
-
-**2026-04-13** — merged PR [#2135](https://github.com/ZacSweers/metro/pull/2135) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
