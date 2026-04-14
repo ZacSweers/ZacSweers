@@ -4,23 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-14** — closed issue [#2137](https://github.com/ZacSweers/metro/issues/2137) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders crashes Kotlin/Native ObjC export when module is export()ed in framework"
+
+**2026-04-14** — merged PR [#2138](https://github.com/ZacSweers/metro/pull/2138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate `@HiddenFromObjC` to more places"
+
+**2026-04-14** — unlabeled issue [#2137](https://github.com/ZacSweers/metro/issues/2137) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders crashes Kotlin/Native ObjC export when module is export()ed in framework"
+
+**2026-04-14** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4241412255) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-14** — merged PR [#2138](https://github.com/ZacSweers/metro/pull/2138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate `@HiddenFromObjC` to more places"
+
+**2026-04-14** — created branch `z/moreHiddenObjc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-14** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4241381450) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-13** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4240110246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-13** — labeled issue [#2137](https://github.com/ZacSweers/metro/issues/2137) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders crashes Kotlin/Native ObjC export when module is export()ed in framework"
 
 **2026-04-13** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4239958813) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — commented on [#2105](https://github.com/ZacSweers/metro/pull/2105#issuecomment-4239219898) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — merged PR [#2650](https://github.com/slackhq/circuit/pull/2650) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract build-logic + migrate to AGP 9"
-
-**2026-04-13** — created branch `z/240failureRepro` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — opened PR [#2136](https://github.com/ZacSweers/metro/pull/2136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stabilization"
-
-**2026-04-13** — created branch `z/stabilization` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — merged PR [#2134](https://github.com/ZacSweers/metro/pull/2134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't support inject-less circuitinject classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
