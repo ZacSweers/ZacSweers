@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-14** — merged PR [#2143](https://github.com/ZacSweers/metro/pull/2143) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "MetroSort cleanup"
+
+**2026-04-14** — merged PR [#2143](https://github.com/ZacSweers/metro/pull/2143) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "MetroSort cleanup"
+
 **2026-04-14** — created branch `z/graphCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-14** — commented on [#2141](https://github.com/ZacSweers/metro/issues/2141#issuecomment-4245242769) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,12 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-14** — closed issue [#2141](https://github.com/ZacSweers/metro/issues/2141) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro warns about false positive explicit `@ClassKey` on internal declaration"
 
 **2026-04-14** — commented on [#2141](https://github.com/ZacSweers/metro/issues/2141#issuecomment-4244581577) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-14** — merged PR [#2142](https://github.com/ZacSweers/metro/pull/2142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-14** — merged PR [#2142](https://github.com/ZacSweers/metro/pull/2142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
