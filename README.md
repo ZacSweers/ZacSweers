@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-14** — merged PR [#2142](https://github.com/ZacSweers/metro/pull/2142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-04-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-14** — merged PR [#2142](https://github.com/ZacSweers/metro/pull/2142) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-04-14** — closed issue [#2137](https://github.com/ZacSweers/metro/issues/2137) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders crashes Kotlin/Native ObjC export when module is export()ed in framework"
 
 **2026-04-14** — merged PR [#2138](https://github.com/ZacSweers/metro/pull/2138) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate `@HiddenFromObjC` to more places"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-14** — created branch `z/moreHiddenObjc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-14** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4241381450) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4240110246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-13** — labeled issue [#2137](https://github.com/ZacSweers/metro/issues/2137) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders crashes Kotlin/Native ObjC export when module is export()ed in framework"
-
-**2026-04-13** — commented on [#2137](https://github.com/ZacSweers/metro/issues/2137#issuecomment-4239958813) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
