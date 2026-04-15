@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-15** — opened PR [#2148](https://github.com/ZacSweers/metro/pull/2148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dokka fixes"
+**2026-04-15** — merged PR [#2148](https://github.com/ZacSweers/metro/pull/2148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dokka fixes"
+
+**2026-04-15** — merged PR [#2148](https://github.com/ZacSweers/metro/pull/2148) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dokka fixes"
 
 **2026-04-15** — created branch `z/dokkaFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
