@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-15** — closed issue [#2147](https://github.com/ZacSweers/metro/issues/2147) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Renovate bot missed update for both `1.0.0-RC1` and `1.0.0-RC2`"
+
+**2026-04-15** — commented on [#2147](https://github.com/ZacSweers/metro/issues/2147#issuecomment-4254380696) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-15** — commented on [#1149](https://github.com/square/anvil/issues/1149#issuecomment-4254156787) in [square/anvil](https://github.com/square/anvil)
 
 **2026-04-14** — merged PR [#2143](https://github.com/ZacSweers/metro/pull/2143) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "MetroSort cleanup"
