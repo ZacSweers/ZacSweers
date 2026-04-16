@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-15** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4256852924) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-15** — labeled issue [#2149](https://github.com/ZacSweers/metro/issues/2149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IndexOutOfBoundsException in GraphExpressionGenerator with @ContributesSubcomponent.Factory and Anvil interop"
+
+**2026-04-15** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4256715327) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-15** — commented on [#2060](https://github.com/ZacSweers/metro/pull/2060#issuecomment-4256666419) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-15** — opened issue [#4](https://github.com/squidfunk/mike/issues/4) on [squidfunk/mike](https://github.com/squidfunk/mike): "mike deploy fails with `KeyError: 'alias_type'` when zensical returns empty plugin config"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-15** — closed issue [#2147](https://github.com/ZacSweers/metro/issues/2147) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Renovate bot missed update for both `1.0.0-RC1` and `1.0.0-RC2`"
 
 **2026-04-15** — commented on [#2147](https://github.com/ZacSweers/metro/issues/2147#issuecomment-4254380696) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-15** — commented on [#1149](https://github.com/square/anvil/issues/1149#issuecomment-4254156787) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
