@@ -15,8 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-15** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4256715327) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-15** — commented on [#2060](https://github.com/ZacSweers/metro/pull/2060#issuecomment-4256666419) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-15** — opened issue [#4](https://github.com/squidfunk/mike/issues/4) on [squidfunk/mike](https://github.com/squidfunk/mike): "mike deploy fails with `KeyError: 'alias_type'` when zensical returns empty plugin config"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
