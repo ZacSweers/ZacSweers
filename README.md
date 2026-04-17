@@ -4,7 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-17** — opened PR [#2156](https://github.com/ZacSweers/metro/pull/2156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing CSCF interop"
+**2026-04-17** — opened PR [#2157](https://github.com/ZacSweers/metro/pull/2157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys on `@Binds`"
+
+**2026-04-17** — created branch `z/fixBindsMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-17** — closed issue [#2149](https://github.com/ZacSweers/metro/issues/2149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IndexOutOfBoundsException in GraphExpressionGenerator with @ContributesSubcomponent.Factory and Anvil interop"
+
+**2026-04-17** — merged PR [#2156](https://github.com/ZacSweers/metro/pull/2156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing CSCF interop"
+
+**2026-04-17** — merged PR [#2156](https://github.com/ZacSweers/metro/pull/2156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing CSCF interop"
 
 **2026-04-17** — created branch `z/contributesSubcomponentFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-17** — merged PR [#2154](https://github.com/ZacSweers/metro/pull/2154) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix FirDeclarationOrigin.Library usage"
 
 **2026-04-17** — merged PR [#2152](https://github.com/ZacSweers/metro/pull/2152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate `@JvmStatic` and `@JsStatic` annotations"
-
-**2026-04-17** — unlabeled issue [#2149](https://github.com/ZacSweers/metro/issues/2149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IndexOutOfBoundsException in GraphExpressionGenerator with @ContributesSubcomponent.Factory and Anvil interop"
-
-**2026-04-17** — merged PR [#2154](https://github.com/ZacSweers/metro/pull/2154) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix FirDeclarationOrigin.Library usage"
-
-**2026-04-17** — created branch `z/fixPrecompiled` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-17** — commented on [#2150](https://github.com/ZacSweers/metro/issues/2150#issuecomment-4265572042) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
