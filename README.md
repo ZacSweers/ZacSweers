@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-17** — opened PR [#2158](https://github.com/ZacSweers/metro/pull/2158) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-04-17** — merged PR [#2161](https://github.com/ZacSweers/metro/pull/2161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@MergeSubcomponent.Factory` interop"
 
-**2026-04-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — opened PR [#2162](https://github.com/ZacSweers/metro/pull/2162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run contribution providers test on all box tests"
 
-**2026-04-17** — opened PR [#2157](https://github.com/ZacSweers/metro/pull/2157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys on `@Binds`"
+**2026-04-17** — created branch `z/runAll` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-17** — created branch `z/fixBindsMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — merged PR [#2161](https://github.com/ZacSweers/metro/pull/2161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@MergeSubcomponent.Factory` interop"
 
-**2026-04-17** — closed issue [#2149](https://github.com/ZacSweers/metro/issues/2149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IndexOutOfBoundsException in GraphExpressionGenerator with @ContributesSubcomponent.Factory and Anvil interop"
+**2026-04-17** — created branch `z/mergesubcomponentfactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-17** — merged PR [#2156](https://github.com/ZacSweers/metro/pull/2156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing CSCF interop"
+**2026-04-17** — commented on [#2156](https://github.com/ZacSweers/metro/pull/2156#issuecomment-4271582172) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-17** — merged PR [#2156](https://github.com/ZacSweers/metro/pull/2156) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing CSCF interop"
+**2026-04-17** — merged PR [#2158](https://github.com/ZacSweers/metro/pull/2158) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
-**2026-04-17** — created branch `z/contributesSubcomponentFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — merged PR [#2157](https://github.com/ZacSweers/metro/pull/2157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix implicit class keys on `@Binds`"
 
-**2026-04-17** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4265813135) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — closed issue [#2155](https://github.com/ZacSweers/metro/issues/2155) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implicit ClassKey argument not working with `@Binds`"
 
-**2026-04-17** — closed issue [#2150](https://github.com/ZacSweers/metro/issues/2150) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "generateContributionProviders IC issues (?)"
+**2026-04-17** — merged PR [#2158](https://github.com/ZacSweers/metro/pull/2158) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
