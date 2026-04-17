@@ -4,19 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-17** — unlabeled issue [#2149](https://github.com/ZacSweers/metro/issues/2149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IndexOutOfBoundsException in GraphExpressionGenerator with @ContributesSubcomponent.Factory and Anvil interop"
+
+**2026-04-17** — opened PR [#2154](https://github.com/ZacSweers/metro/pull/2154) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix FirDeclarationOrigin.Library usage"
+
+**2026-04-17** — created branch `z/fixPrecompiled` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-17** — commented on [#2150](https://github.com/ZacSweers/metro/issues/2150#issuecomment-4265572042) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-17** — merged PR [#2153](https://github.com/ZacSweers/metro/pull/2153) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add ambiguous injector constructor check"
+
+**2026-04-17** — commented on [#2150](https://github.com/ZacSweers/metro/issues/2150#issuecomment-4265269571) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-17** — unlabeled PR [#2152](https://github.com/ZacSweers/metro/pull/2152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate `@JvmStatic` and `@JsStatic` annotations"
+
+**2026-04-17** — merged PR [#2153](https://github.com/ZacSweers/metro/pull/2153) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add ambiguous injector constructor check"
+
+**2026-04-17** — created branch `z/ambiguous` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-16** — labeled PR [#2152](https://github.com/ZacSweers/metro/pull/2152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate `@JvmStatic` and `@JsStatic` annotations"
-
-**2026-04-16** — opened PR [#2152](https://github.com/ZacSweers/metro/pull/2152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate `@JvmStatic` and `@JsStatic` annotations"
-
-**2026-04-16** — commented on [#2150](https://github.com/ZacSweers/metro/issues/2150#issuecomment-4265073612) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-16** — created branch `z/static` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-16** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-4262391273) in [squidfunk/mike](https://github.com/squidfunk/mike)
-
-**2026-04-16** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4262109117) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-15** — commented on [#2149](https://github.com/ZacSweers/metro/issues/2149#issuecomment-4256852924) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
