@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-17** — commented on [#2164](https://github.com/ZacSweers/metro/issues/2164#issuecomment-4272419874) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
 
-**2026-04-17** — unlabeled issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
+**2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
 
-**2026-04-17** — labeled issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
+**2026-04-17** — created branch `z/bindingContainerRec` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-17** — commented on [#2164](https://github.com/ZacSweers/metro/issues/2164#issuecomment-4272228372) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — merged PR [#2166](https://github.com/ZacSweers/metro/pull/2166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnosticString for reporting in IDE"
 
-**2026-04-17** — merged PR [#2163](https://github.com/ZacSweers/metro/pull/2163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up options"
+**2026-04-17** — merged PR [#2166](https://github.com/ZacSweers/metro/pull/2166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnosticString for reporting in IDE"
 
-**2026-04-17** — merged PR [#2162](https://github.com/ZacSweers/metro/pull/2162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run contribution providers test on all box tests"
+**2026-04-17** — created branch `z/diagnosticString` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-17** — merged PR [#2163](https://github.com/ZacSweers/metro/pull/2163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up options"
+**2026-04-17** — closed issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
 
-**2026-04-17** — created branch `z/optionsMap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
 
-**2026-04-17** — merged PR [#2161](https://github.com/ZacSweers/metro/pull/2161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@MergeSubcomponent.Factory` interop"
+**2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
 
-**2026-04-17** — merged PR [#2162](https://github.com/ZacSweers/metro/pull/2162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run contribution providers test on all box tests"
+**2026-04-17** — created branch `z/noPrivateContributions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
