@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-17** — commented on [#2164](https://github.com/ZacSweers/metro/issues/2164#issuecomment-4272419874) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-17** — unlabeled issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
 
 **2026-04-17** — labeled issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-17** — merged PR [#2161](https://github.com/ZacSweers/metro/pull/2161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@MergeSubcomponent.Factory` interop"
 
 **2026-04-17** — merged PR [#2162](https://github.com/ZacSweers/metro/pull/2162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run contribution providers test on all box tests"
-
-**2026-04-17** — created branch `z/runAll` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
