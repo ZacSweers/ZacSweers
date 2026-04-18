@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-18** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-4272686649) in [squidfunk/mike](https://github.com/squidfunk/mike)
+
 **2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
 
 **2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
 
 **2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
-
-**2026-04-17** — created branch `z/noPrivateContributions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
