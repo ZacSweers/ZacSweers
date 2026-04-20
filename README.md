@@ -13,16 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-17** — created branch `z/bindingContainerRec` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-17** — merged PR [#2166](https://github.com/ZacSweers/metro/pull/2166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnosticString for reporting in IDE"
-
-**2026-04-17** — merged PR [#2166](https://github.com/ZacSweers/metro/pull/2166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnosticString for reporting in IDE"
-
-**2026-04-17** — created branch `z/diagnosticString` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-17** — closed issue [#2164](https://github.com/ZacSweers/metro/issues/2164) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private `@BindingContainer` object in a library module crashes at runtime on iOS, works on Android"
-
-**2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
-
-**2026-04-17** — merged PR [#2165](https://github.com/ZacSweers/metro/pull/2165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check against private contributions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
