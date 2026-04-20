@@ -4,15 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-18** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-4272686649) in [squidfunk/mike](https://github.com/squidfunk/mike)
-
-**2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
-
-**2026-04-17** — merged PR [#2167](https://github.com/ZacSweers/metro/pull/2167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak quickstart to recommend containers"
-
-**2026-04-17** — created branch `z/bindingContainerRec` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-17** — merged PR [#2166](https://github.com/ZacSweers/metro/pull/2166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnosticString for reporting in IDE"
+**2026-04-20** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
