@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-20** — commented on [#37604](https://github.com/gradle/gradle/issues/37604#issuecomment-4283433451) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2026-04-20** — created branch `z/providerCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
