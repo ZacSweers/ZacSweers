@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-20** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4284358235) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-04-20** — created branch `z/functionProvidersDefault` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-20** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4284300955) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-20** — commented on [#37604](https://github.com/gradle/gradle/issues/37604#issuecomment-4283433451) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2026-04-20** — created branch `z/providerCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
