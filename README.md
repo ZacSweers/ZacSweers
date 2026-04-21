@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-21** — opened PR [#2180](https://github.com/ZacSweers/metro/pull/2180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote enableFunctionProviders to stable"
+
+**2026-04-21** — created branch `z/stableProp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-21** — opened PR [#49](https://github.com/pablobaxter/AGP-Plugins-Status/pull/49) to [pablobaxter/AGP-Plugins-Status](https://github.com/pablobaxter/AGP-Plugins-Status): "Add BCV to broken list"
 
 **2026-04-21** — merged PR [#2665](https://github.com/slackhq/circuit/pull/2665) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support dependency hoisting in function injection code gen"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-21** — created branch `z/functionInjectionImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-04-21** — merged PR [#2179](https://github.com/ZacSweers/metro/pull/2179) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve hint for function providers"
-
-**2026-04-21** — created branch `z/betterHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-21** — merged PR [#2178](https://github.com/ZacSweers/metro/pull/2178) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small circuit and function cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
