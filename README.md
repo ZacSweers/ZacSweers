@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-21** — merged PR [#2172](https://github.com/ZacSweers/metro/pull/2172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Flip the switch on function providers"
+
+**2026-04-20** — merged PR [#2172](https://github.com/ZacSweers/metro/pull/2172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Flip the switch on function providers"
+
 **2026-04-20** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4284358235) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-04-20** — created branch `z/functionProvidersDefault` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
