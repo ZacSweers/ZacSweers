@@ -4,23 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-10-02** — closed PR [#2333](https://github.com/slackhq/circuit/pull/2333) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP project isolation"
+
+**2026-04-21** — merged PR [#2179](https://github.com/ZacSweers/metro/pull/2179) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve hint for function providers"
+
+**2026-04-21** — merged PR [#2178](https://github.com/ZacSweers/metro/pull/2178) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small circuit and function cleanups"
+
+**2026-04-21** — opened PR [#2665](https://github.com/slackhq/circuit/pull/2665) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support dependency hoisting in function injection code gen"
+
+**2026-04-21** — created branch `z/functionInjectionImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-04-21** — merged PR [#2179](https://github.com/ZacSweers/metro/pull/2179) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve hint for function providers"
+
+**2026-04-21** — created branch `z/betterHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-21** — merged PR [#2178](https://github.com/ZacSweers/metro/pull/2178) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small circuit and function cleanups"
+
 **2026-04-21** — created branch `z/moreCircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-21** — commented on [#2664](https://github.com/slackhq/circuit/pull/2664#issuecomment-4290643596) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-21** — merged PR [#2664](https://github.com/slackhq/circuit/pull/2664) to [slackhq/circuit](https://github.com/slackhq/circuit): "Propagate qualifier annotations + generate functions in metro"
-
-**2026-04-21** — merged PR [#2177](https://github.com/ZacSweers/metro/pull/2177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDE_WARN and IDE_ERROR diagnostic severities"
-
-**2026-04-21** — merged PR [#2664](https://github.com/slackhq/circuit/pull/2664) to [slackhq/circuit](https://github.com/slackhq/circuit): "Propagate qualifier annotations + generate functions in metro"
-
-**2026-04-21** — created branch `z/metroUpdates` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-21** — merged PR [#2177](https://github.com/ZacSweers/metro/pull/2177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDE_WARN and IDE_ERROR diagnostic severities"
-
-**2026-04-21** — created branch `z/ideOnlyDiag` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-21** — commented on [#154](https://github.com/slackhq/keeper/pull/154#issuecomment-4289883892) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
