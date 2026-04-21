@@ -4,21 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-21** — commented on [#2664](https://github.com/slackhq/circuit/pull/2664#issuecomment-4290643596) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-04-21** — merged PR [#2664](https://github.com/slackhq/circuit/pull/2664) to [slackhq/circuit](https://github.com/slackhq/circuit): "Propagate qualifier annotations + generate functions in metro"
+
+**2026-04-21** — merged PR [#2177](https://github.com/ZacSweers/metro/pull/2177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDE_WARN and IDE_ERROR diagnostic severities"
+
+**2026-04-21** — merged PR [#2664](https://github.com/slackhq/circuit/pull/2664) to [slackhq/circuit](https://github.com/slackhq/circuit): "Propagate qualifier annotations + generate functions in metro"
+
+**2026-04-21** — created branch `z/metroUpdates` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-04-21** — merged PR [#2177](https://github.com/ZacSweers/metro/pull/2177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDE_WARN and IDE_ERROR diagnostic severities"
+
+**2026-04-21** — created branch `z/ideOnlyDiag` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-21** — commented on [#154](https://github.com/slackhq/keeper/pull/154#issuecomment-4289883892) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2026-04-21** — merged PR [#2172](https://github.com/ZacSweers/metro/pull/2172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Flip the switch on function providers"
-
-**2026-04-20** — merged PR [#2172](https://github.com/ZacSweers/metro/pull/2172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Flip the switch on function providers"
-
-**2026-04-20** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4284358235) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-20** — created branch `z/functionProvidersDefault` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-20** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4284300955) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-20** — commented on [#37604](https://github.com/gradle/gradle/issues/37604#issuecomment-4283433451) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2026-04-20** — created branch `z/providerCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
