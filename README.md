@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-22** — merged PR [#2184](https://github.com/ZacSweers/metro/pull/2184) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-04-22** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-22** — merged PR [#2184](https://github.com/ZacSweers/metro/pull/2184) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-04-21** — merged PR [#49](https://github.com/pablobaxter/AGP-Plugins-Status/pull/49) to [pablobaxter/AGP-Plugins-Status](https://github.com/pablobaxter/AGP-Plugins-Status): "Add BCV to broken list"
 
 **2026-04-21** — closed issue [#2181](https://github.com/ZacSweers/metro/issues/2181) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`@DependencyGraph` with `@GraphExtension` child graph fails Wasm GC validation — `thisGraphInstance` field typed as `kotlin.Any` causes missing `ref.cast`"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-21** — merged PR [#2180](https://github.com/ZacSweers/metro/pull/2180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote enableFunctionProviders to stable"
 
 **2026-04-21** — merged PR [#2180](https://github.com/ZacSweers/metro/pull/2180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote enableFunctionProviders to stable"
-
-**2026-04-21** — created branch `z/stableProp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-21** — merged PR [#49](https://github.com/pablobaxter/AGP-Plugins-Status/pull/49) to [pablobaxter/AGP-Plugins-Status](https://github.com/pablobaxter/AGP-Plugins-Status): "Add BCV to broken list"
-
-**2026-04-21** — merged PR [#2665](https://github.com/slackhq/circuit/pull/2665) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support dependency hoisting in function injection code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
