@@ -4,21 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
-
-**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
-
-**2026-04-22** — created branch `z/checkIntrinsics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-22** — merged PR [#2667](https://github.com/slackhq/circuit/pull/2667) to [slackhq/circuit](https://github.com/slackhq/circuit): "Some small project isolation work"
-
-**2026-04-22** — opened PR [#2189](https://github.com/ZacSweers/metro/pull/2189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4 beta 2"
-
-**2026-04-22** — created branch `z/240beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-22** — merged PR [#2667](https://github.com/slackhq/circuit/pull/2667) to [slackhq/circuit](https://github.com/slackhq/circuit): "Some small project isolation work"
-
-**2026-04-22** — created branch `z/piWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-04-22** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
