@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-21** — merged PR [#2182](https://github.com/ZacSweers/metro/pull/2182) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid a wasm cast issue"
 
 **2026-04-21** — created branch `z/wasmFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-21** — merged PR [#2180](https://github.com/ZacSweers/metro/pull/2180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote enableFunctionProviders to stable"
-
-**2026-04-21** — merged PR [#2180](https://github.com/ZacSweers/metro/pull/2180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote enableFunctionProviders to stable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
