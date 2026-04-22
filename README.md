@@ -4,15 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-22** — opened PR [#2189](https://github.com/ZacSweers/metro/pull/2189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4 beta 2"
+
+**2026-04-22** — created branch `z/240beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-22** — opened PR [#2667](https://github.com/slackhq/circuit/pull/2667) to [slackhq/circuit](https://github.com/slackhq/circuit): "Some small project isolation work"
+
+**2026-04-22** — created branch `z/piWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-22** — merged PR [#2184](https://github.com/ZacSweers/metro/pull/2184) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-22** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-22** — merged PR [#2184](https://github.com/ZacSweers/metro/pull/2184) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-21** — merged PR [#49](https://github.com/pablobaxter/AGP-Plugins-Status/pull/49) to [pablobaxter/AGP-Plugins-Status](https://github.com/pablobaxter/AGP-Plugins-Status): "Add BCV to broken list"
-
-**2026-04-21** — closed issue [#2181](https://github.com/ZacSweers/metro/issues/2181) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`@DependencyGraph` with `@GraphExtension` child graph fails Wasm GC validation — `thisGraphInstance` field typed as `kotlin.Any` causes missing `ref.cast`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
