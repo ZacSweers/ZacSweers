@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-22** — opened PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
+**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
+
+**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
 
 **2026-04-22** — created branch `z/checkIntrinsics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
