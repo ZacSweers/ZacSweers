@@ -4,7 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-22** — Could not load GitHub activity. Please check back later.
+**2026-04-22** — merged PR [#2191](https://github.com/ZacSweers/metro/pull/2191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge original ContributesTo supertypes in FIR too"
+
+**2026-04-22** — closed issue [#2185](https://github.com/ZacSweers/metro/issues/2185) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributed interfaces not visible in iOS framework headers"
+
+**2026-04-22** — merged PR [#2191](https://github.com/ZacSweers/metro/pull/2191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge original ContributesTo supertypes in FIR too"
+
+**2026-04-22** — created branch `z/fixSupertypeVis` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-22** — merged PR [#2189](https://github.com/ZacSweers/metro/pull/2189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.0-Beta2 support"
+
+**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
