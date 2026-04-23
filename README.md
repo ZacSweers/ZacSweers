@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-23** — opened PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
+**2026-04-23** — merged PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
+
+**2026-04-23** — merged PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
 
 **2026-04-23** — created branch `z/fixew` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-22** — merged PR [#2191](https://github.com/ZacSweers/metro/pull/2191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge original ContributesTo supertypes in FIR too"
 
 **2026-04-22** — created branch `z/fixSupertypeVis` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-22** — merged PR [#2189](https://github.com/ZacSweers/metro/pull/2189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.0-Beta2 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
