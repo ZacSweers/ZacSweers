@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-23** — opened PR [#2194](https://github.com/ZacSweers/metro/pull/2194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc benchmark work"
+
+**2026-04-23** — created branch `z/moreBenchmarkWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-23** — merged PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
 
 **2026-04-23** — merged PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-22** — merged PR [#2191](https://github.com/ZacSweers/metro/pull/2191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge original ContributesTo supertypes in FIR too"
 
 **2026-04-22** — closed issue [#2185](https://github.com/ZacSweers/metro/issues/2185) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributed interfaces not visible in iOS framework headers"
-
-**2026-04-22** — merged PR [#2191](https://github.com/ZacSweers/metro/pull/2191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge original ContributesTo supertypes in FIR too"
-
-**2026-04-22** — created branch `z/fixSupertypeVis` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
