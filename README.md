@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-23** — opened PR [#2668](https://github.com/slackhq/circuit/pull/2668) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix emulator.wtf setup"
+
+**2026-04-23** — created branch `z/fixew` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-23** — merged PR [#2193](https://github.com/ZacSweers/metro/pull/2193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix formatting error swallowing"
 
 **2026-04-23** — merged PR [#2193](https://github.com/ZacSweers/metro/pull/2193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix formatting error swallowing"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-22** — created branch `z/fixSupertypeVis` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-22** — merged PR [#2189](https://github.com/ZacSweers/metro/pull/2189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.0-Beta2 support"
-
-**2026-04-22** — merged PR [#2190](https://github.com/ZacSweers/metro/pull/2190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new diagnostic for providing intrinsic wrapped types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
