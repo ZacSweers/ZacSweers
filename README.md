@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-23** — commented on [#2185](https://github.com/ZacSweers/metro/issues/2185#issuecomment-4307919650) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-04-23** — merged PR [#2196](https://github.com/ZacSweers/metro/pull/2196) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add faq on assisted inject functions"
-
-**2026-04-23** — opened PR [#2197](https://github.com/ZacSweers/metro/pull/2197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE integration test updates"
-
-**2026-04-23** — created branch `z/diskSpace` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-23** — merged PR [#2102](https://github.com/ZacSweers/metro/pull/2102) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.3.21"
-
-**2026-04-23** — merged PR [#2196](https://github.com/ZacSweers/metro/pull/2196) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add faq on assisted inject functions"
-
-**2026-04-23** — created branch `z/faqStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-23** — merged PR [#2194](https://github.com/ZacSweers/metro/pull/2194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc benchmark work"
-
-**2026-04-23** — merged PR [#2194](https://github.com/ZacSweers/metro/pull/2194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc benchmark work"
-
-**2026-04-23** — created branch `z/moreBenchmarkWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
