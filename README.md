@@ -4,23 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-25** — merged PR [#2399](https://github.com/ZacSweers/CatchUp/pull/2399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 1.0.0-RC4"
+
+**2026-04-25** — commented on [#2647](https://github.com/slackhq/circuit/pull/2647#issuecomment-4320389725) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-04-25** — merged PR [#2399](https://github.com/ZacSweers/CatchUp/pull/2399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 1.0.0-RC4"
+
+**2026-04-25** — created branch `z/metro1` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2026-04-25** — created branch `z/rc4` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-04-25** — opened PR [#2207](https://github.com/ZacSweers/metro/pull/2207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish compiler compat artifacts"
 
 **2026-04-25** — created branch `z/publishCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-25** — merged PR [#2206](https://github.com/ZacSweers/metro/pull/2206) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-25** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-25** — merged PR [#2206](https://github.com/ZacSweers/metro/pull/2206) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-25** — commented on [#2200](https://github.com/ZacSweers/metro/issues/2200#issuecomment-4318245739) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-25** — merged PR [#2197](https://github.com/ZacSweers/metro/pull/2197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE integration test updates"
-
-**2026-04-25** — commented on [#2203](https://github.com/ZacSweers/metro/pull/2203#issuecomment-4318058441) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-25** — opened PR [#2203](https://github.com/ZacSweers/metro/pull/2203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tracing and graph gen optimizations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
