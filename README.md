@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-25** — commented on [#2203](https://github.com/ZacSweers/metro/pull/2203#issuecomment-4318058441) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-25** — opened PR [#2203](https://github.com/ZacSweers/metro/pull/2203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tracing and graph gen optimizations"
+
 **2026-04-24** — merged PR [#2201](https://github.com/ZacSweers/metro/pull/2201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix default value transforms for function types"
 
 **2026-04-24** — closed issue [#2200](https://github.com/ZacSweers/metro/issues/2200) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Runtime ClassCastException after upgrading to RC3"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-24** — merged PR [#2199](https://github.com/ZacSweers/metro/pull/2199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-24** — created branch `z/optimizeBindingPop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
