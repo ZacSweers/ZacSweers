@@ -15,8 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-25** — created branch `z/rc4` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-04-25** — opened PR [#2207](https://github.com/ZacSweers/metro/pull/2207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish compiler compat artifacts"
-
-**2026-04-25** — created branch `z/publishCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
