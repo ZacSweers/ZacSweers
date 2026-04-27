@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-27** — merged PR [#2203](https://github.com/ZacSweers/metro/pull/2203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tracing and graph gen optimizations"
+
+**2026-04-27** — merged PR [#2207](https://github.com/ZacSweers/metro/pull/2207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish compiler compat artifacts"
+
+**2026-04-27** — merged PR [#2136](https://github.com/ZacSweers/metro/pull/2136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stabilization"
+
+**2026-04-27** — merged PR [#438](https://github.com/ZacSweers/FieldSpottr/pull/438) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Propagate current date to area screen + fix window overlap misses"
+
 **2026-04-27** — merged PR [#2214](https://github.com/ZacSweers/metro/pull/2214) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove replaces/excludes check and instead fix existing check"
 
 **2026-04-27** — merged PR [#2214](https://github.com/ZacSweers/metro/pull/2214) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove replaces/excludes check and instead fix existing check"
@@ -12,22 +20,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-04-27** — merged PR [#2213](https://github.com/ZacSweers/metro/pull/2213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small fixes around generateContributionProviders"
 
-**2026-04-27** — opened PR [#438](https://github.com/ZacSweers/FieldSpottr/pull/438) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Propagate current date to area screen + fix window overlap misses"
+**2026-04-27** — merged PR [#438](https://github.com/ZacSweers/FieldSpottr/pull/438) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Propagate current date to area screen + fix window overlap misses"
 
 **2026-04-27** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-04-27** — merged PR [#2213](https://github.com/ZacSweers/metro/pull/2213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small fixes around generateContributionProviders"
-
-**2026-04-27** — created branch `z/smallFixesAroundContributionProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-27** — merged PR [#2211](https://github.com/ZacSweers/metro/pull/2211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up some visibilities"
-
-**2026-04-27** — merged PR [#2211](https://github.com/ZacSweers/metro/pull/2211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up some visibilities"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2026-04-27** — [🚇 Metro is Stable](https://www.zacsweers.dev/metro-is-stable/)
+
 **2026-03-08** — [I have two passing tests](https://www.zacsweers.dev/i-have-two-passing-tests/)
 
 **2026-03-03** — [Two Pillars of (Engineering) Management](https://www.zacsweers.dev/two-pillars-of-engineering-management/)
@@ -45,8 +47,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
 
 **2025-07-01** — [Don't use Type-safe Project Accessors with Kotlin Gradle DSL](https://www.zacsweers.dev/dont-use-type-safe-project-accessors-with-kotlin-gradle-dsl/)
-
-**2025-04-03** — [Introducing Metro](https://www.zacsweers.dev/introducing-metro/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
