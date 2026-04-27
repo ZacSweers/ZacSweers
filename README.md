@@ -4,21 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-26** — merged PR [#2208](https://github.com/ZacSweers/metro/pull/2208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove some unused stuff"
-
-**2026-04-26** — merged PR [#2208](https://github.com/ZacSweers/metro/pull/2208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove some unused stuff"
-
-**2026-04-26** — created branch `z/unusedCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-25** — merged PR [#2399](https://github.com/ZacSweers/CatchUp/pull/2399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 1.0.0-RC4"
-
-**2026-04-25** — commented on [#2647](https://github.com/slackhq/circuit/pull/2647#issuecomment-4320389725) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-04-25** — merged PR [#2399](https://github.com/ZacSweers/CatchUp/pull/2399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 1.0.0-RC4"
-
-**2026-04-25** — created branch `z/metro1` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2026-04-25** — created branch `z/rc4` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-04-27** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
