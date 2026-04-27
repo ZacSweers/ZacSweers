@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-27** — opened PR [#2213](https://github.com/ZacSweers/metro/pull/2213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small fixes around generateContributionProviders"
+
+**2026-04-27** — created branch `z/smallFixesAroundContributionProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-27** — merged PR [#2211](https://github.com/ZacSweers/metro/pull/2211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up some visibilities"
 
 **2026-04-27** — merged PR [#2211](https://github.com/ZacSweers/metro/pull/2211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up some visibilities"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-26** — created branch `z/unusedCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-25** — merged PR [#2399](https://github.com/ZacSweers/CatchUp/pull/2399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 1.0.0-RC4"
-
-**2026-04-25** — commented on [#2647](https://github.com/slackhq/circuit/pull/2647#issuecomment-4320389725) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
