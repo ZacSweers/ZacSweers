@@ -4,9 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-28** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4337914236) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+**2026-04-28** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4338937862) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
-**2026-04-28** — merged PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
+**2026-04-28** — opened PR [#614](https://github.com/facebook/ktfmt/pull/614) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Add `--preserve-lambda-breaks` option"
+
+**2026-04-28** — created branch `z/cascadingDslLambdas` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+
+**2026-04-28** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4337914236) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
