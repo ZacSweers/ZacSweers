@@ -15,8 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-28** — merged PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
 
 **2026-04-28** — created branch `z/resolveRypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-28** — closed issue [#2216](https://github.com/ZacSweers/metro/issues/2216) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "docs: prevent docs site redirect loop in the future"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
