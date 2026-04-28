@@ -17,12 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-28** — created branch `z/resolveRypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-28** — closed issue [#2216](https://github.com/ZacSweers/metro/issues/2216) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "docs: prevent docs site redirect loop in the future"
-
-**2026-04-28** — commented on [#2216](https://github.com/ZacSweers/metro/issues/2216#issuecomment-4332479781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-28** — commented on [#2218](https://github.com/ZacSweers/metro/pull/2218#issuecomment-4332290246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-27** — commented on [#2217](https://github.com/ZacSweers/metro/pull/2217#issuecomment-4332144516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
