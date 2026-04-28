@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-27** — commented on [#2217](https://github.com/ZacSweers/metro/pull/2217#issuecomment-4332144516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-04-27** — merged PR [#2203](https://github.com/ZacSweers/metro/pull/2203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tracing and graph gen optimizations"
 
 **2026-04-27** — merged PR [#2207](https://github.com/ZacSweers/metro/pull/2207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish compiler compat artifacts"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-27** — merged PR [#2213](https://github.com/ZacSweers/metro/pull/2213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small fixes around generateContributionProviders"
 
 **2026-04-27** — merged PR [#438](https://github.com/ZacSweers/FieldSpottr/pull/438) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Propagate current date to area screen + fix window overlap misses"
-
-**2026-04-27** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
