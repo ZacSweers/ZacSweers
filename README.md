@@ -4,7 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-28** — opened PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
+**2026-04-28** — merged PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
+
+**2026-04-28** — merged PR [#2107](https://github.com/ZacSweers/metro/pull/2107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use metro in metro"
+
+**2026-04-28** — opened PR [#2221](https://github.com/ZacSweers/metro/pull/2221) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20 dev builds"
+
+**2026-04-28** — created branch `z/k2420` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-04-28** — merged PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
 
 **2026-04-28** — created branch `z/resolveRypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-28** — commented on [#2218](https://github.com/ZacSweers/metro/pull/2218#issuecomment-4332290246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-27** — commented on [#2217](https://github.com/ZacSweers/metro/pull/2217#issuecomment-4332144516) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-27** — merged PR [#2203](https://github.com/ZacSweers/metro/pull/2203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tracing and graph gen optimizations"
-
-**2026-04-27** — merged PR [#2207](https://github.com/ZacSweers/metro/pull/2207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish compiler compat artifacts"
-
-**2026-04-27** — merged PR [#2136](https://github.com/ZacSweers/metro/pull/2136) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stabilization"
-
-**2026-04-27** — merged PR [#438](https://github.com/ZacSweers/FieldSpottr/pull/438) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Propagate current date to area screen + fix window overlap misses"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
