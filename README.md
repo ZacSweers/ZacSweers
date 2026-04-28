@@ -7,8 +7,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-28** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4337914236) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-04-28** — merged PR [#2220](https://github.com/ZacSweers/metro/pull/2220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve copied type refs in FIR"
-
-**2026-04-28** — merged PR [#2107](https://github.com/ZacSweers/metro/pull/2107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use metro in metro"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
