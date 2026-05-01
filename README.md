@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-01** — merged PR [#2231](https://github.com/ZacSweers/metro/pull/2231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-01** — merged PR [#2231](https://github.com/ZacSweers/metro/pull/2231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-04-30** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4357612017) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-04-30** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4355617128) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-29** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4345498752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-04-29** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4345158464) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-28** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4338937862) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2026-04-28** — opened PR [#614](https://github.com/facebook/ktfmt/pull/614) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Add `--preserve-lambda-breaks` option"
-
-**2026-04-28** — created branch `z/cascadingDslLambdas` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
