@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-01** — commented on [#98](https://github.com/ZacSweers/anvil/pull/98#issuecomment-4359935938) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2026-05-01** — merged PR [#2231](https://github.com/ZacSweers/metro/pull/2231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-04-30** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4354547092) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-04-29** — closed issue [#2225](https://github.com/ZacSweers/metro/issues/2225) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warning/Error for orphaned contributions"
-
-**2026-04-29** — commented on [#2225](https://github.com/ZacSweers/metro/issues/2225#issuecomment-4345542285) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-29** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4345498752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-04-29** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4345158464) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
