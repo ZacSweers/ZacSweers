@@ -4,17 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-02** — merged PR [#2234](https://github.com/ZacSweers/metro/pull/2234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicit casts where necessary in Circuit for screen args"
+
+**2026-05-02** — closed issue [#2227](https://github.com/ZacSweers/metro/issues/2227) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[wasmJs] Runtime WebAssembly compilation error when injecting specific `Screen` subtypes"
+
+**2026-05-02** — merged PR [#2234](https://github.com/ZacSweers/metro/pull/2234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicit casts where necessary in Circuit for screen args"
+
+**2026-05-02** — created branch `z/wasmImplicit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-02** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4364700825) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-02** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-4364686394) in [squidfunk/mike](https://github.com/squidfunk/mike)
 
 **2026-05-01** — commented on [#98](https://github.com/ZacSweers/anvil/pull/98#issuecomment-4359935938) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2026-05-01** — merged PR [#2231](https://github.com/ZacSweers/metro/pull/2231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-01** — merged PR [#2231](https://github.com/ZacSweers/metro/pull/2231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-04-30** — commented on [#5741](https://github.com/JetBrains/kotlin/pull/5741#issuecomment-4357612017) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
