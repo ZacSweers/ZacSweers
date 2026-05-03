@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-03** — opened PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
+
 **2026-05-03** — created branch `z/perf` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-03** — created branch `z/kempt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
