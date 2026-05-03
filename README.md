@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-03** — created branch `z/perf` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-03** — created branch `z/kempt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-02** — merged PR [#2234](https://github.com/ZacSweers/metro/pull/2234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicit casts where necessary in Circuit for screen args"
 
 **2026-05-02** — closed issue [#2227](https://github.com/ZacSweers/metro/issues/2227) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[wasmJs] Runtime WebAssembly compilation error when injecting specific `Screen` subtypes"
