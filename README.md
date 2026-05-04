@@ -4,25 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-03** — opened PR [#2238](https://github.com/ZacSweers/metro/pull/2238) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Simplify hashSuffix"
+**2026-05-03** — merged PR [#2239](https://github.com/ZacSweers/metro/pull/2239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate qualifier annotations from `@CircuitInject` decls"
 
-**2026-05-03** — created branch `z/simplerHex` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-03** — merged PR [#1](https://github.com/ZacSweers/kempt/pull/1) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Code drop"
 
-**2026-05-03** — merged PR [#2237](https://github.com/ZacSweers/metro/pull/2237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option for + fix single pass sort"
+**2026-05-03** — merged PR [#1](https://github.com/ZacSweers/kempt/pull/1) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Code drop"
 
-**2026-05-03** — merged PR [#2237](https://github.com/ZacSweers/metro/pull/2237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option for + fix single pass sort"
+**2026-05-03** — created branch `z/code` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-05-03** — created branch `z/optionForNoPass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-03** — created branch `main` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-05-03** — merged PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
+**2026-05-03** — merged PR [#2239](https://github.com/ZacSweers/metro/pull/2239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate qualifier annotations from `@CircuitInject` decls"
 
-**2026-05-03** — merged PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
+**2026-05-03** — created branch `z/propagateQualifiersInCircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-05-03** — created branch `z/perf` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-03** — created branch `z/kempt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-02** — merged PR [#2234](https://github.com/ZacSweers/metro/pull/2234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicit casts where necessary in Circuit for screen args"
+**2026-05-03** — merged PR [#2089](https://github.com/ZacSweers/metro/pull/2089) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve validation trace locations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
