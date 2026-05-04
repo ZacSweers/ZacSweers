@@ -4,7 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-03** — opened PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
+**2026-05-03** — merged PR [#2237](https://github.com/ZacSweers/metro/pull/2237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option for + fix single pass sort"
+
+**2026-05-03** — merged PR [#2237](https://github.com/ZacSweers/metro/pull/2237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option for + fix single pass sort"
+
+**2026-05-03** — created branch `z/optionForNoPass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-03** — merged PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
+
+**2026-05-03** — merged PR [#2236](https://github.com/ZacSweers/metro/pull/2236) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Performance work"
 
 **2026-05-03** — created branch `z/perf` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-02** — closed issue [#2227](https://github.com/ZacSweers/metro/issues/2227) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[wasmJs] Runtime WebAssembly compilation error when injecting specific `Screen` subtypes"
 
 **2026-05-02** — merged PR [#2234](https://github.com/ZacSweers/metro/pull/2234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add implicit casts where necessary in Circuit for screen args"
-
-**2026-05-02** — created branch `z/wasmImplicit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-02** — commented on [#2227](https://github.com/ZacSweers/metro/issues/2227#issuecomment-4364700825) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-02** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-4364686394) in [squidfunk/mike](https://github.com/squidfunk/mike)
-
-**2026-05-01** — commented on [#98](https://github.com/ZacSweers/anvil/pull/98#issuecomment-4359935938) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
