@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-04** — closed issue [#1772](https://github.com/ZacSweers/metro/issues/1772) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incremental build succeeds after BindingContainer is contributed to wrong scope"
+
+**2026-05-04** — commented on [#1772](https://github.com/ZacSweers/metro/issues/1772#issuecomment-4373015127) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-04** — merged PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
 
 **2026-05-04** — merged PR [#2240](https://github.com/ZacSweers/metro/pull/2240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to kempt"
