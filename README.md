@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-04** — commented on [#2242](https://github.com/ZacSweers/metro/issues/2242#issuecomment-4373404899) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-04** — closed issue [#2242](https://github.com/ZacSweers/metro/issues/2242) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate Qualifiers for Circuit codegen"
+
 **2026-05-04** — closed issue [#1772](https://github.com/ZacSweers/metro/issues/1772) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incremental build succeeds after BindingContainer is contributed to wrong scope"
 
 **2026-05-04** — commented on [#1772](https://github.com/ZacSweers/metro/issues/1772#issuecomment-4373015127) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-04** — created branch `z/fixAdd` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-05-04** — merged PR [#2240](https://github.com/ZacSweers/metro/pull/2240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to kempt"
-
-**2026-05-03** — merged PR [#2239](https://github.com/ZacSweers/metro/pull/2239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate qualifier annotations from `@CircuitInject` decls"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
