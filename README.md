@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-04** — merged PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
+
 **2026-05-04** — merged PR [#2240](https://github.com/ZacSweers/metro/pull/2240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to kempt"
 
 **2026-05-04** — merged PR [#2](https://github.com/ZacSweers/kempt/pull/2) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Always run git add on previously staged changes"
