@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-05** — opened PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
+
+**2026-05-05** — created branch `z/traceContext` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-05** — closed issue [#2244](https://github.com/ZacSweers/metro/issues/2244) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirNamedArgumentExpression not handled in renderAnnotationArgument"
 
 **2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380633436) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-05** — commented on [#1180](https://github.com/ZacSweers/metro/issues/1180#issuecomment-4380620568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — closed issue [#1180](https://github.com/ZacSweers/metro/issues/1180) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run IC tests on all platforms"
-
-**2026-05-05** — merged PR [#2245](https://github.com/ZacSweers/metro/pull/2245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run gradle IC tests on all platforms"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
