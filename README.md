@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-05** — closed issue [#2244](https://github.com/ZacSweers/metro/issues/2244) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirNamedArgumentExpression not handled in renderAnnotationArgument"
+
+**2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
+
+**2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380777782) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
+
+**2026-05-05** — created branch `z/renderFirNamed` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380690188) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380633436) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — commented on [#1180](https://github.com/ZacSweers/metro/issues/1180#issuecomment-4380620568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — closed issue [#1180](https://github.com/ZacSweers/metro/issues/1180) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run IC tests on all platforms"
+
 **2026-05-05** — merged PR [#2245](https://github.com/ZacSweers/metro/pull/2245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run gradle IC tests on all platforms"
-
-**2026-05-04** — merged PR [#2245](https://github.com/ZacSweers/metro/pull/2245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run gradle IC tests on all platforms"
-
-**2026-05-04** — created branch `z/kmpFunctionalTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-04** — commented on [#2242](https://github.com/ZacSweers/metro/issues/2242#issuecomment-4373404899) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-04** — closed issue [#2242](https://github.com/ZacSweers/metro/issues/2242) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate Qualifiers for Circuit codegen"
-
-**2026-05-04** — closed issue [#1772](https://github.com/ZacSweers/metro/issues/1772) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incremental build succeeds after BindingContainer is contributed to wrong scope"
-
-**2026-05-04** — commented on [#1772](https://github.com/ZacSweers/metro/issues/1772#issuecomment-4373015127) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-04** — merged PR [#5741](https://github.com/JetBrains/kotlin/pull/5741) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Add CustomKotlinLikeDumpStrategy.nameOf API"
-
-**2026-05-04** — merged PR [#2240](https://github.com/ZacSweers/metro/pull/2240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to kempt"
-
-**2026-05-04** — merged PR [#2](https://github.com/ZacSweers/kempt/pull/2) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Always run git add on previously staged changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
