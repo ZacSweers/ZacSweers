@@ -4,7 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-05** — opened PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
+**2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
+
+**2026-05-05** — commented on [#2249](https://github.com/ZacSweers/metro/pull/2249#issuecomment-4381792673) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
 
 **2026-05-05** — created branch `z/traceContext` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-05** — created branch `z/renderFirNamed` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380690188) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380633436) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — commented on [#1180](https://github.com/ZacSweers/metro/issues/1180#issuecomment-4380620568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
