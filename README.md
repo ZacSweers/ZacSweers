@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-04** — opened PR [#2245](https://github.com/ZacSweers/metro/pull/2245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run gradle IC tests on all platforms"
+
+**2026-05-04** — created branch `z/kmpFunctionalTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-04** — commented on [#2242](https://github.com/ZacSweers/metro/issues/2242#issuecomment-4373404899) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-04** — closed issue [#2242](https://github.com/ZacSweers/metro/issues/2242) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate Qualifiers for Circuit codegen"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-04** — merged PR [#2](https://github.com/ZacSweers/kempt/pull/2) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Always run git add on previously staged changes"
 
 **2026-05-04** — merged PR [#2](https://github.com/ZacSweers/kempt/pull/2) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Always run git add on previously staged changes"
-
-**2026-05-04** — created branch `z/fixAdd` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-05-04** — merged PR [#2240](https://github.com/ZacSweers/metro/pull/2240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to kempt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
