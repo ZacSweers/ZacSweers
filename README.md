@@ -19,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380777782) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
-
-**2026-05-05** — created branch `z/renderFirNamed` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
