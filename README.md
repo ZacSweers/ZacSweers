@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392249591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392238026) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-06** — closed issue [#1872](https://github.com/ZacSweers/metro/issues/1872) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FR: Report diagnostic on Dagger Module.subcomponent usage if annotation interop only is enabled"
 
 **2026-05-06** — merged PR [#2256](https://github.com/ZacSweers/metro/pull/2256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for Modules.subcomponents"
