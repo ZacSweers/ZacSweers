@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-06** — opened PR [#2253](https://github.com/ZacSweers/metro/pull/2253) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make pure binding contributions containers instead"
+
+**2026-05-06** — created branch `z/contributionsAsContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-06** — merged PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
 
 **2026-05-06** — merged PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
 
 **2026-05-05** — commented on [#2249](https://github.com/ZacSweers/metro/pull/2249#issuecomment-4381792673) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
-
-**2026-05-05** — created branch `z/traceContext` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
