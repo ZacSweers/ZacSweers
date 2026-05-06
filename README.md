@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-06** — opened PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
+
+**2026-05-06** — created branch `z/firTraces` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — merged PR [#2406](https://github.com/ZacSweers/CatchUp/pull/2406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes + metro circuit codegen"
+
+**2026-05-06** — merged PR [#2406](https://github.com/ZacSweers/CatchUp/pull/2406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes + metro circuit codegen"
+
+**2026-05-06** — created branch `z/metroCircuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
 
 **2026-05-05** — commented on [#2249](https://github.com/ZacSweers/metro/pull/2249#issuecomment-4381792673) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,14 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-05** — merged PR [#2250](https://github.com/ZacSweers/metro/pull/2250) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add TraceContext for shared tracing infra"
 
 **2026-05-05** — created branch `z/traceContext` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — closed issue [#2244](https://github.com/ZacSweers/metro/issues/2244) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirNamedArgumentExpression not handled in renderAnnotationArgument"
-
-**2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
-
-**2026-05-05** — commented on [#2244](https://github.com/ZacSweers/metro/issues/2244#issuecomment-4380777782) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-05** — merged PR [#2248](https://github.com/ZacSweers/metro/pull/2248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle FirNamedArgumentExpression in renderAnnotationArgument"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
