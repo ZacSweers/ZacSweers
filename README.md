@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-06** — opened PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
+**2026-05-06** — merged PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
+
+**2026-05-06** — merged PR [#2252](https://github.com/ZacSweers/metro/pull/2252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add traces to FIR"
 
 **2026-05-06** — created branch `z/firTraces` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
