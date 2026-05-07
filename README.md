@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-07** — merged PR [#2258](https://github.com/ZacSweers/metro/pull/2258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-07** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-07** — merged PR [#2258](https://github.com/ZacSweers/metro/pull/2258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394066967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394059571) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-06** — merged PR [#2256](https://github.com/ZacSweers/metro/pull/2256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for Modules.subcomponents"
 
 **2026-05-06** — merged PR [#2256](https://github.com/ZacSweers/metro/pull/2256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for Modules.subcomponents"
-
-**2026-05-06** — created branch `z/subcomponentWarning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-06** — commented on [#1775](https://github.com/ZacSweers/metro/issues/1775#issuecomment-4391233115) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-06** — merged PR [#2253](https://github.com/ZacSweers/metro/pull/2253) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make pure binding contributions containers instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
