@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394066967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394059571) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392249591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392238026) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-06** — commented on [#1775](https://github.com/ZacSweers/metro/issues/1775#issuecomment-4391233115) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-06** — merged PR [#2253](https://github.com/ZacSweers/metro/pull/2253) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make pure binding contributions containers instead"
-
-**2026-05-06** — closed issue [#2243](https://github.com/ZacSweers/metro/issues/2243) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "JS runtime error around MetroViewModelFactory and Providers"
-
-**2026-05-06** — merged PR [#2255](https://github.com/ZacSweers/metro/pull/2255) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle Map Providers in JS with function types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
