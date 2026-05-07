@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-07** — Could not load GitHub activity. Please check back later.
+**2026-05-07** — merged PR [#2258](https://github.com/ZacSweers/metro/pull/2258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-07** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-07** — merged PR [#2258](https://github.com/ZacSweers/metro/pull/2258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394066967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394059571) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392249591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392238026) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-06** — closed issue [#1872](https://github.com/ZacSweers/metro/issues/1872) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FR: Report diagnostic on Dagger Module.subcomponent usage if annotation interop only is enabled"
+
+**2026-05-06** — merged PR [#2256](https://github.com/ZacSweers/metro/pull/2256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for Modules.subcomponents"
+
+**2026-05-06** — merged PR [#2256](https://github.com/ZacSweers/metro/pull/2256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for Modules.subcomponents"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
