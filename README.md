@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-08** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4403682480) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-08** — closed issue [#2260](https://github.com/ZacSweers/metro/issues/2260) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Broad approval from a Dagger author"
+
+**2026-05-08** — commented on [#2260](https://github.com/ZacSweers/metro/issues/2260#issuecomment-4403653489) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-07** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4400410173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-07** — opened PR [#2259](https://github.com/ZacSweers/metro/pull/2259) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add support for chunking merged supertypes"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-07** — merged PR [#2258](https://github.com/ZacSweers/metro/pull/2258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394066967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4394059571) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392249591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-06** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4392238026) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
