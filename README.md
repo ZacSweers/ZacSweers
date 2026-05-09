@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-08** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4410504691) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-08** — closed issue [#2261](https://github.com/ZacSweers/metro/issues/2261) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Broad approval from a Guice author"
-
-**2026-05-08** — commented on [#2261](https://github.com/ZacSweers/metro/issues/2261#issuecomment-4407406562) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-08** — merged PR [#2262](https://github.com/ZacSweers/metro/pull/2262) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-08** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-08** — merged PR [#2262](https://github.com/ZacSweers/metro/pull/2262) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-08** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4403682480) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-08** — closed issue [#2260](https://github.com/ZacSweers/metro/issues/2260) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Broad approval from a Dagger author"
-
-**2026-05-08** — commented on [#2260](https://github.com/ZacSweers/metro/issues/2260#issuecomment-4403653489) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-07** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4400410173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-09** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4413544581) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
