@@ -4,7 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-09** — commented on [#2257](https://github.com/ZacSweers/metro/issues/2257#issuecomment-4413544581) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-10** — merged PR [#2264](https://github.com/ZacSweers/metro/pull/2264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.3.21 RCs"
+
+**2026-05-10** — merged PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
+
+**2026-05-10** — merged PR [#2264](https://github.com/ZacSweers/metro/pull/2264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.3.21 RCs"
+
+**2026-05-10** — created branch `z/rm2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
