@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-10** — merged PR [#2221](https://github.com/ZacSweers/metro/pull/2221) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20 dev builds"
+
 **2026-05-10** — merged PR [#2264](https://github.com/ZacSweers/metro/pull/2264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.3.21 RCs"
 
 **2026-05-10** — merged PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
