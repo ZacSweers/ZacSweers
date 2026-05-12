@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-12** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4435590468) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-12** — closed issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
+
 **2026-05-12** — closed issue [#2268](https://github.com/ZacSweers/metro/issues/2268) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@GraphExtension chains with Long filenames generate >255-byte .class filenames and fail to compile"
 
 **2026-05-12** — merged PR [#2276](https://github.com/ZacSweers/metro/pull/2276) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Shorten long graph extension class names"
@@ -17,10 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-12** — merged PR [#2275](https://github.com/ZacSweers/metro/pull/2275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Static and value classes in the runtime where possible"
 
 **2026-05-12** — merged PR [#2275](https://github.com/ZacSweers/metro/pull/2275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Static and value classes in the runtime where possible"
-
-**2026-05-12** — created branch `z/valueClass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-12** — labeled issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
