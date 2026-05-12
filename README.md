@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-12** — created branch `z/valueClass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-12** — labeled issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
-
-**2026-05-12** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4434390715) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
