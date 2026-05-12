@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-12** — merged PR [#2271](https://github.com/ZacSweers/metro/pull/2271) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Extra receiver qualifiers test"
+
+**2026-05-12** — commented on [#6244](https://github.com/sqldelight/sqldelight/issues/6244#issuecomment-4434238668) in [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)
+
+**2026-05-12** — commented on [#2267](https://github.com/ZacSweers/metro/issues/2267#issuecomment-4434237751) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-12** — closed issue [#2267](https://github.com/ZacSweers/metro/issues/2267) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "The runtime artifact is causing a KLIB resolver warning with SqlDelight"
+
+**2026-05-12** — merged PR [#2271](https://github.com/ZacSweers/metro/pull/2271) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Extra receiver qualifiers test"
+
 **2026-05-12** — created branch `z/receiverQualifiers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-12** — commented on [#2267](https://github.com/ZacSweers/metro/issues/2267#issuecomment-4430978541) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,14 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-11** — commented on [#2266](https://github.com/ZacSweers/metro/pull/2266#issuecomment-4422689931) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-10** — merged PR [#2221](https://github.com/ZacSweers/metro/pull/2221) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20 dev builds"
-
-**2026-05-10** — merged PR [#2264](https://github.com/ZacSweers/metro/pull/2264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.3.21 RCs"
-
-**2026-05-10** — merged PR [#1976](https://github.com/ZacSweers/metro/pull/1976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fork `dumpKotlinLike()` to improve readability"
-
-**2026-05-10** — merged PR [#2264](https://github.com/ZacSweers/metro/pull/2264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.3.21 RCs"
-
-**2026-05-10** — created branch `z/rm2321rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
