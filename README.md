@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-12** — merged PR [#2275](https://github.com/ZacSweers/metro/pull/2275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Static and value classes in the runtime where possible"
-
-**2026-05-12** — merged PR [#2275](https://github.com/ZacSweers/metro/pull/2275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Static and value classes in the runtime where possible"
-
-**2026-05-12** — created branch `z/valueClass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-12** — labeled issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
-
-**2026-05-12** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4434390715) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-12** — merged PR [#2271](https://github.com/ZacSweers/metro/pull/2271) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Extra receiver qualifiers test"
-
-**2026-05-12** — commented on [#6244](https://github.com/sqldelight/sqldelight/issues/6244#issuecomment-4434238668) in [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)
-
-**2026-05-12** — commented on [#2267](https://github.com/ZacSweers/metro/issues/2267#issuecomment-4434237751) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-12** — closed issue [#2267](https://github.com/ZacSweers/metro/issues/2267) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "The runtime artifact is causing a KLIB resolver warning with SqlDelight"
-
-**2026-05-12** — merged PR [#2271](https://github.com/ZacSweers/metro/pull/2271) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Extra receiver qualifiers test"
+**2026-05-12** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
