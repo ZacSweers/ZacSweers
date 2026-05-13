@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-13** — merged PR [#2286](https://github.com/ZacSweers/metro/pull/2286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.0-RC"
+
+**2026-05-13** — opened PR [#2292](https://github.com/ZacSweers/metro/pull/2292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More granular konan caching"
+
+**2026-05-13** — created branch `z/granularKonan` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — opened PR [#2291](https://github.com/ZacSweers/metro/pull/2291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotate mirrors with comptime + OPEN binds getters"
+
+**2026-05-13** — created branch `z/betterOriginDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — merged PR [#2287](https://github.com/ZacSweers/metro/pull/2287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add trace_compile helper"
+
 **2026-05-13** — merged PR [#2289](https://github.com/ZacSweers/metro/pull/2289) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "CI cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
