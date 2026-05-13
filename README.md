@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-13** — opened PR [#2289](https://github.com/ZacSweers/metro/pull/2289) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Debugging CI"
+
+**2026-05-13** — created branch `z/debuggingCI` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-13** — opened PR [#2287](https://github.com/ZacSweers/metro/pull/2287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add trace_compile helper"
 
 **2026-05-13** — created branch `z/addTraceCompile` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
