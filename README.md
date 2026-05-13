@@ -4,9 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-13** — opened PR [#2289](https://github.com/ZacSweers/metro/pull/2289) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Debugging CI"
-
-**2026-05-13** — created branch `z/debuggingCI` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-13** — merged PR [#2289](https://github.com/ZacSweers/metro/pull/2289) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "CI cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
