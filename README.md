@@ -4,19 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-13** — merged PR [#2291](https://github.com/ZacSweers/metro/pull/2291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotate mirrors with comptime + OPEN binds getters"
+**2026-05-13** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4445762880) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-05-13** — merged PR [#2286](https://github.com/ZacSweers/metro/pull/2286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.0-RC"
+**2026-05-13** — merged PR [#1740](https://github.com/ZacSweers/metro/pull/1740) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to JDK 25"
 
-**2026-05-13** — opened PR [#2292](https://github.com/ZacSweers/metro/pull/2292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More granular konan caching"
+**2026-05-13** — opened PR [#2296](https://github.com/ZacSweers/metro/pull/2296) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No cross publishing"
 
-**2026-05-13** — created branch `z/granularKonan` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-05-13** — created branch `z/noCrossPub` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-05-13** — merged PR [#2291](https://github.com/ZacSweers/metro/pull/2291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotate mirrors with comptime + OPEN binds getters"
+**2026-05-13** — merged PR [#2292](https://github.com/ZacSweers/metro/pull/2292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More granular konan caching"
 
-**2026-05-13** — created branch `z/betterOriginDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-13** — merged PR [#2287](https://github.com/ZacSweers/metro/pull/2287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add trace_compile helper"
+**2026-05-13** — merged PR [#2281](https://github.com/ZacSweers/metro/pull/2281) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.2.20 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
