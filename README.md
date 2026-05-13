@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-13** — Could not load GitHub activity. Please check back later.
+**2026-05-13** — created branch `z/remove22` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — opened PR [#2281](https://github.com/ZacSweers/metro/pull/2281) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.2.20 support"
+
+**2026-05-13** — merged PR [#2280](https://github.com/ZacSweers/metro/pull/2280) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested studio versions"
+
+**2026-05-13** — merged PR [#2278](https://github.com/ZacSweers/metro/pull/2278) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributes annotations on assisted injections"
+
+**2026-05-13** — closed issue [#2277](https://github.com/ZacSweers/metro/issues/2277) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "AssistedInject with ContributesBinding causes NullPointerException with generateContributionProviders"
+
+**2026-05-13** — merged PR [#2279](https://github.com/ZacSweers/metro/pull/2279) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use the substituted return type in Circuit factory providers"
+
+**2026-05-13** — merged PR [#2280](https://github.com/ZacSweers/metro/pull/2280) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested studio versions"
+
+**2026-05-13** — created branch `z/updateCanary` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — merged PR [#2279](https://github.com/ZacSweers/metro/pull/2279) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use the substituted return type in Circuit factory providers"
+
+**2026-05-13** — created branch `z/anotherCircuitWasm` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
