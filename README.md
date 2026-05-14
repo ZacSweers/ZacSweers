@@ -9,8 +9,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-14** — merged PR [#44](https://github.com/ZacSweers/socialteesjs/pull/44) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Use fallbacks for cloudinary to better locate faces"
 
 **2026-05-14** — created branch `z/centerImages` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
-
-**2026-05-14** — unlabeled issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
