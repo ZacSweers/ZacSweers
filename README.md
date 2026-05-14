@@ -15,10 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-14** — merged PR [#2303](https://github.com/ZacSweers/metro/pull/2303) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More publishing cleanup"
 
 **2026-05-14** — created branch `z/jarCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-14** — created branch `z/cleanUpPublishing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-14** — merged PR [#2301](https://github.com/ZacSweers/metro/pull/2301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update a few misc deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
