@@ -4,7 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-14** — unlabeled issue [#2269](https://github.com/ZacSweers/metro/issues/2269) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Internal implementations not added to multibinding if they also have `@ExposeImplBinding`"
 
+**2026-05-14** — merged PR [#2303](https://github.com/ZacSweers/metro/pull/2303) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More publishing cleanup"
+
+**2026-05-14** — merged PR [#2304](https://github.com/ZacSweers/metro/pull/2304) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up module-info dupe warnings"
+
+**2026-05-14** — merged PR [#2304](https://github.com/ZacSweers/metro/pull/2304) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up module-info dupe warnings"
+
+**2026-05-14** — merged PR [#2303](https://github.com/ZacSweers/metro/pull/2303) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More publishing cleanup"
+
+**2026-05-14** — created branch `z/jarCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-14** — created branch `z/cleanUpPublishing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-14** — merged PR [#2301](https://github.com/ZacSweers/metro/pull/2301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update a few misc deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
