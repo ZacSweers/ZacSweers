@@ -4,17 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-13** — opened PR [#2302](https://github.com/ZacSweers/metro/pull/2302) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update published runtime version to 2.3.0"
+
+**2026-05-13** — created branch `z/230runtime` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — opened PR [#2301](https://github.com/ZacSweers/metro/pull/2301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update a few misc deps"
+
+**2026-05-13** — created branch `z/someDepUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — merged PR [#2299](https://github.com/ZacSweers/metro/pull/2299) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update compose.jb to v1.11.0""
+
+**2026-05-13** — merged PR [#2299](https://github.com/ZacSweers/metro/pull/2299) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update compose.jb to v1.11.0""
+
+**2026-05-13** — created branch `revert-2294-renovate/compose.jb` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-13** — closed PR [#2295](https://github.com/ZacSweers/metro/pull/2295) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency dev.zacsweers.metro to v1.1.0"
+
 **2026-05-13** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4445762880) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-13** — merged PR [#1740](https://github.com/ZacSweers/metro/pull/1740) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to JDK 25"
-
-**2026-05-13** — opened PR [#2296](https://github.com/ZacSweers/metro/pull/2296) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No cross publishing"
-
-**2026-05-13** — created branch `z/noCrossPub` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-13** — merged PR [#2292](https://github.com/ZacSweers/metro/pull/2292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More granular konan caching"
-
-**2026-05-13** — merged PR [#2281](https://github.com/ZacSweers/metro/pull/2281) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove 2.2.20 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
