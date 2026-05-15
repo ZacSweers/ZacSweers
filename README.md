@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-15** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4456967069) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-14** — merged PR [#550](https://github.com/uber/AutoDispose/pull/550) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix build"
 
 **2026-05-14** — merged PR [#44](https://github.com/ZacSweers/socialteesjs/pull/44) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Use fallbacks for cloudinary to better locate faces"
