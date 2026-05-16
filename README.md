@@ -4,11 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-16** — merged PR [#2312](https://github.com/ZacSweers/metro/pull/2312) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-05-15** — commented on [#2269](https://github.com/ZacSweers/metro/issues/2269#issuecomment-4459901272) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-15** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-05-15** — opened PR [#2312](https://github.com/ZacSweers/metro/pull/2312) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-05-15** — merged PR [#2312](https://github.com/ZacSweers/metro/pull/2312) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-15** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4456967069) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
