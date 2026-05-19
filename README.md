@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-19** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4489340853) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2026-05-19** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4489285727) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2026-05-16** — commented on [#2317](https://github.com/ZacSweers/metro/pull/2317#issuecomment-4467779662) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-16** — commented on [#2318](https://github.com/ZacSweers/metro/issues/2318#issuecomment-4467778323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
