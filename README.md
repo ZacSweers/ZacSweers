@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-16** — commented on [#2318](https://github.com/ZacSweers/metro/issues/2318#issuecomment-4467778323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-16** — closed issue [#2318](https://github.com/ZacSweers/metro/issues/2318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Silent omission: @ExposeImplBinding on internal cross-module class drops contribution when metro.generateContributionProviders=true"
-
-**2026-05-16** — merged PR [#2312](https://github.com/ZacSweers/metro/pull/2312) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
