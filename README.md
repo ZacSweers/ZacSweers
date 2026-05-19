@@ -4,17 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-19** — commented on [#2664](https://github.com/slackhq/circuit/pull/2664#issuecomment-4490787010) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-05-19** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4489340853) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2026-05-19** — commented on [#614](https://github.com/facebook/ktfmt/pull/614#issuecomment-4489285727) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2026-05-16** — commented on [#2317](https://github.com/ZacSweers/metro/pull/2317#issuecomment-4467779662) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-16** — commented on [#2318](https://github.com/ZacSweers/metro/issues/2318#issuecomment-4467778323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-16** — closed issue [#2318](https://github.com/ZacSweers/metro/issues/2318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Silent omission: @ExposeImplBinding on internal cross-module class drops contribution when metro.generateContributionProviders=true"
+**2026-05-19** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
