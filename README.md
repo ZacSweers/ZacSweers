@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-20** — merged PR [#2331](https://github.com/ZacSweers/metro/pull/2331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-20** — merged PR [#2331](https://github.com/ZacSweers/metro/pull/2331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-05-20** — opened issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
 
 **2026-05-20** — closed PR [#895](https://github.com/ZacSweers/MoshiX/pull/895) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
