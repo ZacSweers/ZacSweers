@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-23** — closed issue [#530](https://github.com/slackhq/compose-lints/issues/530) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "V1.4.3 never got published?"
+
+**2026-05-23** — commented on [#530](https://github.com/slackhq/compose-lints/issues/530#issuecomment-4525263799) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-08** — closed PR [#531](https://github.com/slackhq/compose-lints/pull/531) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "chore: update Renovate GitHub Action"
 
 **2026-05-23** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-4525120120) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
