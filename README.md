@@ -4,25 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-08** — closed PR [#531](https://github.com/slackhq/compose-lints/pull/531) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "chore: update Renovate GitHub Action"
+
+**2026-05-23** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-4525120120) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-23** — closed issue [#373](https://github.com/slackhq/compose-lints/issues/373) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: Don't use `Locale.getDefault()` in a `@Composable` context"
+
 **2026-05-22** — opened issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 
 **2026-05-22** — opened issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
-
-**2026-05-22** — merged PR [#2335](https://github.com/ZacSweers/metro/pull/2335) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-22** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-22** — merged PR [#2335](https://github.com/ZacSweers/metro/pull/2335) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-20** — merged PR [#2331](https://github.com/ZacSweers/metro/pull/2331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-20** — merged PR [#2331](https://github.com/ZacSweers/metro/pull/2331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-20** — opened issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
-
-**2026-05-20** — closed PR [#895](https://github.com/ZacSweers/MoshiX/pull/895) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
