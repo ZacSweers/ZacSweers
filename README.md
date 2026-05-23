@@ -15,8 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-23** — closed issue [#373](https://github.com/slackhq/compose-lints/issues/373) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: Don't use `Locale.getDefault()` in a `@Composable` context"
 
 **2026-05-22** — opened issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
-
-**2026-05-22** — opened issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
