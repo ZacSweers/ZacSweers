@@ -4,17 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-02** — closed PR [#412](https://github.com/slackhq/slack-lints/pull/412) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.13.2"
+
+**2026-05-23** — commented on [#466](https://github.com/slackhq/compose-lints/issues/466#issuecomment-4526672899) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-23** — closed PR [#537](https://github.com/slackhq/compose-lints/pull/537) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update renovatebot/github-action action to v40.3.6"
+
+**2026-05-23** — commented on [#454](https://github.com/slackhq/compose-lints/pull/454#issuecomment-4526660015) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-23** — closed issue [#530](https://github.com/slackhq/compose-lints/issues/530) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "V1.4.3 never got published?"
 
 **2026-05-23** — commented on [#530](https://github.com/slackhq/compose-lints/issues/530#issuecomment-4525263799) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-08** — closed PR [#531](https://github.com/slackhq/compose-lints/pull/531) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "chore: update Renovate GitHub Action"
-
-**2026-05-23** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-4525120120) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-23** — closed issue [#373](https://github.com/slackhq/compose-lints/issues/373) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: Don't use `Locale.getDefault()` in a `@Composable` context"
-
-**2026-05-22** — opened issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
