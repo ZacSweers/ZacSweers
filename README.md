@@ -9,8 +9,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-23** — commented on [#466](https://github.com/slackhq/compose-lints/issues/466#issuecomment-4526672899) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-05-23** — closed PR [#537](https://github.com/slackhq/compose-lints/pull/537) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update renovatebot/github-action action to v40.3.6"
-
-**2026-05-23** — commented on [#454](https://github.com/slackhq/compose-lints/pull/454#issuecomment-4526660015) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
