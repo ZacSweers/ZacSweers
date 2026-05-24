@@ -4,11 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-02** — closed PR [#412](https://github.com/slackhq/slack-lints/pull/412) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.13.2"
+**2026-05-24** — opened PR [#540](https://github.com/slackhq/compose-lints/pull/540) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add more modifier tests"
 
-**2026-05-23** — commented on [#466](https://github.com/slackhq/compose-lints/issues/466#issuecomment-4526672899) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-05-24** — created branch `z/moreTests` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2026-05-23** — closed PR [#537](https://github.com/slackhq/compose-lints/pull/537) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update renovatebot/github-action action to v40.3.6"
+**2026-05-24** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-4529048969) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-24** — closed issue [#470](https://github.com/slackhq/compose-lints/issues/470) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "BUG: `ComposeCompositionLocalUsage` does not use `allowed-composition-locals` option correctly."
+
+**2026-05-24** — closed issue [#171](https://github.com/slackhq/compose-lints/issues/171) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a lint that looks for un-remembered instantiation of types or functions whose names end in "State""
+
+**2026-05-24** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-4529032619) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-24** — commented on [#472](https://github.com/slackhq/compose-lints/issues/472#issuecomment-4529026940) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-24** — closed issue [#472](https://github.com/slackhq/compose-lints/issues/472) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Unused Composable Rule"
+
+**2026-05-24** — opened PR [#539](https://github.com/slackhq/compose-lints/pull/539) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove RememberMissingDetector"
+
+**2026-05-24** — created branch `z/removeRememberMissing` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
