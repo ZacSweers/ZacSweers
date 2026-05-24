@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-24** — opened PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
+
+**2026-05-24** — created branch `z/valueClassImprovements` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-24** — commented on [#414](https://github.com/slackhq/slack-lints/pull/414#issuecomment-4529082560) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2026-05-24** — closed issue [#467](https://github.com/slackhq/compose-lints/issues/467) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` detected on non-`Unit` returning functions"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-24** — closed issue [#470](https://github.com/slackhq/compose-lints/issues/470) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "BUG: `ComposeCompositionLocalUsage` does not use `allowed-composition-locals` option correctly."
 
 **2026-05-24** — closed issue [#171](https://github.com/slackhq/compose-lints/issues/171) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a lint that looks for un-remembered instantiation of types or functions whose names end in "State""
-
-**2026-05-24** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-4529032619) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-24** — commented on [#472](https://github.com/slackhq/compose-lints/issues/472#issuecomment-4529026940) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
