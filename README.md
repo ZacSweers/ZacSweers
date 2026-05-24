@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-24** — closed issue [#328](https://github.com/slackhq/compose-lints/issues/328) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Respect stability configuration file (stabilityConfigurationPath setting)"
+
+**2026-05-24** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-4530080381) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-24** — opened PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
+
+**2026-05-24** — created branch `z/noHashCodeInKey` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-24** — opened PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
 
 **2026-05-24** — created branch `z/valueClassImprovements` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-24** — commented on [#467](https://github.com/slackhq/compose-lints/issues/467#issuecomment-4529075290) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-05-24** — opened PR [#540](https://github.com/slackhq/compose-lints/pull/540) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add more modifier tests"
-
-**2026-05-24** — created branch `z/moreTests` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-24** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-4529048969) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-24** — closed issue [#470](https://github.com/slackhq/compose-lints/issues/470) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "BUG: `ComposeCompositionLocalUsage` does not use `allowed-composition-locals` option correctly."
-
-**2026-05-24** — closed issue [#171](https://github.com/slackhq/compose-lints/issues/171) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a lint that looks for un-remembered instantiation of types or functions whose names end in "State""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
