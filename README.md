@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-24** — opened PR [#617](https://github.com/facebook/ktfmt/pull/617) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Finish GraalVM `native-image` support"
+**2026-05-25** — labeled issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
 
-**2026-05-24** — created branch `z/graalvm` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+**2026-05-25** — labeled issue [#2311](https://github.com/ZacSweers/metro/issues/2311) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable generateContributionProviders with internal assisted factories"
 
-**2026-05-24** — closed issue [#328](https://github.com/slackhq/compose-lints/issues/328) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Respect stability configuration file (stabilityConfigurationPath setting)"
+**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 
-**2026-05-24** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-4530080381) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 
-**2026-05-24** — opened PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
+**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 
-**2026-05-24** — created branch `z/noHashCodeInKey` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
 
-**2026-05-24** — opened PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
+**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
 
-**2026-05-24** — created branch `z/valueClassImprovements` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
 
-**2026-05-24** — commented on [#414](https://github.com/slackhq/slack-lints/pull/414#issuecomment-4529082560) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2026-05-25** — labeled issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 
-**2026-05-24** — closed issue [#467](https://github.com/slackhq/compose-lints/issues/467) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` detected on non-`Unit` returning functions"
+**2026-05-25** — labeled issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
