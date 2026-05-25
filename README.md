@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — created branch `z/overridesParentBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-25** — opened PR [#544](https://github.com/slackhq/compose-lints/pull/544) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix nested viewmodel call forwarding"
+
+**2026-05-25** — created branch `z/fixNestedForwarding` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-05-25** — opened PR [#543](https://github.com/slackhq/compose-lints/pull/543) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add redundant composable detection"
+
+**2026-05-25** — created branch `z/redundantComposable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-25** — commented on [#617](https://github.com/facebook/ktfmt/pull/617#issuecomment-4536406595) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2026-05-25** — closed issue [#490](https://github.com/slackhq/compose-lints/issues/490) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "RememberMissingDetector doesn't detect primitive state creation, issues false positive for `retain` and other lambdas"
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — closed issue [#374](https://github.com/slackhq/compose-lints/issues/374) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: don't use `hashCode` in the item key for Lazy* Composables"
 
 **2026-05-25** — merged PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
-
-**2026-05-25** — closed issue [#268](https://github.com/slackhq/compose-lints/issues/268) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierReused false positive on a shadowed parameter name"
-
-**2026-05-25** — closed issue [#291](https://github.com/slackhq/compose-lints/issues/291) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for ComposeModifierReused"
-
-**2026-05-25** — merged PR [#540](https://github.com/slackhq/compose-lints/pull/540) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add more modifier tests"
-
-**2026-05-25** — closed issue [#326](https://github.com/slackhq/compose-lints/issues/326) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for `ComposeUnstableReceiver` starting with AGP 8.5.0-alpha04 and K2 UAST"
-
-**2026-05-25** — merged PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
