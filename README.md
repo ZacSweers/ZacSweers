@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — commented on [#617](https://github.com/facebook/ktfmt/pull/617#issuecomment-4536406595) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2026-05-25** — closed issue [#490](https://github.com/slackhq/compose-lints/issues/490) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "RememberMissingDetector doesn't detect primitive state creation, issues false positive for `retain` and other lambdas"
 
 **2026-05-25** — merged PR [#539](https://github.com/slackhq/compose-lints/pull/539) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove RememberMissingDetector"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — closed issue [#326](https://github.com/slackhq/compose-lints/issues/326) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for `ComposeUnstableReceiver` starting with AGP 8.5.0-alpha04 and K2 UAST"
 
 **2026-05-25** — merged PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
-
-**2026-05-25** — labeled issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
