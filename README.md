@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — commented on [#543](https://github.com/slackhq/compose-lints/pull/543#issuecomment-4537589370) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-05-25** — created branch `z/overridesParentBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-25** — opened PR [#544](https://github.com/slackhq/compose-lints/pull/544) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix nested viewmodel call forwarding"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — merged PR [#539](https://github.com/slackhq/compose-lints/pull/539) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove RememberMissingDetector"
 
 **2026-05-25** — closed issue [#374](https://github.com/slackhq/compose-lints/issues/374) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: don't use `hashCode` in the item key for Lazy* Composables"
-
-**2026-05-25** — merged PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
