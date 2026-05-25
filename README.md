@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — closed issue [#490](https://github.com/slackhq/compose-lints/issues/490) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "RememberMissingDetector doesn't detect primitive state creation, issues false positive for `retain` and other lambdas"
+
+**2026-05-25** — merged PR [#539](https://github.com/slackhq/compose-lints/pull/539) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove RememberMissingDetector"
+
 **2026-05-25** — closed issue [#374](https://github.com/slackhq/compose-lints/issues/374) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: don't use `hashCode` in the item key for Lazy* Composables"
 
 **2026-05-25** — merged PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — merged PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
 
 **2026-05-25** — labeled issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
-
-**2026-05-25** — labeled issue [#2311](https://github.com/ZacSweers/metro/issues/2311) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable generateContributionProviders with internal assisted factories"
-
-**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
