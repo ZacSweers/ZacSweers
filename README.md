@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-24** — opened PR [#617](https://github.com/facebook/ktfmt/pull/617) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Finish GraalVM `native-image` support"
+
+**2026-05-24** — created branch `z/graalvm` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+
 **2026-05-24** — closed issue [#328](https://github.com/slackhq/compose-lints/issues/328) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Respect stability configuration file (stabilityConfigurationPath setting)"
 
 **2026-05-24** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-4530080381) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-24** — commented on [#414](https://github.com/slackhq/slack-lints/pull/414#issuecomment-4529082560) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2026-05-24** — closed issue [#467](https://github.com/slackhq/compose-lints/issues/467) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` detected on non-`Unit` returning functions"
-
-**2026-05-24** — commented on [#467](https://github.com/slackhq/compose-lints/issues/467#issuecomment-4529075290) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-24** — opened PR [#540](https://github.com/slackhq/compose-lints/pull/540) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add more modifier tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
