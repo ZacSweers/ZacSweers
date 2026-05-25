@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — closed issue [#374](https://github.com/slackhq/compose-lints/issues/374) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed rule: don't use `hashCode` in the item key for Lazy* Composables"
+
+**2026-05-25** — merged PR [#542](https://github.com/slackhq/compose-lints/pull/542) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add detector for using hashCode() in keys"
+
+**2026-05-25** — closed issue [#268](https://github.com/slackhq/compose-lints/issues/268) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierReused false positive on a shadowed parameter name"
+
+**2026-05-25** — closed issue [#291](https://github.com/slackhq/compose-lints/issues/291) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for ComposeModifierReused"
+
+**2026-05-25** — merged PR [#540](https://github.com/slackhq/compose-lints/pull/540) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add more modifier tests"
+
+**2026-05-25** — closed issue [#326](https://github.com/slackhq/compose-lints/issues/326) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for `ComposeUnstableReceiver` starting with AGP 8.5.0-alpha04 and K2 UAST"
+
+**2026-05-25** — merged PR [#541](https://github.com/slackhq/compose-lints/pull/541) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix value class stability detection + disable stability detection by default"
+
 **2026-05-25** — labeled issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
 
 **2026-05-25** — labeled issue [#2311](https://github.com/ZacSweers/metro/issues/2311) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable generateContributionProviders with internal assisted factories"
 
 **2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
-
-**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
-
-**2026-05-25** — labeled issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
-
-**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
-
-**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
-
-**2026-05-25** — labeled issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
-
-**2026-05-25** — labeled issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
-
-**2026-05-25** — labeled issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
