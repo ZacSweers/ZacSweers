@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-25** — closed issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
+
+**2026-05-25** — merged PR [#2344](https://github.com/ZacSweers/metro/pull/2344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dynamic class caching across files"
+
+**2026-05-25** — merged PR [#2344](https://github.com/ZacSweers/metro/pull/2344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dynamic class caching across files"
+
+**2026-05-25** — created branch `z/dynamicGraphCaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-25** — closed issue [#2340](https://github.com/ZacSweers/metro/issues/2340) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up synchronization in ic.kt"
 
 **2026-05-25** — merged PR [#2343](https://github.com/ZacSweers/metro/pull/2343) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to WAL + non-synchronization in IC"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — closed issue [#323](https://github.com/slackhq/compose-lints/issues/323) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a check for functions that don't need to be annotated with `@Composable` but are."
 
 **2026-05-25** — merged PR [#543](https://github.com/slackhq/compose-lints/pull/543) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add redundant composable detection"
-
-**2026-05-25** — closed issue [#148](https://github.com/slackhq/compose-lints/issues/148) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeViewModelForwarding doesn't check nested blocks"
-
-**2026-05-25** — merged PR [#544](https://github.com/slackhq/compose-lints/pull/544) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix nested viewmodel call forwarding"
-
-**2026-05-25** — commented on [#543](https://github.com/slackhq/compose-lints/pull/543#issuecomment-4537589370) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-05-25** — created branch `z/overridesParentBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
