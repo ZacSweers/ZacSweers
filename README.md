@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-26** — created branch `z/intern` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-26** — merged PR [#2345](https://github.com/ZacSweers/metro/pull/2345) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove secondary topo sort"
 
 **2026-05-26** — closed PR [#2712](https://github.com/slackhq/circuit/pull/2712) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update jb.lifecycle to v2.11.0-snapshot+release-1-11"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-25** — merged PR [#2344](https://github.com/ZacSweers/metro/pull/2344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dynamic class caching across files"
 
 **2026-05-25** — created branch `z/dynamicGraphCaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-25** — closed issue [#2340](https://github.com/ZacSweers/metro/issues/2340) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up synchronization in ic.kt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
