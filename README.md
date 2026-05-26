@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-26** — closed PR [#913](https://github.com/ZacSweers/MoshiX/pull/913) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+
+**2026-05-26** — closed PR [#911](https://github.com/ZacSweers/MoshiX/pull/911) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+
 **2026-05-26** — closed issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 
 **2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-26** — closed PR [#2712](https://github.com/slackhq/circuit/pull/2712) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update jb.lifecycle to v2.11.0-snapshot+release-1-11"
 
 **2026-05-26** — merged PR [#2345](https://github.com/ZacSweers/metro/pull/2345) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove secondary topo sort"
-
-**2026-05-26** — created branch `z/removeSecondaryTopo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-26** — commented on [#2711](https://github.com/slackhq/circuit/issues/2711#issuecomment-4541582869) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
