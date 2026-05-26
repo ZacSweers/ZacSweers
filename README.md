@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-26** — closed issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
+
+**2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
+
+**2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
+
 **2026-05-26** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4545699264) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-05-26** — created branch `z/intern` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-26** — created branch `z/removeSecondaryTopo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-26** — commented on [#2711](https://github.com/slackhq/circuit/issues/2711#issuecomment-4541582869) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-05-25** — closed issue [#2324](https://github.com/ZacSweers/metro/issues/2324) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dynamic Factory Impl - Illegal Class Access"
-
-**2026-05-25** — merged PR [#2344](https://github.com/ZacSweers/metro/pull/2344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dynamic class caching across files"
-
-**2026-05-25** — merged PR [#2344](https://github.com/ZacSweers/metro/pull/2344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dynamic class caching across files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
