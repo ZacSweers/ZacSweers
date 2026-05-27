@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-27** — commented on [#2716](https://github.com/slackhq/circuit/pull/2716#issuecomment-4559093258) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-05-27** — merged PR [#2352](https://github.com/ZacSweers/metro/pull/2352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
 
 **2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
-
-**2026-05-26** — commented on [#2661](https://github.com/slackhq/circuit/issues/2661#issuecomment-4545699264) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
