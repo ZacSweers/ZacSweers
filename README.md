@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-26** — closed PR [#911](https://github.com/ZacSweers/MoshiX/pull/911) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
 **2026-05-26** — closed issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
-
-**2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
-
-**2026-05-26** — merged PR [#2347](https://github.com/ZacSweers/metro/pull/2347) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add modes for reducing generated field name types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
