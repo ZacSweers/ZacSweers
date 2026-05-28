@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-28** — commented on [#2344](https://github.com/ZacSweers/metro/pull/2344#issuecomment-4567093678) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-27** — commented on [#2716](https://github.com/slackhq/circuit/pull/2716#issuecomment-4559093258) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-05-27** — merged PR [#2352](https://github.com/ZacSweers/metro/pull/2352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -17,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-26** — closed PR [#913](https://github.com/ZacSweers/MoshiX/pull/913) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
 **2026-05-26** — closed PR [#911](https://github.com/ZacSweers/MoshiX/pull/911) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
-
-**2026-05-26** — closed issue [#2338](https://github.com/ZacSweers/metro/issues/2338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Intern strings in generated declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
