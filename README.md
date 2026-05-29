@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-29** — opened PR [#2721](https://github.com/slackhq/circuit/pull/2721) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix CI connected check task wiring"
+
+**2026-05-29** — created branch `z/fixCiChecks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-05-29** — merged PR [#2360](https://github.com/ZacSweers/metro/pull/2360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.0-RC2"
+
+**2026-05-29** — opened PR [#2720](https://github.com/slackhq/circuit/pull/2720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter Inbox sample"
+
+**2026-05-29** — created branch `z/compositeInbox` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-05-29** — merged PR [#2359](https://github.com/ZacSweers/metro/pull/2359) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazily compute cached hashCode and toString renders"
 
 **2026-05-29** — closed issue [#2348](https://github.com/ZacSweers/metro/issues/2348) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Inherited replaced bindings are not detected in grandchild with contribution providers"
@@ -11,18 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-29** — commented on [#2716](https://github.com/slackhq/circuit/pull/2716#issuecomment-4572730219) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-05-29** — closed issue [#2711](https://github.com/slackhq/circuit/issues/2711) on [slackhq/circuit](https://github.com/slackhq/circuit): "Saveable state of popped navstack records leaks into outState (TransactionTooLargeException risk)"
-
-**2026-05-28** — opened PR [#2360](https://github.com/ZacSweers/metro/pull/2360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.0-RC2"
-
-**2026-05-28** — created branch `z/rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-28** — merged PR [#2359](https://github.com/ZacSweers/metro/pull/2359) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazily compute cached hashCode and toString renders"
-
-**2026-05-28** — created branch `z/lazyHashCodeCache` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-28** — opened PR [#2358](https://github.com/ZacSweers/metro/pull/2358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove eager lookups of some GraphNode props"
-
-**2026-05-28** — created branch `z/partialRevertSupertypeAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
