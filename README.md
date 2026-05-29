@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-29** — merged PR [#2721](https://github.com/slackhq/circuit/pull/2721) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix CI connected check task wiring"
+
 **2026-05-29** — merged PR [#2362](https://github.com/ZacSweers/metro/pull/2362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-29** — merged PR [#2362](https://github.com/ZacSweers/metro/pull/2362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
