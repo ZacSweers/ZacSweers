@@ -4,21 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-28** — opened PR [#2360](https://github.com/ZacSweers/metro/pull/2360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.0-RC2"
+
+**2026-05-28** — created branch `z/rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-28** — opened PR [#2359](https://github.com/ZacSweers/metro/pull/2359) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazily compute cached hashCode and toString renders"
+
+**2026-05-28** — created branch `z/lazyHashCodeCache` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-28** — opened PR [#2358](https://github.com/ZacSweers/metro/pull/2358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove eager lookups of some GraphNode props"
+
+**2026-05-28** — created branch `z/partialRevertSupertypeAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-05-28** — commented on [#2344](https://github.com/ZacSweers/metro/pull/2344#issuecomment-4567093678) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-27** — commented on [#2716](https://github.com/slackhq/circuit/pull/2716#issuecomment-4559093258) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-05-27** — merged PR [#2352](https://github.com/ZacSweers/metro/pull/2352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-27** — merged PR [#2352](https://github.com/ZacSweers/metro/pull/2352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-27** — commented on [#2344](https://github.com/ZacSweers/metro/pull/2344#issuecomment-4553580729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-26** — closed PR [#913](https://github.com/ZacSweers/MoshiX/pull/913) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
-
-**2026-05-26** — closed PR [#911](https://github.com/ZacSweers/MoshiX/pull/911) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
