@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-30** — merged PR [#555](https://github.com/slackhq/compose-lints/pull/555) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Reenable mutable parameters check by default"
+
 **2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-30** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,12 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-29** — merged PR [#2358](https://github.com/ZacSweers/metro/pull/2358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove eager lookups of some GraphNode props"
-
-**2026-05-29** — closed issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
-
-**2026-05-29** — merged PR [#2361](https://github.com/ZacSweers/metro/pull/2361) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Hilt `@InstallIn` interop"
-
-**2026-05-29** — merged PR [#2721](https://github.com/slackhq/circuit/pull/2721) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix CI connected check task wiring"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
