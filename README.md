@@ -17,12 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-29** — merged PR [#2361](https://github.com/ZacSweers/metro/pull/2361) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Hilt `@InstallIn` interop"
 
 **2026-05-29** — merged PR [#2721](https://github.com/slackhq/circuit/pull/2721) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix CI connected check task wiring"
-
-**2026-05-29** — merged PR [#2362](https://github.com/ZacSweers/metro/pull/2362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-29** — merged PR [#2362](https://github.com/ZacSweers/metro/pull/2362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
