@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-05-30** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-05-29** — merged PR [#2358](https://github.com/ZacSweers/metro/pull/2358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove eager lookups of some GraphNode props"
 
 **2026-05-29** — closed issue [#2339](https://github.com/ZacSweers/metro/issues/2339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hilt InstallIn interop"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-29** — merged PR [#2362](https://github.com/ZacSweers/metro/pull/2362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-05-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-29** — merged PR [#2361](https://github.com/ZacSweers/metro/pull/2361) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Hilt `@InstallIn` interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
