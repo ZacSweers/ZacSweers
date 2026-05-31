@@ -4,15 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-31** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4587020879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-30** — merged PR [#555](https://github.com/slackhq/compose-lints/pull/555) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Reenable mutable parameters check by default"
-
-**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-30** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-05-31** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
