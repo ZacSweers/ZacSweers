@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-05-31** — opened PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
+**2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
+
+**2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
 
 **2026-05-31** — created branch `z/propagateInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
