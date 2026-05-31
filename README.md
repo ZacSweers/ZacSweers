@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-05-31** — opened PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
+
+**2026-05-31** — created branch `z/propagateInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-05-31** — closed PR [#362](https://github.com/ZacSweers/ZacSweers/pull/362) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.runtime:runtime to v23"
+
 **2026-05-31** — closed issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
 
 **2026-05-31** — commented on [#2330](https://github.com/ZacSweers/metro/issues/2330#issuecomment-4587542148) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,12 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-31** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4587020879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-30** — merged PR [#555](https://github.com/slackhq/compose-lints/pull/555) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Reenable mutable parameters check by default"
-
-**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-05-30** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-30** — merged PR [#2363](https://github.com/ZacSweers/metro/pull/2363) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
