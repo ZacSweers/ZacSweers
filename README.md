@@ -4,7 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-01** — Could not load GitHub activity. Please check back later.
+**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
+
+**2026-06-01** — opened PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
+
+**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
