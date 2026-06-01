@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
+
+**2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
+
+**2026-06-01** — created branch `z/fix` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
 
 **2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
@@ -17,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-31** — commented on [#2330](https://github.com/ZacSweers/metro/issues/2330#issuecomment-4587542148) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-31** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4587020879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-30** — merged PR [#555](https://github.com/slackhq/compose-lints/pull/555) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Reenable mutable parameters check by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
