@@ -20,7 +20,7 @@ import kotlinx.serialization.json.jsonPrimitive
 interface GitHubApi {
   suspend fun getUserActivity(login: String): List<GitHubActivityEvent>
 
-  suspend fun getPullRequest(repoName: String, number: Int): PullRequest
+  suspend fun getPullRequest(repoName: String, number: Int): PullRequest?
 
   companion object {
     fun create(client: HttpClient): GitHubApi {
@@ -31,10 +31,12 @@ interface GitHubApi {
             .body<List<GitHubActivityEvent>>()
         }
 
-        override suspend fun getPullRequest(repoName: String, number: Int): PullRequest {
-          return client
-            .get("https://api.github.com/repos/$repoName/pulls/$number")
-            .body<PullRequest>()
+        override suspend fun getPullRequest(repoName: String, number: Int): PullRequest? {
+          return runCatching {
+              client.get("https://api.github.com/repos/$repoName/pulls/$number").body<PullRequest>()
+            }
+            .getOrNull()
+            ?.takeIf { it.hasDetails }
         }
       }
     }
@@ -122,16 +124,23 @@ data class IssueCommentEventPayload(val action: String, val comment: Comment, va
 data class Comment(@SerialName(value = "html_url") val htmlUrl: String, val body: String)
 
 @Serializable
-data class PullRequestPayload(val action: String, val number: Int) :
+data class PullRequestPayload(
+  val action: String,
+  val number: Int,
+  @SerialName(value = "pull_request") val pullRequest: PullRequest? = null,
+) :
   GitHubActivityEventPayload
 
 @Serializable
 data class PullRequest(
-  @SerialName(value = "html_url") val htmlUrl: String,
-  val title: String,
-  val body: String?,
+  @SerialName(value = "html_url") val htmlUrl: String? = null,
+  val title: String? = null,
+  val body: String? = null,
   val merged: Boolean? = false,
-)
+) {
+  val hasDetails: Boolean
+    get() = htmlUrl != null && title != null
+}
 
 @Serializable
 data class Repo(val name: String, val url: String) {

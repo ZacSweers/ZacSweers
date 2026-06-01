@@ -95,11 +95,15 @@ class ReadMeUpdater {
               )
             }
             is PullRequestPayload -> {
-              val repoName = event.repo?.name ?: continue
-              val pr = githubApi.getPullRequest(repoName, payload.number)
-              val action = if (pr.merged == true) "merged" else payload.action
+              val repo = event.repo ?: continue
+              val pr =
+                payload.pullRequest?.takeIf { it.hasDetails }
+                  ?: githubApi.getPullRequest(repo.name, payload.number)
+              val action = if (pr?.merged == true) "merged" else payload.action
+              val htmlUrl = pr?.htmlUrl ?: "${repo.adjustedUrl()}/pull/${payload.number}"
+              val title = pr?.title?.let { ": \"$it\"" }.orEmpty()
               ActivityItem(
-                "$action PR [#${payload.number}](${pr.htmlUrl}) to ${event.repo.markdownUrl()}: \"${pr.title}\"",
+                "$action PR [#${payload.number}]($htmlUrl) to ${repo.markdownUrl()}$title",
                 event.createdAt,
               )
             }
