@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
 
 **2026-06-01** — created branch `z/fix` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
-
-**2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
