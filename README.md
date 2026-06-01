@@ -4,9 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
-
-**2026-06-01** — opened PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
+**2026-06-01** — merged PR [#2720](https://github.com/slackhq/circuit/pull/2720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter Inbox sample"
 
 **2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
 <!-- githubActivity ends -->
