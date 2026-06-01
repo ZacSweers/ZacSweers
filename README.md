@@ -4,21 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
-
-**2026-06-01** — opened PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
-
-**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
-
-**2026-06-01** — created branch `z/fixFetch` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-01** — created branch `z/moreStats` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
-
-**2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
-
-**2026-06-01** — created branch `z/fix` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2026-06-01** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
