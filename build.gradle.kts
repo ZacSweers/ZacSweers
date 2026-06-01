@@ -111,8 +111,8 @@ tasks.withType<KotlinJsCompile>().configureEach {
 }
 
 spotless {
-  kotlin { ktfmt("0.61").googleStyle() }
-  kotlinGradle { ktfmt("0.61").googleStyle() }
+  kotlin { ktfmt("0.63").googleStyle() }
+  kotlinGradle { ktfmt("0.63").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {
