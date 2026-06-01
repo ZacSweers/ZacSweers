@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
+
+**2026-06-01** — opened PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
+
+**2026-06-01** — merged PR [#2366](https://github.com/ZacSweers/metro/pull/2366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bootstrap fetch"
+
+**2026-06-01** — created branch `z/fixFetch` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-01** — created branch `z/moreStats` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
 
 **2026-06-01** — merged PR [#366](https://github.com/ZacSweers/ZacSweers/pull/366) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Fix github"
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
 
 **2026-05-31** — merged PR [#2365](https://github.com/ZacSweers/metro/pull/2365) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate inline status from provides functions"
-
-**2026-05-31** — created branch `z/propagateInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-31** — closed PR [#362](https://github.com/ZacSweers/ZacSweers/pull/362) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.runtime:runtime to v23"
-
-**2026-05-31** — closed issue [#2330](https://github.com/ZacSweers/metro/issues/2330) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider factories in object containers omit the instance param"
-
-**2026-05-31** — commented on [#2330](https://github.com/ZacSweers/metro/issues/2330#issuecomment-4587542148) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-05-31** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4587020879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
