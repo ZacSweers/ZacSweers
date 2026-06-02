@@ -4,7 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-02** — Could not load GitHub activity. Please check back later.
+**2026-06-02** — opened PR [#561](https://github.com/slackhq/compose-lints/pull/561) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix Java 21 method use"
+
+**2026-06-02** — closed issue [#558](https://github.com/slackhq/compose-lints/issues/558) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeRedundantComposable false positive for composable default-argument values"
+
+**2026-06-02** — merged PR [#560](https://github.com/slackhq/compose-lints/pull/560) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "fix: ComposeRedundantComposable false positive for typeliased Composable slot"
+
+**2026-06-02** — merged PR [#560](https://github.com/slackhq/compose-lints/pull/560) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "fix: ComposeRedundantComposable false positive for typeliased Composable slot"
+
+**2026-06-02** — merged PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
+
+**2026-06-02** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4602711388) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-01** — merged PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
+
+**2026-06-01** — created branch `z/newFields` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-06-01** — merged PR [#2720](https://github.com/slackhq/circuit/pull/2720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter Inbox sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
