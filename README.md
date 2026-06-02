@@ -4,23 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-02** — opened PR [#561](https://github.com/slackhq/compose-lints/pull/561) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix Java 21 method use"
+**2026-06-02** — commented on [#560](https://github.com/slackhq/compose-lints/pull/560#issuecomment-4605291938) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2026-06-02** — closed issue [#558](https://github.com/slackhq/compose-lints/issues/558) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeRedundantComposable false positive for composable default-argument values"
+**2026-06-02** — closed issue [#554](https://github.com/slackhq/compose-lints/issues/554) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use enabledByDefault = false for stability rules instead of lint.xml options"
 
-**2026-06-02** — merged PR [#560](https://github.com/slackhq/compose-lints/pull/560) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "fix: ComposeRedundantComposable false positive for typeliased Composable slot"
+**2026-06-02** — merged PR [#563](https://github.com/slackhq/compose-lints/pull/563) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Switch to enabledByDefault param for stability checks"
 
-**2026-06-02** — merged PR [#560](https://github.com/slackhq/compose-lints/pull/560) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "fix: ComposeRedundantComposable false positive for typeliased Composable slot"
+**2026-06-02** — merged PR [#563](https://github.com/slackhq/compose-lints/pull/563) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Switch to enabledByDefault param for stability checks"
 
-**2026-06-02** — merged PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
+**2026-06-02** — created branch `z/defaultOff` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2026-06-02** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4602711388) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-06-02** — commented on [#554](https://github.com/slackhq/compose-lints/issues/554#issuecomment-4606017665) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2026-06-01** — merged PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
+**2026-06-02** — opened PR [#562](https://github.com/slackhq/compose-lints/pull/562) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve context param handling with multiple content emitters"
 
-**2026-06-01** — created branch `z/newFields` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-06-02** — created branch `z/fixContextParamsDocs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2026-06-01** — merged PR [#2720](https://github.com/slackhq/circuit/pull/2720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter Inbox sample"
+**2026-06-02** — commented on [#556](https://github.com/slackhq/compose-lints/issues/556#issuecomment-4605357698) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-06-02** — commented on [#558](https://github.com/slackhq/compose-lints/issues/558#issuecomment-4605323805) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
