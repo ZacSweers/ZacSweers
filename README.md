@@ -4,11 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-01** — opened PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
-
-**2026-06-01** — created branch `z/newFields` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-01** — merged PR [#2720](https://github.com/slackhq/circuit/pull/2720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter Inbox sample"
+**2026-06-02** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
