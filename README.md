@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-02** — commented on [#926](https://github.com/ZacSweers/metro/issues/926#issuecomment-4602711388) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-01** — opened PR [#448](https://github.com/ZacSweers/FieldSpottr/pull/448) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add new fields + fix overlap queries in FaF"
 
 **2026-06-01** — created branch `z/newFields` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
