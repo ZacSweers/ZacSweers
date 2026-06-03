@@ -4,17 +4,23 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-03** — merged PR [#2957](https://github.com/diffplug/spotless/pull/2957) to [diffplug/spotless](https://github.com/diffplug/spotless): "Support `ktfmt` 0.63 and use its new builder API"
+
+**2026-06-03** — created branch `z/ktfmtBuilder` on [ZacSweers/spotless](https://github.com/ZacSweers/spotless)
+
+**2026-06-03** — closed PR [#914](https://github.com/ZacSweers/MoshiX/pull/914) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+
+**2026-06-03** — merged PR [#465](https://github.com/ZacSweers/kotlin-compile-testing/pull/465) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Clean up SynchronizedToolProvider"
+
+**2026-06-03** — opened PR [#2376](https://github.com/ZacSweers/metro/pull/2376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add primitive factories + inline provider bodies support"
+
+**2026-06-03** — merged PR [#465](https://github.com/ZacSweers/kotlin-compile-testing/pull/465) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Clean up SynchronizedToolProvider"
+
+**2026-06-03** — created branch `z/cleanUpToolProvider` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2026-06-03** — commented on [#2647](https://github.com/slackhq/circuit/pull/2647#issuecomment-4613124387) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-06-03** — merged PR [#885](https://github.com/ZacSweers/MoshiX/pull/885) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlin 2.4.0"
-
-**2026-06-03** — created branch `z/inlineBodies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-03** — commented on [#463](https://github.com/ZacSweers/kotlin-compile-testing/issues/463#issuecomment-4613106075) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-06-03** — closed issue [#463](https://github.com/ZacSweers/kotlin-compile-testing/issues/463) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): ""Parameter specified as non-null is null: method org.jetbrains.kotlin.cli.common.arguments.CommonCompilerArguments.setOptIn" with Kotlin 2.4.0"
-
-**2026-06-03** — merged PR [#405](https://github.com/ZacSweers/redacted-compiler-plugin/pull/405) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
