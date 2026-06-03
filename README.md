@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-03** — commented on [#2730](https://github.com/slackhq/circuit/pull/2730#issuecomment-4616010198) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
 
 **2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-03** — merged PR [#566](https://github.com/slackhq/compose-lints/pull/566) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Composable content emitters cleanup"
 
 **2026-06-03** — closed PR [#564](https://github.com/slackhq/compose-lints/pull/564) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update kotlin monorepo to v2.4.0"
-
-**2026-06-03** — merged PR [#566](https://github.com/slackhq/compose-lints/pull/566) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Composable content emitters cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
