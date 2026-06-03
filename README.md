@@ -4,25 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-02** — commented on [#2728](https://github.com/slackhq/circuit/pull/2728#issuecomment-4608241548) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-06-03** — commented on [#2647](https://github.com/slackhq/circuit/pull/2647#issuecomment-4613124387) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-06-02** — merged PR [#2728](https://github.com/slackhq/circuit/pull/2728) to [slackhq/circuit](https://github.com/slackhq/circuit): "docs: fixes broken Droidcon NYC link"
+**2026-06-03** — merged PR [#885](https://github.com/ZacSweers/MoshiX/pull/885) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlin 2.4.0"
 
-**2026-06-02** — merged PR [#2728](https://github.com/slackhq/circuit/pull/2728) to [slackhq/circuit](https://github.com/slackhq/circuit): "docs: fixes broken Droidcon NYC link"
+**2026-06-03** — created branch `z/inlineBodies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-06-02** — commented on [#560](https://github.com/slackhq/compose-lints/pull/560#issuecomment-4605291938) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-06-03** — commented on [#463](https://github.com/ZacSweers/kotlin-compile-testing/issues/463#issuecomment-4613106075) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2026-06-02** — closed issue [#554](https://github.com/slackhq/compose-lints/issues/554) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use enabledByDefault = false for stability rules instead of lint.xml options"
+**2026-06-03** — closed issue [#463](https://github.com/ZacSweers/kotlin-compile-testing/issues/463) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): ""Parameter specified as non-null is null: method org.jetbrains.kotlin.cli.common.arguments.CommonCompilerArguments.setOptIn" with Kotlin 2.4.0"
 
-**2026-06-02** — merged PR [#563](https://github.com/slackhq/compose-lints/pull/563) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Switch to enabledByDefault param for stability checks"
-
-**2026-06-02** — merged PR [#563](https://github.com/slackhq/compose-lints/pull/563) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Switch to enabledByDefault param for stability checks"
-
-**2026-06-02** — created branch `z/defaultOff` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-02** — commented on [#554](https://github.com/slackhq/compose-lints/issues/554#issuecomment-4606017665) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-02** — opened PR [#562](https://github.com/slackhq/compose-lints/pull/562) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve context param handling with multiple content emitters"
+**2026-06-03** — merged PR [#405](https://github.com/ZacSweers/redacted-compiler-plugin/pull/405) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
