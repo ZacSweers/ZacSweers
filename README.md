@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-02** — commented on [#2728](https://github.com/slackhq/circuit/pull/2728#issuecomment-4608241548) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-06-02** — merged PR [#2728](https://github.com/slackhq/circuit/pull/2728) to [slackhq/circuit](https://github.com/slackhq/circuit): "docs: fixes broken Droidcon NYC link"
+
+**2026-06-02** — merged PR [#2728](https://github.com/slackhq/circuit/pull/2728) to [slackhq/circuit](https://github.com/slackhq/circuit): "docs: fixes broken Droidcon NYC link"
+
 **2026-06-02** — commented on [#560](https://github.com/slackhq/compose-lints/pull/560#issuecomment-4605291938) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-06-02** — closed issue [#554](https://github.com/slackhq/compose-lints/issues/554) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use enabledByDefault = false for stability rules instead of lint.xml options"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-02** — commented on [#554](https://github.com/slackhq/compose-lints/issues/554#issuecomment-4606017665) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-06-02** — opened PR [#562](https://github.com/slackhq/compose-lints/pull/562) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve context param handling with multiple content emitters"
-
-**2026-06-02** — created branch `z/fixContextParamsDocs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-02** — commented on [#556](https://github.com/slackhq/compose-lints/issues/556#issuecomment-4605357698) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-02** — commented on [#558](https://github.com/slackhq/compose-lints/issues/558#issuecomment-4605323805) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
