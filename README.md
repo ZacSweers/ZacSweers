@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-03** — opened PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
+
+**2026-06-03** — created branch `z/moreInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-03** — closed PR [#2380](https://github.com/ZacSweers/metro/pull/2380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko to v0.23.0"
+
 **2026-06-03** — commented on [#2730](https://github.com/slackhq/circuit/pull/2730#issuecomment-4616010198) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-03** — created branch `z/swiftExport` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-06-03** — opened PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
-
-**2026-06-03** — created branch `z/240final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-03** — merged PR [#566](https://github.com/slackhq/compose-lints/pull/566) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Composable content emitters cleanup"
-
-**2026-06-03** — closed PR [#564](https://github.com/slackhq/compose-lints/pull/564) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update kotlin monorepo to v2.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
