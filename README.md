@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-03** — closed issue [#557](https://github.com/slackhq/compose-lints/issues/557) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeMultipleContentEmitters: allow exception for context parameters"
+**2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
 
-**2026-06-03** — closed PR [#2729](https://github.com/slackhq/circuit/pull/2729) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.4.0"
+**2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
 
-**2026-06-03** — merged PR [#2957](https://github.com/diffplug/spotless/pull/2957) to [diffplug/spotless](https://github.com/diffplug/spotless): "Support `ktfmt` 0.63 and use its new builder API"
+**2026-06-03** — created branch `z/jsIrCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-06-03** — merged PR [#2376](https://github.com/ZacSweers/metro/pull/2376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add primitive factories + inline provider bodies support"
+**2026-06-03** — opened PR [#2730](https://github.com/slackhq/circuit/pull/2730) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP swift export"
 
-**2026-06-03** — merged PR [#2957](https://github.com/diffplug/spotless/pull/2957) to [diffplug/spotless](https://github.com/diffplug/spotless): "Support `ktfmt` 0.63 and use its new builder API"
+**2026-06-03** — created branch `z/swiftExport` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-06-03** — created branch `z/ktfmtBuilder` on [ZacSweers/spotless](https://github.com/ZacSweers/spotless)
+**2026-06-03** — opened PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
 
-**2026-06-03** — closed PR [#914](https://github.com/ZacSweers/MoshiX/pull/914) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+**2026-06-03** — created branch `z/240final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-06-03** — merged PR [#465](https://github.com/ZacSweers/kotlin-compile-testing/pull/465) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Clean up SynchronizedToolProvider"
+**2026-06-03** — merged PR [#566](https://github.com/slackhq/compose-lints/pull/566) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Composable content emitters cleanup"
 
-**2026-06-03** — merged PR [#2376](https://github.com/ZacSweers/metro/pull/2376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add primitive factories + inline provider bodies support"
+**2026-06-03** — closed PR [#564](https://github.com/slackhq/compose-lints/pull/564) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update kotlin monorepo to v2.4.0"
 
-**2026-06-03** — merged PR [#465](https://github.com/ZacSweers/kotlin-compile-testing/pull/465) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Clean up SynchronizedToolProvider"
+**2026-06-03** — merged PR [#566](https://github.com/slackhq/compose-lints/pull/566) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Composable content emitters cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
