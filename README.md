@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — merged PR [#2382](https://github.com/ZacSweers/metro/pull/2382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use backing fields in a few places"
+
+**2026-06-04** — opened PR [#2383](https://github.com/ZacSweers/metro/pull/2383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use new declaration finder APIs"
+
+**2026-06-04** — created branch `z/declarationFinder` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — merged PR [#2382](https://github.com/ZacSweers/metro/pull/2382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use backing fields in a few places"
+
+**2026-06-04** — created branch `z/backingFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-03** — merged PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
+
 **2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
 
 **2026-06-03** — merged PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
 
 **2026-06-03** — created branch `z/moreInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-03** — closed PR [#2380](https://github.com/ZacSweers/metro/pull/2380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko to v0.23.0"
-
-**2026-06-03** — commented on [#2730](https://github.com/slackhq/circuit/pull/2730#issuecomment-4616010198) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
-
-**2026-06-03** — merged PR [#2731](https://github.com/slackhq/circuit/pull/2731) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up js(IR) usages"
-
-**2026-06-03** — created branch `z/jsIrCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-06-03** — opened PR [#2730](https://github.com/slackhq/circuit/pull/2730) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP swift export"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
