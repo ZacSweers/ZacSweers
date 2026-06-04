@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — merged PR [#2384](https://github.com/ZacSweers/metro/pull/2384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE tests"
+
+**2026-06-04** — merged PR [#2387](https://github.com/ZacSweers/metro/pull/2387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regen tests"
+
+**2026-06-04** — opened PR [#727](https://github.com/drewhamilton/Poko/pull/727) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Only enable FIR declaration gen in CLI builds"
+
+**2026-06-04** — created branch `z/disableFirGen` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
+
+**2026-06-04** — merged PR [#2387](https://github.com/ZacSweers/metro/pull/2387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regen tests"
+
+**2026-06-04** — created branch `z/afInContribProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — closed issue [#2311](https://github.com/ZacSweers/metro/issues/2311) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable generateContributionProviders with internal assisted factories"
+
+**2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4622772202) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-04** — merged PR [#2385](https://github.com/ZacSweers/metro/pull/2385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2385](https://github.com/ZacSweers/metro/pull/2385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-04** — merged PR [#2383](https://github.com/ZacSweers/metro/pull/2383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use new declaration finder APIs"
-
-**2026-06-04** — commented on [#1380](https://github.com/ZacSweers/metro/issues/1380#issuecomment-4622270717) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — closed issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
-
-**2026-06-04** — opened PR [#2384](https://github.com/ZacSweers/metro/pull/2384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE tests"
-
-**2026-06-04** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — commented on [#567](https://github.com/slackhq/compose-lints/issues/567#issuecomment-4622233575) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-04** — merged PR [#2382](https://github.com/ZacSweers/metro/pull/2382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use backing fields in a few places"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
