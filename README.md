@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — merged PR [#2394](https://github.com/ZacSweers/metro/pull/2394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add config for new native lock"
+
+**2026-06-04** — merged PR [#2394](https://github.com/ZacSweers/metro/pull/2394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add config for new native lock"
+
+**2026-06-04** — created branch `z/configurableLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — created branch `z/improveNativeLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — merged PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
+
 **2026-06-04** — merged PR [#2391](https://github.com/ZacSweers/metro/pull/2391) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add bounded backoff to the native Lock"
 
-**2026-06-04** — opened PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
+**2026-06-04** — merged PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
 
 **2026-06-04** — created branch `z/updatePoko` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-04** — merged PR [#570](https://github.com/slackhq/compose-lints/pull/570) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add ReadOnlyComposable suggestion"
 
 **2026-06-04** — merged PR [#2391](https://github.com/ZacSweers/metro/pull/2391) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add bounded backoff to the native Lock"
-
-**2026-06-04** — created branch `z/improveNativeLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — created branch `z/qual2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — created branch `z/loosenWarning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2390](https://github.com/ZacSweers/metro/pull/2390) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test AS Quail 2"
-
-**2026-06-04** — merged PR [#2388](https://github.com/ZacSweers/metro/pull/2388) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Loosen nonPublicContributionSeverity warning if contribution providers are enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
