@@ -4,7 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-03** — opened PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
+**2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
+
+**2026-06-03** — merged PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
+
+**2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
 
 **2026-06-03** — created branch `z/moreInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-03** — created branch `z/jsIrCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-06-03** — opened PR [#2730](https://github.com/slackhq/circuit/pull/2730) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP swift export"
-
-**2026-06-03** — created branch `z/swiftExport` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-06-03** — opened PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
