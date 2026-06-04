@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — merged PR [#727](https://github.com/drewhamilton/Poko/pull/727) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Add a mode to configure enabling FIR extensions"
+
+**2026-06-04** — created branch `z/readOnly` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-06-04** — commented on [#567](https://github.com/slackhq/compose-lints/issues/567#issuecomment-4623785362) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-06-04** — closed issue [#567](https://github.com/slackhq/compose-lints/issues/567) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "1.5.2 brings back ComposeUnstableCollections check by default unlike 1.5.1"
+
+**2026-06-04** — opened PR [#570](https://github.com/slackhq/compose-lints/pull/570) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add ReadOnlyComposable suggestion"
+
+**2026-06-04** — closed issue [#568](https://github.com/slackhq/compose-lints/issues/568) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeRedundantComposable false positive when invoking a @Composable function-typed value held in a property"
+
 **2026-06-04** — merged PR [#2384](https://github.com/ZacSweers/metro/pull/2384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE tests"
 
 **2026-06-04** — merged PR [#2387](https://github.com/ZacSweers/metro/pull/2387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regen tests"
 
-**2026-06-04** — opened PR [#727](https://github.com/drewhamilton/Poko/pull/727) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Only enable FIR declaration gen in CLI builds"
+**2026-06-04** — merged PR [#727](https://github.com/drewhamilton/Poko/pull/727) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Add a mode to configure enabling FIR extensions"
 
 **2026-06-04** — created branch `z/disableFirGen` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
-
-**2026-06-04** — merged PR [#2387](https://github.com/ZacSweers/metro/pull/2387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regen tests"
-
-**2026-06-04** — created branch `z/afInContribProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — closed issue [#2311](https://github.com/ZacSweers/metro/issues/2311) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable generateContributionProviders with internal assisted factories"
-
-**2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4622772202) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2385](https://github.com/ZacSweers/metro/pull/2385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
