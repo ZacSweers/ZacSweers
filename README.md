@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — merged PR [#2385](https://github.com/ZacSweers/metro/pull/2385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — merged PR [#2385](https://github.com/ZacSweers/metro/pull/2385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-04** — merged PR [#2383](https://github.com/ZacSweers/metro/pull/2383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use new declaration finder APIs"
+
+**2026-06-04** — commented on [#1380](https://github.com/ZacSweers/metro/issues/1380#issuecomment-4622270717) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — closed issue [#1380](https://github.com/ZacSweers/metro/issues/1380) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider generating interop for Dagger*Component shims"
+
+**2026-06-04** — opened PR [#2384](https://github.com/ZacSweers/metro/pull/2384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE tests"
+
+**2026-06-04** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-04** — commented on [#567](https://github.com/slackhq/compose-lints/issues/567#issuecomment-4622233575) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-06-04** — merged PR [#2382](https://github.com/ZacSweers/metro/pull/2382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use backing fields in a few places"
-
-**2026-06-04** — opened PR [#2383](https://github.com/ZacSweers/metro/pull/2383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use new declaration finder APIs"
-
-**2026-06-04** — created branch `z/declarationFinder` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2382](https://github.com/ZacSweers/metro/pull/2382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use backing fields in a few places"
-
-**2026-06-04** — created branch `z/backingFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-03** — merged PR [#2367](https://github.com/ZacSweers/metro/pull/2367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler stats to reports"
-
-**2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
-
-**2026-06-03** — merged PR [#2378](https://github.com/ZacSweers/metro/pull/2378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move main to 2.4.0"
-
-**2026-06-03** — merged PR [#2381](https://github.com/ZacSweers/metro/pull/2381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Widen factory create() return types + provider inlining docs"
-
-**2026-06-03** — created branch `z/moreInline` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
