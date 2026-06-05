@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
+
+**2026-06-05** — merged PR [#2400](https://github.com/ZacSweers/metro/pull/2400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IDE kotlinc version resolution"
+
+**2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
+
+**2026-06-05** — created branch `z/lockTestFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-05** — merged PR [#2400](https://github.com/ZacSweers/metro/pull/2400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IDE kotlinc version resolution"
+
+**2026-06-05** — created branch `z/improveIdeVersionResolution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-05** — created branch `z/alternativeLocks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-05** — merged PR [#2399](https://github.com/ZacSweers/metro/pull/2399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move SpinLock to commonMain"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-05** — merged PR [#2399](https://github.com/ZacSweers/metro/pull/2399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move SpinLock to commonMain"
 
 **2026-06-05** — created branch `z/lockMoves` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — closed issue [#2396](https://github.com/ZacSweers/metro/issues/2396) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro graph drops dagger module's multibinding contributions"
-
-**2026-06-05** — commented on [#2397](https://github.com/ZacSweers/metro/pull/2397#issuecomment-4632681256) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-05** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-05** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4631603379) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
