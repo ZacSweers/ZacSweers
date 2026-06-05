@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — commented on [#2397](https://github.com/ZacSweers/metro/pull/2397#issuecomment-4632681256) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-05** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
 
 **2026-06-04** — created branch `z/privateApis` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-04** — merged PR [#2394](https://github.com/ZacSweers/metro/pull/2394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add config for new native lock"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
