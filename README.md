@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — opened PR [#2399](https://github.com/ZacSweers/metro/pull/2399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move SpinLock to commonMain"
+
 **2026-06-05** — created branch `z/lockMoves` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-05** — closed issue [#2396](https://github.com/ZacSweers/metro/issues/2396) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro graph drops dagger module's multibinding contributions"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-04** — commented on [#571](https://github.com/slackhq/compose-lints/pull/571#issuecomment-4627656243) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4627634617) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
