@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — created branch `z/lockMoves` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-05** — closed issue [#2396](https://github.com/ZacSweers/metro/issues/2396) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro graph drops dagger module's multibinding contributions"
+
 **2026-06-05** — commented on [#2397](https://github.com/ZacSweers/metro/pull/2397#issuecomment-4632681256) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4627634617) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
-
-**2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
-
-**2026-06-04** — created branch `z/privateApis` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
