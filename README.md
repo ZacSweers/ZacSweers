@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-04** — commented on [#571](https://github.com/slackhq/compose-lints/pull/571#issuecomment-4627656243) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4627634617) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
 
 **2026-06-04** — merged PR [#449](https://github.com/ZacSweers/FieldSpottr/pull/449) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add support for checking live field status"
@@ -17,10 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-04** — created branch `z/configurableLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-04** — created branch `z/improveNativeLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
-
-**2026-06-04** — merged PR [#2391](https://github.com/ZacSweers/metro/pull/2391) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add bounded backoff to the native Lock"
 
 **2026-06-04** — merged PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
 <!-- githubActivity ends -->
