@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-05** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-05** — merged PR [#2398](https://github.com/ZacSweers/metro/pull/2398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-05** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4631603379) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-04** — commented on [#571](https://github.com/slackhq/compose-lints/pull/571#issuecomment-4627656243) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-06-04** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-4627634617) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-04** — created branch `z/privateApis` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-04** — merged PR [#2394](https://github.com/ZacSweers/metro/pull/2394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add config for new native lock"
-
-**2026-06-04** — merged PR [#2394](https://github.com/ZacSweers/metro/pull/2394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add config for new native lock"
-
-**2026-06-04** — created branch `z/configurableLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — created branch `z/improveNativeLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-04** — merged PR [#2392](https://github.com/ZacSweers/metro/pull/2392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update poko + disable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
