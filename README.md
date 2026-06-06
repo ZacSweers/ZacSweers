@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-05** — merged PR [#2403](https://github.com/ZacSweers/metro/pull/2403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split out backoff testing"
+
+**2026-06-05** — merged PR [#2402](https://github.com/ZacSweers/metro/pull/2402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Releasing cleanups"
+
+**2026-06-05** — merged PR [#2403](https://github.com/ZacSweers/metro/pull/2403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split out backoff testing"
+
+**2026-06-05** — created branch `z/moreTestFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-05** — merged PR [#2402](https://github.com/ZacSweers/metro/pull/2402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Releasing cleanups"
+
+**2026-06-05** — created branch `z/cleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
 
 **2026-06-05** — merged PR [#2400](https://github.com/ZacSweers/metro/pull/2400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IDE kotlinc version resolution"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
 
 **2026-06-05** — created branch `z/lockTestFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — merged PR [#2400](https://github.com/ZacSweers/metro/pull/2400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IDE kotlinc version resolution"
-
-**2026-06-05** — created branch `z/improveIdeVersionResolution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — created branch `z/alternativeLocks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-05** — merged PR [#2399](https://github.com/ZacSweers/metro/pull/2399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move SpinLock to commonMain"
-
-**2026-06-05** — merged PR [#2399](https://github.com/ZacSweers/metro/pull/2399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move SpinLock to commonMain"
-
-**2026-06-05** — created branch `z/lockMoves` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
