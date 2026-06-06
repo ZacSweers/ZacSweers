@@ -4,13 +4,15 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-06** — merged PR [#2405](https://github.com/ZacSweers/metro/pull/2405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Idea"
+
 **2026-06-06** — labeled issue [#2406](https://github.com/ZacSweers/metro/issues/2406) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consire moving some whole-module diagnostics to FirLanguageVersionSettingsChecker"
 
 **2026-06-06** — opened issue [#2406](https://github.com/ZacSweers/metro/issues/2406) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consire moving some whole-module diagnostics to FirLanguageVersionSettingsChecker"
 
 **2026-06-06** — merged PR [#2404](https://github.com/ZacSweers/metro/pull/2404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove js(IR) flag"
 
-**2026-06-06** — opened PR [#2405](https://github.com/ZacSweers/metro/pull/2405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Idea"
+**2026-06-06** — merged PR [#2405](https://github.com/ZacSweers/metro/pull/2405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Idea"
 
 **2026-06-06** — merged PR [#2404](https://github.com/ZacSweers/metro/pull/2404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove js(IR) flag"
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-06** — merged PR [#451](https://github.com/ZacSweers/FieldSpottr/pull/451) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add NYC parks updater script"
 
 **2026-06-06** — merged PR [#451](https://github.com/ZacSweers/FieldSpottr/pull/451) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add NYC parks updater script"
-
-**2026-06-06** — created branch `z/updaterScript` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
