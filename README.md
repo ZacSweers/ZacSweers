@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-06** — opened PR [#450](https://github.com/ZacSweers/FieldSpottr/pull/450) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Rework API + generalize fields + more parks"
+
 **2026-06-05** — created branch `z/generalizedFields` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-05** — merged PR [#2403](https://github.com/ZacSweers/metro/pull/2403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split out backoff testing"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
 
 **2026-06-05** — merged PR [#2400](https://github.com/ZacSweers/metro/pull/2400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve IDE kotlinc version resolution"
-
-**2026-06-05** — merged PR [#2401](https://github.com/ZacSweers/metro/pull/2401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve SpinLock tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
