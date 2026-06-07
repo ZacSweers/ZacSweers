@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-07** — merged PR [#453](https://github.com/ZacSweers/FieldSpottr/pull/453) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make NYC data dumps more robust on CI"
+
+**2026-06-07** — merged PR [#453](https://github.com/ZacSweers/FieldSpottr/pull/453) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make NYC data dumps more robust on CI"
+
+**2026-06-07** — created branch `z/moreRobustCIUpdating` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-06-07** — merged PR [#2409](https://github.com/ZacSweers/metro/pull/2409) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up options + support custom options"
+
 **2026-06-07** — merged PR [#452](https://github.com/ZacSweers/FieldSpottr/pull/452) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix availability updater"
 
 **2026-06-07** — merged PR [#452](https://github.com/ZacSweers/FieldSpottr/pull/452) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix availability updater"
 
 **2026-06-07** — created branch `z/fixUpdates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2026-06-07** — opened PR [#2409](https://github.com/ZacSweers/metro/pull/2409) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up options + support custom options"
+**2026-06-07** — merged PR [#2409](https://github.com/ZacSweers/metro/pull/2409) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up options + support custom options"
 
 **2026-06-07** — created branch `z/moreIdeCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-06** — merged PR [#2408](https://github.com/ZacSweers/metro/pull/2408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add basic plugin enabled wiring"
-
-**2026-06-06** — merged PR [#2408](https://github.com/ZacSweers/metro/pull/2408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add basic plugin enabled wiring"
-
-**2026-06-06** — merged PR [#2408](https://github.com/ZacSweers/metro/pull/2408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add basic plugin enabled wiring"
-
-**2026-06-06** — created branch `z/basicPluginWiring` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-06** — opened PR [#2407](https://github.com/ZacSweers/metro/pull/2407) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.4.20-dev-5677 compat"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
