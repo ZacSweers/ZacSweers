@@ -15,14 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-07** — merged PR [#455](https://github.com/ZacSweers/FieldSpottr/pull/455) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "jeez cloudflare is hostile to GHA"
 
 **2026-06-07** — closed PR [#454](https://github.com/ZacSweers/FieldSpottr/pull/454) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-06-07** — created branch `z/moreGenerator` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-07** — opened PR [#454](https://github.com/ZacSweers/FieldSpottr/pull/454) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-06-07** — created branch `automation/update-availability-27103732139` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-07** — merged PR [#453](https://github.com/ZacSweers/FieldSpottr/pull/453) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make NYC data dumps more robust on CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
