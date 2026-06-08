@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-07** — merged PR [#2410](https://github.com/ZacSweers/metro/pull/2410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid merging binding containers as supertypes"
 
 **2026-06-07** — merged PR [#455](https://github.com/ZacSweers/FieldSpottr/pull/455) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "jeez cloudflare is hostile to GHA"
-
-**2026-06-07** — merged PR [#2410](https://github.com/ZacSweers/metro/pull/2410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid merging binding containers as supertypes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
