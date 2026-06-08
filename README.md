@@ -4,15 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-02-26** — closed PR [#357](https://github.com/ZacSweers/FieldSpottr/pull/357) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v4"
+
+**2026-06-08** — merged PR [#456](https://github.com/ZacSweers/FieldSpottr/pull/456) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update fields + more consistent order"
+
+**2026-06-08** — merged PR [#456](https://github.com/ZacSweers/FieldSpottr/pull/456) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update fields + more consistent order"
+
+**2026-06-08** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-06-08** — merged PR [#2411](https://github.com/ZacSweers/metro/pull/2411) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-08** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-08** — merged PR [#2411](https://github.com/ZacSweers/metro/pull/2411) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-07** — merged PR [#2410](https://github.com/ZacSweers/metro/pull/2410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid merging binding containers as supertypes"
-
-**2026-06-07** — merged PR [#455](https://github.com/ZacSweers/FieldSpottr/pull/455) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "jeez cloudflare is hostile to GHA"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
