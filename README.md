@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-08** — opened PR [#2412](https://github.com/ZacSweers/metro/pull/2412) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactory out metro-common and metro options for reuse"
+
+**2026-06-08** — created branch `z/extractMetroOptions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-02-26** — closed PR [#357](https://github.com/ZacSweers/FieldSpottr/pull/357) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v4"
 
 **2026-06-08** — merged PR [#456](https://github.com/ZacSweers/FieldSpottr/pull/456) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update fields + more consistent order"
