@@ -4,9 +4,11 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-09** — merged PR [#2418](https://github.com/ZacSweers/metro/pull/2418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote a few APIs to stable"
+
 **2026-06-09** — opened issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
 
-**2026-06-09** — opened PR [#2418](https://github.com/ZacSweers/metro/pull/2418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote a few APIs to stable"
+**2026-06-09** — merged PR [#2418](https://github.com/ZacSweers/metro/pull/2418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote a few APIs to stable"
 
 **2026-06-09** — created branch `z/promotions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
 
 **2026-06-09** — created branch `z/renovateFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-06-09** — closed PR [#917](https://github.com/ZacSweers/MoshiX/pull/917) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
