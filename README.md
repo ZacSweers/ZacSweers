@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-09** — opened PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
+**2026-06-09** — merged PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
+
+**2026-06-09** — merged PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
 
 **2026-06-09** — created branch `z/betterNativeRuntime` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-08** — merged PR [#2415](https://github.com/ZacSweers/metro/pull/2415) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote generateContributionProviders to stable"
 
 **2026-06-08** — created branch `z/promote` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-08** — merged PR [#2412](https://github.com/ZacSweers/metro/pull/2412) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor out metro-common and metro options for reuse"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
