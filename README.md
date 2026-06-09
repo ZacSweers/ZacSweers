@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-09** — opened PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
+
+**2026-06-09** — created branch `z/betterNativeRuntime` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
 
 **2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
