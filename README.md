@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
+
+**2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
+
+**2026-06-09** — created branch `z/renovateFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2026-06-09** — closed PR [#917](https://github.com/ZacSweers/MoshiX/pull/917) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+
 **2026-06-09** — merged PR [#2415](https://github.com/ZacSweers/metro/pull/2415) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote generateContributionProviders to stable"
 
 **2026-06-08** — merged PR [#2415](https://github.com/ZacSweers/metro/pull/2415) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote generateContributionProviders to stable"
