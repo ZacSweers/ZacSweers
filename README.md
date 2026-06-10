@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-10** — opened PR [#2115](https://github.com/square/moshi/pull/2115) to [square/moshi](https://github.com/square/moshi): "Add google play sdk verification properties files"
+
+**2026-06-10** — created branch `z/verification` on [square/moshi](https://github.com/square/moshi)
+
+**2026-06-10** — created branch `z/verification` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-10** — merged PR [#2428](https://github.com/ZacSweers/metro/pull/2428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metro bootstrap"
 
 **2026-06-10** — merged PR [#2428](https://github.com/ZacSweers/metro/pull/2428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metro bootstrap"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — merged PR [#2425](https://github.com/ZacSweers/metro/pull/2425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow inline provider materialization to fail"
 
 **2026-06-10** — created branch `z/anotherInlineProviderFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-10** — merged PR [#2422](https://github.com/ZacSweers/metro/pull/2422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix inlined access to non-visible class types"
-
-**2026-06-10** — merged PR [#2422](https://github.com/ZacSweers/metro/pull/2422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix inlined access to non-visible class types"
-
-**2026-06-10** — created branch `z/fixInlineProviderObjects` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
