@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-10** — merged PR [#2422](https://github.com/ZacSweers/metro/pull/2422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix inlined access to non-visible class types"
+
+**2026-06-10** — merged PR [#2422](https://github.com/ZacSweers/metro/pull/2422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix inlined access to non-visible class types"
+
+**2026-06-10** — created branch `z/fixInlineProviderObjects` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-10** — opened PR [#2421](https://github.com/ZacSweers/metro/pull/2421) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run JS tests in compiler-tests"
+
+**2026-06-10** — created branch `z/jsTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-09** — merged PR [#2418](https://github.com/ZacSweers/metro/pull/2418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote a few APIs to stable"
 
 **2026-06-09** — opened issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
@@ -13,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-09** — created branch `z/promotions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-09** — merged PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
-
-**2026-06-09** — merged PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
-
-**2026-06-09** — created branch `z/betterNativeRuntime` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
