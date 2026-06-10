@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-10** — opened PR [#457](https://github.com/ZacSweers/FieldSpottr/pull/457) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "2.4 updates"
+
+**2026-06-10** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-06-10** — merged PR [#2407](https://github.com/ZacSweers/metro/pull/2407) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.4.20-dev-6138 compat"
+
+**2026-06-10** — merged PR [#2429](https://github.com/ZacSweers/metro/pull/2429) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add play sdk verification"
+
+**2026-06-10** — merged PR [#2429](https://github.com/ZacSweers/metro/pull/2429) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add play sdk verification"
+
 **2026-06-10** — opened PR [#2115](https://github.com/square/moshi/pull/2115) to [square/moshi](https://github.com/square/moshi): "Add google play sdk verification properties files"
 
 **2026-06-10** — created branch `z/verification` on [square/moshi](https://github.com/square/moshi)
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — merged PR [#2428](https://github.com/ZacSweers/metro/pull/2428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metro bootstrap"
 
 **2026-06-10** — merged PR [#2428](https://github.com/ZacSweers/metro/pull/2428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metro bootstrap"
-
-**2026-06-10** — created branch `z/updateMetroBootstrap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-10** — closed issue [#2423](https://github.com/ZacSweers/metro/issues/2423) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 1.2 regression: object provider fails when object class is hidden behind implementation dependency"
-
-**2026-06-10** — merged PR [#2425](https://github.com/ZacSweers/metro/pull/2425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow inline provider materialization to fail"
-
-**2026-06-10** — merged PR [#2425](https://github.com/ZacSweers/metro/pull/2425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow inline provider materialization to fail"
-
-**2026-06-10** — created branch `z/anotherInlineProviderFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
