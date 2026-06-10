@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-09** — merged PR [#2418](https://github.com/ZacSweers/metro/pull/2418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Promote a few APIs to stable"
 
 **2026-06-09** — created branch `z/promotions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-09** — merged PR [#2417](https://github.com/ZacSweers/metro/pull/2417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework DoubleCheck"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
