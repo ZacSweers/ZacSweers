@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
+
+**2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
+
 **2026-06-10** — created branch `v3-features` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-10** — merged PR [#457](https://github.com/ZacSweers/FieldSpottr/pull/457) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "2.4 updates"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — merged PR [#2429](https://github.com/ZacSweers/metro/pull/2429) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add play sdk verification"
 
 **2026-06-10** — opened PR [#2115](https://github.com/square/moshi/pull/2115) to [square/moshi](https://github.com/square/moshi): "Add google play sdk verification properties files"
-
-**2026-06-10** — created branch `z/verification` on [square/moshi](https://github.com/square/moshi)
-
-**2026-06-10** — created branch `z/verification` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
