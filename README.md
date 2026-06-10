@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-09** — created branch `z/betterNativeRuntime` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
-
-**2026-06-09** — merged PR [#922](https://github.com/ZacSweers/MoshiX/pull/922) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't try to update custom kotlin versoins"
-
-**2026-06-09** — created branch `z/renovateFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
