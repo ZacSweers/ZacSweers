@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-10** — closed issue [#18](https://github.com/ZacSweers/FieldSpottr/issues/18) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Support Hudson River Park fields"
+
+**2026-06-10** — commented on [#18](https://github.com/ZacSweers/FieldSpottr/issues/18#issuecomment-4676337827) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-06-10** — commented on [#22](https://github.com/ZacSweers/FieldSpottr/issues/22#issuecomment-4676337468) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-06-10** — closed issue [#22](https://github.com/ZacSweers/FieldSpottr/issues/22) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Detect pending permits"
+
+**2026-06-10** — closed issue [#23](https://github.com/ZacSweers/FieldSpottr/issues/23) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Investigate incorporating unofficial APIs"
+
+**2026-06-10** — commented on [#23](https://github.com/ZacSweers/FieldSpottr/issues/23#issuecomment-4676337045) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
 
 **2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — created branch `v3-features` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-10** — merged PR [#457](https://github.com/ZacSweers/FieldSpottr/pull/457) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "2.4 updates"
-
-**2026-06-10** — merged PR [#457](https://github.com/ZacSweers/FieldSpottr/pull/457) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "2.4 updates"
-
-**2026-06-10** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-10** — merged PR [#2407](https://github.com/ZacSweers/metro/pull/2407) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.4.20-dev-6138 compat"
-
-**2026-06-10** — merged PR [#2429](https://github.com/ZacSweers/metro/pull/2429) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add play sdk verification"
-
-**2026-06-10** — merged PR [#2429](https://github.com/ZacSweers/metro/pull/2429) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add play sdk verification"
-
-**2026-06-10** — opened PR [#2115](https://github.com/square/moshi/pull/2115) to [square/moshi](https://github.com/square/moshi): "Add google play sdk verification properties files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
