@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-11** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4681092845) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-11** — closed issue [#2433](https://github.com/ZacSweers/metro/issues/2433) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`internal` cross-module `@ContributesBinding(replaces = …)` is silently ignored"
+
 **2026-06-10** — closed PR [#2115](https://github.com/square/moshi/pull/2115) to [square/moshi](https://github.com/square/moshi): "Add google play sdk verification properties files"
 
 **2026-06-10** — closed issue [#18](https://github.com/ZacSweers/FieldSpottr/issues/18) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Support Hudson River Park fields"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — commented on [#23](https://github.com/ZacSweers/FieldSpottr/issues/23#issuecomment-4676337045) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
-
-**2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
-
-**2026-06-10** — created branch `v3-features` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
