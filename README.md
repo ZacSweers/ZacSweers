@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-11** — opened PR [#2436](https://github.com/ZacSweers/metro/pull/2436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rich diagnostics"
+
+**2026-06-11** — created branch `z/richDiagnosticsV2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-11** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4681092845) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-11** — closed issue [#2433](https://github.com/ZacSweers/metro/issues/2433) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`internal` cross-module `@ContributesBinding(replaces = …)` is silently ignored"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-10** — closed issue [#22](https://github.com/ZacSweers/FieldSpottr/issues/22) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Detect pending permits"
 
 **2026-06-10** — closed issue [#23](https://github.com/ZacSweers/FieldSpottr/issues/23) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Investigate incorporating unofficial APIs"
-
-**2026-06-10** — commented on [#23](https://github.com/ZacSweers/FieldSpottr/issues/23#issuecomment-4676337045) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-10** — merged PR [#458](https://github.com/ZacSweers/FieldSpottr/pull/458) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add weather integration, date picker, week view, and closures handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
