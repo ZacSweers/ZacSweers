@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
+
+**2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
+
+**2026-06-12** — created branch `z/tweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
 
 **2026-06-12** — closed issue [#2440](https://github.com/ZacSweers/metro/issues/2440) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler fails when a `@DependencyGraph` has an entry point with `var`"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
 
 **2026-06-12** — created branch `z/fixTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-12** — created branch `z/fixVars` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-12** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4692260823) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-12** — merged PR [#2443](https://github.com/ZacSweers/metro/pull/2443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
