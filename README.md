@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-12** — opened PR [#2445](https://github.com/ZacSweers/metro/pull/2445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report mutable graph properties"
+
+**2026-06-12** — opened PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
+
+**2026-06-12** — created branch `z/fixTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-12** — created branch `z/fixVars` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-12** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4692260823) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-12** — merged PR [#2443](https://github.com/ZacSweers/metro/pull/2443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -15,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-11** — merged PR [#2436](https://github.com/ZacSweers/metro/pull/2436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rich diagnostics"
 
 **2026-06-11** — merged PR [#2421](https://github.com/ZacSweers/metro/pull/2421) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run JS tests in compiler-tests"
-
-**2026-06-11** — created branch `z/icons` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-11** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4684399161) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
