@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-12** — commented on [#2442](https://github.com/ZacSweers/metro/pull/2442#issuecomment-4695962254) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
 
 **2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-12** — merged PR [#2445](https://github.com/ZacSweers/metro/pull/2445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report mutable graph properties"
 
 **2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
-
-**2026-06-12** — created branch `z/fixTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
