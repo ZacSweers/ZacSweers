@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-11** — commented on [#2433](https://github.com/ZacSweers/metro/issues/2433#issuecomment-4684399161) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-11** — merged PR [#2436](https://github.com/ZacSweers/metro/pull/2436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rich diagnostics"
-
-**2026-06-11** — created branch `z/richDiagnosticsV2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
