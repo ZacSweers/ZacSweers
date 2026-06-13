@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-13** — commented on [#628](https://github.com/facebook/ktfmt/pull/628#issuecomment-4699614161) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2026-06-13** — opened PR [#2447](https://github.com/ZacSweers/metro/pull/2447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More idea work"
+
+**2026-06-13** — merged PR [#2446](https://github.com/ZacSweers/metro/pull/2446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up render mode naming"
+
+**2026-06-13** — opened PR [#628](https://github.com/facebook/ktfmt/pull/628) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Switch in-repo formatting to simple local gradle task"
+
+**2026-06-13** — created branch `z/fixGradle` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+
+**2026-06-13** — merged PR [#2446](https://github.com/ZacSweers/metro/pull/2446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up render mode naming"
+
 **2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
 
 **2026-06-13** — created branch `z/diagnosticUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
 
 **2026-06-13** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-06-13** — opened PR [#627](https://github.com/facebook/ktfmt/pull/627) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Add parser support for --lines, --offset, --length"
-
-**2026-06-13** — created branch `z/lines` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
-
-**2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
-
-**2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
-
-**2026-06-12** — created branch `z/rustTarget` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
