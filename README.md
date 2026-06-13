@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
+
+**2026-06-13** — created branch `z/diagnosticUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
+
+**2026-06-13** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-06-13** — opened PR [#627](https://github.com/facebook/ktfmt/pull/627) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Add parser support for --lines, --offset, --length"
 
 **2026-06-13** — created branch `z/lines` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
@@ -13,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
 
 **2026-06-12** — created branch `z/rustTarget` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-06-12** — merged PR [#4](https://github.com/ZacSweers/kempt/pull/4) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add partial-staging support for GJF"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
