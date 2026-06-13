@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-13** — opened PR [#627](https://github.com/facebook/ktfmt/pull/627) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Add parser support for --lines, --offset, --length"
+
+**2026-06-13** — created branch `z/lines` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+
 **2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
 
 **2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
@@ -11,14 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-12** — created branch `z/rustTarget` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-06-12** — merged PR [#4](https://github.com/ZacSweers/kempt/pull/4) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add partial-staging support for GJF"
-
-**2026-06-12** — merged PR [#4](https://github.com/ZacSweers/kempt/pull/4) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add partial-staging support for GJF"
-
-**2026-06-12** — created branch `z/partialGjf` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-06-12** — merged PR [#3](https://github.com/ZacSweers/kempt/pull/3) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Fix "nothing to do" prints"
-
-**2026-06-12** — merged PR [#3](https://github.com/ZacSweers/kempt/pull/3) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Fix "nothing to do" prints"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
