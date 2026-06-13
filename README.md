@@ -15,14 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
 
 **2026-06-12** — closed issue [#2440](https://github.com/ZacSweers/metro/issues/2440) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler fails when a `@DependencyGraph` has an entry point with `var`"
-
-**2026-06-12** — merged PR [#2445](https://github.com/ZacSweers/metro/pull/2445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report mutable graph properties"
-
-**2026-06-12** — commented on [#2442](https://github.com/ZacSweers/metro/pull/2442#issuecomment-4693782957) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-12** — merged PR [#2445](https://github.com/ZacSweers/metro/pull/2445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report mutable graph properties"
-
-**2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
