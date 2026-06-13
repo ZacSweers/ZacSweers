@@ -4,17 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-12** — commented on [#2442](https://github.com/ZacSweers/metro/pull/2442#issuecomment-4695962254) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
 
-**2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
+**2026-06-12** — merged PR [#5](https://github.com/ZacSweers/kempt/pull/5) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add rust formatting"
 
-**2026-06-12** — merged PR [#2745](https://github.com/slackhq/circuit/pull/2745) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc wording tweaks to recipes wording"
+**2026-06-12** — created branch `z/rustTarget` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-06-12** — created branch `z/tweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-06-12** — merged PR [#4](https://github.com/ZacSweers/kempt/pull/4) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add partial-staging support for GJF"
 
-**2026-06-12** — merged PR [#2444](https://github.com/ZacSweers/metro/pull/2444) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate tests"
+**2026-06-12** — merged PR [#4](https://github.com/ZacSweers/kempt/pull/4) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add partial-staging support for GJF"
 
-**2026-06-12** — closed issue [#2440](https://github.com/ZacSweers/metro/issues/2440) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler fails when a `@DependencyGraph` has an entry point with `var`"
+**2026-06-12** — created branch `z/partialGjf` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
+**2026-06-12** — merged PR [#3](https://github.com/ZacSweers/kempt/pull/3) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Fix "nothing to do" prints"
+
+**2026-06-12** — merged PR [#3](https://github.com/ZacSweers/kempt/pull/3) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Fix "nothing to do" prints"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
