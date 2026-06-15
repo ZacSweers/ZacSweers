@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
+
+**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
+
+**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
+
+**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
+
+**2026-06-15** — opened PR [#460](https://github.com/ZacSweers/FieldSpottr/pull/460) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix grid + make it 2D scrollable"
+
+**2026-06-15** — created branch `z/scrolling` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-06-13** — commented on [#628](https://github.com/facebook/ktfmt/pull/628#issuecomment-4699614161) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2026-06-13** — opened PR [#2447](https://github.com/ZacSweers/metro/pull/2447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More idea work"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-13** — merged PR [#2446](https://github.com/ZacSweers/metro/pull/2446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up render mode naming"
 
 **2026-06-13** — opened PR [#628](https://github.com/facebook/ktfmt/pull/628) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Switch in-repo formatting to simple local gradle task"
-
-**2026-06-13** — created branch `z/fixGradle` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
-
-**2026-06-13** — merged PR [#2446](https://github.com/ZacSweers/metro/pull/2446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up render mode naming"
-
-**2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
-
-**2026-06-13** — created branch `z/diagnosticUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-13** — merged PR [#459](https://github.com/ZacSweers/FieldSpottr/pull/459) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update parks and WSH handling"
-
-**2026-06-13** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
