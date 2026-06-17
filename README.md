@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-17** — opened PR [#2452](https://github.com/ZacSweers/metro/pull/2452) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-06-16** — commented on [#2449](https://github.com/ZacSweers/metro/pull/2449#issuecomment-4723247790) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-15** — commented on [#574](https://github.com/slackhq/compose-lints/issues/574#issuecomment-4714115799) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,10 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-15** — commented on [#251](https://github.com/ZacSweers/FieldSpottr/issues/251#issuecomment-4711157611) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-06-15** — merged PR [#460](https://github.com/ZacSweers/FieldSpottr/pull/460) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix grid + make it 2D scrollable"
-
-**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
-
-**2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
 
 **2026-06-15** — merged PR [#6](https://github.com/ZacSweers/kempt/pull/6) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.63, gjf 1.35.0"
 <!-- githubActivity ends -->
