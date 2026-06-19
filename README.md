@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — closed issue [#2457](https://github.com/ZacSweers/metro/issues/2457) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bug with include BindingContainer defined as `class`"
+
 **2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-19** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
