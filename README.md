@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-19** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
 
 **2026-06-19** — created branch `z/noColor` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
