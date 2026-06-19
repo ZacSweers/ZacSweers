@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — created branch `z/fixIdeTEst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-19** — created branch `z/cleanupArg` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-19** — closed issue [#2457](https://github.com/ZacSweers/metro/issues/2457) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bug with include BindingContainer defined as `class`"
 
 **2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — created branch `z/fixLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
-
-**2026-06-18** — created branch `z/noScopesOnInputs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
