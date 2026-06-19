@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
+
+**2026-06-19** — created branch `z/noColor` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-19** — created branch `z/gradle960` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-19** — created branch `z/fixLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
 
 **2026-06-18** — created branch `z/noScopesOnInputs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
