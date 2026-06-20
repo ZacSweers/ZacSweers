@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-20** — created branch `z/tightenSmokeTEst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-19** — merged PR [#2465](https://github.com/ZacSweers/metro/pull/2465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up annotation-default arg"
+
 **2026-06-19** — created branch `z/fixIdeTEst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-19** — created branch `z/cleanupArg` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,16 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — closed issue [#2457](https://github.com/ZacSweers/metro/issues/2457) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bug with include BindingContainer defined as `class`"
 
 **2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-19** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
-
-**2026-06-19** — created branch `z/noColor` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-19** — created branch `z/gradle960` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-19** — created branch `z/fixLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
