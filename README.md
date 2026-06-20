@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — created branch `z/gradle960` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-19** — created branch `z/fixLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
