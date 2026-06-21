@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-21** — created branch `z/mavenPub37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-21** — merged PR [#2468](https://github.com/ZacSweers/metro/pull/2468) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid project-local property lookups for Gradle 10"
 
 **2026-06-20** — commented on [#2354](https://github.com/ZacSweers/metro/pull/2354#issuecomment-4759555828) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
