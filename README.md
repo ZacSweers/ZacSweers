@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-21** — merged PR [#2471](https://github.com/ZacSweers/metro/pull/2471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable NO_IMPLICIT_LOOKUP_IN_PARENT_PROJECTS preview"
+
+**2026-06-21** — created branch `z/gradle10prep` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-21** — closed issue [#1381](https://github.com/ZacSweers/metro/issues/1381) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider interop for `@MergeModules`"
+
+**2026-06-21** — created branch `z/cleanupContributionsAsContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-21** — merged PR [#2469](https://github.com/ZacSweers/metro/pull/2469) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update maven publish to 0.37.0"
+
 **2026-06-21** — created branch `z/mavenPub37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-21** — merged PR [#2468](https://github.com/ZacSweers/metro/pull/2468) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid project-local property lookups for Gradle 10"
@@ -11,14 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-20** — commented on [#2354](https://github.com/ZacSweers/metro/pull/2354#issuecomment-4759555828) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-20** — created branch `z/gradle10prep` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-20** — created branch `z/tightenSmokeTEst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-19** — merged PR [#2465](https://github.com/ZacSweers/metro/pull/2465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up annotation-default arg"
-
-**2026-06-19** — created branch `z/fixIdeTEst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-19** — created branch `z/cleanupArg` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
