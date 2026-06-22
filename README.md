@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — merged PR [#2466](https://github.com/ZacSweers/metro/pull/2466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix IDE test for assisted params"
 
 **2026-06-21** — merged PR [#7](https://github.com/ZacSweers/kempt/pull/7) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Use --force when re-adding files"
-
-**2026-06-21** — created branch `z/forceAdd` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
