@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-22** — merged PR [#8](https://github.com/ZacSweers/kempt/pull/8) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Misc cleanups"
+
 **2026-06-21** — merged PR [#7](https://github.com/ZacSweers/kempt/pull/7) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Use --force when re-adding files"
 
 **2026-06-22** — created branch `z/miscCleanup` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
@@ -16,6 +18,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## On My Blog
 <!-- blog starts -->
+**2026-06-22** — [Introducing Kempt](https://www.zacsweers.dev/introducing-kempt/)
+
 **2026-04-27** — [🚇 Metro is Stable](https://www.zacsweers.dev/metro-is-stable/)
 
 **2026-03-08** — [I have two passing tests](https://www.zacsweers.dev/i-have-two-passing-tests/)
@@ -33,8 +37,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-11-06** — [Metro's Design Doc](https://www.zacsweers.dev/metros-design-doc/)
 
 **2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
-
-**2025-07-01** — [Don't use Type-safe Project Accessors with Kotlin Gradle DSL](https://www.zacsweers.dev/dont-use-type-safe-project-accessors-with-kotlin-gradle-dsl/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
