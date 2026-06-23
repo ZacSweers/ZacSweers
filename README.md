@@ -4,13 +4,19 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-23** — closed issue [#2477](https://github.com/ZacSweers/metro/issues/2477) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 1.2.1 regression: "Unexpected provider type" IR-gen crash for an unscoped @Provides injected as Lazy<T> into a subcomponent / graph extension"
+
+**2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
+
+**2026-06-23** — opened PR [#488](https://github.com/slackhq/slack-lints/pull/488) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlin analysis API instead of metadata"
+
+**2026-06-23** — created branch `z/ka` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2026-06-23** — created branch `z/fixInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-23** — merged PR [#583](https://github.com/slackhq/compose-lints/pull/583) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use analysis API instead of metadata"
 
 **2026-06-23** — created branch `z/aa` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-23** — commented on [#3208](https://github.com/Kotlin/kotlinx.serialization/pull/3208#issuecomment-4781994529) in [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-
-**2026-06-22** — merged PR [#8](https://github.com/ZacSweers/kempt/pull/8) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Misc cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
