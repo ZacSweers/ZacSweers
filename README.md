@@ -4,17 +4,13 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-23** — opened PR [#583](https://github.com/slackhq/compose-lints/pull/583) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use analysis API instead of metadata"
+**2026-06-23** — merged PR [#583](https://github.com/slackhq/compose-lints/pull/583) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use analysis API instead of metadata"
 
 **2026-06-23** — created branch `z/aa` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-06-23** — commented on [#3208](https://github.com/Kotlin/kotlinx.serialization/pull/3208#issuecomment-4781994529) in [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
 
 **2026-06-22** — merged PR [#8](https://github.com/ZacSweers/kempt/pull/8) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Misc cleanups"
-
-**2026-06-21** — merged PR [#7](https://github.com/ZacSweers/kempt/pull/7) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Use --force when re-adding files"
-
-**2026-06-22** — created branch `z/miscCleanup` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
