@@ -9,10 +9,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-23** — closed issue [#2477](https://github.com/ZacSweers/metro/issues/2477) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 1.2.1 regression: "Unexpected provider type" IR-gen crash for an unscoped @Provides injected as Lazy<T> into a subcomponent / graph extension"
 
 **2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
-
-**2026-06-23** — opened PR [#488](https://github.com/slackhq/slack-lints/pull/488) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlin analysis API instead of metadata"
-
-**2026-06-23** — created branch `z/ka` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
