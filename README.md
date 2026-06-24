@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-23** — opened PR [#488](https://github.com/slackhq/slack-lints/pull/488) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlin analysis API instead of metadata"
 
 **2026-06-23** — created branch `z/ka` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2026-06-23** — created branch `z/fixInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
