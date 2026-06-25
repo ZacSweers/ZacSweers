@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
+
 **2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
 
 **2026-06-18** — merged PR [#2456](https://github.com/ZacSweers/metro/pull/2456) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
