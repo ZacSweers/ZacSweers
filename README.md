@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-18** — merged PR [#2456](https://github.com/ZacSweers/metro/pull/2456) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-06-18** — merged PR [#2455](https://github.com/ZacSweers/metro/pull/2455) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run apt-get first on IDE tests"
 
 **2026-06-24** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
