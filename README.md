@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-20** — merged PR [#2467](https://github.com/ZacSweers/metro/pull/2467) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tighten IDE smoke diagnostics"
+
+**2026-06-19** — merged PR [#2466](https://github.com/ZacSweers/metro/pull/2466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix IDE test for assisted params"
+
+**2026-06-19** — merged PR [#2465](https://github.com/ZacSweers/metro/pull/2465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up annotation-default arg"
+
 **2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-19** — merged PR [#2463](https://github.com/ZacSweers/metro/pull/2463) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up NO_COLOR docs"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
 
 **2026-06-18** — merged PR [#2456](https://github.com/ZacSweers/metro/pull/2456) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-18** — merged PR [#2455](https://github.com/ZacSweers/metro/pull/2455) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run apt-get first on IDE tests"
-
-**2026-06-24** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
