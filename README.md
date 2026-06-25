@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-06-19** — merged PR [#2463](https://github.com/ZacSweers/metro/pull/2463) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up NO_COLOR docs"
 
 **2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-24** — created branch `z/moreDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-06-24** — created branch `z/updateTestedVersions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
