@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-19** — merged PR [#2463](https://github.com/ZacSweers/metro/pull/2463) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up NO_COLOR docs"
+
+**2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
+
+**2026-06-19** — merged PR [#2461](https://github.com/ZacSweers/metro/pull/2461) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve assisted factory param locations"
+
 **2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
 
 **2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 
 **2026-06-24** — created branch `z/updateTestedVersions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-24** — merged PR [#2483](https://github.com/ZacSweers/metro/pull/2483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20-Beta1"
-
-**2026-06-24** — created branch `z/k2420b1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-24** — merged PR [#488](https://github.com/slackhq/slack-lints/pull/488) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlin analysis API instead of metadata"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
