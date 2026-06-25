@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-20** — merged PR [#2468](https://github.com/ZacSweers/metro/pull/2468) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid project-local property lookups for Gradle 10"
+
 **2026-06-20** — merged PR [#2467](https://github.com/ZacSweers/metro/pull/2467) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tighten IDE smoke diagnostics"
 
 **2026-06-19** — merged PR [#2466](https://github.com/ZacSweers/metro/pull/2466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix IDE test for assisted params"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
 
 **2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
-
-**2026-06-18** — merged PR [#2456](https://github.com/ZacSweers/metro/pull/2456) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
