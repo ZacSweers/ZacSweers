@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
+
 **2026-06-18** — merged PR [#2456](https://github.com/ZacSweers/metro/pull/2456) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-18** — merged PR [#2455](https://github.com/ZacSweers/metro/pull/2455) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run apt-get first on IDE tests"
