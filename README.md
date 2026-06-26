@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
+
+**2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
+
+**2026-06-26** — created branch `z/githubAction` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
+**2026-06-26** — merged PR [#2487](https://github.com/ZacSweers/metro/pull/2487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use Mordant + align rendering with ktoolchain"
+
 **2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
 
 **2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -13,16 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
 
 **2026-06-26** — created branch `z/parallel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-24** — opened PR [#2487](https://github.com/ZacSweers/metro/pull/2487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use Mordant + align rendering with ktoolchain"
-
-**2026-06-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-06-24** — merged PR [#2483](https://github.com/ZacSweers/metro/pull/2483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20-Beta1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
