@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-06-26** — opened issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
 
 **2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-24** — merged PR [#2483](https://github.com/ZacSweers/metro/pull/2483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20-Beta1"
 
 **2026-06-23** — merged PR [#2480](https://github.com/ZacSweers/metro/pull/2480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Streamline release infra"
-
-**2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
