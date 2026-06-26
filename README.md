@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-21** — merged PR [#2471](https://github.com/ZacSweers/metro/pull/2471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable NO_IMPLICIT_LOOKUP_IN_PARENT_PROJECTS preview"
+
 **2026-06-21** — merged PR [#2470](https://github.com/ZacSweers/metro/pull/2470) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up contributions-as-containers"
 
 **2026-06-21** — merged PR [#2469](https://github.com/ZacSweers/metro/pull/2469) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update maven publish to 0.37.0"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — merged PR [#2463](https://github.com/ZacSweers/metro/pull/2463) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up NO_COLOR docs"
 
 **2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
-
-**2026-06-19** — merged PR [#2461](https://github.com/ZacSweers/metro/pull/2461) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve assisted factory param locations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
