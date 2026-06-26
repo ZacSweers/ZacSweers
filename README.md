@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-21** — merged PR [#2470](https://github.com/ZacSweers/metro/pull/2470) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up contributions-as-containers"
+
+**2026-06-21** — merged PR [#2469](https://github.com/ZacSweers/metro/pull/2469) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update maven publish to 0.37.0"
+
 **2026-06-20** — merged PR [#2468](https://github.com/ZacSweers/metro/pull/2468) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid project-local property lookups for Gradle 10"
 
 **2026-06-20** — merged PR [#2467](https://github.com/ZacSweers/metro/pull/2467) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tighten IDE smoke diagnostics"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
 
 **2026-06-19** — merged PR [#2461](https://github.com/ZacSweers/metro/pull/2461) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve assisted factory param locations"
-
-**2026-06-18** — merged PR [#2460](https://github.com/ZacSweers/metro/pull/2460) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic to report scope annotations on graph inputs"
-
-**2026-06-25** — closed issue [#2419](https://github.com/ZacSweers/metro/issues/2419) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up `binding-contributions-as-containers`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
