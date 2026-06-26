@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
+**2026-06-24** — merged PR [#2483](https://github.com/ZacSweers/metro/pull/2483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20-Beta1"
+
 **2026-06-23** — merged PR [#2480](https://github.com/ZacSweers/metro/pull/2480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Streamline release infra"
 
 **2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-20** — merged PR [#2467](https://github.com/ZacSweers/metro/pull/2467) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tighten IDE smoke diagnostics"
 
 **2026-06-19** — merged PR [#2466](https://github.com/ZacSweers/metro/pull/2466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix IDE test for assisted params"
-
-**2026-06-19** — merged PR [#2465](https://github.com/ZacSweers/metro/pull/2465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up annotation-default arg"
-
-**2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
