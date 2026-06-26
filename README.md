@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-26** — opened PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
+
+**2026-06-26** — created branch `z/traceInstances` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
 
 **2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-26** — opened issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
 
 **2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
-
-**2026-06-26** — created branch `z/parallel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
