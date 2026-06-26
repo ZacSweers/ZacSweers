@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-26** — opened issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
+
+**2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
+
+**2026-06-26** — created branch `z/parallel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-06-24** — opened PR [#2487](https://github.com/ZacSweers/metro/pull/2487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use Mordant + align rendering with ktoolchain"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-23** — merged PR [#2480](https://github.com/ZacSweers/metro/pull/2480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Streamline release infra"
 
 **2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
-
-**2026-06-21** — merged PR [#2471](https://github.com/ZacSweers/metro/pull/2471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable NO_IMPLICIT_LOOKUP_IN_PARENT_PROJECTS preview"
-
-**2026-06-21** — merged PR [#2470](https://github.com/ZacSweers/metro/pull/2470) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up contributions-as-containers"
-
-**2026-06-21** — merged PR [#2469](https://github.com/ZacSweers/metro/pull/2469) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update maven publish to 0.37.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
