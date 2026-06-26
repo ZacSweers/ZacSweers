@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-06-24** — opened PR [#2487](https://github.com/ZacSweers/metro/pull/2487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use Mordant + align rendering with ktoolchain"
+
+**2026-06-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-24** — merged PR [#2485](https://github.com/ZacSweers/metro/pull/2485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 
 **2026-06-24** — merged PR [#2483](https://github.com/ZacSweers/metro/pull/2483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.4.20-Beta1"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-21** — merged PR [#2470](https://github.com/ZacSweers/metro/pull/2470) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up contributions-as-containers"
 
 **2026-06-21** — merged PR [#2469](https://github.com/ZacSweers/metro/pull/2469) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update maven publish to 0.37.0"
-
-**2026-06-20** — merged PR [#2468](https://github.com/ZacSweers/metro/pull/2468) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid project-local property lookups for Gradle 10"
-
-**2026-06-20** — merged PR [#2467](https://github.com/ZacSweers/metro/pull/2467) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tighten IDE smoke diagnostics"
-
-**2026-06-19** — merged PR [#2466](https://github.com/ZacSweers/metro/pull/2466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix IDE test for assisted params"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
