@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-23** — merged PR [#2480](https://github.com/ZacSweers/metro/pull/2480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Streamline release infra"
+
+**2026-06-23** — merged PR [#2478](https://github.com/ZacSweers/metro/pull/2478) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type mismatch for dagger.Lazy interop"
+
 **2026-06-21** — merged PR [#2471](https://github.com/ZacSweers/metro/pull/2471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable NO_IMPLICIT_LOOKUP_IN_PARENT_PROJECTS preview"
 
 **2026-06-21** — merged PR [#2470](https://github.com/ZacSweers/metro/pull/2470) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up contributions-as-containers"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-19** — merged PR [#2465](https://github.com/ZacSweers/metro/pull/2465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up annotation-default arg"
 
 **2026-06-19** — merged PR [#2464](https://github.com/ZacSweers/metro/pull/2464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-19** — merged PR [#2463](https://github.com/ZacSweers/metro/pull/2463) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up NO_COLOR docs"
-
-**2026-06-19** — merged PR [#2462](https://github.com/ZacSweers/metro/pull/2462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
