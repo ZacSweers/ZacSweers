@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-27** — closed issue [#173](https://github.com/ZacSweers/metro/issues/173) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider requiring disallowing implicit multibinding aggregation across graph extension/parent boundaries"
+
+**2026-06-27** — merged PR [#2498](https://github.com/ZacSweers/metro/pull/2498) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve GraphPrivate docs"
+
+**2026-06-27** — commented on [#173](https://github.com/ZacSweers/metro/issues/173#issuecomment-4822358552) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-27** — merged PR [#2498](https://github.com/ZacSweers/metro/pull/2498) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve GraphPrivate docs"
+
+**2026-06-27** — created branch `z/graphPrivateDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-27** — closed issue [#2496](https://github.com/ZacSweers/metro/issues/2496) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "GraphPrivate bindings can leak to chained Graph Extensions"
+
 **2026-06-27** — merged PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
 
 **2026-06-27** — closed PR [#2495](https://github.com/ZacSweers/metro/pull/2495) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameterless Binds declarations"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-27** — commented on [#2495](https://github.com/ZacSweers/metro/pull/2495#issuecomment-4819915186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-26** — merged PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
-
-**2026-06-26** — created branch `z/traceInstances` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
-
-**2026-06-26** — merged PR [#9](https://github.com/ZacSweers/kempt/pull/9) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add a github action"
-
-**2026-06-26** — created branch `z/githubAction` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-06-26** — merged PR [#2487](https://github.com/ZacSweers/metro/pull/2487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use Mordant + align rendering with ktoolchain"
-
-**2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
