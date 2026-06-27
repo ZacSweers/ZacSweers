@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
+
+**2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
+
+**2026-06-27** — created branch `z/miscStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-27** — opened issue [#1013](https://github.com/gradle/actions/issues/1013) on [gradle/actions](https://github.com/gradle/actions): "setup-gradle action w/ enhanced cache fails to save Windows Gradle User Home after cleanup"
+
 **2026-06-27** — closed issue [#173](https://github.com/ZacSweers/metro/issues/173) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider requiring disallowing implicit multibinding aggregation across graph extension/parent boundaries"
 
 **2026-06-27** — merged PR [#2498](https://github.com/ZacSweers/metro/pull/2498) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve GraphPrivate docs"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-27** — created branch `z/graphPrivateDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-27** — closed issue [#2496](https://github.com/ZacSweers/metro/issues/2496) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "GraphPrivate bindings can leak to chained Graph Extensions"
-
-**2026-06-27** — merged PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
-
-**2026-06-27** — closed PR [#2495](https://github.com/ZacSweers/metro/pull/2495) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameterless Binds declarations"
-
-**2026-06-27** — commented on [#2495](https://github.com/ZacSweers/metro/pull/2495#issuecomment-4819915186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-26** — merged PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
