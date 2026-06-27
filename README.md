@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-27** — closed PR [#2495](https://github.com/ZacSweers/metro/pull/2495) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameterless Binds declarations"
+
+**2026-06-27** — commented on [#2495](https://github.com/ZacSweers/metro/pull/2495#issuecomment-4819915186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-26** — opened PR [#2494](https://github.com/ZacSweers/metro/pull/2494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add instant support to runtime tracing"
 
 **2026-06-26** — created branch `z/traceInstances` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
 
 **2026-06-26** — merged PR [#2491](https://github.com/ZacSweers/metro/pull/2491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-06-26** — opened issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
-
-**2026-06-26** — merged PR [#2492](https://github.com/ZacSweers/metro/pull/2492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize some workflow steps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
