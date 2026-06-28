@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-28** — merged PR [#2502](https://github.com/ZacSweers/metro/pull/2502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Gradle to 9.6.1"
+
+**2026-06-28** — merged PR [#2502](https://github.com/ZacSweers/metro/pull/2502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Gradle to 9.6.1"
+
+**2026-06-28** — created branch `z/gradle961` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-27** — closed issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
 
 **2026-06-27** — merged PR [#2500](https://github.com/ZacSweers/metro/pull/2500) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameter-less binds"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-27** — merged PR [#2500](https://github.com/ZacSweers/metro/pull/2500) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameter-less binds"
 
 **2026-06-27** — created branch `z/parameterlessBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
-
-**2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
-
-**2026-06-27** — created branch `z/miscStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
