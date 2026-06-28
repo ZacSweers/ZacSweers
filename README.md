@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-27** — opened PR [#2500](https://github.com/ZacSweers/metro/pull/2500) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameter-less binds"
+
+**2026-06-27** — created branch `z/parameterlessBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
 
 **2026-06-27** — merged PR [#2499](https://github.com/ZacSweers/metro/pull/2499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Retry JS box tests"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-27** — commented on [#173](https://github.com/ZacSweers/metro/issues/173#issuecomment-4822358552) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-27** — merged PR [#2498](https://github.com/ZacSweers/metro/pull/2498) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve GraphPrivate docs"
-
-**2026-06-27** — created branch `z/graphPrivateDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-27** — closed issue [#2496](https://github.com/ZacSweers/metro/issues/2496) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "GraphPrivate bindings can leak to chained Graph Extensions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
