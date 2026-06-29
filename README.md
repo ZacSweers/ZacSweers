@@ -22,7 +22,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-06-29** — merged PR [#427](https://github.com/ZacSweers/redacted-compiler-plugin/pull/427) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Migrate formatting to Kempt"
 
-**2026-06-29** — created branch `z/migrate-to-kempt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2026-06-29** — created branch `z/migrate-to-kempt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
