@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-29** — merged PR [#2503](https://github.com/ZacSweers/metro/pull/2503) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up git-lfs usage"
+
+**2026-06-29** — merged PR [#2503](https://github.com/ZacSweers/metro/pull/2503) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up git-lfs usage"
+
+**2026-06-29** — created branch `z/cleanUpLFS` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-29** — merged PR [#11](https://github.com/ZacSweers/kempt/pull/11) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt partial formatting support"
+
+**2026-06-29** — merged PR [#11](https://github.com/ZacSweers/kempt/pull/11) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt partial formatting support"
+
+**2026-06-29** — created branch `z/ktfmtOffsets` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
 **2026-06-29** — commented on [#2300](https://github.com/ZacSweers/metro/pull/2300#issuecomment-4834321180) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-06-29** — labeled PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-29** — labeled PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
 
 **2026-06-29** — opened PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
-
-**2026-06-29** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-06-28** — merged PR [#2502](https://github.com/ZacSweers/metro/pull/2502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Gradle to 9.6.1"
-
-**2026-06-28** — merged PR [#2502](https://github.com/ZacSweers/metro/pull/2502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Gradle to 9.6.1"
-
-**2026-06-28** — created branch `z/gradle961` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-27** — closed issue [#2493](https://github.com/ZacSweers/metro/issues/2493) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting parameter-less `@Binds`"
-
-**2026-06-27** — merged PR [#2500](https://github.com/ZacSweers/metro/pull/2500) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support parameter-less binds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
