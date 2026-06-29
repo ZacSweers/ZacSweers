@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-29** — merged PR [#2503](https://github.com/ZacSweers/metro/pull/2503) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up git-lfs usage"
+**2026-06-29** — merged PR [#461](https://github.com/ZacSweers/FieldSpottr/pull/461) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate formatting to Kempt"
 
-**2026-06-29** — merged PR [#2503](https://github.com/ZacSweers/metro/pull/2503) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up git-lfs usage"
+**2026-06-29** — merged PR [#469](https://github.com/ZacSweers/kotlin-compile-testing/pull/469) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Migrate formatting to Kempt"
 
-**2026-06-29** — created branch `z/cleanUpLFS` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-06-29** — merged PR [#427](https://github.com/ZacSweers/redacted-compiler-plugin/pull/427) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Migrate formatting to Kempt"
 
-**2026-06-29** — merged PR [#11](https://github.com/ZacSweers/kempt/pull/11) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt partial formatting support"
+**2026-06-29** — merged PR [#932](https://github.com/ZacSweers/MoshiX/pull/932) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate formatting to Kempt"
 
-**2026-06-29** — merged PR [#11](https://github.com/ZacSweers/kempt/pull/11) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt partial formatting support"
+**2026-06-29** — merged PR [#469](https://github.com/ZacSweers/kotlin-compile-testing/pull/469) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Migrate formatting to Kempt"
 
-**2026-06-29** — created branch `z/ktfmtOffsets` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+**2026-06-29** — merged PR [#932](https://github.com/ZacSweers/MoshiX/pull/932) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate formatting to Kempt"
 
-**2026-06-29** — commented on [#2300](https://github.com/ZacSweers/metro/pull/2300#issuecomment-4834321180) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-06-29** — merged PR [#461](https://github.com/ZacSweers/FieldSpottr/pull/461) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate formatting to Kempt"
 
-**2026-06-29** — labeled PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
+**2026-06-29** — opened PR [#2475](https://github.com/ZacSweers/CatchUp/pull/2475) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate formatting to Kempt"
 
-**2026-06-29** — labeled PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
+**2026-06-29** — merged PR [#427](https://github.com/ZacSweers/redacted-compiler-plugin/pull/427) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Migrate formatting to Kempt"
 
-**2026-06-29** — opened PR [#10](https://github.com/ZacSweers/kempt/pull/10) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: ktfmt 0.64, gjf 1.35.0"
+**2026-06-29** — created branch `z/migrate-to-kempt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
