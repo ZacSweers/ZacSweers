@@ -28,6 +28,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## On My Blog
 <!-- blog starts -->
+**2026-06-29** — [How to Take an 11 Month Sabbatical](https://www.zacsweers.dev/how-to-take-an-11-month-sabbatical/)
+
 **2026-06-22** — [Introducing Kempt](https://www.zacsweers.dev/introducing-kempt/)
 
 **2026-04-27** — [🚇 Metro is Stable](https://www.zacsweers.dev/metro-is-stable/)
@@ -45,8 +47,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-01-29** — [Sponsoring Metro](https://www.zacsweers.dev/sponsoring-metro/)
 
 **2025-11-06** — [Metro's Design Doc](https://www.zacsweers.dev/metros-design-doc/)
-
-**2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
