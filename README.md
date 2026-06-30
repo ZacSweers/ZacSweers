@@ -18,9 +18,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-06-30** — opened PR [#463](https://github.com/ZacSweers/FieldSpottr/pull/463) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.10 prep"
 
-**2026-06-30** — created branch `z/k241` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
 **2026-06-30** — created branch `z/k241` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-06-30** — created branch `z/k241` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-06-30** — created branch `z/k241` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
