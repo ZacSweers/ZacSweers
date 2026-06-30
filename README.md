@@ -22,7 +22,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-06-30** — created branch `z/k241` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2026-06-30** — created branch `z/k241` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2026-06-30** — created branch `z/k241` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
