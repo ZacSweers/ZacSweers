@@ -22,7 +22,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 **2026-06-30** — created branch `z/k241` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-06-30** — created branch `z/k241` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2026-06-30** — created branch `z/k241` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
