@@ -4,6 +4,18 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-01** — opened PR [#1858](https://github.com/slackhq/foundry/pull/1858) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix renovate"
+
+**2026-07-01** — created branch `z/fixRenovate` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-07-01** — closed issue [#2504](https://github.com/ZacSweers/metro/issues/2504) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro x Dagger interop throws IndexOutOfBoundsException when using Dagger in reflect mode"
+
+**2026-07-01** — merged PR [#2505](https://github.com/ZacSweers/metro/pull/2505) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error messaging on missing upstream factories"
+
+**2026-07-01** — merged PR [#2505](https://github.com/ZacSweers/metro/pull/2505) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error messaging on missing upstream factories"
+
+**2026-07-01** — created branch `z/betterMissingMIDoc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-06-30** — opened PR [#1856](https://github.com/slackhq/foundry/pull/1856) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.10 prep"
 
 **2026-06-30** — opened PR [#431](https://github.com/ZacSweers/redacted-compiler-plugin/pull/431) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.10 prep"
@@ -11,18 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-06-30** — opened PR [#2768](https://github.com/slackhq/circuit/pull/2768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.10 prep"
 
 **2026-06-30** — opened PR [#934](https://github.com/ZacSweers/MoshiX/pull/934) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10 prep"
-
-**2026-06-30** — opened PR [#471](https://github.com/ZacSweers/kotlin-compile-testing/pull/471) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.10 prep"
-
-**2026-06-30** — opened PR [#2479](https://github.com/ZacSweers/CatchUp/pull/2479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.4.10 prep"
-
-**2026-06-30** — opened PR [#463](https://github.com/ZacSweers/FieldSpottr/pull/463) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.10 prep"
-
-**2026-06-30** — created branch `z/k241` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-06-30** — created branch `z/k241` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-06-30** — created branch `z/k241` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
