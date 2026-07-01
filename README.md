@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-01** — opened PR [#939](https://github.com/ZacSweers/MoshiX/pull/939) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Integrate metro compat artifacts"
+
+**2026-07-01** — opened PR [#938](https://github.com/ZacSweers/MoshiX/pull/938) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support objects from AdaptedBy"
+
+**2026-07-01** — created branch `z/supportObjects` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2026-07-01** — merged PR [#434](https://github.com/ZacSweers/redacted-compiler-plugin/pull/434) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Minimize transitive deps"
+
+**2026-07-01** — created branch `z/compat` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2026-07-01** — merged PR [#434](https://github.com/ZacSweers/redacted-compiler-plugin/pull/434) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Minimize transitive deps"
+
+**2026-07-01** — created branch `z/minimize` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2026-07-01** — merged PR [#937](https://github.com/ZacSweers/MoshiX/pull/937) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate a bunch of errors to FIR instead"
 
 **2026-07-01** — closed issue [#765](https://github.com/ZacSweers/MoshiX/issues/765) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate diagnostic errors to FIR where possible"
 
 **2026-07-01** — closed issue [#863](https://github.com/ZacSweers/MoshiX/issues/863) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Dependencies get added with incorrect configurations"
-
-**2026-07-01** — commented on [#766](https://github.com/ZacSweers/MoshiX/issues/766#issuecomment-4860313364) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-07-01** — closed issue [#766](https://github.com/ZacSweers/MoshiX/issues/766) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to DiagnosticReporter for IR errors"
-
-**2026-07-01** — commented on [#767](https://github.com/ZacSweers/MoshiX/issues/767#issuecomment-4860312921) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-07-01** — closed issue [#767](https://github.com/ZacSweers/MoshiX/issues/767) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test framework"
-
-**2026-07-01** — merged PR [#937](https://github.com/ZacSweers/MoshiX/pull/937) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate a bunch of errors to FIR instead"
-
-**2026-07-01** — created branch `z/moreFir` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-07-01** — opened PR [#2077](https://github.com/GradleUp/shadow/pull/2077) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Add support for R8-based minization"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
