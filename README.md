@@ -4,25 +4,21 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-01** — merged PR [#935](https://github.com/ZacSweers/MoshiX/pull/935) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR cleanups"
+**2026-07-01** — merged PR [#936](https://github.com/ZacSweers/MoshiX/pull/936) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test infra"
 
-**2026-07-01** — merged PR [#935](https://github.com/ZacSweers/MoshiX/pull/935) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR cleanups"
+**2026-07-01** — merged PR [#936](https://github.com/ZacSweers/MoshiX/pull/936) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test infra"
 
-**2026-07-01** — created branch `z/irCleanup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2026-06-30** — closed PR [#430](https://github.com/ZacSweers/redacted-compiler-plugin/pull/430) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20 prep"
 
-**2026-07-01** — merged PR [#1858](https://github.com/slackhq/foundry/pull/1858) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix renovate"
+**2026-06-30** — closed PR [#431](https://github.com/ZacSweers/redacted-compiler-plugin/pull/431) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.10 prep"
 
-**2026-07-01** — closed issue [#2506](https://github.com/ZacSweers/metro/issues/2506) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KotlinConf App with metro 1.3.0 and kotlin 2.4.20-Beta1 fails"
+**2026-07-01** — merged PR [#433](https://github.com/ZacSweers/redacted-compiler-plugin/pull/433) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Integrate compiler-compat"
 
-**2026-07-01** — merged PR [#2507](https://github.com/ZacSweers/metro/pull/2507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix accessing graph factories across modules with IR class gen"
+**2026-07-01** — created branch `z/compilerTestInfra` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2026-07-01** — commented on [#2506](https://github.com/ZacSweers/metro/issues/2506#issuecomment-4858474275) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-01** — merged PR [#433](https://github.com/ZacSweers/redacted-compiler-plugin/pull/433) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Integrate compiler-compat"
 
-**2026-07-01** — merged PR [#2507](https://github.com/ZacSweers/metro/pull/2507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix accessing graph factories across modules with IR class gen"
-
-**2026-07-01** — created branch `z/fixObjectClasses` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-01** — merged PR [#1858](https://github.com/slackhq/foundry/pull/1858) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix renovate"
+**2026-07-01** — created branch `z/compat` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
