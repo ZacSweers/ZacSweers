@@ -4,21 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-01** — merged PR [#936](https://github.com/ZacSweers/MoshiX/pull/936) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test infra"
+**2026-07-01** — merged PR [#937](https://github.com/ZacSweers/MoshiX/pull/937) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate a bunch of errors to FIR instead"
 
-**2026-07-01** — merged PR [#936](https://github.com/ZacSweers/MoshiX/pull/936) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test infra"
+**2026-07-01** — closed issue [#765](https://github.com/ZacSweers/MoshiX/issues/765) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate diagnostic errors to FIR where possible"
 
-**2026-06-30** — closed PR [#430](https://github.com/ZacSweers/redacted-compiler-plugin/pull/430) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20 prep"
+**2026-07-01** — closed issue [#863](https://github.com/ZacSweers/MoshiX/issues/863) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Dependencies get added with incorrect configurations"
 
-**2026-06-30** — closed PR [#431](https://github.com/ZacSweers/redacted-compiler-plugin/pull/431) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.10 prep"
+**2026-07-01** — commented on [#766](https://github.com/ZacSweers/MoshiX/issues/766#issuecomment-4860313364) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2026-07-01** — merged PR [#433](https://github.com/ZacSweers/redacted-compiler-plugin/pull/433) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Integrate compiler-compat"
+**2026-07-01** — closed issue [#766](https://github.com/ZacSweers/MoshiX/issues/766) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to DiagnosticReporter for IR errors"
 
-**2026-07-01** — created branch `z/compilerTestInfra` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2026-07-01** — commented on [#767](https://github.com/ZacSweers/MoshiX/issues/767#issuecomment-4860312921) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2026-07-01** — merged PR [#433](https://github.com/ZacSweers/redacted-compiler-plugin/pull/433) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Integrate compiler-compat"
+**2026-07-01** — closed issue [#767](https://github.com/ZacSweers/MoshiX/issues/767) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test framework"
 
-**2026-07-01** — created branch `z/compat` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2026-07-01** — merged PR [#937](https://github.com/ZacSweers/MoshiX/pull/937) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate a bunch of errors to FIR instead"
+
+**2026-07-01** — created branch `z/moreFir` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2026-07-01** — opened PR [#2077](https://github.com/GradleUp/shadow/pull/2077) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Add support for R8-based minization"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
