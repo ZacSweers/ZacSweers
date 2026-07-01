@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-01** — merged PR [#935](https://github.com/ZacSweers/MoshiX/pull/935) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR cleanups"
+
+**2026-07-01** — merged PR [#935](https://github.com/ZacSweers/MoshiX/pull/935) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR cleanups"
+
+**2026-07-01** — created branch `z/irCleanup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2026-07-01** — merged PR [#1858](https://github.com/slackhq/foundry/pull/1858) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix renovate"
 
 **2026-07-01** — closed issue [#2506](https://github.com/ZacSweers/metro/issues/2506) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KotlinConf App with metro 1.3.0 and kotlin 2.4.20-Beta1 fails"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-01** — created branch `z/fixObjectClasses` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-01** — merged PR [#1858](https://github.com/slackhq/foundry/pull/1858) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix renovate"
-
-**2026-07-01** — created branch `z/fixRenovate` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-07-01** — closed issue [#2504](https://github.com/ZacSweers/metro/issues/2504) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro x Dagger interop throws IndexOutOfBoundsException when using Dagger in reflect mode"
-
-**2026-07-01** — merged PR [#2505](https://github.com/ZacSweers/metro/pull/2505) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error messaging on missing upstream factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
