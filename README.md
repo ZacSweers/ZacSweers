@@ -4,7 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-
+**2026-07-02** — closed PR [#1879](https://github.com/slackhq/foundry/pull/1879) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update moshix to v0.36.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
