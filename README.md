@@ -9,16 +9,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-02** — merged PR [#938](https://github.com/ZacSweers/MoshiX/pull/938) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support objects from AdaptedBy"
 
 **2026-06-30** — closed PR [#933](https://github.com/ZacSweers/MoshiX/pull/933) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20 prep"
-
-**2026-06-30** — closed PR [#934](https://github.com/ZacSweers/MoshiX/pull/934) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10 prep"
-
-**2026-07-02** — merged PR [#939](https://github.com/ZacSweers/MoshiX/pull/939) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Integrate metro compat artifacts"
-
-**2026-04-27** — closed PR [#1831](https://github.com/slackhq/foundry/pull/1831) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix: unblock failing dependency PRs"
-
-**2026-07-02** — commented on [#1831](https://github.com/slackhq/foundry/pull/1831#issuecomment-4862257196) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-07-01** — merged PR [#939](https://github.com/ZacSweers/MoshiX/pull/939) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Integrate metro compat artifacts"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
