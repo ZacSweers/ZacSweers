@@ -19,10 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-02** — commented on [#1831](https://github.com/slackhq/foundry/pull/1831#issuecomment-4862257196) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2026-07-01** — merged PR [#939](https://github.com/ZacSweers/MoshiX/pull/939) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Integrate metro compat artifacts"
-
-**2026-07-01** — merged PR [#938](https://github.com/ZacSweers/MoshiX/pull/938) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support objects from AdaptedBy"
-
-**2026-07-01** — created branch `z/supportObjects` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
