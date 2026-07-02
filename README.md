@@ -4,15 +4,17 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-02** — opened PR [#1890](https://github.com/slackhq/foundry/pull/1890) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix some deprecations in the IJ 2026.1 update"
+
+**2026-07-02** — created branch `z/ideaFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-07-02** — closed PR [#1869](https://github.com/slackhq/foundry/pull/1869) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.18.0"
+
 **2026-07-02** — closed issue [#775](https://github.com/ZacSweers/MoshiX/issues/775) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stack overflow creating adapter"
 
 **2026-07-02** — merged PR [#941](https://github.com/ZacSweers/MoshiX/pull/941) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix recursive type creation"
 
 **2026-07-02** — merged PR [#941](https://github.com/ZacSweers/MoshiX/pull/941) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix recursive type creation"
-
-**2026-07-02** — created branch `z/avoidLoop` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-07-02** — closed PR [#1879](https://github.com/slackhq/foundry/pull/1879) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update moshix to v0.36.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
