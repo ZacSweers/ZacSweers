@@ -7,8 +7,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-02** — closed issue [#763](https://github.com/ZacSweers/MoshiX/issues/763) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support `object` JsonAdapter in `@AdapterBy`"
 
 **2026-07-02** — merged PR [#938](https://github.com/ZacSweers/MoshiX/pull/938) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support objects from AdaptedBy"
-
-**2026-06-30** — closed PR [#933](https://github.com/ZacSweers/MoshiX/pull/933) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
