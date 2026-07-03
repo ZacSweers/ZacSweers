@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-03** — opened PR [#2511](https://github.com/ZacSweers/metro/pull/2511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member-injection of interop providers"
+
+**2026-07-03** — created branch `z/fixMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-03** — merged PR [#2510](https://github.com/ZacSweers/metro/pull/2510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,10 +15,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-03** — merged PR [#2510](https://github.com/ZacSweers/metro/pull/2510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-02** — opened PR [#2508](https://github.com/ZacSweers/metro/pull/2508) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Suspend providers"
-
-**2026-07-02** — opened PR [#1890](https://github.com/slackhq/foundry/pull/1890) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix some deprecations in the IJ 2026.1 update"
-
-**2026-07-02** — created branch `z/ideaFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
