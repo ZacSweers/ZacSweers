@@ -13,8 +13,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-02** — closed issue [#775](https://github.com/ZacSweers/MoshiX/issues/775) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stack overflow creating adapter"
 
 **2026-07-02** — merged PR [#941](https://github.com/ZacSweers/MoshiX/pull/941) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix recursive type creation"
-
-**2026-07-02** — merged PR [#941](https://github.com/ZacSweers/MoshiX/pull/941) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix recursive type creation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
