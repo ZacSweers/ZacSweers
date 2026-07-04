@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-04** — merged PR [#2077](https://github.com/GradleUp/shadow/pull/2077) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Add support for R8-based minization"
-
-**2026-07-03** — closed issue [#2509](https://github.com/ZacSweers/metro/issues/2509) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 1.2.0/1.3.0 regression - Unexpected provider type: MetroFactory"
-
-**2026-07-03** — merged PR [#2511](https://github.com/ZacSweers/metro/pull/2511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member-injection of interop providers"
-
-**2026-07-03** — merged PR [#472](https://github.com/ZacSweers/kotlin-compile-testing/pull/472) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix deprecations in gradle"
-
-**2026-07-03** — merged PR [#472](https://github.com/ZacSweers/kotlin-compile-testing/pull/472) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix deprecations in gradle"
-
-**2026-07-03** — created branch `z/gradleDeprecations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-07-03** — merged PR [#2511](https://github.com/ZacSweers/metro/pull/2511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member-injection of interop providers"
-
-**2026-07-03** — created branch `z/fixMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-03** — merged PR [#2510](https://github.com/ZacSweers/metro/pull/2510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-07-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-04** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
