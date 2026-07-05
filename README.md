@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-03** — closed PR [#1891](https://github.com/slackhq/foundry/pull/1891) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update kotlinx-coroutines monorepo to v1.11.0"
+
 **2026-07-04** — merged PR [#2077](https://github.com/GradleUp/shadow/pull/2077) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Add support for R8-based minization"
 
 **2026-07-03** — closed issue [#2509](https://github.com/ZacSweers/metro/issues/2509) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro 1.2.0/1.3.0 regression - Unexpected provider type: MetroFactory"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-03** — created branch `z/fixMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-03** — merged PR [#2510](https://github.com/ZacSweers/metro/pull/2510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-07-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
