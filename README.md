@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-06** — opened PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
+
+**2026-07-06** — created branch `z/extractRules` on [ZacSweers/shadow](https://github.com/ZacSweers/shadow)
+
 **2026-07-03** — closed PR [#1891](https://github.com/slackhq/foundry/pull/1891) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update kotlinx-coroutines monorepo to v1.11.0"
 
 **2026-07-04** — merged PR [#2077](https://github.com/GradleUp/shadow/pull/2077) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Add support for R8-based minization"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-03** — created branch `z/gradleDeprecations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-07-03** — merged PR [#2511](https://github.com/ZacSweers/metro/pull/2511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member-injection of interop providers"
-
-**2026-07-03** — created branch `z/fixMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-03** — merged PR [#2510](https://github.com/ZacSweers/metro/pull/2510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
