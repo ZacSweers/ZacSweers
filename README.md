@@ -4,7 +4,9 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-06** — opened PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
+**2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
+
+**2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
 
 **2026-07-06** — created branch `z/extractRules` on [ZacSweers/shadow](https://github.com/ZacSweers/shadow)
 
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-03** — merged PR [#472](https://github.com/ZacSweers/kotlin-compile-testing/pull/472) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix deprecations in gradle"
 
 **2026-07-03** — created branch `z/gradleDeprecations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-07-03** — merged PR [#2511](https://github.com/ZacSweers/metro/pull/2511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member-injection of interop providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
