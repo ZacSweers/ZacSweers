@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-07** — created branch `z/screen-saver` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-07-07** — opened PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
+
 **2026-07-07** — created branch `z/upstreamRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-07** — merged PR [#13](https://github.com/ZacSweers/kempt/pull/13) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support partial commits for newline changes"
@@ -19,10 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
 
 **2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
-
-**2026-07-06** — created branch `z/extractRules` on [ZacSweers/shadow](https://github.com/ZacSweers/shadow)
-
-**2026-07-03** — closed PR [#1891](https://github.com/slackhq/foundry/pull/1891) to [slackhq/foundry](https://github.com/slackhq/foundry): "fix(deps): update kotlinx-coroutines monorepo to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
