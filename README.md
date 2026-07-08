@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-08** — commented on [#2783](https://github.com/slackhq/circuit/pull/2783#issuecomment-4916994263) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-08** — opened PR [#2784](https://github.com/slackhq/circuit/pull/2784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Phase 1 rework of Screen/PopResult serialization"
 
 **2026-07-08** — commented on [#2783](https://github.com/slackhq/circuit/pull/2783#issuecomment-4911478395) in [slackhq/circuit](https://github.com/slackhq/circuit)
