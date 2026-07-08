@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-08** — merged PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
+
 **2026-07-08** — commented on [#2783](https://github.com/slackhq/circuit/pull/2783#issuecomment-4916994263) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-08** — opened PR [#2784](https://github.com/slackhq/circuit/pull/2784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Phase 1 rework of Screen/PopResult serialization"
@@ -14,7 +16,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-07** — created branch `z/screen-saver` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-07** — opened PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
+**2026-07-07** — merged PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
 
 **2026-07-07** — created branch `z/upstreamRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
