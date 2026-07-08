@@ -1,9 +1,15 @@
-Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
+Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 <table><tr><td valign="top" width="60%">
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-08** — opened PR [#2784](https://github.com/slackhq/circuit/pull/2784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Phase 1 rework of Screen/PopResult serialization"
+
+**2026-07-08** — commented on [#2783](https://github.com/slackhq/circuit/pull/2783#issuecomment-4911478395) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-07-08** — commented on [#574](https://github.com/slackhq/compose-lints/issues/574#issuecomment-4911393358) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-07-07** — created branch `z/screen-saver` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-07** — opened PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
@@ -11,18 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2026-07-07** — created branch `z/upstreamRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-07** — merged PR [#13](https://github.com/ZacSweers/kempt/pull/13) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support partial commits for newline changes"
-
-**2026-07-07** — merged PR [#13](https://github.com/ZacSweers/kempt/pull/13) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support partial commits for newline changes"
-
-**2026-07-07** — created branch `z/partialNewlines` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-07-07** — closed issue [#576](https://github.com/slackhq/compose-lints/issues/576) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeMutableParameters incorrectly flags stable objects in specific locations"
-
-**2026-07-07** — closed issue [#575](https://github.com/slackhq/compose-lints/issues/575) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeRedundantComposable reports findings with inconsistent severity"
-
-**2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
-
-**2026-07-06** — merged PR [#2089](https://github.com/GradleUp/shadow/pull/2089) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Extract rules from dependency jars for R8 minification"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
