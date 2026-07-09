@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-09** — commented on [#2784](https://github.com/slackhq/circuit/pull/2784#issuecomment-4922438891) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-08** — merged PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
 
 **2026-07-08** — commented on [#2783](https://github.com/slackhq/circuit/pull/2783#issuecomment-4916994263) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-07** — merged PR [#2780](https://github.com/slackhq/circuit/pull/2780) to [slackhq/circuit](https://github.com/slackhq/circuit): "First party retained migration: phase 1"
 
 **2026-07-07** — created branch `z/upstreamRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-07** — merged PR [#13](https://github.com/ZacSweers/kempt/pull/13) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support partial commits for newline changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
