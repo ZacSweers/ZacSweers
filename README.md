@@ -4,17 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-10** — merged PR [#590](https://github.com/slackhq/compose-lints/pull/590) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix IDE false positives in `ComposeRedundantComposable`"
+
+**2026-07-10** — closed issue [#574](https://github.com/slackhq/compose-lints/issues/574) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeRedundantComposable incorrectly suggests removing @Composable"
+
 **2026-07-10** — opened PR [#15](https://github.com/ZacSweers/kempt/pull/15) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Prepare for ktfmt native binaries"
 
 **2026-07-10** — created branch `z/ktfmtgraalvm` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-07-10** — merged PR [#2516](https://github.com/ZacSweers/metro/pull/2516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fold 6138 dev builds"
-
-**2026-07-10** — opened PR [#590](https://github.com/slackhq/compose-lints/pull/590) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix IDE false positives in `ComposeRedundantComposable`"
-
-**2026-07-10** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-07-10** — opened PR [#14](https://github.com/ZacSweers/kempt/pull/14) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add support for detekt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
