@@ -4,23 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-10** — merged PR [#2516](https://github.com/ZacSweers/metro/pull/2516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fold 6138 dev builds"
-
-**2026-07-10** — opened PR [#590](https://github.com/slackhq/compose-lints/pull/590) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix IDE false positives in `ComposeRedundantComposable`"
-
-**2026-07-10** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-07-10** — opened PR [#14](https://github.com/ZacSweers/kempt/pull/14) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add support for detekt"
-
-**2026-07-10** — created branch `z/detekt` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-07-10** — merged PR [#2516](https://github.com/ZacSweers/metro/pull/2516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fold 6138 dev builds"
-
-**2026-07-10** — created branch `z/fold` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-09** — merged PR [#2784](https://github.com/slackhq/circuit/pull/2784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Phase 1 rework of Screen/PopResult serialization"
-
-**2026-07-09** — commented on [#2784](https://github.com/slackhq/circuit/pull/2784#issuecomment-4922438891) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-07-10** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
