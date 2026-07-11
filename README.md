@@ -11,8 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-10** — opened PR [#15](https://github.com/ZacSweers/kempt/pull/15) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Prepare for ktfmt native binaries"
 
 **2026-07-10** — created branch `z/ktfmtgraalvm` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-07-10** — merged PR [#2516](https://github.com/ZacSweers/metro/pull/2516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fold 6138 dev builds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
