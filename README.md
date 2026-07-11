@@ -4,15 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-11** — closed issue [#2531](https://github.com/ZacSweers/metro/issues/2531) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generated graph callsite can become stale after `@AssistedInject` ViewModel constructor signature changes"
-
-**2026-07-11** — merged PR [#2532](https://github.com/ZacSweers/metro/pull/2532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing IC lookup on compose-processed assisted injects"
-
-**2026-07-11** — commented on [#2531](https://github.com/ZacSweers/metro/issues/2531#issuecomment-4945051467) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-11** — merged PR [#2532](https://github.com/ZacSweers/metro/pull/2532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing IC lookup on compose-processed assisted injects"
-
-**2026-07-11** — created branch `z/fixACompose` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-11** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
