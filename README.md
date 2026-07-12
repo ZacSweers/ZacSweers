@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-12** — opened PR [#2793](https://github.com/slackhq/circuit/pull/2793) to [slackhq/circuit](https://github.com/slackhq/circuit): "Seal CircuitSaveable + harden CircuitSaver API"
+
+**2026-07-12** — created branch `z/moreSerial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-07-12** — opened PR [#2792](https://github.com/slackhq/circuit/pull/2792) to [slackhq/circuit](https://github.com/slackhq/circuit): "Retained migration part 2"
+
 **2026-07-12** — commented on [#1892](https://github.com/ZacSweers/metro/issues/1892#issuecomment-4951640817) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-12** — created branch `z/retainedMigrationPart2` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-11** — closed issue [#2531](https://github.com/ZacSweers/metro/issues/2531) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generated graph callsite can become stale after `@AssistedInject` ViewModel constructor signature changes"
 
 **2026-07-11** — merged PR [#2532](https://github.com/ZacSweers/metro/pull/2532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing IC lookup on compose-processed assisted injects"
-
-**2026-07-11** — commented on [#2531](https://github.com/ZacSweers/metro/issues/2531#issuecomment-4945051467) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-11** — merged PR [#2532](https://github.com/ZacSweers/metro/pull/2532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing IC lookup on compose-processed assisted injects"
-
-**2026-07-11** — created branch `z/fixACompose` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
