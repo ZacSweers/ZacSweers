@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-11** — opened PR [#2536](https://github.com/ZacSweers/metro/pull/2536) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unknown locations diag"
+**2026-07-11** — merged PR [#2536](https://github.com/ZacSweers/metro/pull/2536) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unknown locations diag"
+
+**2026-07-11** — merged PR [#2536](https://github.com/ZacSweers/metro/pull/2536) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unknown locations diag"
 
 **2026-07-11** — created branch `z/tweaks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
