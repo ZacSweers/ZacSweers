@@ -11,8 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-12** — opened PR [#2792](https://github.com/slackhq/circuit/pull/2792) to [slackhq/circuit](https://github.com/slackhq/circuit): "Retained migration part 2"
 
 **2026-07-12** — commented on [#1892](https://github.com/ZacSweers/metro/issues/1892#issuecomment-4951640817) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-12** — created branch `z/retainedMigrationPart2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
