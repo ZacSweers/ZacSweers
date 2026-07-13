@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-13** — opened PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
+
+**2026-07-13** — created branch `z/circuitIrClassSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-13** — commented on [#2506](https://github.com/ZacSweers/metro/issues/2506#issuecomment-4958535781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-13** — opened PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
 
 **2026-07-13** — created branch `z/sdk37` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-13** — created branch `z/k250` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-13** — merged PR [#2498](https://github.com/ZacSweers/CatchUp/pull/2498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc cleanups"
-
-**2026-07-13** — merged PR [#2498](https://github.com/ZacSweers/CatchUp/pull/2498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc cleanups"
-
-**2026-07-13** — created branch `z/miscCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
