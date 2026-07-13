@@ -4,7 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
 
+**2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
+
+**2026-07-13** — created branch `z/k250` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-13** — merged PR [#2498](https://github.com/ZacSweers/CatchUp/pull/2498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc cleanups"
+
+**2026-07-13** — merged PR [#2498](https://github.com/ZacSweers/CatchUp/pull/2498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc cleanups"
+
+**2026-07-13** — created branch `z/miscCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
