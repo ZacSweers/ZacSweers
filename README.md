@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-13** — merged PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
+
+**2026-07-13** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4963258485) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-13** — opened issue [#17](https://github.com/ZacSweers/kempt/issues/17) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support directory/pattern targets"
 
 **2026-07-13** — opened issue [#16](https://github.com/ZacSweers/kempt/issues/16) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support editorconfig in relevant tools"
 
-**2026-07-13** — opened PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
+**2026-07-13** — merged PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
 
 **2026-07-13** — created branch `z/circuitIrClassSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-13** — created branch `z/sdk37` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-13** — opened issue [#2541](https://github.com/ZacSweers/metro/issues/2541) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support SubCircuit code gen"
-
-**2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
-
-**2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
