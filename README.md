@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-13** — opened PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
+
+**2026-07-13** — created branch `z/sdk37` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-07-13** — opened issue [#2541](https://github.com/ZacSweers/metro/issues/2541) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support SubCircuit code gen"
+
 **2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
 
 **2026-07-13** — merged PR [#2540](https://github.com/ZacSweers/metro/pull/2540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add 2.5.0 dev compat"
