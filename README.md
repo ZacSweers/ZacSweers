@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-13** — merged PR [#2792](https://github.com/slackhq/circuit/pull/2792) to [slackhq/circuit](https://github.com/slackhq/circuit): "Retained migration part 2"
-
-**2026-07-13** — opened PR [#2795](https://github.com/slackhq/circuit/pull/2795) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate to kempt for formatting"
-
-**2026-07-13** — created branch `z/kempt` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-13** — merged PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
-
-**2026-07-13** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4963258485) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-13** — opened issue [#17](https://github.com/ZacSweers/kempt/issues/17) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support directory/pattern targets"
-
-**2026-07-13** — opened issue [#16](https://github.com/ZacSweers/kempt/issues/16) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support editorconfig in relevant tools"
-
-**2026-07-13** — merged PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
-
-**2026-07-13** — created branch `z/circuitIrClassSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-13** — commented on [#2506](https://github.com/ZacSweers/metro/issues/2506#issuecomment-4958535781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
