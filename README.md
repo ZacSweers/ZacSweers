@@ -4,15 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Make git ops more resilient to text-altering flags"
+**2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Make git ops more resilient to text-altering flags"
+**2026-07-14** — opened PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-07-14** — created branch `z/handleTextAdjustments` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-07-14** — merged PR [#19](https://github.com/ZacSweers/kempt/pull/19) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add --touched support"
+**2026-07-14** — merged PR [#19](https://github.com/ZacSweers/kempt/pull/19) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
-**2026-07-14** — merged PR [#19](https://github.com/ZacSweers/kempt/pull/19) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add --touched support"
+**2026-07-14** — opened PR [#19](https://github.com/ZacSweers/kempt/pull/19) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-07-14** — created branch `z/touched` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
@@ -20,7 +20,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-14** — created branch `z/retainedMigrationPart2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-09-16** — closed PR [#1655](https://github.com/slackhq/circuit/pull/1655) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add test params for retained state registry"
+**2024-09-16** — closed PR [#1655](https://github.com/slackhq/circuit/pull/1655) to [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
