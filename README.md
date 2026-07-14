@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-14** — created branch `z/retainedMigrationPart2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-16** — closed PR [#1655](https://github.com/slackhq/circuit/pull/1655) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add test params for retained state registry"
-
-**2026-07-14** — commented on [#2769](https://github.com/slackhq/circuit/pull/2769#issuecomment-4965374352) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
