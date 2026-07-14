@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-13** — merged PR [#2792](https://github.com/slackhq/circuit/pull/2792) to [slackhq/circuit](https://github.com/slackhq/circuit): "Retained migration part 2"
+
+**2026-07-13** — opened PR [#2795](https://github.com/slackhq/circuit/pull/2795) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate to kempt for formatting"
+
+**2026-07-13** — created branch `z/kempt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-13** — merged PR [#2542](https://github.com/ZacSweers/metro/pull/2542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support IR class gen in circuit"
 
 **2026-07-13** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4963258485) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-13** — created branch `z/circuitIrClassSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-13** — commented on [#2506](https://github.com/ZacSweers/metro/issues/2506#issuecomment-4958535781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-13** — opened PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
-
-**2026-07-13** — created branch `z/sdk37` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-13** — opened issue [#2541](https://github.com/ZacSweers/metro/issues/2541) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support SubCircuit code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
