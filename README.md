@@ -4,17 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-15** — opened PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
+
+**2026-07-15** — opened PR [#2549](https://github.com/ZacSweers/metro/pull/2549) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.4.10"
+
+**2026-07-15** — created branch `z/2410final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-15** — created branch `z/betterValidationOfArtifacts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-15** — merged PR [#2799](https://github.com/slackhq/circuit/pull/2799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Changelog and doc prep"
+
 **2026-07-14** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4976431881) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-14** — opened PR [#2799](https://github.com/slackhq/circuit/pull/2799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Changelog and doc prep"
+**2026-07-14** — merged PR [#2799](https://github.com/slackhq/circuit/pull/2799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Changelog and doc prep"
 
 **2026-07-14** — created branch `z/releasePrep` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-14** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4976326095) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-14** — merged PR [#2793](https://github.com/slackhq/circuit/pull/2793) to [slackhq/circuit](https://github.com/slackhq/circuit): "Seal CircuitSaveable + harden CircuitSaver API"
-
-**2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Make git ops more resilient to text-altering flags"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
