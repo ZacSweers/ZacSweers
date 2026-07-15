@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-14** — merged PR [#2793](https://github.com/slackhq/circuit/pull/2793) to [slackhq/circuit](https://github.com/slackhq/circuit): "Seal CircuitSaveable + harden CircuitSaver API"
+
 **2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Make git ops more resilient to text-altering flags"
 
 **2026-07-14** — merged PR [#20](https://github.com/ZacSweers/kempt/pull/20) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Make git ops more resilient to text-altering flags"
