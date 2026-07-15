@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-15** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4986386344) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-15** — merged PR [#2552](https://github.com/ZacSweers/metro/pull/2552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-15** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-15** — created branch `z/betterValidationOfArtifacts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-15** — merged PR [#2799](https://github.com/slackhq/circuit/pull/2799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Changelog and doc prep"
-
-**2026-07-14** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4976431881) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
