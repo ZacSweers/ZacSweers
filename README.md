@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-16** — opened PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
+**2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
+
+**2026-07-16** — merged PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
+
+**2026-07-16** — merged PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
 
 **2026-07-16** — created branch `z/improveCaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -12,15 +16,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-16** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-4988545647) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
-**2026-07-16** — opened PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
+**2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
 
 **2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-16** — merged PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
-
-**2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
-
-**2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
 
 **2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
 <!-- githubActivity ends -->
