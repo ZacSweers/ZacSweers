@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-16** — opened PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
+
+**2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-16** — merged PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
+
 **2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
 
 **2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-15** — created branch `z/extraKNativeTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-14** — closed PR [#2768](https://github.com/slackhq/circuit/pull/2768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.10 prep"
-
-**2026-07-15** — merged PR [#2555](https://github.com/ZacSweers/metro/pull/2555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested ContributesTo handling in IR merging"
-
-**2026-07-15** — closed issue [#2551](https://github.com/ZacSweers/metro/issues/2551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`java.lang.IncompatibleClassChangeError` with `generateClassesInIr = true`"
-
-**2026-07-15** — merged PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
