@@ -4,9 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
+
 **2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
 
-**2026-07-15** — opened PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
+**2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
 
 **2026-07-15** — created branch `z/improveRetainedChangelog` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-15** — closed issue [#2551](https://github.com/ZacSweers/metro/issues/2551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`java.lang.IncompatibleClassChangeError` with `generateClassesInIr = true`"
 
 **2026-07-15** — merged PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
-
-**2026-07-15** — merged PR [#2555](https://github.com/ZacSweers/metro/pull/2555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested ContributesTo handling in IR merging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
