@@ -4,7 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-15** — opened PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
+**2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
+
+**2026-07-15** — opened PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
+
+**2026-07-15** — created branch `z/improveRetainedChangelog` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
 
 **2026-07-15** — created branch `z/extraKNativeTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-15** — merged PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
 
 **2026-07-15** — merged PR [#2555](https://github.com/ZacSweers/metro/pull/2555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested ContributesTo handling in IR merging"
-
-**2026-07-15** — created branch `z/fixParentMerge` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-15** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4986386344) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-15** — merged PR [#2552](https://github.com/ZacSweers/metro/pull/2552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
