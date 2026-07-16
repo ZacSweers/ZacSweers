@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-15** — opened PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
+
+**2026-07-15** — created branch `z/extraKNativeTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-14** — closed PR [#2768](https://github.com/slackhq/circuit/pull/2768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.10 prep"
+
+**2026-07-15** — merged PR [#2555](https://github.com/ZacSweers/metro/pull/2555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested ContributesTo handling in IR merging"
+
+**2026-07-15** — closed issue [#2551](https://github.com/ZacSweers/metro/issues/2551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`java.lang.IncompatibleClassChangeError` with `generateClassesInIr = true`"
+
+**2026-07-15** — merged PR [#2794](https://github.com/slackhq/circuit/pull/2794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Raise compileSdk to 37"
+
+**2026-07-15** — merged PR [#2555](https://github.com/ZacSweers/metro/pull/2555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested ContributesTo handling in IR merging"
+
+**2026-07-15** — created branch `z/fixParentMerge` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-15** — commented on [#2794](https://github.com/slackhq/circuit/pull/2794#issuecomment-4986386344) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-07-15** — merged PR [#2552](https://github.com/ZacSweers/metro/pull/2552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-07-15** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-15** — merged PR [#2552](https://github.com/ZacSweers/metro/pull/2552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-07-15** — merged PR [#2549](https://github.com/ZacSweers/metro/pull/2549) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.4.10"
-
-**2026-07-15** — opened PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
-
-**2026-07-15** — merged PR [#2549](https://github.com/ZacSweers/metro/pull/2549) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.4.10"
-
-**2026-07-15** — created branch `z/2410final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-15** — created branch `z/betterValidationOfArtifacts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-15** — merged PR [#2799](https://github.com/slackhq/circuit/pull/2799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Changelog and doc prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
