@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-16** — opened PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
+
+**2026-07-16** — created branch `z/improveCaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-16** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-4988552243) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2026-07-16** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-4988545647) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2026-07-16** — opened PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
 
 **2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
 
 **2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
-
-**2026-07-15** — created branch `z/improveRetainedChangelog` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-15** — merged PR [#2556](https://github.com/ZacSweers/metro/pull/2556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a klib IC test"
-
-**2026-07-15** — created branch `z/extraKNativeTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-14** — closed PR [#2768](https://github.com/slackhq/circuit/pull/2768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.10 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
