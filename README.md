@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-17** — merged PR [#2561](https://github.com/ZacSweers/metro/pull/2561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-07-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-17** — merged PR [#2561](https://github.com/ZacSweers/metro/pull/2561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
 
 **2026-07-16** — merged PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
@@ -11,14 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-16** — merged PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
 
 **2026-07-16** — created branch `z/improveCaching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-16** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-4988552243) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2026-07-16** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-4988545647) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
-
-**2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
