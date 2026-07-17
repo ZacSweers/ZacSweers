@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-16** — merged PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
-
-**2026-07-15** — merged PR [#2806](https://github.com/slackhq/circuit/pull/2806) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve retained changelog notes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
