@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
 
 **2026-07-16** — created branch `z/subcircuit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-16** — merged PR [#2550](https://github.com/ZacSweers/metro/pull/2550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve published artifact validation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
