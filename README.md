@@ -13,8 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-17** — merged PR [#2561](https://github.com/ZacSweers/metro/pull/2561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-16** — merged PR [#2558](https://github.com/ZacSweers/metro/pull/2558) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add SubCircuit support"
-
-**2026-07-16** — merged PR [#2559](https://github.com/ZacSweers/metro/pull/2559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve actions caching"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
