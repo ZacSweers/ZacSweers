@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-18** — commented on [#2541](https://github.com/ZacSweers/metro/issues/2541#issuecomment-5013699278) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-18** — closed issue [#2541](https://github.com/ZacSweers/metro/issues/2541) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support SubCircuit code gen"
+
 **2026-07-18** — commented on [#10833](https://github.com/robolectric/robolectric/pull/10833#issuecomment-5012946310) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2026-07-17** — merged PR [#2561](https://github.com/ZacSweers/metro/pull/2561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
