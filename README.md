@@ -4,9 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — opened PR [#2571](https://github.com/ZacSweers/metro/pull/2571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable R8 minimizing in the compiler"
+
+**2026-07-21** — merged PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-07-21** — opened PR [#2115](https://github.com/GradleUp/shadow/pull/2115) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Preserve repeated lines in R8 rule files"
+
+**2026-07-21** — created branch `z/r8-rules-list-preserve` on [ZacSweers/shadow](https://github.com/ZacSweers/shadow)
+
 **2026-07-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-21** — opened PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-07-21** — merged PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-21** — created branch `z/r8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — created branch `z/suspendFollowups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-21** — opened issue [#165](https://github.com/square/gradle-dependencies-sorter/issues/165) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Use Shadow’s R8 support to shrink the dependency sorter CLI"
-
-**2026-07-21** — merged PR [#2508](https://github.com/ZacSweers/metro/pull/2508) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Suspend providers"
-
-**2026-07-21** — opened PR [#2568](https://github.com/ZacSweers/metro/pull/2568) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try improving CI flakes"
-
-**2026-07-21** — created branch `z/ci-resource-flakiness` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
