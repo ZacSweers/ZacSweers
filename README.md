@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — merged PR [#2568](https://github.com/ZacSweers/metro/pull/2568) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try improving CI flakes"
+
 **2026-07-21** — opened PR [#2571](https://github.com/ZacSweers/metro/pull/2571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable R8 minimizing in the compiler"
 
 **2026-07-21** — merged PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — opened PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couple small suspend providers followups"
 
 **2026-07-21** — created branch `z/suspendFollowups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-21** — opened issue [#165](https://github.com/square/gradle-dependencies-sorter/issues/165) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Use Shadow’s R8 support to shrink the dependency sorter CLI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
