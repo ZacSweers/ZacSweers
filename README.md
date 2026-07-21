@@ -4,9 +4,21 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-06-30** — closed PR [#471](https://github.com/ZacSweers/kotlin-compile-testing/pull/471) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.10 prep"
+**2026-07-21** — created branch `z/r8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-20** — merged PR [#2564](https://github.com/ZacSweers/metro/pull/2564) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+**2026-07-21** — opened PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-21** — created branch `z/suspendFollowups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-21** — opened issue [#165](https://github.com/square/gradle-dependencies-sorter/issues/165) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Use Shadow’s R8 support to shrink the dependency sorter CLI"
+
+**2026-07-21** — merged PR [#2508](https://github.com/ZacSweers/metro/pull/2508) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-21** — opened PR [#2568](https://github.com/ZacSweers/metro/pull/2568) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-21** — created branch `z/ci-resource-flakiness` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-06-30** — closed PR [#471](https://github.com/ZacSweers/kotlin-compile-testing/pull/471) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
