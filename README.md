@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — merged PR [#166](https://github.com/square/gradle-dependencies-sorter/pull/166) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Cover nested dependencies block indentation"
+
+**2026-07-21** — merged PR [#2572](https://github.com/ZacSweers/metro/pull/2572) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate suspend in factories"
+
+**2026-07-21** — merged PR [#166](https://github.com/square/gradle-dependencies-sorter/pull/166) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Cover nested dependencies block indentation"
+
+**2026-07-21** — created branch `z/nested-dependencies` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
+**2026-07-21** — merged PR [#2572](https://github.com/ZacSweers/metro/pull/2572) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate suspend in factories"
+
 **2026-07-21** — created branch `z/propagateSuspend` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-21** — commented on [#161](https://github.com/square/gradle-dependencies-sorter/issues/161#issuecomment-5038591048) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — merged PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couple small suspend providers followups"
 
 **2026-07-21** — merged PR [#21](https://github.com/ZacSweers/kempt/pull/21) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support gradle dependency sorter"
-
-**2026-07-21** — merged PR [#21](https://github.com/ZacSweers/kempt/pull/21) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support gradle dependency sorter"
-
-**2026-07-21** — created branch `z/depSorter` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-07-21** — merged PR [#2568](https://github.com/ZacSweers/metro/pull/2568) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try improving CI flakes"
-
-**2026-07-21** — opened PR [#2571](https://github.com/ZacSweers/metro/pull/2571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable R8 minimizing in the compiler"
-
-**2026-07-21** — merged PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
