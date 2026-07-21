@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-21** — opened PR [#2570](https://github.com/ZacSweers/metro/pull/2570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-07-21** — created branch `z/r8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-21** — opened PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couple small suspend providers followups"
@@ -17,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — opened PR [#2568](https://github.com/ZacSweers/metro/pull/2568) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try improving CI flakes"
 
 **2026-07-21** — created branch `z/ci-resource-flakiness` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-06-30** — closed PR [#471](https://github.com/ZacSweers/kotlin-compile-testing/pull/471) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.10 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
