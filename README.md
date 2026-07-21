@@ -4,15 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-06-30** — closed PR [#471](https://github.com/ZacSweers/kotlin-compile-testing/pull/471) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.10 prep"
+
 **2026-07-20** — merged PR [#2564](https://github.com/ZacSweers/metro/pull/2564) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-07-18** — merged PR [#2564](https://github.com/ZacSweers/metro/pull/2564) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-07-18** — created branch `z/262final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-18** — commented on [#2541](https://github.com/ZacSweers/metro/issues/2541#issuecomment-5013699278) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-18** — closed issue [#2541](https://github.com/ZacSweers/metro/issues/2541) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support SubCircuit code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
