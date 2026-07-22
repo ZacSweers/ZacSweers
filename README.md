@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-22** — merged PR [#65](https://github.com/cashapp/kotlin-editor/pull/65) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Target Kotlin 2.0 in language/api version for better gradle compat"
+**2026-07-22** — created branch `z/moveAnswerings` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-22** — commented on [#65](https://github.com/cashapp/kotlin-editor/pull/65#issuecomment-5049448451) in [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor)
+**2026-07-22** — commented on [#154](https://github.com/square/gradle-dependencies-sorter/issues/154#issuecomment-5050000597) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
-**2026-07-22** — merged PR [#65](https://github.com/cashapp/kotlin-editor/pull/65) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Target Kotlin 2.0 in language/api version for better gradle compat"
+**2026-07-22** — opened PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
 
-**2026-07-22** — created branch `z/targetLowerLanguageVersion` on [ZacSweers/kotlin-editor](https://github.com/ZacSweers/kotlin-editor)
+**2026-07-22** — created branch `z/interpPrefix` on [ZacSweers/kotlin-editor](https://github.com/ZacSweers/kotlin-editor)
 
-**2026-07-22** — merged PR [#2571](https://github.com/ZacSweers/metro/pull/2571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable R8 minimizing in the compiler"
+**2026-07-22** — opened PR [#2578](https://github.com/ZacSweers/metro/pull/2578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test kotlin 2.4.20-Beta2"
 
-**2026-07-21** — closed issue [#2402](https://github.com/slackhq/circuit/issues/2402) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android gesture navigation crash 2"
+**2026-07-22** — created branch `z/2420beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-21** — opened PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add serialization to samples in prep for removed parcelable"
+**2026-05-07** — closed PR [#2065](https://github.com/ZacSweers/metro/pull/2065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to coreLibrariesVersion"
 
-**2026-07-21** — created branch `z/serializable-phase-2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-07-22** — commented on [#2454](https://github.com/ZacSweers/metro/pull/2454#issuecomment-5049712898) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-21** — merged PR [#2115](https://github.com/GradleUp/shadow/pull/2115) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Preserve repeated lines in R8 rule files"
+**2026-06-18** — closed PR [#2454](https://github.com/ZacSweers/metro/pull/2454) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update androidx.lifecycle to v2.11.0"
 
-**2026-07-21** — merged PR [#166](https://github.com/square/gradle-dependencies-sorter/pull/166) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Cover nested dependencies block indentation"
+**2026-07-20** — closed PR [#2342](https://github.com/ZacSweers/metro/pull/2342) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update AGP to v9.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
