@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-22** — merged PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move AnsweringResult* APIs to circuit-runtime"
+
 **2026-07-22** — opened PR [#2579](https://github.com/ZacSweers/metro/pull/2579) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Route switching providers directly to their chunked invokes"
 
 **2026-07-22** — created branch `z/improveSwitchingProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-22** — commented on [#2576](https://github.com/ZacSweers/metro/issues/2576#issuecomment-5051975051) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-22** — merged PR [#2578](https://github.com/ZacSweers/metro/pull/2578) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-22** — merged PR [#2578](https://github.com/ZacSweers/metro/pull/2578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test kotlin 2.4.20-Beta2"
 
 **2026-07-22** — closed issue [#2576](https://github.com/ZacSweers/metro/issues/2576) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KotlinConf App with metro 1.3.2 and Kotlin 2.4.20-Beta2 fails"
 
-**2026-07-22** — merged PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor)
+**2026-07-22** — merged PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
 
-**2026-07-22** — merged PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-07-22** — merged PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add serialization to samples in prep for removed parcelable"
 
-**2026-07-22** — opened PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-07-22** — merged PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move AnsweringResult* APIs to circuit-runtime"
 
 **2026-07-22** — created branch `z/moveAnswerings` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-22** — commented on [#154](https://github.com/square/gradle-dependencies-sorter/issues/154#issuecomment-5050000597) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
