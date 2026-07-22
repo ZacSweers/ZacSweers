@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-22** — merged PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
+
 **2026-07-22** — merged PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add serialization to samples in prep for removed parcelable"
 
 **2026-07-22** — opened PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move AnsweringResult* APIs to circuit-runtime"
@@ -12,7 +14,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-22** — commented on [#154](https://github.com/square/gradle-dependencies-sorter/issues/154#issuecomment-5050000597) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
-**2026-07-22** — opened PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
+**2026-07-22** — merged PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
 
 **2026-07-22** — created branch `z/interpPrefix` on [ZacSweers/kotlin-editor](https://github.com/ZacSweers/kotlin-editor)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-22** — created branch `z/2420beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-05-07** — closed PR [#2065](https://github.com/ZacSweers/metro/pull/2065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to coreLibrariesVersion"
-
-**2026-07-22** — commented on [#2454](https://github.com/ZacSweers/metro/pull/2454#issuecomment-5049712898) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
