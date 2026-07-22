@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — closed issue [#2402](https://github.com/slackhq/circuit/issues/2402) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android gesture navigation crash 2"
+
+**2026-07-21** — opened PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add serialization to samples in prep for removed parcelable"
+
+**2026-07-21** — created branch `z/serializable-phase-2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-07-21** — merged PR [#2115](https://github.com/GradleUp/shadow/pull/2115) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Preserve repeated lines in R8 rule files"
 
 **2026-07-21** — merged PR [#166](https://github.com/square/gradle-dependencies-sorter/pull/166) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Cover nested dependencies block indentation"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — merged PR [#2572](https://github.com/ZacSweers/metro/pull/2572) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate suspend in factories"
 
 **2026-07-21** — created branch `z/propagateSuspend` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-21** — commented on [#161](https://github.com/square/gradle-dependencies-sorter/issues/161#issuecomment-5038591048) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-07-21** — commented on [#142](https://github.com/square/gradle-dependencies-sorter/pull/142#issuecomment-5038573354) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-07-21** — merged PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couple small suspend providers followups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
