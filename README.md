@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-21** — merged PR [#2115](https://github.com/GradleUp/shadow/pull/2115) to [GradleUp/shadow](https://github.com/GradleUp/shadow): "Preserve repeated lines in R8 rule files"
+
 **2026-07-21** — merged PR [#166](https://github.com/square/gradle-dependencies-sorter/pull/166) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Cover nested dependencies block indentation"
 
 **2026-07-21** — merged PR [#2572](https://github.com/ZacSweers/metro/pull/2572) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate suspend in factories"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-21** — commented on [#142](https://github.com/square/gradle-dependencies-sorter/pull/142#issuecomment-5038573354) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2026-07-21** — merged PR [#2569](https://github.com/ZacSweers/metro/pull/2569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couple small suspend providers followups"
-
-**2026-07-21** — merged PR [#21](https://github.com/ZacSweers/kempt/pull/21) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support gradle dependency sorter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
