@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-22** — commented on [#2581](https://github.com/ZacSweers/metro/pull/2581#issuecomment-5054031398) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-22** — opened PR [#8](https://github.com/autonomousapps/gradle-script-grammar/pull/8) to [autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar): "Expose nested/dotted/callable DSL blocks in the parse tree"
+
+**2026-07-22** — created branch `z/exposeBlocks` on [ZacSweers/gradle-script-grammar](https://github.com/ZacSweers/gradle-script-grammar)
+
+**2026-07-22** — commented on [#2580](https://github.com/ZacSweers/metro/pull/2580#issuecomment-5053944587) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-22** — merged PR [#2579](https://github.com/ZacSweers/metro/pull/2579) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Route switching providers directly to their chunked invokes"
+
 **2026-07-22** — merged PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move AnsweringResult* APIs to circuit-runtime"
 
-**2026-07-22** — opened PR [#2579](https://github.com/ZacSweers/metro/pull/2579) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Route switching providers directly to their chunked invokes"
+**2026-07-22** — merged PR [#2579](https://github.com/ZacSweers/metro/pull/2579) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Route switching providers directly to their chunked invokes"
 
 **2026-07-22** — created branch `z/improveSwitchingProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-22** — commented on [#2576](https://github.com/ZacSweers/metro/issues/2576#issuecomment-5051975051) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-22** — merged PR [#2578](https://github.com/ZacSweers/metro/pull/2578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test kotlin 2.4.20-Beta2"
-
-**2026-07-22** — closed issue [#2576](https://github.com/ZacSweers/metro/issues/2576) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KotlinConf App with metro 1.3.2 and Kotlin 2.4.20-Beta2 fails"
-
-**2026-07-22** — merged PR [#68](https://github.com/cashapp/kotlin-editor/pull/68) to [cashapp/kotlin-editor](https://github.com/cashapp/kotlin-editor): "Support parsing multi-dollar string prefixes"
-
-**2026-07-22** — merged PR [#2813](https://github.com/slackhq/circuit/pull/2813) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add serialization to samples in prep for removed parcelable"
-
-**2026-07-22** — merged PR [#2815](https://github.com/slackhq/circuit/pull/2815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move AnsweringResult* APIs to circuit-runtime"
-
-**2026-07-22** — created branch `z/moveAnswerings` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
