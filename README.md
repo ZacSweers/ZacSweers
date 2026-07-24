@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-23** — merged PR [#1890](https://github.com/slackhq/foundry/pull/1890) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix some deprecations in the IJ 2026.1 update"
+
 **2026-07-23** — merged PR [#8](https://github.com/autonomousapps/gradle-script-grammar/pull/8) to [autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar): "Expose nested/dotted/callable DSL blocks in the parse tree"
 
 **2026-07-23** — commented on [#2576](https://github.com/ZacSweers/metro/issues/2576#issuecomment-5059157123) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-22** — merged PR [#2582](https://github.com/ZacSweers/metro/pull/2582) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check map key mismatches in type args"
 
 **2026-07-22** — created branch `z/moreMapKeyChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-22** — commented on [#2581](https://github.com/ZacSweers/metro/pull/2581#issuecomment-5054031398) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
