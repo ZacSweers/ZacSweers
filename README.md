@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-25** — opened PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
+
+**2026-07-25** — created branch `z/fixInlinedProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-24** — merged PR [#2586](https://github.com/ZacSweers/metro/pull/2586) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-23** — merged PR [#2583](https://github.com/ZacSweers/metro/pull/2583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to mordant-core + shaded compiler test"
 
 **2026-07-23** — merged PR [#2583](https://github.com/ZacSweers/metro/pull/2583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to mordant-core + shaded compiler test"
-
-**2026-07-23** — created branch `z/shadingFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-23** — closed issue [#2553](https://github.com/ZacSweers/metro/issues/2553) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler check for `@MapKey` without `@ContributesIntoMap` or `@IntoMap`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
