@@ -4,7 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-25** — opened PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
+**2026-07-25** — merged PR [#2589](https://github.com/ZacSweers/metro/pull/2589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add skill for mavenLocal testing"
+
+**2026-07-25** — merged PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
+
+**2026-07-25** — closed issue [#2587](https://github.com/ZacSweers/metro/issues/2587) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unexpected behavior: provider inlining feature eagerly initializes classes when using Dagger interop"
+
+**2026-07-25** — merged PR [#2589](https://github.com/ZacSweers/metro/pull/2589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add skill for mavenLocal testing"
+
+**2026-07-25** — created branch `z/testSkill` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-25** — merged PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
 
 **2026-07-25** — created branch `z/fixInlinedProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-24** — merged PR [#2586](https://github.com/ZacSweers/metro/pull/2586) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-07-23** — merged PR [#1890](https://github.com/slackhq/foundry/pull/1890) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix some deprecations in the IJ 2026.1 update"
-
-**2026-07-23** — merged PR [#8](https://github.com/autonomousapps/gradle-script-grammar/pull/8) to [autonomousapps/gradle-script-grammar](https://github.com/autonomousapps/gradle-script-grammar): "Expose nested/dotted/callable DSL blocks in the parse tree"
-
-**2026-07-23** — commented on [#2576](https://github.com/ZacSweers/metro/issues/2576#issuecomment-5059157123) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-23** — merged PR [#2583](https://github.com/ZacSweers/metro/pull/2583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to mordant-core + shaded compiler test"
-
-**2026-07-23** — merged PR [#2583](https://github.com/ZacSweers/metro/pull/2583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Switch to mordant-core + shaded compiler test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
