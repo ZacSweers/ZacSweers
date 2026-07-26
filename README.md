@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-25** — merged PR [#2589](https://github.com/ZacSweers/metro/pull/2589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add skill for mavenLocal testing"
+**2026-07-26** — merged PR [#463](https://github.com/ZacSweers/FieldSpottr/pull/463) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.10 prep"
 
-**2026-07-25** — merged PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
+**2026-07-26** — merged PR [#950](https://github.com/ZacSweers/MoshiX/pull/950) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10"
 
-**2026-07-25** — closed issue [#2587](https://github.com/ZacSweers/metro/issues/2587) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unexpected behavior: provider inlining feature eagerly initializes classes when using Dagger interop"
+**2026-07-26** — created branch `z/privateProps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-25** — merged PR [#2589](https://github.com/ZacSweers/metro/pull/2589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add skill for mavenLocal testing"
+**2026-07-26** — opened PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20 prep"
 
-**2026-07-25** — created branch `z/testSkill` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-26** — opened PR [#951](https://github.com/ZacSweers/MoshiX/pull/951) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20 prep"
 
-**2026-07-25** — merged PR [#2588](https://github.com/ZacSweers/metro/pull/2588) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't inline certain providers when requested in deferred types"
+**2026-07-26** — created branch `z/k242` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2026-07-25** — created branch `z/fixInlinedProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-26** — created branch `z/k242` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2026-07-24** — merged PR [#2586](https://github.com/ZacSweers/metro/pull/2586) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-07-13** — closed PR [#2479](https://github.com/ZacSweers/CatchUp/pull/2479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.4.10 prep"
 
-**2026-07-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-01** — closed PR [#1856](https://github.com/slackhq/foundry/pull/1856) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.10 prep"
 
-**2026-07-24** — merged PR [#2586](https://github.com/ZacSweers/metro/pull/2586) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-07-26** — merged PR [#950](https://github.com/ZacSweers/MoshiX/pull/950) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
