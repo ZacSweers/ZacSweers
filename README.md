@@ -4,6 +4,18 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-26** — commented on [#2576](https://github.com/ZacSweers/metro/issues/2576#issuecomment-5084801813) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-26** — opened PR [#2591](https://github.com/ZacSweers/metro/pull/2591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private `@Provides` properties in 2.4.20+"
+
+**2026-07-26** — opened PR [#2590](https://github.com/ZacSweers/metro/pull/2590) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing Any supertypes in IR generated classes"
+
+**2026-07-26** — created branch `z/missingAny` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-26** — created branch `z/kempt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-07-26** — created branch `z/anotherFalsePositive` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-07-26** — merged PR [#463](https://github.com/ZacSweers/FieldSpottr/pull/463) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.10 prep"
 
 **2026-07-26** — merged PR [#950](https://github.com/ZacSweers/MoshiX/pull/950) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10"
@@ -11,18 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-26** — created branch `z/privateProps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-26** — opened PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20 prep"
-
-**2026-07-26** — opened PR [#951](https://github.com/ZacSweers/MoshiX/pull/951) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20 prep"
-
-**2026-07-26** — created branch `z/k242` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2026-07-26** — created branch `z/k242` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-07-13** — closed PR [#2479](https://github.com/ZacSweers/CatchUp/pull/2479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.4.10 prep"
-
-**2026-07-01** — closed PR [#1856](https://github.com/slackhq/foundry/pull/1856) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.10 prep"
-
-**2026-07-26** — merged PR [#950](https://github.com/ZacSweers/MoshiX/pull/950) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
