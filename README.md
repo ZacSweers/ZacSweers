@@ -17,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename SuspendLazy.value to await"
 
 **2026-07-27** — created branch `z/suspendAwait` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-26** — created branch `z/metroCoroutines` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
