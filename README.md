@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-26** — created branch `z/metroCoroutines` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-07-26** — merged PR [#22](https://github.com/ZacSweers/kempt/pull/22) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add whitespace/newline path extends"
 
 **2026-07-26** — merged PR [#22](https://github.com/ZacSweers/kempt/pull/22) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add whitespace/newline path extends"
@@ -13,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-26** — merged PR [#2591](https://github.com/ZacSweers/metro/pull/2591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private `@Provides` properties in 2.4.20+"
 
 **2026-07-26** — opened PR [#599](https://github.com/slackhq/compose-lints/pull/599) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Migrate to kempt"
-
-**2026-07-26** — merged PR [#2590](https://github.com/ZacSweers/metro/pull/2590) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing Any supertypes in IR generated classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
