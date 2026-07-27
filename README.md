@@ -8,11 +8,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-27** — created branch `z/noIcHelpers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-23** — closed PR [#2584](https://github.com/ZacSweers/metro/pull/2584) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-23** — closed PR [#2584](https://github.com/ZacSweers/metro/pull/2584) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update AGP to v9.3.1"
 
-**2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename SuspendLazy.value to await"
 
-**2026-07-27** — opened PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename SuspendLazy.value to await"
 
 **2026-07-27** — created branch `z/suspendAwait` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
