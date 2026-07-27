@@ -4,17 +4,19 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-27** — opened PR [#2594](https://github.com/ZacSweers/metro/pull/2594) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option to disable redundant IC helpers in newer versions"
+
+**2026-07-27** — created branch `z/noIcHelpers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-23** — closed PR [#2584](https://github.com/ZacSweers/metro/pull/2584) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update AGP to v9.3.1"
+
+**2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename SuspendLazy.value to await"
+
+**2026-07-27** — merged PR [#2593](https://github.com/ZacSweers/metro/pull/2593) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename SuspendLazy.value to await"
+
+**2026-07-27** — created branch `z/suspendAwait` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-26** — created branch `z/metroCoroutines` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-07-26** — merged PR [#22](https://github.com/ZacSweers/kempt/pull/22) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add whitespace/newline path extends"
-
-**2026-07-26** — merged PR [#22](https://github.com/ZacSweers/kempt/pull/22) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add whitespace/newline path extends"
-
-**2026-07-26** — created branch `z/extend` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-07-26** — merged PR [#2591](https://github.com/ZacSweers/metro/pull/2591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private `@Provides` properties in 2.4.20+"
-
-**2026-07-26** — opened PR [#599](https://github.com/slackhq/compose-lints/pull/599) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Migrate to kempt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
