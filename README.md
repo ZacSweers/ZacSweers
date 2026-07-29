@@ -4,9 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-29** — merged PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
+
+**2026-07-29** — opened PR [#2600](https://github.com/ZacSweers/metro/pull/2600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested contributed graph extension factories"
+
 **2026-07-29** — created branch `z/moreIRclassBugs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-07-29** — opened PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
+**2026-07-29** — merged PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
 
 **2026-07-29** — created branch `z/fixDupeAnnos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-29** — created branch `z/robolectric` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-28** — merged PR [#2597](https://github.com/ZacSweers/metro/pull/2597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JS box tests"
-
-**2026-07-28** — merged PR [#2597](https://github.com/ZacSweers/metro/pull/2597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JS box tests"
-
-**2026-07-28** — created branch `z/fixJsBox` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
