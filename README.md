@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-28** — merged PR [#2597](https://github.com/ZacSweers/metro/pull/2597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JS box tests"
+
+**2026-07-28** — merged PR [#2597](https://github.com/ZacSweers/metro/pull/2597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JS box tests"
+
 **2026-07-28** — created branch `z/fixJsBox` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-28** — merged PR [#2594](https://github.com/ZacSweers/metro/pull/2594) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option to disable redundant IC helpers in newer versions"
@@ -15,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-27** — commented on [#1923](https://github.com/slackhq/foundry/pull/1923#issuecomment-5091441823) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2026-07-27** — merged PR [#2594](https://github.com/ZacSweers/metro/pull/2594) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option to disable redundant IC helpers in newer versions"
-
-**2026-07-27** — created branch `z/noIcHelpers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
