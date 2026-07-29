@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-29** — created branch `z/moreIRclassBugs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-29** — opened PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
+
+**2026-07-29** — created branch `z/fixDupeAnnos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-07-29** — created branch `z/updateBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-29** — merged PR [#2598](https://github.com/ZacSweers/metro/pull/2598) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update robolectric + enable ACF test"
@@ -17,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-28** — merged PR [#2597](https://github.com/ZacSweers/metro/pull/2597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JS box tests"
 
 **2026-07-28** — created branch `z/fixJsBox` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-28** — merged PR [#2594](https://github.com/ZacSweers/metro/pull/2594) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add option to disable redundant IC helpers in newer versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
