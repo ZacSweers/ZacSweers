@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-30** — opened PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
+**2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
+
+**2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
 
 **2026-07-30** — merged PR [#487](https://github.com/ZacSweers/FieldSpottr/pull/487) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
@@ -17,12 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
 
 **2026-07-30** — created branch `z/bbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-07-30** — merged PR [#484](https://github.com/ZacSweers/FieldSpottr/pull/484) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-07-30** — merged PR [#484](https://github.com/ZacSweers/FieldSpottr/pull/484) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-07-30** — created branch `automation/update-availability-30513734500` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
