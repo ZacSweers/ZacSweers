@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-29** — opened PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
+**2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
+
+**2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
+
+**2026-07-30** — created branch `z/bbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-07-30** — merged PR [#484](https://github.com/ZacSweers/FieldSpottr/pull/484) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-07-30** — merged PR [#484](https://github.com/ZacSweers/FieldSpottr/pull/484) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-07-30** — created branch `automation/update-availability-30513734500` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-07-29** — merged PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
+
+**2026-07-29** — commented on [#2132](https://github.com/GradleUp/shadow/pull/2132#issuecomment-5126220720) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
+
+**2026-07-29** — merged PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
 
 **2026-07-29** — created branch `z/kernel` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-07-29** — merged PR [#2600](https://github.com/ZacSweers/metro/pull/2600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested contributed graph extension factories"
-
-**2026-07-29** — merged PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
-
-**2026-07-29** — merged PR [#2600](https://github.com/ZacSweers/metro/pull/2600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested contributed graph extension factories"
-
-**2026-07-29** — created branch `z/moreIRclassBugs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-29** — merged PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
-
-**2026-07-29** — created branch `z/fixDupeAnnos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-29** — created branch `z/updateBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-07-29** — merged PR [#2598](https://github.com/ZacSweers/metro/pull/2598) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update robolectric + enable ACF test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
