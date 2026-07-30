@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-29** — opened PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
+
+**2026-07-29** — created branch `z/kernel` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-07-29** — merged PR [#2600](https://github.com/ZacSweers/metro/pull/2600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix nested contributed graph extension factories"
 
 **2026-07-29** — merged PR [#2599](https://github.com/ZacSweers/metro/pull/2599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate annotations in IR class gen"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-29** — created branch `z/updateBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-29** — merged PR [#2598](https://github.com/ZacSweers/metro/pull/2598) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update robolectric + enable ACF test"
-
-**2026-07-29** — merged PR [#2598](https://github.com/ZacSweers/metro/pull/2598) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update robolectric + enable ACF test"
-
-**2026-07-29** — created branch `z/robolectric` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
