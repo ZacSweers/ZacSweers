@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-30** — opened PR [#487](https://github.com/ZacSweers/FieldSpottr/pull/487) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-07-30** — created branch `automation/update-availability-30529900176` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
 
 **2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-29** — merged PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
 
 **2026-07-29** — commented on [#2132](https://github.com/GradleUp/shadow/pull/2132#issuecomment-5126220720) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
-
-**2026-07-29** — merged PR [#482](https://github.com/ZacSweers/FieldSpottr/pull/482) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Use kernel"
-
-**2026-07-29** — created branch `z/kernel` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
