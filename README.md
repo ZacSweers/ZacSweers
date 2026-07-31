@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-31** — opened PR [#489](https://github.com/ZacSweers/FieldSpottr/pull/489) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-07-31** — merged PR [#489](https://github.com/ZacSweers/FieldSpottr/pull/489) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-07-31** — merged PR [#489](https://github.com/ZacSweers/FieldSpottr/pull/489) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-07-31** — created branch `automation/update-availability-30619592232` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -15,12 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
 
 **2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
-
-**2026-07-30** — merged PR [#487](https://github.com/ZacSweers/FieldSpottr/pull/487) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-07-30** — merged PR [#487](https://github.com/ZacSweers/FieldSpottr/pull/487) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-07-30** — created branch `automation/update-availability-30529900176` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
