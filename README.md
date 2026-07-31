@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-31** — closed PR [#63](https://github.com/ZacSweers/socialteesjs/pull/63) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Update Rust crate clap to v4.6.5"
+
 **2026-07-31** — merged PR [#2611](https://github.com/ZacSweers/metro/pull/2611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-07-31** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-31** — commented on [#2609](https://github.com/ZacSweers/metro/pull/2609#issuecomment-5139703909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-31** — closed PR [#2609](https://github.com/ZacSweers/metro/pull/2609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix: Add entry decorators to NavDisplay in compose-viewmodel sample"
-
-**2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
 
 **2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
 <!-- githubActivity ends -->
