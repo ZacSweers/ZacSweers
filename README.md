@@ -17,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
 
 **2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
-
-**2026-07-30** — created branch `z/bbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
