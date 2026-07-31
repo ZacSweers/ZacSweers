@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-07-31** — commented on [#2609](https://github.com/ZacSweers/metro/pull/2609#issuecomment-5139703909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-31** — closed PR [#2609](https://github.com/ZacSweers/metro/pull/2609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix: Add entry decorators to NavDisplay in compose-viewmodel sample"
+
 **2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
 
 **2026-07-30** — merged PR [#2607](https://github.com/ZacSweers/metro/pull/2607) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regenerate benchmarks"
@@ -13,10 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-30** — merged PR [#487](https://github.com/ZacSweers/FieldSpottr/pull/487) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-07-30** — created branch `automation/update-availability-30529900176` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
-
-**2026-07-30** — merged PR [#485](https://github.com/ZacSweers/FieldSpottr/pull/485) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add BBP generation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
