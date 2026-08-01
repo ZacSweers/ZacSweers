@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-01** — opened PR [#492](https://github.com/ZacSweers/FieldSpottr/pull/492) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-01** — merged PR [#492](https://github.com/ZacSweers/FieldSpottr/pull/492) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-01** — merged PR [#492](https://github.com/ZacSweers/FieldSpottr/pull/492) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-01** — created branch `automation/update-availability-30692908521` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-31** — opened PR [#2827](https://github.com/slackhq/circuit/pull/2827) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix subcircuit android unit tests not running"
 
 **2026-07-31** — created branch `z/fixSubcircuitTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-07-31** — opened PR [#2826](https://github.com/slackhq/circuit/pull/2826) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove RecordRetainedValuesStores workaround"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
