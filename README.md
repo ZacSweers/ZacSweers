@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-01** — merged PR [#2615](https://github.com/ZacSweers/metro/pull/2615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler-compat-latest artifact"
+
+**2026-07-31** — merged PR [#2615](https://github.com/ZacSweers/metro/pull/2615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler-compat-latest artifact"
+
+**2026-07-31** — created branch `z/latestCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-31** — merged PR [#491](https://github.com/ZacSweers/FieldSpottr/pull/491) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Incorporate suspend providers"
+
 **2026-07-31** — created branch `z/metroCoroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2026-07-31** — opened PR [#2827](https://github.com/slackhq/circuit/pull/2827) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix subcircuit android unit tests not running"
@@ -14,15 +22,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-07-31** — created branch `z/avoidWorkaround` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-31** — opened PR [#491](https://github.com/ZacSweers/FieldSpottr/pull/491) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Incorporate suspend providers"
-
-**2026-07-31** — opened PR [#171](https://github.com/square/gradle-dependencies-sorter/pull/171) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support custom dependencies-like blocks"
-
-**2026-07-31** — created branch `z/custom-sort-blocks` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2026-07-31** — opened PR [#2825](https://github.com/slackhq/circuit/pull/2825) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split off keyed and saveable retain APIs for longer term"
-
-**2026-07-31** — created branch `z/retained-public-apis` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-07-31** — merged PR [#491](https://github.com/ZacSweers/FieldSpottr/pull/491) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Incorporate suspend providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
