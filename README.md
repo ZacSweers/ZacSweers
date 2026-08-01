@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-07-31** — closed issue [#2610](https://github.com/ZacSweers/metro/issues/2610) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate bindings not checked when a dependency of a graph is exposed from its child graph"
+**2026-07-31** — created branch `z/metroCoroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2026-07-31** — merged PR [#2613](https://github.com/ZacSweers/metro/pull/2613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report duplicate bindings when only requested by children"
+**2026-07-31** — opened PR [#2827](https://github.com/slackhq/circuit/pull/2827) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix subcircuit android unit tests not running"
 
-**2026-07-31** — merged PR [#2613](https://github.com/ZacSweers/metro/pull/2613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report duplicate bindings when only requested by children"
+**2026-07-31** — created branch `z/fixSubcircuitTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-31** — created branch `z/parentBindingsOnlyUsedByChildren` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-31** — opened PR [#2826](https://github.com/slackhq/circuit/pull/2826) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove RecordRetainedValuesStores workaround"
 
-**2026-07-31** — closed PR [#63](https://github.com/ZacSweers/socialteesjs/pull/63) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Update Rust crate clap to v4.6.5"
+**2026-07-31** — created branch `z/avoidWorkaround` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-07-31** — merged PR [#2611](https://github.com/ZacSweers/metro/pull/2611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-07-31** — opened PR [#491](https://github.com/ZacSweers/FieldSpottr/pull/491) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Incorporate suspend providers"
 
-**2026-07-31** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-07-31** — opened PR [#171](https://github.com/square/gradle-dependencies-sorter/pull/171) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support custom dependencies-like blocks"
 
-**2026-07-31** — merged PR [#2611](https://github.com/ZacSweers/metro/pull/2611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-07-31** — created branch `z/custom-sort-blocks` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
-**2026-07-31** — merged PR [#489](https://github.com/ZacSweers/FieldSpottr/pull/489) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-07-31** — opened PR [#2825](https://github.com/slackhq/circuit/pull/2825) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split off keyed and saveable retain APIs for longer term"
 
-**2026-07-31** — merged PR [#489](https://github.com/ZacSweers/FieldSpottr/pull/489) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-07-31** — created branch `z/retained-public-apis` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
