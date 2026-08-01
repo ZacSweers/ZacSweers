@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-01** — opened PR [#2616](https://github.com/ZacSweers/metro/pull/2616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph extension factory replacements in IR"
+**2026-08-01** — merged PR [#2616](https://github.com/ZacSweers/metro/pull/2616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph extension factory replacements in IR"
+
+**2026-08-01** — merged PR [#2616](https://github.com/ZacSweers/metro/pull/2616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph extension factory replacements in IR"
 
 **2026-08-01** — created branch `z/newBug` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-31** — created branch `z/latestCompat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-31** — merged PR [#491](https://github.com/ZacSweers/FieldSpottr/pull/491) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Incorporate suspend providers"
-
-**2026-07-31** — created branch `z/metroCoroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
