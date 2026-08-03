@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-03** — merged PR [#494](https://github.com/ZacSweers/FieldSpottr/pull/494) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-03** — merged PR [#494](https://github.com/ZacSweers/FieldSpottr/pull/494) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-03** — created branch `automation/update-availability-30801733619` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-03** — merged PR [#2826](https://github.com/slackhq/circuit/pull/2826) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove RecordRetainedValuesStores workaround"
 
 **2026-08-03** — merged PR [#2825](https://github.com/slackhq/circuit/pull/2825) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split off keyed and saveable retain APIs for longer term"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-02** — created branch `automation/update-availability-30740986529` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-01** — merged PR [#2616](https://github.com/ZacSweers/metro/pull/2616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph extension factory replacements in IR"
-
-**2026-08-01** — merged PR [#2616](https://github.com/ZacSweers/metro/pull/2616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph extension factory replacements in IR"
-
-**2026-08-01** — created branch `z/newBug` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-01** — merged PR [#492](https://github.com/ZacSweers/FieldSpottr/pull/492) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
