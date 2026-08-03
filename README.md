@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-02** — merged PR [#2827](https://github.com/slackhq/circuit/pull/2827) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix subcircuit android unit tests not running"
+
 **2026-08-02** — merged PR [#493](https://github.com/ZacSweers/FieldSpottr/pull/493) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-02** — merged PR [#493](https://github.com/ZacSweers/FieldSpottr/pull/493) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-01** — merged PR [#492](https://github.com/ZacSweers/FieldSpottr/pull/492) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-01** — created branch `automation/update-availability-30692908521` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-01** — merged PR [#2615](https://github.com/ZacSweers/metro/pull/2615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add compiler-compat-latest artifact"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
