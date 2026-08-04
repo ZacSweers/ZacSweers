@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-04** — commented on [#2617](https://github.com/ZacSweers/metro/issues/2617#issuecomment-5179433967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-04** — created branch `automation/update-availability-30895666747` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-04** — merged PR [#495](https://github.com/ZacSweers/FieldSpottr/pull/495) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -15,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-04** — created branch `z/docCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-03** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-08-03** — merged PR [#23](https://github.com/ZacSweers/kempt/pull/23) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.36.1"
 
 **2026-08-03** — merged PR [#23](https://github.com/ZacSweers/kempt/pull/23) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.36.1"
 
