@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-04** — opened PR [#602](https://github.com/slackhq/compose-lints/pull/602) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve redundant composable detection"
+**2026-08-04** — merged PR [#602](https://github.com/slackhq/compose-lints/pull/602) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve redundant composable detection"
+
+**2026-08-04** — merged PR [#602](https://github.com/slackhq/compose-lints/pull/602) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve redundant composable detection"
 
 **2026-08-04** — created branch `z/upstreaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-04** — merged PR [#2829](https://github.com/slackhq/circuit/pull/2829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small doc/changelog cleanups"
 
 **2026-08-04** — created branch `z/docCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-03** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
