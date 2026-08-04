@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-04** — opened PR [#495](https://github.com/ZacSweers/FieldSpottr/pull/495) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-04** — opened PR [#2829](https://github.com/slackhq/circuit/pull/2829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small doc/changelog cleanups"
 
 **2026-08-04** — created branch `z/docCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-03** — merged PR [#494](https://github.com/ZacSweers/FieldSpottr/pull/494) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-03** — merged PR [#494](https://github.com/ZacSweers/FieldSpottr/pull/494) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-03** — created branch `automation/update-availability-30801733619` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
