@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-04** — merged PR [#2619](https://github.com/ZacSweers/metro/pull/2619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an edge case around mixed parallel cycle detection"
+**2026-08-05** — opened PR [#2625](https://github.com/ZacSweers/metro/pull/2625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't require suspend provider support for suspend assisted params"
 
-**2026-08-04** — merged PR [#2619](https://github.com/ZacSweers/metro/pull/2619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an edge case around mixed parallel cycle detection"
+**2026-08-05** — created branch `z/fixSuspendAssisted` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-04** — created branch `z/mixedParallelCycles` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-05** — merged PR [#2831](https://github.com/slackhq/circuit/pull/2831) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitSaver code gen"
 
-**2026-08-04** — merged PR [#602](https://github.com/slackhq/compose-lints/pull/602) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve redundant composable detection"
+**2026-08-05** — merged PR [#2623](https://github.com/ZacSweers/metro/pull/2623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add conflicting roles checker + fix another dup IR annotations"
 
-**2026-08-04** — merged PR [#602](https://github.com/slackhq/compose-lints/pull/602) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve redundant composable detection"
+**2026-08-05** — opened PR [#2624](https://github.com/ZacSweers/metro/pull/2624) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up FIR hint gen and IR class gen interactions"
 
-**2026-08-04** — created branch `z/upstreaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-08-05** — created branch `z/cleanupFIRHints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-04** — merged PR [#2829](https://github.com/slackhq/circuit/pull/2829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small doc/changelog cleanups"
+**2026-08-05** — merged PR [#2623](https://github.com/ZacSweers/metro/pull/2623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add conflicting roles checker + fix another dup IR annotations"
 
-**2026-08-04** — commented on [#2617](https://github.com/ZacSweers/metro/issues/2617#issuecomment-5179433967) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-05** — created branch `z/moreDupeAnnos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-04** — created branch `automation/update-availability-30895666747` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-08-05** — merged PR [#2622](https://github.com/ZacSweers/metro/pull/2622) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid stack overflows in cycle checking"
 
-**2026-08-04** — merged PR [#495](https://github.com/ZacSweers/FieldSpottr/pull/495) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-05** — merged PR [#2831](https://github.com/slackhq/circuit/pull/2831) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitSaver code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
