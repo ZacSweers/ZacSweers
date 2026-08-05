@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-05** — merged PR [#2633](https://github.com/ZacSweers/metro/pull/2633) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit factory gen in IR class gen mode"
+
+**2026-08-05** — merged PR [#2632](https://github.com/ZacSweers/metro/pull/2632) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Properly minimize deferred bindings"
+
+**2026-08-05** — merged PR [#2633](https://github.com/ZacSweers/metro/pull/2633) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix circuit factory gen in IR class gen mode"
+
+**2026-08-05** — created branch `z/circuit-fir-hint-shells` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-05** — merged PR [#2632](https://github.com/ZacSweers/metro/pull/2632) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Properly minimize deferred bindings"
+
+**2026-08-05** — created branch `z/minimizeDeferred2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-05** — opened PR [#2631](https://github.com/ZacSweers/metro/pull/2631) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@CircuitSerializable`"
+
 **2026-08-05** — merged PR [#2630](https://github.com/ZacSweers/metro/pull/2630) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DiagnosticRoutes"
 
 **2026-08-05** — closed issue [#2614](https://github.com/ZacSweers/metro/issues/2614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IR class generation disables FIR contribution hints on Native/Wasm"
 
 **2026-08-05** — merged PR [#2624](https://github.com/ZacSweers/metro/pull/2624) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up FIR hint gen and IR class gen interactions"
-
-**2026-08-05** — merged PR [#2630](https://github.com/ZacSweers/metro/pull/2630) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement DiagnosticRoutes"
-
-**2026-08-05** — created branch `z/minimizeDeferredBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — merged PR [#2629](https://github.com/ZacSweers/metro/pull/2629) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add expression limiting to long graph expression stacks"
-
-**2026-08-05** — merged PR [#2629](https://github.com/ZacSweers/metro/pull/2629) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add expression limiting to long graph expression stacks"
-
-**2026-08-05** — created branch `z/expressionStacks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — created branch `z/circuitSerializable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — created branch `z/suspendProvidersSO` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
