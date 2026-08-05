@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-05** — created branch `z/circuitSerializable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — created branch `z/suspendProvidersSO` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — merged PR [#2628](https://github.com/ZacSweers/metro/pull/2628) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an SO in graph extension traversal with suspend providers"
-
-**2026-08-05** — merged PR [#2628](https://github.com/ZacSweers/metro/pull/2628) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an SO in graph extension traversal with suspend providers"
-
-**2026-08-05** — created branch `automation/update-availability-30992584838` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-05** — merged PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-05** — merged PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-05** — created branch `kotlin-community/dev` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — merged PR [#2625](https://github.com/ZacSweers/metro/pull/2625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't require suspend provider support for suspend assisted params"
-
-**2026-08-05** — closed issue [#2617](https://github.com/ZacSweers/metro/issues/2617) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "False positive `Metro/SuspendProvidersNotEnabled` with `@Assisted .. suspend () ->` parameter"
+**2026-08-05** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
