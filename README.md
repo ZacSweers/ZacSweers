@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-05** — created branch `z/circuitSerializable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-05** — created branch `z/suspendProvidersSO` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-05** — merged PR [#2628](https://github.com/ZacSweers/metro/pull/2628) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an SO in graph extension traversal with suspend providers"
+
+**2026-08-05** — merged PR [#2628](https://github.com/ZacSweers/metro/pull/2628) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an SO in graph extension traversal with suspend providers"
+
 **2026-08-05** — created branch `automation/update-availability-30992584838` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-05** — merged PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-05** — merged PR [#2625](https://github.com/ZacSweers/metro/pull/2625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't require suspend provider support for suspend assisted params"
 
 **2026-08-05** — closed issue [#2617](https://github.com/ZacSweers/metro/issues/2617) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "False positive `Metro/SuspendProvidersNotEnabled` with `@Assisted .. suspend () ->` parameter"
-
-**2026-08-05** — merged PR [#2625](https://github.com/ZacSweers/metro/pull/2625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't require suspend provider support for suspend assisted params"
-
-**2026-08-05** — created branch `z/fixSuspendAssisted` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — merged PR [#2831](https://github.com/slackhq/circuit/pull/2831) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitSaver code gen"
-
-**2026-08-05** — merged PR [#2623](https://github.com/ZacSweers/metro/pull/2623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add conflicting roles checker + fix another dup IR annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
