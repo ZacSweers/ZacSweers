@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-05** — opened PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-05** — created branch `automation/update-availability-30992584838` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-08-05** — merged PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-05** — merged PR [#496](https://github.com/ZacSweers/FieldSpottr/pull/496) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-05** — created branch `kotlin-community/dev` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-05** — merged PR [#2831](https://github.com/slackhq/circuit/pull/2831) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitSaver code gen"
 
 **2026-08-05** — merged PR [#2623](https://github.com/ZacSweers/metro/pull/2623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add conflicting roles checker + fix another dup IR annotations"
-
-**2026-08-05** — opened PR [#2624](https://github.com/ZacSweers/metro/pull/2624) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up FIR hint gen and IR class gen interactions"
-
-**2026-08-05** — created branch `z/cleanupFIRHints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
