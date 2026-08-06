@@ -4,13 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-05** — merged PR [#2634](https://github.com/ZacSweers/metro/pull/2634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue with superclass member injections"
+
+**2026-08-05** — merged PR [#2634](https://github.com/ZacSweers/metro/pull/2634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue with superclass member injections"
+
+**2026-08-05** — created branch `z/memberInjectIC` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-05** — commented on [#171](https://github.com/square/gradle-dependencies-sorter/pull/171#issuecomment-5199520215) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-08-05** — merged PR [#2631](https://github.com/ZacSweers/metro/pull/2631) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@CircuitSerializable`"
-
-**2026-08-05** — commented on [#2618](https://github.com/ZacSweers/metro/issues/2618#issuecomment-5198036017) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — closed issue [#2618](https://github.com/ZacSweers/metro/issues/2618) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stack overflow with `enableSuspendProviders` enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
