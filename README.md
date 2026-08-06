@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-06** — commented on [#2639](https://github.com/ZacSweers/metro/issues/2639#issuecomment-5208579304) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-06** — merged PR [#2637](https://github.com/ZacSweers/metro/pull/2637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ancestor member injection order from graph funs"
+
+**2026-08-06** — created branch `z/fixMemberInjectOrder` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-06** — merged PR [#2637](https://github.com/ZacSweers/metro/pull/2637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ancestor member injection order from graph funs"
+
 **2026-08-06** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-06** — merged PR [#2635](https://github.com/ZacSweers/metro/pull/2635) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-06** — merged PR [#499](https://github.com/ZacSweers/FieldSpottr/pull/499) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-06** — merged PR [#499](https://github.com/ZacSweers/FieldSpottr/pull/499) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-05** — merged PR [#2634](https://github.com/ZacSweers/metro/pull/2634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue with superclass member injections"
-
-**2026-08-05** — merged PR [#2634](https://github.com/ZacSweers/metro/pull/2634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue with superclass member injections"
-
-**2026-08-05** — created branch `z/memberInjectIC` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-05** — commented on [#171](https://github.com/square/gradle-dependencies-sorter/pull/171#issuecomment-5199520215) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
