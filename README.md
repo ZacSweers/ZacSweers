@@ -5,24 +5,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2026-08-06** — commented on [#2639](https://github.com/ZacSweers/metro/issues/2639#issuecomment-5208579304) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-06** — merged PR [#2637](https://github.com/ZacSweers/metro/pull/2637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ancestor member injection order from graph funs"
-
-**2026-08-06** — created branch `z/fixMemberInjectOrder` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-06** — merged PR [#2637](https://github.com/ZacSweers/metro/pull/2637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ancestor member injection order from graph funs"
-
-**2026-08-06** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-06** — merged PR [#2635](https://github.com/ZacSweers/metro/pull/2635) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-06** — merged PR [#2635](https://github.com/ZacSweers/metro/pull/2635) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-06** — created branch `automation/update-availability-31088449351` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-06** — merged PR [#499](https://github.com/ZacSweers/FieldSpottr/pull/499) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-06** — merged PR [#499](https://github.com/ZacSweers/FieldSpottr/pull/499) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
