@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-10** — opened PR [#505](https://github.com/ZacSweers/FieldSpottr/pull/505) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-10** — created branch `automation/update-availability-31371936954` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-09** — merged PR [#504](https://github.com/ZacSweers/FieldSpottr/pull/504) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-09** — merged PR [#504](https://github.com/ZacSweers/FieldSpottr/pull/504) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-07** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-07** — opened PR [#2642](https://github.com/ZacSweers/metro/pull/2642) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-07** — created branch `automation/update-availability-31162546913` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-07** — merged PR [#502](https://github.com/ZacSweers/FieldSpottr/pull/502) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
