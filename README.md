@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-11** — merged PR [#2646](https://github.com/ZacSweers/metro/pull/2646) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve typealias handling"
+
+**2026-08-11** — closed issue [#2639](https://github.com/ZacSweers/metro/issues/2639) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope cannot be a typealias"
+
+**2026-08-11** — opened PR [#2841](https://github.com/slackhq/circuit/pull/2841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a navrail in Star sample"
+
+**2026-08-11** — created branch `z/navRail` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-08-11** — merged PR [#2647](https://github.com/ZacSweers/metro/pull/2647) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove watchosArm32 + 2.5.0-dev-3513 compat"
 
 **2026-08-11** — merged PR [#2840](https://github.com/slackhq/circuit/pull/2840) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix a couple sample app bugs"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-11** — merged PR [#2840](https://github.com/slackhq/circuit/pull/2840) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix a couple sample app bugs"
 
 **2026-08-11** — created branch `z/coupleSampleBugs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-11** — merged PR [#173](https://github.com/square/gradle-dependencies-sorter/pull/173) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add a kotlin() syntax regression test"
-
-**2026-08-11** — closed issue [#88](https://github.com/square/gradle-dependencies-sorter/issues/88) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support `kotlin()` dependency syntax"
-
-**2026-08-11** — commented on [#88](https://github.com/square/gradle-dependencies-sorter/issues/88#issuecomment-5258218593) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-08-11** — merged PR [#173](https://github.com/square/gradle-dependencies-sorter/pull/173) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add a kotlin() syntax regression test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
