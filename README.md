@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-11** — merged PR [#2839](https://github.com/slackhq/circuit/pull/2839) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix nested screens/popresults with polymorphic registrations"
+
+**2026-08-11** — closed issue [#2838](https://github.com/slackhq/circuit/issues/2838) on [slackhq/circuit](https://github.com/slackhq/circuit): "CircuitSerializable usage crashes the app when backgrounded"
+
 **2026-08-11** — merged PR [#2642](https://github.com/ZacSweers/metro/pull/2642) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-11** — merged PR [#506](https://github.com/ZacSweers/FieldSpottr/pull/506) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -12,17 +16,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-08-11** — created branch `automation/update-availability-31474019234` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2026-08-10** — opened PR [#2839](https://github.com/slackhq/circuit/pull/2839) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix nested screens/popresults with polymorphic registrations"
+**2026-08-10** — merged PR [#2839](https://github.com/slackhq/circuit/pull/2839) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix nested screens/popresults with polymorphic registrations"
 
 **2026-08-10** — created branch `z/fixSerialization` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-10** — merged PR [#171](https://github.com/square/gradle-dependencies-sorter/pull/171) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support custom dependencies-like blocks"
 
 **2026-08-10** — merged PR [#505](https://github.com/ZacSweers/FieldSpottr/pull/505) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-10** — merged PR [#505](https://github.com/ZacSweers/FieldSpottr/pull/505) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-10** — created branch `automation/update-availability-31371936954` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
