@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-11** — opened PR [#2647](https://github.com/ZacSweers/metro/pull/2647) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove watchosArm32 + 2.5.0-dev-3513 compat"
+
+**2026-08-11** — created branch `z/improve250Compat` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-11** — opened PR [#2646](https://github.com/ZacSweers/metro/pull/2646) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve typealias handling"
+
+**2026-08-11** — created branch `z/aliases` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-11** — merged PR [#2839](https://github.com/slackhq/circuit/pull/2839) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix nested screens/popresults with polymorphic registrations"
 
 **2026-08-11** — closed issue [#2838](https://github.com/slackhq/circuit/issues/2838) on [slackhq/circuit](https://github.com/slackhq/circuit): "CircuitSerializable usage crashes the app when backgrounded"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-11** — merged PR [#506](https://github.com/ZacSweers/FieldSpottr/pull/506) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-11** — created branch `automation/update-availability-31474019234` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-10** — merged PR [#2839](https://github.com/slackhq/circuit/pull/2839) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix nested screens/popresults with polymorphic registrations"
-
-**2026-08-10** — created branch `z/fixSerialization` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-10** — merged PR [#171](https://github.com/square/gradle-dependencies-sorter/pull/171) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support custom dependencies-like blocks"
-
-**2026-08-10** — merged PR [#505](https://github.com/ZacSweers/FieldSpottr/pull/505) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
