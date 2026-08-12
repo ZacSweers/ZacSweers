@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
+
+**2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
+
+**2026-08-12** — created branch `z/release-0.21.0` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2026-08-12** — merged PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
+
+**2026-08-12** — closed issue [#154](https://github.com/square/gradle-dependencies-sorter/issues/154) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Token recognition error with `$$"""` multi-line strings"
+
+**2026-08-12** — commented on [#154](https://github.com/square/gradle-dependencies-sorter/issues/154#issuecomment-5271502179) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2026-08-12** — merged PR [#174](https://github.com/square/gradle-dependencies-sorter/pull/174) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Update kotlin-editor"
+
+**2026-08-12** — closed issue [#130](https://github.com/square/gradle-dependencies-sorter/issues/130) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Sort should treat `:` as a separator of a block and not a regular character part of sorting"
+
 **2026-08-12** — merged PR [#2841](https://github.com/slackhq/circuit/pull/2841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a navrail in Star sample"
 
-**2026-08-12** — opened PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
-
-**2026-08-12** — created branch `z/2.4.20rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-12** — opened PR [#174](https://github.com/square/gradle-dependencies-sorter/pull/174) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Update kotlin-editor"
-
-**2026-08-12** — created branch `z/multidollar` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-12** — created branch `automation/update-availability-31579772917` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-11** — merged PR [#2646](https://github.com/ZacSweers/metro/pull/2646) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve typealias handling"
-
-**2026-08-11** — closed issue [#2639](https://github.com/ZacSweers/metro/issues/2639) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope cannot be a typealias"
+**2026-08-12** — merged PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
