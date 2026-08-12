@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-12** — merged PR [#2841](https://github.com/slackhq/circuit/pull/2841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a navrail in Star sample"
+
+**2026-08-12** — opened PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
+
+**2026-08-12** — created branch `z/2.4.20rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-12** — opened PR [#174](https://github.com/square/gradle-dependencies-sorter/pull/174) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Update kotlin-editor"
+
+**2026-08-12** — created branch `z/multidollar` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-11** — merged PR [#2646](https://github.com/ZacSweers/metro/pull/2646) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve typealias handling"
 
 **2026-08-11** — closed issue [#2639](https://github.com/ZacSweers/metro/issues/2639) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope cannot be a typealias"
-
-**2026-08-11** — opened PR [#2841](https://github.com/slackhq/circuit/pull/2841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a navrail in Star sample"
-
-**2026-08-11** — created branch `z/navRail` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-11** — merged PR [#2647](https://github.com/ZacSweers/metro/pull/2647) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove watchosArm32 + 2.5.0-dev-3513 compat"
-
-**2026-08-11** — merged PR [#2840](https://github.com/slackhq/circuit/pull/2840) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix a couple sample app bugs"
-
-**2026-08-11** — closed issue [#732](https://github.com/slackhq/circuit/issues/732) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample doesn't handle cutout in landscape"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
