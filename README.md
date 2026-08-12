@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
+**2026-08-12** — created branch `z/crema-plugin-fixture` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-12** — commented on [#2655](https://github.com/ZacSweers/metro/pull/2655#issuecomment-5272325215) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-12** — merged PR [#176](https://github.com/square/gradle-dependencies-sorter/pull/176) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare next development version."
+
+**2026-08-12** — merged PR [#176](https://github.com/square/gradle-dependencies-sorter/pull/176) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare next development version."
+
+**2026-08-12** — created branch `z/next-development-0.21.1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2026-08-12** — commented on [#2648](https://github.com/ZacSweers/metro/pull/2648#issuecomment-5272272969) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-12** — opened PR [#2842](https://github.com/slackhq/circuit/pull/2842) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable first party retained on android targets"
+
+**2026-08-12** — created branch `z/retainPart4` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
 
-**2026-08-12** — created branch `z/release-0.21.0` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-08-12** — merged PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
-
-**2026-08-12** — closed issue [#154](https://github.com/square/gradle-dependencies-sorter/issues/154) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Token recognition error with `$$"""` multi-line strings"
-
-**2026-08-12** — commented on [#154](https://github.com/square/gradle-dependencies-sorter/issues/154#issuecomment-5271502179) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-08-12** — merged PR [#174](https://github.com/square/gradle-dependencies-sorter/pull/174) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Update kotlin-editor"
-
-**2026-08-12** — closed issue [#130](https://github.com/square/gradle-dependencies-sorter/issues/130) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Sort should treat `:` as a separator of a block and not a regular character part of sorting"
-
-**2026-08-12** — merged PR [#2841](https://github.com/slackhq/circuit/pull/2841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a navrail in Star sample"
-
-**2026-08-12** — merged PR [#2653](https://github.com/ZacSweers/metro/pull/2653) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test Kotlin 2.4.20-RC"
+**2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
