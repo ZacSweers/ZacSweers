@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-12** — opened PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-12** — merged PR [#508](https://github.com/ZacSweers/FieldSpottr/pull/508) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-12** — created branch `automation/update-availability-31579772917` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-11** — merged PR [#2840](https://github.com/slackhq/circuit/pull/2840) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix a couple sample app bugs"
 
 **2026-08-11** — closed issue [#732](https://github.com/slackhq/circuit/issues/732) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample doesn't handle cutout in landscape"
-
-**2026-08-11** — closed issue [#117](https://github.com/slackhq/circuit/issues/117) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail screen does not show a paging indicator in landscape"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
