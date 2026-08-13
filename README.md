@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-12** — commented on [#2656](https://github.com/ZacSweers/metro/issues/2656#issuecomment-5274876550) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-12** — opened PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
+
+**2026-08-12** — created branch `z/fixAgain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-12** — commented on [#2842](https://github.com/slackhq/circuit/pull/2842#issuecomment-5273036900) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-12** — created branch `z/crema-plugin-fixture` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-12** — created branch `z/next-development-0.21.1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2026-08-12** — commented on [#2648](https://github.com/ZacSweers/metro/pull/2648#issuecomment-5272272969) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-12** — opened PR [#2842](https://github.com/slackhq/circuit/pull/2842) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable first party retained on android targets"
-
-**2026-08-12** — created branch `z/retainPart4` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-12** — merged PR [#175](https://github.com/square/gradle-dependencies-sorter/pull/175) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "chore: prepare for release 0.21.0."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
