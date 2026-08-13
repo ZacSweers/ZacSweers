@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — merged PR [#511](https://github.com/ZacSweers/FieldSpottr/pull/511) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-13** — created branch `automation/update-availability-31683625286` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
