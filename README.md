@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
+
+**2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
+
+**2026-08-13** — created branch `z/updateIdeVersions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-13** — closed issue [#2656](https://github.com/ZacSweers/metro/issues/2656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compilation error with Metro 1.4.1 + Kotlin >= 2.3.20"
 
 **2026-08-13** — merged PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-12** — merged PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
 
 **2026-08-12** — created branch `z/fixAgain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-12** — commented on [#2842](https://github.com/slackhq/circuit/pull/2842#issuecomment-5273036900) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-12** — created branch `z/crema-plugin-fixture` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-12** — commented on [#2655](https://github.com/ZacSweers/metro/pull/2655#issuecomment-5272325215) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
