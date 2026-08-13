@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-13** — opened PR [#511](https://github.com/ZacSweers/FieldSpottr/pull/511) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-13** — merged PR [#511](https://github.com/ZacSweers/FieldSpottr/pull/511) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-13** — merged PR [#511](https://github.com/ZacSweers/FieldSpottr/pull/511) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-13** — created branch `automation/update-availability-31683625286` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — opened PR [#2843](https://github.com/slackhq/circuit/pull/2843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots"
 
 **2026-08-13** — created branch `z/fixSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-12** — commented on [#2656](https://github.com/ZacSweers/metro/issues/2656#issuecomment-5274876550) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
