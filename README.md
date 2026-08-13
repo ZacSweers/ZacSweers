@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-13** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-5287152902) in [squidfunk/mike](https://github.com/squidfunk/mike)
+
 **2026-08-13** — closed issue [#2660](https://github.com/ZacSweers/metro/issues/2660) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding inject member to a graph extension doesn't invalidate the parent graph"
 
 **2026-08-13** — merged PR [#2843](https://github.com/slackhq/circuit/pull/2843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — merged PR [#511](https://github.com/ZacSweers/FieldSpottr/pull/511) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-13** — created branch `automation/update-availability-31683625286` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
 
 **2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
 <!-- githubActivity ends -->
