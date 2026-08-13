@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-13** — closed issue [#2660](https://github.com/ZacSweers/metro/issues/2660) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding inject member to a graph extension doesn't invalidate the parent graph"
+
+**2026-08-13** — merged PR [#2843](https://github.com/slackhq/circuit/pull/2843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots"
+
 **2026-08-13** — merged PR [#2659](https://github.com/ZacSweers/metro/pull/2659) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-13** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
 
 **2026-08-13** — merged PR [#2658](https://github.com/ZacSweers/metro/pull/2658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE versions"
-
-**2026-08-13** — created branch `z/updateIdeVersions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-13** — closed issue [#2656](https://github.com/ZacSweers/metro/issues/2656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compilation error with Metro 1.4.1 + Kotlin >= 2.3.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
