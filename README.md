@@ -4,9 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-13** — closed issue [#2656](https://github.com/ZacSweers/metro/issues/2656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compilation error with Metro 1.4.1 + Kotlin >= 2.3.20"
+
+**2026-08-13** — merged PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
+
+**2026-08-13** — opened PR [#2843](https://github.com/slackhq/circuit/pull/2843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots"
+
+**2026-08-13** — created branch `z/fixSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-08-12** — commented on [#2656](https://github.com/ZacSweers/metro/issues/2656#issuecomment-5274876550) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-12** — opened PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
+**2026-08-12** — merged PR [#2657](https://github.com/ZacSweers/metro/pull/2657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move FIR hint gen logic to compiler"
 
 **2026-08-12** — created branch `z/fixAgain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-12** — created branch `z/crema-plugin-fixture` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-12** — commented on [#2655](https://github.com/ZacSweers/metro/pull/2655#issuecomment-5272325215) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-12** — merged PR [#176](https://github.com/square/gradle-dependencies-sorter/pull/176) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare next development version."
-
-**2026-08-12** — merged PR [#176](https://github.com/square/gradle-dependencies-sorter/pull/176) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare next development version."
-
-**2026-08-12** — created branch `z/next-development-0.21.1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2026-08-12** — commented on [#2648](https://github.com/ZacSweers/metro/pull/2648#issuecomment-5272272969) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
