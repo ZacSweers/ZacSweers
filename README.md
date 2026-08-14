@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-14** — created branch `automation/update-availability-31785147540` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-08-14** — opened PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-13** — opened PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
 
 **2026-08-13** — created branch `z/editorConfigPath` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — merged PR [#2663](https://github.com/ZacSweers/metro/pull/2663) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin community build support"
 
 **2026-08-13** — created branch `z/kotlin-community-main-sync` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-13** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-5287152902) in [squidfunk/mike](https://github.com/squidfunk/mike)
-
-**2026-08-13** — closed issue [#2660](https://github.com/ZacSweers/metro/issues/2660) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding inject member to a graph extension doesn't invalidate the parent graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
