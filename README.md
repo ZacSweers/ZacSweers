@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-13** — opened PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
+
+**2026-08-13** — created branch `z/editorConfigPath` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
+
+**2026-08-13** — opened PR [#2849](https://github.com/slackhq/circuit/pull/2849) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable supertype from Screen and PopResult"
+
+**2026-08-13** — created branch `z/finishSerializable` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-08-13** — closed PR [#2664](https://github.com/ZacSweers/metro/pull/2664) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update eclipse-temurin Docker tag to v26"
 
 **2026-08-13** — merged PR [#2663](https://github.com/ZacSweers/metro/pull/2663) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin community build support"
@@ -15,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — commented on [#4](https://github.com/squidfunk/mike/issues/4#issuecomment-5287152902) in [squidfunk/mike](https://github.com/squidfunk/mike)
 
 **2026-08-13** — closed issue [#2660](https://github.com/ZacSweers/metro/issues/2660) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding inject member to a graph extension doesn't invalidate the parent graph"
-
-**2026-08-13** — merged PR [#2843](https://github.com/slackhq/circuit/pull/2843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
