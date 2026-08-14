@@ -4,9 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-14** — created branch `automation/update-availability-31785147540` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2026-08-14** — opened PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-13** — opened PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-13** — merged PR [#2663](https://github.com/ZacSweers/metro/pull/2663) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin community build support"
 
 **2026-08-13** — merged PR [#2663](https://github.com/ZacSweers/metro/pull/2663) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin community build support"
-
-**2026-08-13** — created branch `z/kotlin-community-main-sync` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
