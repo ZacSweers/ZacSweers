@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-15** — merged PR [#514](https://github.com/ZacSweers/FieldSpottr/pull/514) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-15** — merged PR [#514](https://github.com/ZacSweers/FieldSpottr/pull/514) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-15** — created branch `automation/update-availability-31874610631` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-14** — created branch `automation/update-availability-31785147540` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-13** — opened PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
-
-**2026-08-13** — created branch `z/editorConfigPath` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
-
-**2026-08-13** — opened PR [#2849](https://github.com/slackhq/circuit/pull/2849) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable supertype from Screen and PopResult"
-
-**2026-08-13** — created branch `z/finishSerializable` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-08-15** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
