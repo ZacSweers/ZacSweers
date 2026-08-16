@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-16** — commented on [#670](https://github.com/Kotlin/ktfmt/pull/670#issuecomment-5309185794) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
+
+**2026-08-16** — commented on [#669](https://github.com/Kotlin/ktfmt/pull/669#issuecomment-5309179617) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
+
 **2026-08-16** — merged PR [#515](https://github.com/ZacSweers/FieldSpottr/pull/515) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-16** — merged PR [#515](https://github.com/ZacSweers/FieldSpottr/pull/515) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-14** — created branch `automation/update-availability-31785147540` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-14** — merged PR [#513](https://github.com/ZacSweers/FieldSpottr/pull/513) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-13** — opened PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
