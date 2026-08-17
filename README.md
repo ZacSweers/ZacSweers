@@ -4,6 +4,18 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-17** — created branch `z/kmpRetainedStore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-08-17** — merged PR [#26](https://github.com/ZacSweers/kempt/pull/26) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Handle long formatter argument lists safely"
+
+**2026-08-17** — merged PR [#26](https://github.com/ZacSweers/kempt/pull/26) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Handle long formatter argument lists safely"
+
+**2026-08-17** — created branch `z/improvements` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
+**2026-08-17** — opened PR [#25](https://github.com/ZacSweers/kempt/pull/25) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt EditorConfig support"
+
+**2026-08-17** — created branch `z/ktfmt-editorconfig` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
 **2026-08-17** — merged PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
 
 **2026-08-17** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
@@ -11,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
 
 **2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
-
-**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
-
-**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
-
-**2026-08-17** — merged PR [#7487](https://github.com/JetBrains/kotlin/pull/7487) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix dropped additional supertypes when existing are resolved"
-
-**2026-08-16** — opened PR [#7488](https://github.com/JetBrains/kotlin/pull/7488) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Make Parcelize easier to use in KMP projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
