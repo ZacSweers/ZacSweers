@@ -4,9 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-17** — merged PR [#7487](https://github.com/JetBrains/kotlin/pull/7487) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix dropped additional supertypes when existing are resolved"
+
 **2026-08-16** — opened PR [#7488](https://github.com/JetBrains/kotlin/pull/7488) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Make Parcelize easier to use in KMP projects"
 
-**2026-08-16** — opened PR [#7487](https://github.com/JetBrains/kotlin/pull/7487) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix dropped additional supertypes when existing are resolved"
+**2026-08-16** — merged PR [#7487](https://github.com/JetBrains/kotlin/pull/7487) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix dropped additional supertypes when existing are resolved"
 
 **2026-08-16** — created branch `z/fixResolvedSupertypes` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
