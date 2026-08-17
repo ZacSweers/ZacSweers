@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-17** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
+**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
+
+**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
+
+**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
+
+**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
+
 **2026-08-17** — merged PR [#7487](https://github.com/JetBrains/kotlin/pull/7487) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix dropped additional supertypes when existing are resolved"
 
 **2026-08-16** — opened PR [#7488](https://github.com/JetBrains/kotlin/pull/7488) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Make Parcelize easier to use in KMP projects"
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-16** — created branch `z/fixResolvedSupertypes` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2026-08-16** — created branch `z/commonizeParcelize` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-08-16** — commented on [#670](https://github.com/Kotlin/ktfmt/pull/670#issuecomment-5309185794) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
-
-**2026-08-16** — commented on [#669](https://github.com/Kotlin/ktfmt/pull/669#issuecomment-5309179617) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
-
-**2026-08-16** — merged PR [#515](https://github.com/ZacSweers/FieldSpottr/pull/515) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-16** — merged PR [#515](https://github.com/ZacSweers/FieldSpottr/pull/515) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-16** — created branch `automation/update-availability-31936574237` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
