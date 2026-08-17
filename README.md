@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-17** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5321520967) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-17** — opened PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
+
 **2026-08-17** — created branch `z/kmpRetainedStore` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-17** — merged PR [#26](https://github.com/ZacSweers/kempt/pull/26) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Handle long formatter argument lists safely"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-17** — merged PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
 
 **2026-08-17** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
-
-**2026-08-17** — merged PR [#24](https://github.com/ZacSweers/kempt/pull/24) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: Gradle Dependencies Sorter 0.21.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
