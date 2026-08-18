@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5328938520) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-18** — merged PR [#2671](https://github.com/ZacSweers/metro/pull/2671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-18** — merged PR [#2671](https://github.com/ZacSweers/metro/pull/2671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-18** — created branch `automation/update-availability-32116713132` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-17** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5321520967) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-17** — opened PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
-
-**2026-08-17** — created branch `z/kmpRetainedStore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-08-18** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
