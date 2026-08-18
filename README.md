@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-18** — opened PR [#2674](https://github.com/ZacSweers/metro/pull/2674) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generated class name limiting"
+
 **2026-08-18** — merged PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
 
 **2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5328938520) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-17** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5321520967) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-17** — merged PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
