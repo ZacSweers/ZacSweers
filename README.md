@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-17** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5321520967) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-08-17** — opened PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-17** — opened PR [#25](https://github.com/ZacSweers/kempt/pull/25) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt EditorConfig support"
 
 **2026-08-17** — created branch `z/ktfmt-editorconfig` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-08-17** — merged PR [#670](https://github.com/Kotlin/ktfmt/pull/670) to [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Support editorconfig when using stdin"
-
-**2026-08-17** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
