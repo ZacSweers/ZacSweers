@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-18** — created branch `automation/update-availability-32116713132` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-17** — created branch `z/improvements` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 
 **2026-08-17** — opened PR [#25](https://github.com/ZacSweers/kempt/pull/25) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt EditorConfig support"
-
-**2026-08-17** — created branch `z/ktfmt-editorconfig` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
