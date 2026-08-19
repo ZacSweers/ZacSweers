@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5337158436) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5337137290) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-08-18** — created branch `z/generated-class-name-limit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-18** — merged PR [#2674](https://github.com/ZacSweers/metro/pull/2674) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generated class name limiting"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-18** — merged PR [#2671](https://github.com/ZacSweers/metro/pull/2671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-18** — merged PR [#2671](https://github.com/ZacSweers/metro/pull/2671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-18** — created branch `automation/update-availability-32116713132` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-18** — merged PR [#516](https://github.com/ZacSweers/FieldSpottr/pull/516) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
