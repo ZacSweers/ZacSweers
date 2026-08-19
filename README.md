@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-19** — merged PR [#517](https://github.com/ZacSweers/FieldSpottr/pull/517) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-19** — merged PR [#517](https://github.com/ZacSweers/FieldSpottr/pull/517) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-18** — created branch `z/parcelize-auto-supertype` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5337158436) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -19,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-18** — merged PR [#2854](https://github.com/slackhq/circuit/pull/2854) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a KMP-friendly retained store until upstream supports one"
 
 **2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5328938520) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
