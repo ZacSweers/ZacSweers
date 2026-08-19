@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-19** — opened PR [#2685](https://github.com/ZacSweers/metro/pull/2685) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA build tools"
+
+**2026-08-19** — opened PR [#2684](https://github.com/ZacSweers/metro/pull/2684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA settings and inspection fixes"
+
+**2026-08-19** — opened PR [#2683](https://github.com/ZacSweers/metro/pull/2683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler diagnostics"
+
+**2026-08-19** — opened PR [#2682](https://github.com/ZacSweers/metro/pull/2682) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA icons"
+
+**2026-08-19** — opened PR [#2681](https://github.com/ZacSweers/metro/pull/2681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler types and naming utilities"
+
+**2026-08-19** — opened PR [#2680](https://github.com/ZacSweers/metro/pull/2680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix FIR annotation cache race"
+
+**2026-08-19** — commented on [#2677](https://github.com/ZacSweers/metro/pull/2677#issuecomment-5345304824) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-19** — commented on [#2679](https://github.com/ZacSweers/metro/pull/2679#issuecomment-5345257538) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-19** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5342628667) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-08-19** — created branch `automation/update-availability-32232953834` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-19** — merged PR [#517](https://github.com/ZacSweers/FieldSpottr/pull/517) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-19** — merged PR [#517](https://github.com/ZacSweers/FieldSpottr/pull/517) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-18** — created branch `z/parcelize-auto-supertype` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5337158436) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-18** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5337137290) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-18** — created branch `z/generated-class-name-limit` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-18** — merged PR [#2674](https://github.com/ZacSweers/metro/pull/2674) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generated class name limiting"
-
-**2026-08-18** — merged PR [#2674](https://github.com/ZacSweers/metro/pull/2674) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generated class name limiting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
