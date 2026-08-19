@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-19** — merged PR [#2683](https://github.com/ZacSweers/metro/pull/2683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler diagnostics"
+
+**2026-08-19** — merged PR [#2681](https://github.com/ZacSweers/metro/pull/2681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler types and naming utilities"
+
+**2026-08-19** — merged PR [#2685](https://github.com/ZacSweers/metro/pull/2685) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA build tools"
+
 **2026-08-19** — created branch `z/idea/settingsAndInspections` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-19** — created branch `z/firCacheRace` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-19** — created branch `z/idea/buildTools` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-19** — created branch `z/idea/icons` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — merged PR [#2682](https://github.com/ZacSweers/metro/pull/2682) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA icons"
-
-**2026-08-19** — merged PR [#2680](https://github.com/ZacSweers/metro/pull/2680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix FIR annotation cache race"
-
-**2026-08-19** — opened PR [#2685](https://github.com/ZacSweers/metro/pull/2685) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA build tools"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
