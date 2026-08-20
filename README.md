@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-19** — opened PR [#2695](https://github.com/ZacSweers/metro/pull/2695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph validation"
+**2026-08-19** — created branch `z/idea/graphValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-19** — created branch `z/idea/editorHints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-20** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5351404088) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
-**2026-08-19** — opened PR [#2694](https://github.com/ZacSweers/metro/pull/2694) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA editor hints"
+**2026-08-20** — opened PR [#2699](https://github.com/ZacSweers/metro/pull/2699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Load IDEA test runtime classpath lazily"
 
-**2026-08-19** — merged PR [#2693](https://github.com/ZacSweers/metro/pull/2693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA binding index"
+**2026-08-20** — opened PR [#2698](https://github.com/ZacSweers/metro/pull/2698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share provider type sets"
 
-**2026-08-19** — commented on [#606](https://github.com/slackhq/compose-lints/pull/606#issuecomment-5350860227) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2026-08-20** — opened PR [#2697](https://github.com/ZacSweers/metro/pull/2697) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve unused declaration detection"
 
-**2026-08-19** — closed PR [#606](https://github.com/slackhq/compose-lints/pull/606) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample to all lint rule test suites"
+**2026-08-20** — created branch `z/sharedProviderTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-08-19** — merged PR [#2692](https://github.com/ZacSweers/metro/pull/2692) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph benchmarks"
+**2026-08-20** — opened PR [#2696](https://github.com/ZacSweers/metro/pull/2696) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph browser"
 
-**2026-08-19** — created branch `z/graphBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-20** — merged PR [#2695](https://github.com/ZacSweers/metro/pull/2695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph validation"
 
-**2026-08-19** — merged PR [#2693](https://github.com/ZacSweers/metro/pull/2693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA binding index"
+**2026-08-19** — merged PR [#2694](https://github.com/ZacSweers/metro/pull/2694) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA editor hints"
 
-**2026-08-19** — created branch `z/idea/bindingIndex` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-19** — merged PR [#2695](https://github.com/ZacSweers/metro/pull/2695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph validation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
