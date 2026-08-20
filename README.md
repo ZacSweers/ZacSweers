@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-20** — created branch `z/idea/unusedSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-20** — created branch `z/idea/projectService` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-20** — merged PR [#2706](https://github.com/ZacSweers/metro/pull/2706) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cleanup docs"
 
 **2026-08-20** — merged PR [#2706](https://github.com/ZacSweers/metro/pull/2706) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cleanup docs"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — merged PR [#2703](https://github.com/ZacSweers/metro/pull/2703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename Metro IDE project service"
 
 **2026-08-20** — merged PR [#2705](https://github.com/ZacSweers/metro/pull/2705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move IDEA unused declaration support"
-
-**2026-08-20** — merged PR [#2704](https://github.com/ZacSweers/metro/pull/2704) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Modernize IDEA Gradle configurations"
-
-**2026-08-20** — merged PR [#2703](https://github.com/ZacSweers/metro/pull/2703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename Metro IDE project service"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
