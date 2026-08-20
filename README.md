@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-20** — opened PR [#519](https://github.com/ZacSweers/FieldSpottr/pull/519) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-20** — created branch `automation/update-availability-32349151966` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-08-20** — merged PR [#519](https://github.com/ZacSweers/FieldSpottr/pull/519) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-20** — merged PR [#519](https://github.com/ZacSweers/FieldSpottr/pull/519) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-20** — merged PR [#2701](https://github.com/ZacSweers/metro/pull/2701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document the IDEA plugin"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — merged PR [#2700](https://github.com/ZacSweers/metro/pull/2700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph tools"
 
 **2026-08-20** — created branch `z/idea/lazyTestClasspath` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-20** — merged PR [#2696](https://github.com/ZacSweers/metro/pull/2696) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph browser"
-
-**2026-08-20** — merged PR [#2698](https://github.com/ZacSweers/metro/pull/2698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share provider type sets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
