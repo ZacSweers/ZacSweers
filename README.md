@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-20** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5358770364) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-20** — merged PR [#2705](https://github.com/ZacSweers/metro/pull/2705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move IDEA unused declaration support"
+
 **2026-08-20** — merged PR [#2704](https://github.com/ZacSweers/metro/pull/2704) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Modernize IDEA Gradle configurations"
 
 **2026-08-20** — merged PR [#2703](https://github.com/ZacSweers/metro/pull/2703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename Metro IDE project service"
 
-**2026-08-20** — opened PR [#2705](https://github.com/ZacSweers/metro/pull/2705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move IDEA unused declaration support"
+**2026-08-20** — merged PR [#2705](https://github.com/ZacSweers/metro/pull/2705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move IDEA unused declaration support"
 
 **2026-08-20** — merged PR [#2704](https://github.com/ZacSweers/metro/pull/2704) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Modernize IDEA Gradle configurations"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-20** — created branch `automation/update-availability-32349151966` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
