@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-08-20** — created branch `automation/update-availability-32349151966` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-20** — merged PR [#519](https://github.com/ZacSweers/FieldSpottr/pull/519) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — merged PR [#2701](https://github.com/ZacSweers/metro/pull/2701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document the IDEA plugin"
 
 **2026-08-20** — merged PR [#2700](https://github.com/ZacSweers/metro/pull/2700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph tools"
-
-**2026-08-20** — merged PR [#2700](https://github.com/ZacSweers/metro/pull/2700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph tools"
-
-**2026-08-20** — created branch `z/idea/lazyTestClasspath` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
