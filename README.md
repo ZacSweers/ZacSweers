@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-19** — created branch `z/sharedContributions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/sharedGraph` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/idea/errorReporting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — opened PR [#2691](https://github.com/ZacSweers/metro/pull/2691) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share graph validation"
-
-**2026-08-19** — opened PR [#2690](https://github.com/ZacSweers/metro/pull/2690) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — merged PR [#2688](https://github.com/ZacSweers/metro/pull/2688) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — merged PR [#2687](https://github.com/ZacSweers/metro/pull/2687) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — opened PR [#2688](https://github.com/ZacSweers/metro/pull/2688) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — opened PR [#2687](https://github.com/ZacSweers/metro/pull/2687) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — merged PR [#2683](https://github.com/ZacSweers/metro/pull/2683) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-19** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
