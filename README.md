@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-20** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5356443049) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-20** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-20** — merged PR [#2702](https://github.com/ZacSweers/metro/pull/2702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — created branch `z/idea/graphTools` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-20** — created branch `z/idea/docs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-20** — merged PR [#2701](https://github.com/ZacSweers/metro/pull/2701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document the IDEA plugin"
-
-**2026-08-20** — merged PR [#2700](https://github.com/ZacSweers/metro/pull/2700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph tools"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
