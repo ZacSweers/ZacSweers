@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-19** — created branch `z/idea/errorReporting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-19** — opened PR [#2691](https://github.com/ZacSweers/metro/pull/2691) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share graph validation"
+
+**2026-08-19** — opened PR [#2690](https://github.com/ZacSweers/metro/pull/2690) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share contribution helpers"
+
+**2026-08-19** — merged PR [#2688](https://github.com/ZacSweers/metro/pull/2688) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share binding graph internals"
+
+**2026-08-19** — merged PR [#2687](https://github.com/ZacSweers/metro/pull/2687) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA error reporting"
+
+**2026-08-19** — merged PR [#2688](https://github.com/ZacSweers/metro/pull/2688) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share binding graph internals"
+
+**2026-08-19** — merged PR [#2687](https://github.com/ZacSweers/metro/pull/2687) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA error reporting"
+
 **2026-08-19** — merged PR [#2683](https://github.com/ZacSweers/metro/pull/2683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler diagnostics"
 
 **2026-08-19** — merged PR [#2681](https://github.com/ZacSweers/metro/pull/2681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share compiler types and naming utilities"
 
 **2026-08-19** — merged PR [#2685](https://github.com/ZacSweers/metro/pull/2685) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA build tools"
-
-**2026-08-19** — created branch `z/idea/settingsAndInspections` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/firCacheRace` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/sharedTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/sharedDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — merged PR [#2684](https://github.com/ZacSweers/metro/pull/2684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA settings and inspection fixes"
-
-**2026-08-19** — created branch `z/idea/buildTools` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-19** — created branch `z/idea/icons` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
