@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-20** — opened PR [#519](https://github.com/ZacSweers/FieldSpottr/pull/519) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-20** — merged PR [#2701](https://github.com/ZacSweers/metro/pull/2701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document the IDEA plugin"
 
 **2026-08-20** — created branch `z/idea/graphTools` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — merged PR [#2696](https://github.com/ZacSweers/metro/pull/2696) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph browser"
 
 **2026-08-20** — merged PR [#2698](https://github.com/ZacSweers/metro/pull/2698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Share provider type sets"
-
-**2026-08-20** — created branch `z/idea/unusedWarnings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
