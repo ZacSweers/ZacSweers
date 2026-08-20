@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-19** — Could not load GitHub activity. Please check back later.
+**2026-08-19** — opened PR [#2695](https://github.com/ZacSweers/metro/pull/2695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA graph validation"
+
+**2026-08-19** — created branch `z/idea/editorHints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-19** — opened PR [#2694](https://github.com/ZacSweers/metro/pull/2694) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA editor hints"
+
+**2026-08-19** — merged PR [#2693](https://github.com/ZacSweers/metro/pull/2693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA binding index"
+
+**2026-08-19** — commented on [#606](https://github.com/slackhq/compose-lints/pull/606#issuecomment-5350860227) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-08-19** — closed PR [#606](https://github.com/slackhq/compose-lints/pull/606) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample to all lint rule test suites"
+
+**2026-08-19** — merged PR [#2692](https://github.com/ZacSweers/metro/pull/2692) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph benchmarks"
+
+**2026-08-19** — created branch `z/graphBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-19** — merged PR [#2693](https://github.com/ZacSweers/metro/pull/2693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA binding index"
+
+**2026-08-19** — created branch `z/idea/bindingIndex` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
