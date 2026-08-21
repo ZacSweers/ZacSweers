@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-21** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5371682815) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-21** — merged PR [#2709](https://github.com/ZacSweers/metro/pull/2709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-21** — merged PR [#2709](https://github.com/ZacSweers/metro/pull/2709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-21** — created branch `automation/update-availability-32463544128` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-20** — created branch `z/deAiComments` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-20** — created branch `z/idea/unusedSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-20** — created branch `z/idea/projectService` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-21** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
