@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-21** — created branch `automation/update-availability-32463544128` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-20** — created branch `z/deAiComments` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-20** — created branch `z/idea/unusedSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-20** — created branch `z/idea/buildConfiguration` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-20** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5358770364) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-20** — merged PR [#2705](https://github.com/ZacSweers/metro/pull/2705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move IDEA unused declaration support"
-
-**2026-08-20** — merged PR [#2704](https://github.com/ZacSweers/metro/pull/2704) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Modernize IDEA Gradle configurations"
-
-**2026-08-20** — merged PR [#2703](https://github.com/ZacSweers/metro/pull/2703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename Metro IDE project service"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
