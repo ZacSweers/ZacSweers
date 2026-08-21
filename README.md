@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-21** — opened PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
+
+**2026-08-21** — opened PR [#2712](https://github.com/ZacSweers/metro/pull/2712) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support dynamic graphs in the IDEA plugin"
+
+**2026-08-21** — opened PR [#2711](https://github.com/ZacSweers/metro/pull/2711) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Show IDEA graph validation progress"
+
+**2026-08-21** — created branch `z/idea-dynamic-graphs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-21** — opened PR [#2710](https://github.com/ZacSweers/metro/pull/2710) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add priority properties to ContributesBinding and ContributesIntoSet"
+
 **2026-08-19** — closed PR [#2447](https://github.com/ZacSweers/metro/pull/2447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More idea work"
 
 **2026-08-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — merged PR [#2709](https://github.com/ZacSweers/metro/pull/2709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-21** — merged PR [#2709](https://github.com/ZacSweers/metro/pull/2709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-21** — merged PR [#520](https://github.com/ZacSweers/FieldSpottr/pull/520) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-21** — created branch `automation/update-availability-32463544128` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-20** — created branch `z/deAiComments` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-20** — created branch `z/idea/unusedSupport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
