@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-22** — opened PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-22** — created branch `automation/update-availability-32562421089` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — merged PR [#2842](https://github.com/slackhq/circuit/pull/2842) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable first party retained on android targets"
 
 **2026-08-21** — created branch `z/idea-validation-progress` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-21** — created branch `z/priority` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
