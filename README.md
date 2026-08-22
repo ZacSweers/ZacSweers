@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-22** — opened PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-22** — created branch `automation/update-availability-32562421089` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-22** — created branch `z/moreRetain` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-22** — opened PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — created branch `z/idea-validation-progress` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-21** — created branch `z/priority` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-21** — created branch `z/idea-graph-context-pinning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-21** — opened PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
