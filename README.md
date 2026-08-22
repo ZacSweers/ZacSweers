@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-22** — merged PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
+
 **2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -12,7 +14,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-08-22** — created branch `z/moreRetain` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-08-22** — opened PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
+**2026-08-22** — merged PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
 
 **2026-08-21** — opened PR [#2716](https://github.com/ZacSweers/metro/pull/2716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement suspend switching providers"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — merged PR [#2711](https://github.com/ZacSweers/metro/pull/2711) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Show IDEA graph validation progress"
 
 **2026-08-21** — merged PR [#2842](https://github.com/slackhq/circuit/pull/2842) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable first party retained on android targets"
-
-**2026-08-21** — created branch `z/idea-validation-progress` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
