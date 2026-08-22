@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-21** — merged PR [#2842](https://github.com/slackhq/circuit/pull/2842) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable first party retained on android targets"
+
 **2026-08-21** — created branch `z/idea-validation-progress` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-21** — created branch `z/priority` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — opened PR [#2710](https://github.com/ZacSweers/metro/pull/2710) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add priority properties to ContributesBinding and ContributesIntoSet"
 
 **2026-08-19** — closed PR [#2447](https://github.com/ZacSweers/metro/pull/2447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More idea work"
-
-**2026-08-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
