@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-22** — created branch `z/moreRetain` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-08-22** — opened PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
 
 **2026-08-21** — opened PR [#2716](https://github.com/ZacSweers/metro/pull/2716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement suspend switching providers"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-21** — created branch `z/idea-graph-context-pinning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-21** — opened PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
-
-**2026-08-21** — opened PR [#2712](https://github.com/ZacSweers/metro/pull/2712) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support dynamic graphs in the IDEA plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
