@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-21** — created branch `z/idea-validation-progress` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-21** — created branch `z/priority` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-21** — created branch `z/idea-graph-context-pinning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-21** — opened PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-19** — closed PR [#2447](https://github.com/ZacSweers/metro/pull/2447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More idea work"
 
 **2026-08-21** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-21** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5371682815) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-21** — merged PR [#2709](https://github.com/ZacSweers/metro/pull/2709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
