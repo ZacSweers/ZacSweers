@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-22** — created branch `automation/update-availability-32562421089` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-22** — created branch `z/moreRetain` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-08-22** — merged PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
