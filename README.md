@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-23** — opened PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-23** — created branch `automation/update-availability-32628392461` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -17,12 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-22** — merged PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
 
 **2026-08-22** — merged PR [#2857](https://github.com/slackhq/circuit/pull/2857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RetainedValuesStoreOwner key with CompositeKeyHashCode"
-
-**2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-22** — created branch `automation/update-availability-32562421089` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
