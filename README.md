@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-23** — opened PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-23** — created branch `automation/update-availability-32628392461` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-08-22** — merged PR [#2710](https://github.com/ZacSweers/metro/pull/2710) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add priority properties to ContributesBinding and ContributesIntoSet"
 
 **2026-08-22** — merged PR [#2716](https://github.com/ZacSweers/metro/pull/2716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement suspend switching providers"
@@ -19,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-22** — merged PR [#522](https://github.com/ZacSweers/FieldSpottr/pull/522) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-22** — created branch `automation/update-availability-32562421089` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-22** — created branch `z/moreRetain` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
