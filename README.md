@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-24** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5396767388) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-24** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5396432245) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-08-24** — commented on [#2849](https://github.com/slackhq/circuit/pull/2849#issuecomment-5395268636) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-08-24** — created branch `automation/update-availability-32706790149` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
