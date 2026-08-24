@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-24** — closed PR [#2720](https://github.com/ZacSweers/metro/pull/2720) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update AGP to v9.3.2"
+
 **2026-08-24** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5396767388) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-08-24** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5396432245) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
