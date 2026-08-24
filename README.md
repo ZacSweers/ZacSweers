@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-24** — opened PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-24** — created branch `automation/update-availability-32706790149` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-08-24** — merged PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-24** — merged PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
@@ -15,10 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-22** — merged PR [#2710](https://github.com/ZacSweers/metro/pull/2710) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add priority properties to ContributesBinding and ContributesIntoSet"
 
 **2026-08-22** — merged PR [#2716](https://github.com/ZacSweers/metro/pull/2716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement suspend switching providers"
-
-**2026-08-22** — merged PR [#2712](https://github.com/ZacSweers/metro/pull/2712) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support dynamic graphs in the IDEA plugin"
-
-**2026-08-22** — merged PR [#2713](https://github.com/ZacSweers/metro/pull/2713) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph context pinning to the IDEA plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
