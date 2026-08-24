@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-24** — opened PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
