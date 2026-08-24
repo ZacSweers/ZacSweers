@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-23** — created branch `automation/update-availability-32628392461` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-22** — merged PR [#2710](https://github.com/ZacSweers/metro/pull/2710) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add priority properties to ContributesBinding and ContributesIntoSet"
-
-**2026-08-22** — merged PR [#2716](https://github.com/ZacSweers/metro/pull/2716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement suspend switching providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
