@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-24** — closed issue [#2725](https://github.com/ZacSweers/metro/issues/2725) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDEA Plugin: Illegal read action on EDT"
+
+**2026-08-24** — merged PR [#2726](https://github.com/ZacSweers/metro/pull/2726) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix read action on main thread"
+
+**2026-08-24** — commented on [#2724](https://github.com/ZacSweers/metro/issues/2724#issuecomment-5404527842) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-24** — merged PR [#2726](https://github.com/ZacSweers/metro/pull/2726) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix read action on main thread"
+
 **2026-08-24** — closed PR [#2720](https://github.com/ZacSweers/metro/pull/2720) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update AGP to v9.3.2"
 
 **2026-08-24** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5396767388) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-24** — created branch `automation/update-availability-32706790149` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-24** — merged PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-24** — merged PR [#526](https://github.com/ZacSweers/FieldSpottr/pull/526) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-23** — merged PR [#524](https://github.com/ZacSweers/FieldSpottr/pull/524) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-23** — created branch `automation/update-availability-32628392461` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
