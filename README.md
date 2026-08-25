@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-25** — created branch `z/fixInteropPass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-25** — closed issue [#613](https://github.com/slackhq/compose-lints/issues/613) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Consider check for composable which could be `@ReadOnlyComposable`"
+
+**2026-08-25** — merged PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
+
 **2026-08-25** — merged PR [#2729](https://github.com/ZacSweers/metro/pull/2729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container race in interop"
 
 **2026-08-25** — closed issue [#2727](https://github.com/ZacSweers/metro/issues/2727) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash: @BindingContainer with a javax @Inject constructor + Dagger interop -> "Transforming after locked!""
 
 **2026-08-25** — opened PR [#2730](https://github.com/ZacSweers/metro/pull/2730) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More move IDE graph analysis work to background work"
 
-**2026-08-25** — opened PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
+**2026-08-25** — merged PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
 
 **2026-08-25** — merged PR [#2849](https://github.com/slackhq/circuit/pull/2849) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable supertype from Screen and PopResult"
 
 **2026-08-25** — merged PR [#2728](https://github.com/ZacSweers/metro/pull/2728) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add find usages integration"
 
 **2026-08-25** — merged PR [#2729](https://github.com/ZacSweers/metro/pull/2729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container race in interop"
-
-**2026-08-25** — created branch `z/findUsages` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-25** — merged PR [#2728](https://github.com/ZacSweers/metro/pull/2728) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add find usages integration"
-
-**2026-08-25** — created branch `automation/update-availability-32827022519` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
