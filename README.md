@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-25** — opened PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
+
 **2026-08-25** — merged PR [#2849](https://github.com/slackhq/circuit/pull/2849) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable supertype from Screen and PopResult"
 
 **2026-08-25** — merged PR [#2728](https://github.com/ZacSweers/metro/pull/2728) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add find usages integration"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-25** — merged PR [#527](https://github.com/ZacSweers/FieldSpottr/pull/527) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-24** — created branch `z/fixReadAction` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-24** — closed issue [#2725](https://github.com/ZacSweers/metro/issues/2725) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDEA Plugin: Illegal read action on EDT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
