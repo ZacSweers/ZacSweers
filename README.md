@@ -4,6 +4,18 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — closed issue [#2735](https://github.com/ZacSweers/metro/issues/2735) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FIR crash (IndexOutOfBoundsException) on Dagger method injection (@Inject fun) with interop enabled"
+
+**2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
+
+**2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
+
+**2026-08-26** — merged PR [#2863](https://github.com/slackhq/circuit/pull/2863) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out nav state docs"
+
+**2026-08-26** — opened PR [#624](https://github.com/slackhq/compose-lints/pull/624) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix false-negative for read-only composable default args"
+
+**2026-08-26** — opened PR [#623](https://github.com/slackhq/compose-lints/pull/623) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix a couple issues around parameter ordering"
+
 **2026-08-26** — closed PR [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Introduced Kotlin's `object` support"
 
 **2026-08-25** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -11,18 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — commented on [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205#issuecomment-5428161886) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2026-08-26** — created branch `z/nonRestartable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-08-26** — opened PR [#622](https://github.com/slackhq/compose-lints/pull/622) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ComposeNonRestartableComposable detector"
-
-**2026-08-26** — reopened issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
-
-**2026-08-26** — closed issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
-
-**2026-08-26** — commented on [#2731](https://github.com/ZacSweers/metro/issues/2731#issuecomment-5426323758) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-26** — merged PR [#2736](https://github.com/ZacSweers/metro/pull/2736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
