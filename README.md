@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — opened PR [#2734](https://github.com/ZacSweers/metro/pull/2734) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injection nullability metadata with interop"
+
+**2026-08-26** — created branch `z/fixMemberInjectNullability` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-26** — commented on [#572](https://github.com/slackhq/compose-lints/pull/572#issuecomment-5420596333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-06-08** — closed PR [#572](https://github.com/slackhq/compose-lints/pull/572) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Added `ComposeItemKeyNotSaveable` rule"
+
 **2026-08-25** — opened PR [#2863](https://github.com/slackhq/circuit/pull/2863) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out nav state docs"
 
 **2026-08-25** — closed issue [#615](https://github.com/slackhq/compose-lints/issues/615) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false negative on composable lambda"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-25** — merged PR [#617](https://github.com/slackhq/compose-lints/pull/617) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix some false positives around composable lambdas"
 
 **2026-08-25** — created branch `z/fixInteropPass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-25** — closed issue [#613](https://github.com/slackhq/compose-lints/issues/613) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Consider check for composable which could be `@ReadOnlyComposable`"
-
-**2026-08-25** — merged PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
-
-**2026-08-25** — merged PR [#2729](https://github.com/ZacSweers/metro/pull/2729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container race in interop"
-
-**2026-08-25** — closed issue [#2727](https://github.com/ZacSweers/metro/issues/2727) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash: @BindingContainer with a javax @Inject constructor + Dagger interop -> "Transforming after locked!""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
