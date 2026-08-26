@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-25** — created branch `z/readOnlyComposable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-08-26** — closed issue [#2731](https://github.com/ZacSweers/metro/issues/2731) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen: "No expected binding found for key Provider<T?>" when registering a MembersInjector for a class with many injected fields"
 
 **2026-08-26** — merged PR [#2734](https://github.com/ZacSweers/metro/pull/2734) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injection nullability metadata with interop"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-25** — closed issue [#615](https://github.com/slackhq/compose-lints/issues/615) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false negative on composable lambda"
 
 **2026-08-25** — closed issue [#614](https://github.com/slackhq/compose-lints/issues/614) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false positive on composable lambda invocation"
-
-**2026-08-25** — merged PR [#617](https://github.com/slackhq/compose-lints/pull/617) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix some false positives around composable lambdas"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
