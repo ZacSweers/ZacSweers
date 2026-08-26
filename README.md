@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — merged PR [#2736](https://github.com/ZacSweers/metro/pull/2736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-08-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-26** — merged PR [#2736](https://github.com/ZacSweers/metro/pull/2736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-08-26** — merged PR [#531](https://github.com/ZacSweers/FieldSpottr/pull/531) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-26** — created branch `automation/update-availability-32948171429` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — closed issue [#2731](https://github.com/ZacSweers/metro/issues/2731) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Codegen: "No expected binding found for key Provider<T?>" when registering a MembersInjector for a class with many injected fields"
 
 **2026-08-26** — merged PR [#2734](https://github.com/ZacSweers/metro/pull/2734) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injection nullability metadata with interop"
-
-**2026-08-26** — merged PR [#2734](https://github.com/ZacSweers/metro/pull/2734) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injection nullability metadata with interop"
-
-**2026-08-26** — created branch `z/fixMemberInjectNullability` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-26** — commented on [#572](https://github.com/slackhq/compose-lints/pull/572#issuecomment-5420596333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
