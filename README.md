@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-25** — created branch `z/navigation-persistence-docs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-08-26** — closed issue [#2735](https://github.com/ZacSweers/metro/issues/2735) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FIR crash (IndexOutOfBoundsException) on Dagger method injection (@Inject fun) with interop enabled"
 
 **2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-25** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-08-26** — commented on [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205#issuecomment-5428161886) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2026-08-26** — created branch `z/nonRestartable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
