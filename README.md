@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — closed PR [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Introduced Kotlin's `object` support"
+
+**2026-08-25** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-08-26** — commented on [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205#issuecomment-5428161886) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2026-08-26** — created branch `z/nonRestartable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-08-26** — opened PR [#622](https://github.com/slackhq/compose-lints/pull/622) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ComposeNonRestartableComposable detector"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — merged PR [#2736](https://github.com/ZacSweers/metro/pull/2736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-26** — merged PR [#2736](https://github.com/ZacSweers/metro/pull/2736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-08-26** — merged PR [#531](https://github.com/ZacSweers/FieldSpottr/pull/531) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-26** — created branch `automation/update-availability-32948171429` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
