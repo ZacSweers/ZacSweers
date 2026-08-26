@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — merged PR [#531](https://github.com/ZacSweers/FieldSpottr/pull/531) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-26** — created branch `automation/update-availability-32948171429` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-08-26** — merged PR [#531](https://github.com/ZacSweers/FieldSpottr/pull/531) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-08-25** — created branch `z/backgroundMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-25** — created branch `z/readOnlyComposable` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — created branch `z/fixMemberInjectNullability` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-26** — commented on [#572](https://github.com/slackhq/compose-lints/pull/572#issuecomment-5420596333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-06-08** — closed PR [#572](https://github.com/slackhq/compose-lints/pull/572) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Added `ComposeItemKeyNotSaveable` rule"
-
-**2026-08-25** — opened PR [#2863](https://github.com/slackhq/circuit/pull/2863) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out nav state docs"
-
-**2026-08-25** — closed issue [#615](https://github.com/slackhq/compose-lints/issues/615) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false negative on composable lambda"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
