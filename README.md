@@ -4,7 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-25** — opened PR [#617](https://github.com/slackhq/compose-lints/pull/617) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix some false positives around composable lambdas"
+**2026-08-25** — closed issue [#615](https://github.com/slackhq/compose-lints/issues/615) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false negative on composable lambda"
+
+**2026-08-25** — closed issue [#614](https://github.com/slackhq/compose-lints/issues/614) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeRedundantComposable` false positive on composable lambda invocation"
+
+**2026-08-25** — merged PR [#617](https://github.com/slackhq/compose-lints/pull/617) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix some false positives around composable lambdas"
+
+**2026-08-25** — merged PR [#617](https://github.com/slackhq/compose-lints/pull/617) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix some false positives around composable lambdas"
 
 **2026-08-25** — created branch `z/fixInteropPass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-25** — closed issue [#2727](https://github.com/ZacSweers/metro/issues/2727) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash: @BindingContainer with a javax @Inject constructor + Dagger interop -> "Transforming after locked!""
 
 **2026-08-25** — opened PR [#2730](https://github.com/ZacSweers/metro/pull/2730) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More move IDE graph analysis work to background work"
-
-**2026-08-25** — merged PR [#616](https://github.com/slackhq/compose-lints/pull/616) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Generalize ComposeReadOnlyComposable"
-
-**2026-08-25** — merged PR [#2849](https://github.com/slackhq/circuit/pull/2849) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable supertype from Screen and PopResult"
-
-**2026-08-25** — merged PR [#2728](https://github.com/ZacSweers/metro/pull/2728) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add find usages integration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
