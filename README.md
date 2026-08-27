@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-26** — created branch `z/zeroArgMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-26** — closed issue [#2724](https://github.com/ZacSweers/metro/issues/2724) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "With enableKClassToClassMapKeyInterop enabled for Interop, binding fail when dagger.Lazy or Provider is used."
 
 **2026-08-25** — created branch `z/navigation-persistence-docs` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — merged PR [#2863](https://github.com/slackhq/circuit/pull/2863) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out nav state docs"
 
 **2026-08-26** — opened PR [#624](https://github.com/slackhq/compose-lints/pull/624) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix false-negative for read-only composable default args"
-
-**2026-08-26** — opened PR [#623](https://github.com/slackhq/compose-lints/pull/623) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix a couple issues around parameter ordering"
-
-**2026-08-26** — closed PR [#205](https://github.com/ZacSweers/auto-service-ksp/pull/205) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Introduced Kotlin's `object` support"
-
-**2026-08-25** — created branch `z/falsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
