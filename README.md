@@ -4,17 +4,23 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-26** — created branch `z/zeroArgMemberInject` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-08-27** — closed issue [#619](https://github.com/slackhq/compose-lints/issues/619) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix could respect existing trailing comma"
 
-**2026-08-26** — closed issue [#2724](https://github.com/ZacSweers/metro/issues/2724) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "With enableKClassToClassMapKeyInterop enabled for Interop, binding fail when dagger.Lazy or Provider is used."
+**2026-08-27** — closed issue [#620](https://github.com/slackhq/compose-lints/issues/620) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix erroneously places receiver into named parameter list"
 
-**2026-08-25** — created branch `z/navigation-persistence-docs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2026-08-27** — merged PR [#623](https://github.com/slackhq/compose-lints/pull/623) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix a couple issues around parameter ordering"
 
-**2026-08-26** — closed issue [#2735](https://github.com/ZacSweers/metro/issues/2735) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FIR crash (IndexOutOfBoundsException) on Dagger method injection (@Inject fun) with interop enabled"
+**2026-08-27** — closed issue [#621](https://github.com/slackhq/compose-lints/issues/621) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeReadOnlyComposable` false negative on read in default argument expression"
 
-**2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
+**2026-08-27** — merged PR [#624](https://github.com/slackhq/compose-lints/pull/624) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix false-negative for read-only composable default args"
 
-**2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
+**2026-08-27** — merged PR [#622](https://github.com/slackhq/compose-lints/pull/622) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ComposeNonRestartableComposable detector"
+
+**2026-08-27** — closed issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
+
+**2026-08-27** — merged PR [#532](https://github.com/ZacSweers/FieldSpottr/pull/532) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-27** — merged PR [#532](https://github.com/ZacSweers/FieldSpottr/pull/532) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
