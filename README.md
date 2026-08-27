@@ -15,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
 
 **2026-08-26** — merged PR [#2737](https://github.com/ZacSweers/metro/pull/2737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix support for zero-arg function member injection"
-
-**2026-08-26** — merged PR [#2863](https://github.com/slackhq/circuit/pull/2863) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out nav state docs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
