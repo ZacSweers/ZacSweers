@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-08-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-08-27** — closed issue [#619](https://github.com/slackhq/compose-lints/issues/619) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix could respect existing trailing comma"
 
 **2026-08-27** — closed issue [#620](https://github.com/slackhq/compose-lints/issues/620) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix erroneously places receiver into named parameter list"
@@ -17,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-27** — merged PR [#622](https://github.com/slackhq/compose-lints/pull/622) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ComposeNonRestartableComposable detector"
 
 **2026-08-27** — closed issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
-
-**2026-08-27** — merged PR [#532](https://github.com/ZacSweers/FieldSpottr/pull/532) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-27** — merged PR [#532](https://github.com/ZacSweers/FieldSpottr/pull/532) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
