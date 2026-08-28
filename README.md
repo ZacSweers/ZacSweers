@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-28** — Could not load GitHub activity. Please check back later.
+**2026-08-27** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5446076292) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-08-26** — created branch `z/parameterOrderFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-08-26** — created branch `z/moreFalsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-08-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-08-27** — closed issue [#619](https://github.com/slackhq/compose-lints/issues/619) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix could respect existing trailing comma"
+
+**2026-08-27** — closed issue [#620](https://github.com/slackhq/compose-lints/issues/620) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeParameterOrder` fix erroneously places receiver into named parameter list"
+
+**2026-08-27** — merged PR [#623](https://github.com/slackhq/compose-lints/pull/623) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix a couple issues around parameter ordering"
+
+**2026-08-27** — closed issue [#621](https://github.com/slackhq/compose-lints/issues/621) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeReadOnlyComposable` false negative on read in default argument expression"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
