@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-29** — opened PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-08-29** — created branch `z/noPreviews` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-08-29** — merged PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-08-29** — merged PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-29** — opened PR [#627](https://github.com/slackhq/compose-lints/pull/627) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't suggest `@NonRestartableComposable` on  previews"
 
@@ -15,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-26** — created branch `z/parameterOrderFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-08-26** — created branch `z/moreFalsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
