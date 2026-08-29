@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-29** — opened PR [#627](https://github.com/slackhq/compose-lints/pull/627) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't suggest `@NonRestartableComposable` on  previews"
+
 **2026-08-27** — created branch `automation/update-availability-33068712206` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-08-27** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5446076292) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -15,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-08-27** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-08-27** — merged PR [#2743](https://github.com/ZacSweers/metro/pull/2743) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
