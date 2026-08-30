@@ -4,19 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-05** — closed PR [#908](https://github.com/ZacSweers/CatchUp/pull/908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate ShellSentry w/ AI"
 
-**2026-08-29** — closed PR [#2528](https://github.com/ZacSweers/CatchUp/pull/2528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.bouncycastle:bcprov-jdk18on to v1.85.2"
-
-**2024-06-03** — closed PR [#1492](https://github.com/ZacSweers/CatchUp/pull/1492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try ListDetailPaneScaffold"
-
-**2024-05-23** — closed PR [#1469](https://github.com/ZacSweers/CatchUp/pull/1469) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Tinker with routing DSL"
-
-**2023-02-11** — closed PR [#501](https://github.com/ZacSweers/CatchUp/pull/501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP theme screen"
-
-**2023-09-01** — closed PR [#924](https://github.com/ZacSweers/CatchUp/pull/924) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Tinker with a ScaffoldScreen"
-
-**2026-08-29** — closed PR [#134](https://github.com/ZacSweers/auto-service-ksp/pull/134) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v2.1.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
