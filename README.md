@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — closed PR [#908](https://github.com/ZacSweers/CatchUp/pull/908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate ShellSentry w/ AI"
+
 **2026-08-29** — closed PR [#2528](https://github.com/ZacSweers/CatchUp/pull/2528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.bouncycastle:bcprov-jdk18on to v1.85.2"
 
 **2024-06-03** — closed PR [#1492](https://github.com/ZacSweers/CatchUp/pull/1492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try ListDetailPaneScaffold"
