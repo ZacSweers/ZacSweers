@@ -13,14 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-29** — merged PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-29** — opened PR [#627](https://github.com/slackhq/compose-lints/pull/627) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't suggest `@NonRestartableComposable` on  previews"
-
-**2026-08-27** — created branch `automation/update-availability-33068712206` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-27** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5446076292) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-26** — created branch `z/parameterOrderFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-08-26** — created branch `z/moreFalsePositives` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
