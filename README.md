@@ -4,15 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-29** — created branch `automation/update-availability-33243267785` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-08-29** — created branch `z/noPreviews` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-08-29** — merged PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-29** — merged PR [#533](https://github.com/ZacSweers/FieldSpottr/pull/533) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-29** — opened PR [#627](https://github.com/slackhq/compose-lints/pull/627) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't suggest `@NonRestartableComposable` on  previews"
+**2026-08-29** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
