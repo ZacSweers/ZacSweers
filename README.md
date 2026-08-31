@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-31** — created branch `zacsweers/immutable-ide-indexes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-08-31** — created branch `zacsweers/background-ide-resolution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-08-31** — opened PR [#2750](https://github.com/ZacSweers/metro/pull/2750) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope background graph validation and guard result publication"
 
 **2026-08-31** — opened PR [#2749](https://github.com/ZacSweers/metro/pull/2749) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Coordinate IDE index and presentation builds in the background"
