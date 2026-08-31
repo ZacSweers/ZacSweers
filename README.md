@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-31** — opened PR [#2750](https://github.com/ZacSweers/metro/pull/2750) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope background graph validation and guard result publication"
+
+**2026-08-31** — opened PR [#2749](https://github.com/ZacSweers/metro/pull/2749) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Coordinate IDE index and presentation builds in the background"
+
+**2026-08-31** — opened PR [#2748](https://github.com/ZacSweers/metro/pull/2748) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish immutable IDE indexes with scoped resolution sessions"
+
+**2026-08-31** — opened PR [#2747](https://github.com/ZacSweers/metro/pull/2747) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make shared graph analysis cooperatively cancellable"
+
 **2026-08-31** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5480153765) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-08-31** — merged PR [#537](https://github.com/ZacSweers/FieldSpottr/pull/537) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
