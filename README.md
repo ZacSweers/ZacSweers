@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-08-31** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5480153765) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-08-31** — merged PR [#537](https://github.com/ZacSweers/FieldSpottr/pull/537) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-08-31** — created branch `automation/update-availability-33373832863` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
