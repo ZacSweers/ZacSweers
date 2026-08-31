@@ -4,7 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-08-31** — Could not load GitHub activity. Please check back later.
+
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
