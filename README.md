@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-02** — merged PR [#2757](https://github.com/ZacSweers/metro/pull/2757) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-02** — merged PR [#2757](https://github.com/ZacSweers/metro/pull/2757) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-08-31** — created branch `zacsweers/background-graph-validation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-08-31** — created branch `zacsweers/immutable-ide-indexes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-08-31** — opened PR [#2747](https://github.com/ZacSweers/metro/pull/2747) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make shared graph analysis cooperatively cancellable"
 
 **2026-08-31** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5480153765) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-08-31** — merged PR [#537](https://github.com/ZacSweers/FieldSpottr/pull/537) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-08-31** — created branch `automation/update-availability-33373832863` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
