@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-02** — closed issue [#1708](https://github.com/ZacSweers/metro/issues/1708) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support FIR IC"
+**2026-09-03** — merged PR [#2761](https://github.com/ZacSweers/metro/pull/2761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test newer RCs"
 
-**2026-09-02** — commented on [#1708](https://github.com/ZacSweers/metro/issues/1708#issuecomment-5514883838) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-03** — merged PR [#2760](https://github.com/ZacSweers/metro/pull/2760) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small doc fixes"
 
-**2026-09-02** — opened issue [#1865](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1865) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Dependency analysis crashes with a JVM target named desktop"
+**2026-09-03** — merged PR [#2759](https://github.com/ZacSweers/metro/pull/2759) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix class map key interop across modules"
 
-**2026-09-02** — merged PR [#2757](https://github.com/ZacSweers/metro/pull/2757) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-09-03** — closed issue [#2755](https://github.com/ZacSweers/metro/issues/2755) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KClassToClassMapKeyInterop  ClassCastException when injected as a Provider across modules"
 
-**2026-09-02** — merged PR [#2757](https://github.com/ZacSweers/metro/pull/2757) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-09-03** — merged PR [#2761](https://github.com/ZacSweers/metro/pull/2761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test newer RCs"
 
-**2026-08-31** — created branch `zacsweers/background-graph-validation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-03** — merged PR [#2748](https://github.com/ZacSweers/metro/pull/2748) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish immutable IDE indexes with scoped resolution sessions"
 
-**2026-08-31** — created branch `zacsweers/immutable-ide-indexes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-03** — merged PR [#2730](https://github.com/ZacSweers/metro/pull/2730) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use background snapshots for IDE presentation and navigation"
 
-**2026-08-31** — created branch `zacsweers/background-ide-resolution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-03** — merged PR [#2750](https://github.com/ZacSweers/metro/pull/2750) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope background graph validation and guard result publication"
 
-**2026-08-31** — opened PR [#2750](https://github.com/ZacSweers/metro/pull/2750) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope background graph validation and guard result publication"
+**2026-09-03** — merged PR [#2749](https://github.com/ZacSweers/metro/pull/2749) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Coordinate IDE index and presentation builds in the background"
 
-**2026-08-31** — opened PR [#2749](https://github.com/ZacSweers/metro/pull/2749) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Coordinate IDE index and presentation builds in the background"
+**2026-09-03** — merged PR [#2747](https://github.com/ZacSweers/metro/pull/2747) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make shared graph analysis cooperatively cancellable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
