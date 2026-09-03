@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-03** — opened PR [#2762](https://github.com/ZacSweers/metro/pull/2762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-09-03** — merged PR [#2761](https://github.com/ZacSweers/metro/pull/2761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test newer RCs"
 
 **2026-09-03** — merged PR [#2760](https://github.com/ZacSweers/metro/pull/2760) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small doc fixes"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-03** — merged PR [#2750](https://github.com/ZacSweers/metro/pull/2750) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope background graph validation and guard result publication"
 
 **2026-09-03** — merged PR [#2749](https://github.com/ZacSweers/metro/pull/2749) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Coordinate IDE index and presentation builds in the background"
-
-**2026-09-03** — merged PR [#2747](https://github.com/ZacSweers/metro/pull/2747) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make shared graph analysis cooperatively cancellable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
