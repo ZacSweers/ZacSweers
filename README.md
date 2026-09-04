@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-04** — merged PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
+
 **2026-09-04** — commented on [#2767](https://github.com/ZacSweers/metro/pull/2767#issuecomment-5544368139) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-03** — created branch `z/classKeyInteropMultimodule` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -14,7 +16,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-09-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-03** — opened PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
+**2026-09-03** — merged PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
