@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-04** — opened PR [#2770](https://github.com/ZacSweers/metro/pull/2770) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker for contributed interfaces that could be containers"
+
+**2026-09-04** — opened PR [#632](https://github.com/slackhq/compose-lints/pull/632) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve code flow analysis for handling modifier and slot reuse"
+
+**2026-09-04** — opened PR [#2769](https://github.com/ZacSweers/metro/pull/2769) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA tracing support"
+
 **2026-09-03** — created branch `z/docFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-04** — merged PR [#2762](https://github.com/ZacSweers/metro/pull/2762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -17,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-03** — created branch `z/moreRCs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
