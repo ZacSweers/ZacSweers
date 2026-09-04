@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-04** — merged PR [#2762](https://github.com/ZacSweers/metro/pull/2762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-09-04** — merged PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
 
 **2026-09-04** — commented on [#2767](https://github.com/ZacSweers/metro/pull/2767#issuecomment-5544368139) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
