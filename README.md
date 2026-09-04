@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-03** — opened PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-03** — merged PR [#2761](https://github.com/ZacSweers/metro/pull/2761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test newer RCs"
 
 **2026-09-03** — merged PR [#2748](https://github.com/ZacSweers/metro/pull/2748) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish immutable IDE indexes with scoped resolution sessions"
-
-**2026-09-03** — merged PR [#2730](https://github.com/ZacSweers/metro/pull/2730) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use background snapshots for IDE presentation and navigation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
