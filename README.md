@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-03** — created branch `z/classKeyInteropMultimodule` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-03** — created branch `z/moreRCs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-03** — merged PR [#2760](https://github.com/ZacSweers/metro/pull/2760) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small doc fixes"
 
 **2026-09-03** — merged PR [#2759](https://github.com/ZacSweers/metro/pull/2759) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix class map key interop across modules"
-
-**2026-09-03** — closed issue [#2755](https://github.com/ZacSweers/metro/issues/2755) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KClassToClassMapKeyInterop  ClassCastException when injected as a Provider across modules"
-
-**2026-09-03** — merged PR [#2761](https://github.com/ZacSweers/metro/pull/2761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test newer RCs"
-
-**2026-09-03** — merged PR [#2748](https://github.com/ZacSweers/metro/pull/2748) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publish immutable IDE indexes with scoped resolution sessions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
