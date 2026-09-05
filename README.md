@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-04** — created branch `z/parallelAnalysis` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-05** — opened PR [#2772](https://github.com/ZacSweers/metro/pull/2772) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize graph analysis in IDEA"
+
 **2026-09-05** — commented on [#631](https://github.com/slackhq/compose-lints/pull/631#issuecomment-5552631438) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-09-05** — merged PR [#627](https://github.com/slackhq/compose-lints/pull/627) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't suggest `@NonRestartableComposable` on  previews"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-03** — created branch `z/moreIdeWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-05** — merged PR [#2771](https://github.com/ZacSweers/metro/pull/2771) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix internal object contribution providers in IR class gen"
-
-**2026-09-04** — merged PR [#2770](https://github.com/ZacSweers/metro/pull/2770) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker for contributed interfaces that could be containers"
-
-**2026-09-04** — merged PR [#2771](https://github.com/ZacSweers/metro/pull/2771) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix internal object contribution providers in IR class gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
