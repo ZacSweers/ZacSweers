@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-04** — commented on [#633](https://github.com/slackhq/compose-lints/pull/633#issuecomment-5548590833) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-09-04** — closed PR [#633](https://github.com/slackhq/compose-lints/pull/633) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "docs: remove obsolete ComposeComposableModifier guidance"
-
-**2026-09-04** — merged PR [#2769](https://github.com/ZacSweers/metro/pull/2769) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA tracing support"
-
-**2026-09-04** — opened PR [#2770](https://github.com/ZacSweers/metro/pull/2770) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker for contributed interfaces that could be containers"
-
-**2026-09-04** — opened PR [#632](https://github.com/slackhq/compose-lints/pull/632) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve code flow analysis for handling modifier and slot reuse"
-
-**2026-09-04** — merged PR [#2769](https://github.com/ZacSweers/metro/pull/2769) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add IDEA tracing support"
-
-**2026-09-03** — created branch `z/docFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-04** — merged PR [#2762](https://github.com/ZacSweers/metro/pull/2762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-04** — merged PR [#2763](https://github.com/ZacSweers/metro/pull/2763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Final pass at a bunch of small IDE fixes and cleanups"
-
-**2026-09-04** — commented on [#2767](https://github.com/ZacSweers/metro/pull/2767#issuecomment-5544368139) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-04** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
