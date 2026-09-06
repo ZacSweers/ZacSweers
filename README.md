@@ -4,19 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-06** — opened PR [#2777](https://github.com/ZacSweers/metro/pull/2777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Visit each instantiated supertype once"
+**2026-09-06** — merged PR [#2779](https://github.com/ZacSweers/metro/pull/2779) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compare effective map keys"
 
-**2026-09-06** — merged PR [#2776](https://github.com/ZacSweers/metro/pull/2776) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache complete binding container closures"
+**2026-09-06** — merged PR [#2777](https://github.com/ZacSweers/metro/pull/2777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Visit each instantiated supertype once"
 
-**2026-09-06** — merged PR [#2775](https://github.com/ZacSweers/metro/pull/2775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic assisted factory parameter checks"
+**2026-09-06** — merged PR [#2778](https://github.com/ZacSweers/metro/pull/2778) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ignore replacements from excluded contributions"
 
-**2026-09-06** — merged PR [#2776](https://github.com/ZacSweers/metro/pull/2776) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache complete binding container closures"
+**2026-09-06** — opened PR [#2784](https://github.com/ZacSweers/metro/pull/2784) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep dynamic graph types and arguments aligned"
 
-**2026-09-06** — merged PR [#2775](https://github.com/ZacSweers/metro/pull/2775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic assisted factory parameter checks"
+**2026-09-06** — opened PR [#2783](https://github.com/ZacSweers/metro/pull/2783) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check suspend multibindings used by assisted factories"
 
-**2026-09-06** — opened PR [#2774](https://github.com/ZacSweers/metro/pull/2774) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Beef up IrAnnotation equality"
+**2026-09-06** — opened PR [#2782](https://github.com/ZacSweers/metro/pull/2782) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Filter source contributions by graph scope"
 
-**2026-09-06** — merged PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+**2026-09-06** — opened PR [#2781](https://github.com/ZacSweers/metro/pull/2781) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore inline provider values from metadata"
+
+**2026-09-06** — opened PR [#2780](https://github.com/ZacSweers/metro/pull/2780) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Index hard dependencies during graph sorting"
+
+**2026-09-06** — merged PR [#2774](https://github.com/ZacSweers/metro/pull/2774) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Beef up IrAnnotation equality"
+
+**2026-09-06** — merged PR [#2779](https://github.com/ZacSweers/metro/pull/2779) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compare effective map keys"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
