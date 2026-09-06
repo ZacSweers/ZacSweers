@@ -10,15 +10,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-09-06** — created branch `z/inlineMetadataValues` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/excludedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
 **2026-09-06** — created branch `z/indexHardDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/scopedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/assistedFactoryTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — created branch `z/excludedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/inlinedContainerInitialization` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-06** — created branch `z/assistedFactoryTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — opened PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 
