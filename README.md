@@ -4,23 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-06** — merged PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+**2026-09-06** — opened PR [#2777](https://github.com/ZacSweers/metro/pull/2777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Visit each instantiated supertype once"
 
-**2026-09-06** — created branch `z/providerInlineStats` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — merged PR [#2776](https://github.com/ZacSweers/metro/pull/2776) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache complete binding container closures"
 
-**2026-09-06** — created branch `z/containerClosureCache` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — merged PR [#2775](https://github.com/ZacSweers/metro/pull/2775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic assisted factory parameter checks"
 
-**2026-09-06** — created branch `z/inlineMetadataValues` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — merged PR [#2776](https://github.com/ZacSweers/metro/pull/2776) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache complete binding container closures"
 
-**2026-09-06** — created branch `z/indexHardDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — merged PR [#2775](https://github.com/ZacSweers/metro/pull/2775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic assisted factory parameter checks"
 
-**2026-09-06** — created branch `z/excludedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — created branch `z/scopedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — created branch `z/inlinedContainerInitialization` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — created branch `z/assistedFactoryTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — opened PR [#2774](https://github.com/ZacSweers/metro/pull/2774) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Beef up IrAnnotation equality"
 
 **2026-09-06** — merged PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 <!-- githubActivity ends -->
