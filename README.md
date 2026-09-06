@@ -4,15 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-06** — merged PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
 **2026-09-06** — created branch `z/providerInlineStats` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/containerClosureCache` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/inlineMetadataValues` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/excludedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
 **2026-09-06** — created branch `z/indexHardDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-06** — created branch `z/excludedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/scopedContributionReplacements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -20,9 +22,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-09-06** — created branch `z/inlinedContainerInitialization` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — opened PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-09-05** — merged PR [#2772](https://github.com/ZacSweers/metro/pull/2772) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize graph analysis in IDEA"
+**2026-09-06** — merged PR [#2773](https://github.com/ZacSweers/metro/pull/2773) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
