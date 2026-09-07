@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-07** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
+
+**2026-09-07** — opened PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
+
+**2026-09-06** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
+
+**2026-09-04** — created branch `z/idea/trace` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-06** — merged PR [#2792](https://github.com/ZacSweers/metro/pull/2792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warn about array class literals in annotation keys"
+
 **2026-09-06** — opened PR [#265](https://github.com/vRallev/app-platform/pull/265) to [vRallev/app-platform](https://github.com/vRallev/app-platform): "Use Metro compiler-compat for broader compiler compat"
 
 **2026-09-06** — created branch `z/compat` on [ZacSweers/app-platform](https://github.com/ZacSweers/app-platform)
 
-**2026-09-06** — opened PR [#2792](https://github.com/ZacSweers/metro/pull/2792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warn about array class literals in annotation keys"
+**2026-09-06** — merged PR [#2792](https://github.com/ZacSweers/metro/pull/2792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warn about array class literals in annotation keys"
 
 **2026-09-06** — merged PR [#2790](https://github.com/ZacSweers/metro/pull/2790) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix early scope resolution for generic typealiases"
 
 **2026-09-06** — merged PR [#2789](https://github.com/ZacSweers/metro/pull/2789) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit contribution replacements to graph scopes"
-
-**2026-09-06** — merged PR [#2791](https://github.com/ZacSweers/metro/pull/2791) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse missing member injector results"
-
-**2026-09-06** — merged PR [#2788](https://github.com/ZacSweers/metro/pull/2788) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep required dependencies separate from optional lookup misses"
-
-**2026-09-06** — merged PR [#2787](https://github.com/ZacSweers/metro/pull/2787) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report provider inline counts"
-
-**2026-09-06** — merged PR [#2786](https://github.com/ZacSweers/metro/pull/2786) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic binding container aliases"
-
-**2026-09-06** — merged PR [#2791](https://github.com/ZacSweers/metro/pull/2791) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse missing member injector results"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
