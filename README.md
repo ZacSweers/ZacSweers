@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-07** — opened PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
+
+**2026-09-07** — created branch `z/2420Final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-07** — merged PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
+
 **2026-09-04** — created branch `z/anotherIrClassFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-04** — created branch `z/contributesToContainer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -12,17 +18,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-09-07** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
 
-**2026-09-07** — opened PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
+**2026-09-07** — merged PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
 
 **2026-09-06** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
-
-**2026-09-04** — created branch `z/idea/trace` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — merged PR [#2792](https://github.com/ZacSweers/metro/pull/2792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warn about array class literals in annotation keys"
-
-**2026-09-06** — opened PR [#265](https://github.com/vRallev/app-platform/pull/265) to [vRallev/app-platform](https://github.com/vRallev/app-platform): "Use Metro compiler-compat for broader compiler compat"
-
-**2026-09-06** — created branch `z/compat` on [ZacSweers/app-platform](https://github.com/ZacSweers/app-platform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
