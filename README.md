@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-04** — created branch `z/anotherIrClassFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-04** — created branch `z/contributesToContainer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-04** — created branch `z/improveBranchingLogic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-06** — opened PR [#265](https://github.com/vRallev/app-platform/pull/265) to [vRallev/app-platform](https://github.com/vRallev/app-platform): "Use Metro compiler-compat for broader compiler compat"
 
 **2026-09-06** — created branch `z/compat` on [ZacSweers/app-platform](https://github.com/ZacSweers/app-platform)
-
-**2026-09-06** — merged PR [#2792](https://github.com/ZacSweers/metro/pull/2792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Warn about array class literals in annotation keys"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
