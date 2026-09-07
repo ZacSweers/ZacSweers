@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-07** — opened PR [#2798](https://github.com/ZacSweers/metro/pull/2798) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build against 2.4.20 and clean up tested versions"
+
+**2026-09-07** — created branch `z/bump2410` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-07** — merged PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
 
 **2026-09-07** — merged PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
@@ -17,10 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-04** — created branch `z/contributesToContainer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-04** — created branch `z/improveBranchingLogic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-09-07** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
-
-**2026-09-07** — merged PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
