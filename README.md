@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-06** — opened PR [#2790](https://github.com/ZacSweers/metro/pull/2790) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix early scope resolution for generic typealiases"
+
+**2026-09-06** — opened PR [#2789](https://github.com/ZacSweers/metro/pull/2789) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit contribution replacements to graph scopes"
+
+**2026-09-06** — opened PR [#2788](https://github.com/ZacSweers/metro/pull/2788) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep required dependencies separate from optional lookup misses"
+
+**2026-09-06** — opened PR [#2787](https://github.com/ZacSweers/metro/pull/2787) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report provider inline counts"
+
+**2026-09-06** — opened PR [#2786](https://github.com/ZacSweers/metro/pull/2786) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic binding container aliases"
+
 **2026-09-06** — merged PR [#2785](https://github.com/ZacSweers/metro/pull/2785) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Speed up CI"
 
 **2026-09-06** — merged PR [#2782](https://github.com/ZacSweers/metro/pull/2782) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Filter source contributions by graph scope"
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-06** — merged PR [#2784](https://github.com/ZacSweers/metro/pull/2784) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep dynamic graph types and arguments aligned"
 
 **2026-09-06** — merged PR [#2783](https://github.com/ZacSweers/metro/pull/2783) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check suspend multibindings used by assisted factories"
-
-**2026-09-06** — merged PR [#2780](https://github.com/ZacSweers/metro/pull/2780) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Index hard dependencies during graph sorting"
-
-**2026-09-06** — merged PR [#2785](https://github.com/ZacSweers/metro/pull/2785) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Speed up CI"
-
-**2026-09-06** — created branch `z/fasterCI` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — merged PR [#2779](https://github.com/ZacSweers/metro/pull/2779) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compare effective map keys"
-
-**2026-09-06** — merged PR [#2777](https://github.com/ZacSweers/metro/pull/2777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Visit each instantiated supertype once"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
