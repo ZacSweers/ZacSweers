@@ -4,7 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-07** — opened PR [#2798](https://github.com/ZacSweers/metro/pull/2798) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build against 2.4.20 and clean up tested versions"
+**2026-09-07** — merged PR [#2799](https://github.com/ZacSweers/metro/pull/2799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix class gen tests on main"
+
+**2026-09-07** — merged PR [#2799](https://github.com/ZacSweers/metro/pull/2799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix class gen tests on main"
+
+**2026-09-06** — created branch `z/resolveGenericScopeAliases` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-07** — merged PR [#2798](https://github.com/ZacSweers/metro/pull/2798) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build against 2.4.20 and clean up tested versions"
+
+**2026-09-07** — merged PR [#2798](https://github.com/ZacSweers/metro/pull/2798) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build against 2.4.20 and clean up tested versions"
 
 **2026-09-07** — created branch `z/bump2410` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -15,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-07** — created branch `z/2420Final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-07** — merged PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
-
-**2026-09-04** — created branch `z/anotherIrClassFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-04** — created branch `z/contributesToContainer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-04** — created branch `z/improveBranchingLogic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
