@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-07** — opened PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
+**2026-09-07** — merged PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
+
+**2026-09-07** — merged PR [#2797](https://github.com/ZacSweers/metro/pull/2797) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "2.4.20 final"
 
 **2026-09-07** — created branch `z/2420Final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-07** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
 
 **2026-09-07** — merged PR [#2794](https://github.com/ZacSweers/metro/pull/2794) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework compiler parallelism"
-
-**2026-09-06** — merged PR [#2793](https://github.com/ZacSweers/metro/pull/2793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up sample warnings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
