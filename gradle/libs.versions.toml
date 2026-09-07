@@ -6,7 +6,7 @@ kotlin = "2.4.10"
 kotlinx-serialization = "1.11.0"
 ktor = "3.5.2"
 markdown = "0.45.0"
-mordant = "3.0.2"
+mordant = "3.1.0"
 xmlutil = "1.0.2.1"
 
 [plugins]
