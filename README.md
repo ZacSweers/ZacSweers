@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-06** — created branch `z/warnArrayClassKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-06** — created branch `z/dynamicGraphIdentity` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-06** — created branch `z/updateVersions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/filterFirContributionsByScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/parallelIrCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — created branch `z/deduplicateTypeSubstitutions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/effectiveMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/deduplicateTypeSubstitutions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — created branch `z/parallelIrCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/genericBindsReceiver` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/annotationEquality` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/memberInjectorMissCache` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — created branch `z/requiredDependencyRequests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-06** — created branch `z/assistedSuspendMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
