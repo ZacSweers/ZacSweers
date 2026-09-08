@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-08** — opened PR [#2804](https://github.com/ZacSweers/metro/pull/2804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fresh paint on benchmark dashboards"
+
+**2026-09-08** — commented on [#2882](https://github.com/slackhq/circuit/issues/2882#issuecomment-5591151278) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-09-08** — merged PR [#632](https://github.com/slackhq/compose-lints/pull/632) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve code flow analysis for handling modifier and slot reuse"
 
 **2026-09-08** — closed issue [#466](https://github.com/slackhq/compose-lints/issues/466) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Rule to detect not passing modifier to all branches"
