@@ -4,11 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-08** — merged PR [#2800](https://github.com/ZacSweers/metro/pull/2800) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix various test warnings"
 
-**2026-09-08** — merged PR [#2800](https://github.com/ZacSweers/metro/pull/2800) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix various test warnings"
-
-**2026-09-08** — created branch `z/fixVariousTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
