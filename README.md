@@ -6,11 +6,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 <!-- githubActivity starts -->
 **2026-09-06** — created branch `z/filterFirContributionsByScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/effectiveMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — created branch `z/parallelIrCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/deduplicateTypeSubstitutions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/parallelIrCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-06** — created branch `z/effectiveMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-06** — created branch `z/genericBindsReceiver` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
