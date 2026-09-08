@@ -20,9 +20,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-09-06** — created branch `z/deduplicateTypeSubstitutions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-09-06** — created branch `z/effectiveMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
 **2026-09-06** — created branch `z/parallelIrCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-06** — created branch `z/effectiveMapKeys` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
