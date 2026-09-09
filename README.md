@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-09** — merged PR [#2767](https://github.com/slackhq/circuit/pull/2767) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.20"
+
 **2026-09-07** — created branch `z/fixMain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-08** — merged PR [#2804](https://github.com/ZacSweers/metro/pull/2804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fresh paint on benchmark dashboards"
