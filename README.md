@@ -4,17 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-10** — opened PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
+
+**2026-09-10** — created branch `z/fixIdeGraphValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-09** — merged PR [#2767](https://github.com/slackhq/circuit/pull/2767) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.20"
 
 **2026-09-07** — created branch `z/fixMain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-08** — merged PR [#2804](https://github.com/ZacSweers/metro/pull/2804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fresh paint on benchmark dashboards"
-
-**2026-09-08** — created branch `z/revampSiteBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-08** — merged PR [#2804](https://github.com/ZacSweers/metro/pull/2804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fresh paint on benchmark dashboards"
-
-**2026-09-08** — commented on [#2882](https://github.com/slackhq/circuit/issues/2882#issuecomment-5591151278) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
