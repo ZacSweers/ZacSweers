@@ -4,13 +4,21 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-10** — opened PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
+**2026-09-10** — merged PR [#2817](https://github.com/ZacSweers/metro/pull/2817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support warning-level overrides in fallback diagnostics"
+
+**2026-09-10** — closed issue [#2805](https://github.com/ZacSweers/metro/issues/2805) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unable to suppress SUSPICIOUS_UNUSED_MULTIBINDING when it occurs in subcomponent (Dagger Interop)"
+
+**2026-09-10** — merged PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
+
+**2026-09-10** — merged PR [#2817](https://github.com/ZacSweers/metro/pull/2817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support warning-level overrides in fallback diagnostics"
+
+**2026-09-10** — created branch `z/warningLevelInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-10** — merged PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
 
 **2026-09-10** — created branch `z/fixIdeGraphValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-09** — merged PR [#2767](https://github.com/slackhq/circuit/pull/2767) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.20"
-
-**2026-09-07** — created branch `z/fixMain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
