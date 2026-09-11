@@ -17,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-10** — merged PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
 
 **2026-09-10** — created branch `z/fixIdeGraphValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-09** — merged PR [#2767](https://github.com/slackhq/circuit/pull/2767) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 2.4.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
