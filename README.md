@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-11** — merged PR [#2819](https://github.com/ZacSweers/metro/pull/2819) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-11** — merged PR [#2819](https://github.com/ZacSweers/metro/pull/2819) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-11** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-10** — merged PR [#2817](https://github.com/ZacSweers/metro/pull/2817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support warning-level overrides in fallback diagnostics"
 
 **2026-09-10** — closed issue [#2805](https://github.com/ZacSweers/metro/issues/2805) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unable to suppress SUSPICIOUS_UNUSED_MULTIBINDING when it occurs in subcomponent (Dagger Interop)"
