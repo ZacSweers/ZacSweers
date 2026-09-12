@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-10** — merged PR [#2815](https://github.com/ZacSweers/metro/pull/2815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix false errors in IDE graph validation"
 
 **2026-09-10** — merged PR [#2817](https://github.com/ZacSweers/metro/pull/2817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support warning-level overrides in fallback diagnostics"
-
-**2026-09-10** — created branch `z/warningLevelInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
