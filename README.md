@@ -4,17 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-13** — opened PR [#2824](https://github.com/ZacSweers/metro/pull/2824) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add static graph viewer to site"
+**2026-09-13** — merged PR [#1855](https://github.com/slackhq/foundry/pull/1855) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.20"
 
-**2026-09-12** — merged PR [#2822](https://github.com/ZacSweers/metro/pull/2822) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow compat to fall back to dev from release"
+**2026-09-13** — merged PR [#462](https://github.com/ZacSweers/FieldSpottr/pull/462) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.20 prep"
 
-**2026-09-12** — merged PR [#2822](https://github.com/ZacSweers/metro/pull/2822) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow compat to fall back to dev from release"
+**2026-09-13** — merged PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20"
 
-**2026-09-12** — merged PR [#2821](https://github.com/ZacSweers/metro/pull/2821) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph visualization V2"
+**2026-09-13** — merged PR [#951](https://github.com/ZacSweers/MoshiX/pull/951) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20"
 
-**2026-09-12** — merged PR [#2821](https://github.com/ZacSweers/metro/pull/2821) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph visualization V2"
+**2026-09-13** — merged PR [#470](https://github.com/ZacSweers/kotlin-compile-testing/pull/470) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.20"
 
-**2026-09-12** — created branch `z/graphViz` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-09-13** — merged PR [#2478](https://github.com/ZacSweers/CatchUp/pull/2478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.4.20 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
