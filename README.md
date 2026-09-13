@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-12** — opened PR [#2821](https://github.com/ZacSweers/metro/pull/2821) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph visualization V2"
+
 **2026-09-12** — created branch `z/graphViz` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-12** — commented on [#2311](https://github.com/ZacSweers/metro/issues/2311#issuecomment-5647625351) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
