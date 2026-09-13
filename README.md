@@ -11,10 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-13** — merged PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20"
 
 **2026-09-13** — merged PR [#951](https://github.com/ZacSweers/MoshiX/pull/951) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20"
-
-**2026-09-13** — merged PR [#470](https://github.com/ZacSweers/kotlin-compile-testing/pull/470) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.4.20"
-
-**2026-09-13** — merged PR [#2478](https://github.com/ZacSweers/CatchUp/pull/2478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.4.20 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
