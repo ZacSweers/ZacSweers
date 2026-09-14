@@ -9,8 +9,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-13** — merged PR [#1855](https://github.com/slackhq/foundry/pull/1855) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.20"
 
 **2026-09-13** — merged PR [#462](https://github.com/ZacSweers/FieldSpottr/pull/462) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.20 prep"
-
-**2026-09-13** — merged PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
