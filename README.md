@@ -4,13 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-12** — created branch `z/fallback` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-13** — merged PR [#1855](https://github.com/slackhq/foundry/pull/1855) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kotlin 2.4.20"
 
 **2026-09-13** — merged PR [#462](https://github.com/ZacSweers/FieldSpottr/pull/462) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.4.20 prep"
 
 **2026-09-13** — merged PR [#440](https://github.com/ZacSweers/redacted-compiler-plugin/pull/440) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.4.20"
-
-**2026-09-13** — merged PR [#951](https://github.com/ZacSweers/MoshiX/pull/951) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.4.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
