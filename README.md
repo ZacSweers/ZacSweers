@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-15** — merged PR [#2829](https://github.com/ZacSweers/metro/pull/2829) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support 2.5.0-dev-7307"
+
 **2026-09-15** — commented on [#489](https://github.com/ZacSweers/kotlin-compile-testing/issues/489#issuecomment-5688683896) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-09-15** — closed issue [#489](https://github.com/ZacSweers/kotlin-compile-testing/issues/489) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "setNoCheckActual is removed in 2.5.0 dev"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-15** — merged PR [#2833](https://github.com/ZacSweers/metro/pull/2833) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Find dependency cycles for errors in one pass"
 
 **2026-09-15** — merged PR [#2833](https://github.com/ZacSweers/metro/pull/2833) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Find dependency cycles for errors in one pass"
-
-**2026-09-15** — merged PR [#2832](https://github.com/ZacSweers/metro/pull/2832) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reject hard dependency cycles earlier"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
