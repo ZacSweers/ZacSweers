@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-15** — commented on [#2882](https://github.com/slackhq/circuit/issues/2882#issuecomment-5687985818) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-09-15** — created branch `z/rejectHardCyclesEarlier` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-15** — merged PR [#2832](https://github.com/ZacSweers/metro/pull/2832) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reject hard dependency cycles earlier"
 
 **2026-09-15** — merged PR [#2833](https://github.com/ZacSweers/metro/pull/2833) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Find dependency cycles for errors in one pass"
