@@ -11,12 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-15** — closed issue [#489](https://github.com/ZacSweers/kotlin-compile-testing/issues/489) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "setNoCheckActual is removed in 2.5.0 dev"
 
 **2026-09-15** — merged PR [#490](https://github.com/ZacSweers/kotlin-compile-testing/pull/490) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix Kotlin 2.5 noCheckActual compatibility"
-
-**2026-09-15** — merged PR [#490](https://github.com/ZacSweers/kotlin-compile-testing/pull/490) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix Kotlin 2.5 noCheckActual compatibility"
-
-**2026-09-15** — commented on [#2882](https://github.com/slackhq/circuit/issues/2882#issuecomment-5687985818) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-09-15** — created branch `z/rejectHardCyclesEarlier` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
