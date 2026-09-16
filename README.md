@@ -4,13 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-16** — merged PR [#2842](https://github.com/ZacSweers/metro/pull/2842) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add cycle benchmarks + cache neighbors"
+
+**2026-09-16** — merged PR [#2842](https://github.com/ZacSweers/metro/pull/2842) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add cycle benchmarks + cache neighbors"
+
 **2026-09-16** — merged PR [#2838](https://github.com/ZacSweers/metro/pull/2838) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-16** — merged PR [#2838](https://github.com/ZacSweers/metro/pull/2838) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-15** — created branch `z/250compat` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-09-15** — merged PR [#2829](https://github.com/ZacSweers/metro/pull/2829) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support 2.5.0-dev-7307"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
