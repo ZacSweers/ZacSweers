@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-16** — opened PR [#2844](https://github.com/ZacSweers/metro/pull/2844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise IJ 2026.3 compat to 2.5.0-dev-6460"
+**2026-09-16** — merged PR [#2844](https://github.com/ZacSweers/metro/pull/2844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise IJ 2026.3 compat to 2.5.0-dev-6460"
+
+**2026-09-16** — merged PR [#2844](https://github.com/ZacSweers/metro/pull/2844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise IJ 2026.3 compat to 2.5.0-dev-6460"
 
 **2026-09-16** — created branch `z/addCycleBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
