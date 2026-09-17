@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-16** — commented on [#850](https://github.com/ZacSweers/metro/issues/850#issuecomment-5707733443) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-16** — commented on [#850](https://github.com/ZacSweers/metro/issues/850#issuecomment-5707729523) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-16** — merged PR [#2844](https://github.com/ZacSweers/metro/pull/2844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise IJ 2026.3 compat to 2.5.0-dev-6460"
 
 **2026-09-16** — merged PR [#2844](https://github.com/ZacSweers/metro/pull/2844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise IJ 2026.3 compat to 2.5.0-dev-6460"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-16** — merged PR [#2842](https://github.com/ZacSweers/metro/pull/2842) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add cycle benchmarks + cache neighbors"
 
 **2026-09-16** — merged PR [#2838](https://github.com/ZacSweers/metro/pull/2838) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-16** — merged PR [#2838](https://github.com/ZacSweers/metro/pull/2838) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-15** — created branch `z/250compat` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
