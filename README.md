@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-16** — created branch `z/addCycleBenchmarks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-16** — merged PR [#2843](https://github.com/ZacSweers/metro/pull/2843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate class factories w/ IR class gen + contrib provivders"
-
-**2026-09-16** — merged PR [#2843](https://github.com/ZacSweers/metro/pull/2843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate class factories w/ IR class gen + contrib provivders"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
