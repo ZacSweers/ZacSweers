@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-17** — created branch `z/analysisFlags` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-17** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5720675027) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-17** — opened PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
