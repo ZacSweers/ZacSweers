@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-16** — created branch `z/fixIrClassBug` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-16** — created branch `z/ij2.5.0-dev-6460` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-17** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5720675027) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-17** — opened PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
-
-**2026-09-17** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5720537933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-17** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5715749035) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-17** — merged PR [#2846](https://github.com/ZacSweers/metro/pull/2846) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
