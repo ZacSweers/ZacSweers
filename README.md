@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-19** — opened PR [#2854](https://github.com/ZacSweers/metro/pull/2854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
+
+**2026-09-19** — created branch `z/miscFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-19** — commented on [#2848](https://github.com/ZacSweers/metro/pull/2848#issuecomment-5746461832) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-18** — merged PR [#265](https://github.com/vRallev/app-platform/pull/265) to [vRallev/app-platform](https://github.com/vRallev/app-platform): "Use Metro compiler-compat for broader compiler compat"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-16** — created branch `z/fixIrClassBug` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-16** — created branch `z/ij2.5.0-dev-6460` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-16** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
