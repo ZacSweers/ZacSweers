@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-19** — opened PR [#2854](https://github.com/ZacSweers/metro/pull/2854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
+**2026-09-19** — merged PR [#2854](https://github.com/ZacSweers/metro/pull/2854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
+
+**2026-09-19** — merged PR [#2854](https://github.com/ZacSweers/metro/pull/2854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
 
 **2026-09-19** — created branch `z/miscFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-16** — created branch `z/fixIrClassBug` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
