@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-22** — closed PR [#7](https://github.com/ZacSweers/RxPalette/pull/7) to [ZacSweers/RxPalette](https://github.com/ZacSweers/RxPalette): "Fix README API examples"
+
 **2026-09-20** — commented on [#850](https://github.com/ZacSweers/metro/issues/850#issuecomment-5754852476) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-19** — merged PR [#2854](https://github.com/ZacSweers/metro/pull/2854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-18** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5737984777) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-18** — merged PR [#2850](https://github.com/ZacSweers/metro/pull/2850) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
