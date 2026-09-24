@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-24** — opened PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
+**2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
+
+**2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
 
 **2026-09-24** — opened issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — merged PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
 
 **2026-09-23** — created branch `z/250b1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-24** — created branch `z/moreIdeStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
