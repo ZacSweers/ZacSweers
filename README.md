@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-23** — opened PR [#2861](https://github.com/ZacSweers/metro/pull/2861) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta1"
+
+**2026-09-23** — commented on [#2882](https://github.com/slackhq/circuit/issues/2882#issuecomment-5806690792) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-09-23** — opened PR [#2906](https://github.com/slackhq/circuit/pull/2906) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix reflective serialization on Android"
+
 **2026-09-23** — commented on [#7170](https://github.com/detekt/detekt/issues/7170#issuecomment-5798981416) in [detekt/detekt](https://github.com/detekt/detekt)
 
 **2026-09-22** — closed PR [#7](https://github.com/ZacSweers/RxPalette/pull/7) to [ZacSweers/RxPalette](https://github.com/ZacSweers/RxPalette): "Fix README API examples"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-19** — created branch `z/miscFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-19** — commented on [#2848](https://github.com/ZacSweers/metro/pull/2848#issuecomment-5746461832) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-18** — merged PR [#265](https://github.com/vRallev/app-platform/pull/265) to [vRallev/app-platform](https://github.com/vRallev/app-platform): "Use Metro compiler-compat for broader compiler compat"
-
-**2026-09-18** — commented on [#2845](https://github.com/ZacSweers/metro/issues/2845#issuecomment-5737984777) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
