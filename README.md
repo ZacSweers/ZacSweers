@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-24** — closed issue [#2845](https://github.com/ZacSweers/metro/issues/2845) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Analysis API is coming to the classpath - will trigger the `isIde` check"
+
+**2026-09-24** — merged PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
+
 **2026-09-23** — created branch `z/fix-reflect-android` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-09-24** — merged PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — merged PR [#2864](https://github.com/ZacSweers/metro/pull/2864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injects when functions appear before properties"
 
 **2026-09-24** — closed issue [#2856](https://github.com/ZacSweers/metro/issues/2856) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException - Members injection has mismatched dependency indexes for inherited methods and declared fields"
-
-**2026-09-24** — merged PR [#2861](https://github.com/ZacSweers/metro/pull/2861) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta1"
-
-**2026-09-24** — merged PR [#2864](https://github.com/ZacSweers/metro/pull/2864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injects when functions appear before properties"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
