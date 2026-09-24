@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-24** — opened PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
+
+**2026-09-24** — opened issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
+
 **2026-09-24** — closed issue [#2845](https://github.com/ZacSweers/metro/issues/2845) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Analysis API is coming to the classpath - will trigger the `isIde` check"
 
 **2026-09-24** — merged PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-23** — created branch `z/250b1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-24** — created branch `z/moreIdeStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-24** — merged PR [#2864](https://github.com/ZacSweers/metro/pull/2864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injects when functions appear before properties"
-
-**2026-09-24** — closed issue [#2856](https://github.com/ZacSweers/metro/issues/2856) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException - Members injection has mismatched dependency indexes for inherited methods and declared fields"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
