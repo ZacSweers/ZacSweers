@@ -4,7 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-24** — opened PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
+**2026-09-23** — created branch `z/fix-reflect-android` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-09-24** — merged PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
+
+**2026-09-24** — created branch `z/fixMemberINjectionInIrClass` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-24** — merged PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
 
 **2026-09-23** — created branch `z/250b1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — merged PR [#2861](https://github.com/ZacSweers/metro/pull/2861) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta1"
 
 **2026-09-24** — merged PR [#2864](https://github.com/ZacSweers/metro/pull/2864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injects when functions appear before properties"
-
-**2026-09-23** — merged PR [#2906](https://github.com/slackhq/circuit/pull/2906) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix reflective serialization on Android"
-
-**2026-09-23** — closed issue [#2882](https://github.com/slackhq/circuit/issues/2882) on [slackhq/circuit](https://github.com/slackhq/circuit): ""No static method encodeToSavedStateNullable" when using the new @Serializable screens"
-
-**2026-09-23** — merged PR [#2861](https://github.com/ZacSweers/metro/pull/2861) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
