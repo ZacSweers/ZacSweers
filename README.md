@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-25** — commented on [#2874](https://github.com/ZacSweers/metro/issues/2874#issuecomment-5833780731) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — merged PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
 
 **2026-09-23** — created branch `z/fix-reflect-android` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-09-24** — merged PR [#2867](https://github.com/ZacSweers/metro/pull/2867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IDE and compiler report cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
