@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-25** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-25** — commented on [#2873](https://github.com/ZacSweers/metro/pull/2873#issuecomment-5836010895) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-25** — commented on [#2874](https://github.com/ZacSweers/metro/issues/2874#issuecomment-5833780731) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — opened issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
 
 **2026-09-24** — closed issue [#2845](https://github.com/ZacSweers/metro/issues/2845) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Analysis API is coming to the classpath - will trigger the `isIde` check"
-
-**2026-09-24** — merged PR [#2848](https://github.com/ZacSweers/metro/pull/2848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use `AnalysisFlags` API to detect IDE mode"
-
-**2026-09-23** — created branch `z/fix-reflect-android` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
