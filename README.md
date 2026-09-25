@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-25** — commented on [#2874](https://github.com/ZacSweers/metro/issues/2874#issuecomment-5838392480) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-25** — closed issue [#2874](https://github.com/ZacSweers/metro/issues/2874) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro IR crash: member injection of a type-parameter-typed member from a generic base class in another module"
 
 **2026-09-25** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
 
 **2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
-
-**2026-09-24** — opened issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
