@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-25** — opened PR [#2881](https://github.com/ZacSweers/metro/pull/2881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hidden dependency checker"
+
+**2026-09-25** — created branch `z/hiddenDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-25** — commented on [#2874](https://github.com/ZacSweers/metro/issues/2874#issuecomment-5838392480) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-25** — closed issue [#2874](https://github.com/ZacSweers/metro/issues/2874) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro IR crash: member injection of a type-parameter-typed member from a generic base class in another module"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-24** — created branch `z/gradle98` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
-
-**2026-09-24** — merged PR [#2871](https://github.com/ZacSweers/metro/pull/2871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Gradle 9.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
