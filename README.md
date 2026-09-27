@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-09-27** — opened PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
+**2026-09-27** — closed issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
+
+**2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
+
+**2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
 
 **2026-09-27** — created branch `z/predicateFilter` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — merged PR [#2885](https://github.com/ZacSweers/metro/pull/2885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for upstream accessors on the graph"
 
 **2026-09-27** — merged PR [#2881](https://github.com/ZacSweers/metro/pull/2881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hidden dependency checker"
-
-**2026-09-27** — closed PR [#2884](https://github.com/ZacSweers/metro/pull/2884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a check for hidden Metro contributions"
-
-**2026-09-26** — created branch `z/anvilHintInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
