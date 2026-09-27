@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-27** — merged PR [#2885](https://github.com/ZacSweers/metro/pull/2885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for upstream accessors on the graph"
+
+**2026-09-27** — merged PR [#2881](https://github.com/ZacSweers/metro/pull/2881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hidden dependency checker"
+
+**2026-09-27** — closed PR [#2884](https://github.com/ZacSweers/metro/pull/2884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a check for hidden Metro contributions"
+
 **2026-09-26** — created branch `z/anvilHintInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-26** — created branch `z/upstreamAccessorErrors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — created branch `z/hiltMarkerLookups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-26** — closed PR [#2886](https://github.com/ZacSweers/metro/pull/2886) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge contributions from Anvil-compiled modules"
-
-**2026-09-27** — commented on [#2886](https://github.com/ZacSweers/metro/pull/2886#issuecomment-5852651929) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-26** — opened PR [#2886](https://github.com/ZacSweers/metro/pull/2886) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge contributions from Anvil-compiled modules"
-
-**2026-09-26** — opened PR [#2885](https://github.com/ZacSweers/metro/pull/2885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for upstream accessors on the graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
