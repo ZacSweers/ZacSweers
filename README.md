@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-27** — opened PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
+
+**2026-09-27** — created branch `z/predicateFilter` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
+
+**2026-09-27** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-5860340909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-27** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-5859320093) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-27** — labeled issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — closed PR [#2884](https://github.com/ZacSweers/metro/pull/2884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a check for hidden Metro contributions"
 
 **2026-09-26** — created branch `z/anvilHintInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-26** — created branch `z/upstreamAccessorErrors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-26** — created branch `z/hiddenContributionsCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-27** — merged PR [#2889](https://github.com/ZacSweers/metro/pull/2889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Recompile graphs when upstream Hilt markers change"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
