@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-26** — commented on [#643](https://github.com/slackhq/compose-lints/pull/643#issuecomment-5851943011) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2026-09-25** — opened PR [#2881](https://github.com/ZacSweers/metro/pull/2881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hidden dependency checker"
 
 **2026-09-25** — created branch `z/hiddenDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-25** — merged PR [#2875](https://github.com/ZacSweers/metro/pull/2875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-24** — created branch `z/gradle98` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
