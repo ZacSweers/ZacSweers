@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-27** — merged PR [#2889](https://github.com/ZacSweers/metro/pull/2889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Recompile graphs when upstream Hilt markers change"
+
+**2026-09-27** — merged PR [#2889](https://github.com/ZacSweers/metro/pull/2889) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Recompile graphs when upstream Hilt markers change"
+
+**2026-09-27** — created branch `z/hiltMarkerLookups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-26** — closed PR [#2886](https://github.com/ZacSweers/metro/pull/2886) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Merge contributions from Anvil-compiled modules"
 
 **2026-09-27** — commented on [#2886](https://github.com/ZacSweers/metro/pull/2886#issuecomment-5852651929) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-26** — commented on [#643](https://github.com/slackhq/compose-lints/pull/643#issuecomment-5851943011) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2026-09-25** — opened PR [#2881](https://github.com/ZacSweers/metro/pull/2881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hidden dependency checker"
-
-**2026-09-25** — created branch `z/hiddenDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-25** — commented on [#2874](https://github.com/ZacSweers/metro/issues/2874#issuecomment-5838392480) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-25** — closed issue [#2874](https://github.com/ZacSweers/metro/issues/2874) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro IR crash: member injection of a type-parameter-typed member from a generic base class in another module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
