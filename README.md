@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-28** — created branch `z/reproFirHintDeletion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-09-28** — opened PR [#2896](https://github.com/ZacSweers/metro/pull/2896) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reproduce JS/Wasm FIR hint deletion in Kotlin IC"
+
+**2026-09-28** — opened PR [#2894](https://github.com/ZacSweers/metro/pull/2894) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test separate compilation"
+
 **2026-09-27** — created branch `z/icOpt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-27** — closed issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-5860340909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-27** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-5859320093) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-27** — labeled issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
-
-**2026-09-27** — labeled issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
-
-**2026-09-27** — merged PR [#2885](https://github.com/ZacSweers/metro/pull/2885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for upstream accessors on the graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
