@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-29** — opened PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
 
 **2026-09-29** — created branch `z/subcircuitNativeLinkage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-28** — opened PR [#2894](https://github.com/ZacSweers/metro/pull/2894) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test separate compilation"
 
 **2026-09-27** — created branch `z/icOpt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-27** — closed issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
