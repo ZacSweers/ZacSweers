@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-29** — opened PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
+
+**2026-09-29** — created branch `z/subcircuitNativeLinkage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — created branch `z/icOpt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-27** — closed issue [#2890](https://github.com/ZacSweers/metro/issues/2890) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Every Inject-annotated file recompiles on any edit when function injection is enabled"
-
-**2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
-
-**2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
