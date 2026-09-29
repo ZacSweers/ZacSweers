@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-09-28** — created branch `z/testSeparateCompilation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-28** — created branch `z/reproFirHintDeletion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
 
 **2026-09-27** — merged PR [#2892](https://github.com/ZacSweers/metro/pull/2892) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize predicate lookups + disable function inject by default"
-
-**2026-09-27** — created branch `z/predicateFilter` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-09-27** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-5860340909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
