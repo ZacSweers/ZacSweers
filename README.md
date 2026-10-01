@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937811682) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937801881) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-09-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-29** — opened PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-28** — created branch `z/reproFirHintDeletion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-28** — opened PR [#2896](https://github.com/ZacSweers/metro/pull/2896) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reproduce JS/Wasm FIR hint deletion in Kotlin IC"
-
-**2026-09-28** — opened PR [#2894](https://github.com/ZacSweers/metro/pull/2894) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test separate compilation"
-
-**2026-09-27** — created branch `z/icOpt` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
