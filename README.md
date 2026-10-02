@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-02** — commented on [#2902](https://github.com/ZacSweers/metro/issues/2902#issuecomment-5946402138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-02** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5946192280) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946440949) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-02** — closed issue [#2902](https://github.com/ZacSweers/metro/issues/2902) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting scoped @Binds"
+
 **2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946295559) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946229305) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937811682) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937801881) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-29** — opened PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
-
-**2026-09-29** — created branch `z/subcircuitNativeLinkage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
