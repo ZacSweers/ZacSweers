@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946295559) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946229305) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-02** — opened PR [#2905](https://github.com/ZacSweers/metro/pull/2905) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "API cleanups + omit redundant mirrors"
+
+**2026-10-02** — created branch `z/apiCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937811682) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937801881) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-09-29** — created branch `z/subcircuitNativeLinkage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-29** — merged PR [#2899](https://github.com/ZacSweers/metro/pull/2899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-09-28** — created branch `z/testSeparateCompilation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-28** — created branch `z/reproFirHintDeletion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-09-28** — opened PR [#2896](https://github.com/ZacSweers/metro/pull/2896) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reproduce JS/Wasm FIR hint deletion in Kotlin IC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
