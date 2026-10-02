@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-02** — opened PR [#2906](https://github.com/ZacSweers/metro/pull/2906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-10-02** — commented on [#2902](https://github.com/ZacSweers/metro/issues/2902#issuecomment-5946402138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-02** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5946192280) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-02** — created branch `z/apiCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937811682) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-01** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5937801881) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
