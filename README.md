@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-02** — reopened PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
 
 **2026-10-02** — closed PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946295559) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946229305) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-02** — opened PR [#2905](https://github.com/ZacSweers/metro/pull/2905) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "API cleanups + omit redundant mirrors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
