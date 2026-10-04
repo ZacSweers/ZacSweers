@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-04** — merged PR [#562](https://github.com/ZacSweers/FieldSpottr/pull/562) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-04** — merged PR [#562](https://github.com/ZacSweers/FieldSpottr/pull/562) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-03** — created branch `automation/update-availability-37171731730` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-03** — created branch `bbp-unavailable-schedule` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-03** — merged PR [#560](https://github.com/ZacSweers/FieldSpottr/pull/560) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-02** — reopened PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
-
-**2026-10-02** — closed PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
-
-**2026-10-02** — opened PR [#2906](https://github.com/ZacSweers/metro/pull/2906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-02** — commented on [#2902](https://github.com/ZacSweers/metro/issues/2902#issuecomment-5946402138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
