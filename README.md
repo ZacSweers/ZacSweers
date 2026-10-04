@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-03** — Could not load GitHub activity. Please check back later.
+**2026-10-03** — opened PR [#558](https://github.com/ZacSweers/FieldSpottr/pull/558) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Handle unavailable Brooklyn Bridge Park schedules"
+
+**2026-10-02** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-02** — reopened PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
+
+**2026-10-02** — closed PR [#2914](https://github.com/slackhq/circuit/pull/2914) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prevent crash during Activity destruction"
+
+**2026-10-02** — opened PR [#2906](https://github.com/ZacSweers/metro/pull/2906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-02** — commented on [#2902](https://github.com/ZacSweers/metro/issues/2902#issuecomment-5946402138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-02** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-5946192280) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946440949) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-02** — closed issue [#2902](https://github.com/ZacSweers/metro/issues/2902) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider supporting scoped @Binds"
+
+**2026-10-02** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-5946295559) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
