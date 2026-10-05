@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — created branch `z/k250` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-10-05** — opened PR [#2913](https://github.com/ZacSweers/metro/pull/2913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP KEEP-0449 support"
+
 **2026-10-05** — created branch `z/companions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-05** — opened PR [#457](https://github.com/ZacSweers/redacted-compiler-plugin/pull/457) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep Kotlin 2.5.0"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-05** — opened PR [#2916](https://github.com/slackhq/circuit/pull/2916) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep Kotlin 2.5.0"
 
 **2026-10-05** — created branch `z/k250` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2026-10-05** — opened PR [#2563](https://github.com/ZacSweers/CatchUp/pull/2563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep Kotlin 2.5.0"
-
-**2026-10-05** — opened PR [#565](https://github.com/ZacSweers/FieldSpottr/pull/565) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Prep Kotlin 2.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
