@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-05** — opened PR [#563](https://github.com/ZacSweers/FieldSpottr/pull/563) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-05** — merged PR [#563](https://github.com/ZacSweers/FieldSpottr/pull/563) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-05** — merged PR [#563](https://github.com/ZacSweers/FieldSpottr/pull/563) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-04** — created branch `automation/update-availability-37195312142` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-03** — merged PR [#560](https://github.com/ZacSweers/FieldSpottr/pull/560) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-03** — merged PR [#560](https://github.com/ZacSweers/FieldSpottr/pull/560) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-03** — merged PR [#558](https://github.com/ZacSweers/FieldSpottr/pull/558) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Handle unavailable Brooklyn Bridge Park schedules"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
