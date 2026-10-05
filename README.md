@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — merged PR [#978](https://github.com/ZacSweers/MoshiX/pull/978) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use Metro 1.4.5 package fragment compat"
+
+**2026-10-05** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6005014996) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-05** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-6004955718) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-05** — opened PR [#2915](https://github.com/ZacSweers/metro/pull/2915) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate hint gen for hilt"
+
+**2026-10-05** — commented on [#2909](https://github.com/ZacSweers/metro/issues/2909#issuecomment-6004899848) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-03** — closed PR [#971](https://github.com/ZacSweers/MoshiX/pull/971) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.metro:compiler-compat-latest to v1.4.5"
+
+**2026-10-05** — merged PR [#978](https://github.com/ZacSweers/MoshiX/pull/978) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use Metro 1.4.5 package fragment compat"
+
+**2026-10-05** — created branch `z/metro-145-compat` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2026-10-05** — merged PR [#2905](https://github.com/ZacSweers/metro/pull/2905) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "API cleanups + omit redundant mirrors"
 
 **2026-10-05** — merged PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
-
-**2026-10-05** — closed issue [#2882](https://github.com/ZacSweers/metro/issues/2882) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Using SubCircuit leads to IrLinkageError on iOS with Kotlin 2.5.0-Beta1"
-
-**2026-10-05** — merged PR [#2914](https://github.com/ZacSweers/metro/pull/2914) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IntelliJ 2026.3 EAP test version"
-
-**2026-10-05** — merged PR [#2914](https://github.com/ZacSweers/metro/pull/2914) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IntelliJ 2026.3 EAP test version"
-
-**2026-10-05** — created branch `z/k250` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-10-05** — opened PR [#2913](https://github.com/ZacSweers/metro/pull/2913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP KEEP-0449 support"
-
-**2026-10-05** — created branch `z/companions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-05** — opened PR [#457](https://github.com/ZacSweers/redacted-compiler-plugin/pull/457) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep Kotlin 2.5.0"
-
-**2026-10-05** — created branch `z/k250` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
