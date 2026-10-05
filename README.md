@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — opened PR [#1964](https://github.com/slackhq/foundry/pull/1964) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep Kotlin 2.5.0"
+
+**2026-10-05** — created branch `z/k250` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2026-10-05** — opened PR [#2916](https://github.com/slackhq/circuit/pull/2916) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep Kotlin 2.5.0"
+
+**2026-10-05** — created branch `z/k250` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2026-10-05** — opened PR [#2563](https://github.com/ZacSweers/CatchUp/pull/2563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep Kotlin 2.5.0"
+
+**2026-10-05** — opened PR [#565](https://github.com/ZacSweers/FieldSpottr/pull/565) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Prep Kotlin 2.5.0"
+
+**2026-10-05** — opened PR [#496](https://github.com/ZacSweers/kotlin-compile-testing/pull/496) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep Kotlin 2.5.0"
+
+**2026-10-05** — created branch `z/k250` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2026-10-05** — opened PR [#8700](https://github.com/JetBrains/kotlin/pull/8700) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[FIR] Filter plugin predicates by declaration kind"
+
 **2026-10-05** — merged PR [#27](https://github.com/ZacSweers/kempt/pull/27) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.37.0"
-
-**2026-10-05** — created branch `bump-starter-versions` on [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-10-05** — merged PR [#27](https://github.com/ZacSweers/kempt/pull/27) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.37.0"
-
-**2026-10-05** — merged PR [#27](https://github.com/ZacSweers/kempt/pull/27) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.37.0"
-
-**2026-10-05** — merged PR [#27](https://github.com/ZacSweers/kempt/pull/27) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 1.37.0"
-
-**2026-10-05** — created branch `automation/update-availability-37286148669` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-05** — opened PR [#564](https://github.com/ZacSweers/FieldSpottr/pull/564) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
-
-**2026-10-05** — merged PR [#563](https://github.com/ZacSweers/FieldSpottr/pull/563) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-05** — merged PR [#563](https://github.com/ZacSweers/FieldSpottr/pull/563) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-04** — created branch `automation/update-availability-37195312142` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
