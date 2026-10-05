@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — merged PR [#2905](https://github.com/ZacSweers/metro/pull/2905) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "API cleanups + omit redundant mirrors"
+
+**2026-10-05** — merged PR [#2900](https://github.com/ZacSweers/metro/pull/2900) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Circuit IR symbol ref"
+
+**2026-10-05** — closed issue [#2882](https://github.com/ZacSweers/metro/issues/2882) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Using SubCircuit leads to IrLinkageError on iOS with Kotlin 2.5.0-Beta1"
+
+**2026-10-05** — merged PR [#2914](https://github.com/ZacSweers/metro/pull/2914) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IntelliJ 2026.3 EAP test version"
+
+**2026-10-05** — merged PR [#2914](https://github.com/ZacSweers/metro/pull/2914) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IntelliJ 2026.3 EAP test version"
+
 **2026-10-05** — created branch `z/k250` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-10-05** — opened PR [#2913](https://github.com/ZacSweers/metro/pull/2913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP KEEP-0449 support"
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-05** — opened PR [#457](https://github.com/ZacSweers/redacted-compiler-plugin/pull/457) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep Kotlin 2.5.0"
 
 **2026-10-05** — created branch `z/k250` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2026-10-05** — opened PR [#977](https://github.com/ZacSweers/MoshiX/pull/977) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep Kotlin 2.5.0"
-
-**2026-10-05** — opened PR [#1964](https://github.com/slackhq/foundry/pull/1964) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep Kotlin 2.5.0"
-
-**2026-10-05** — created branch `z/k250` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2026-10-05** — opened PR [#2916](https://github.com/slackhq/circuit/pull/2916) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep Kotlin 2.5.0"
-
-**2026-10-05** — created branch `z/k250` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
