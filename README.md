@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-06** — closed issue [#2904](https://github.com/ZacSweers/metro/issues/2904) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "compiler error on the factory generated for a @SubCircuitInject composable function"
+
+**2026-10-06** — merged PR [#2916](https://github.com/ZacSweers/metro/pull/2916) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-9169 + CI updates"
+
+**2026-10-06** — commented on [#8707](https://github.com/JetBrains/kotlin/pull/8707#issuecomment-6019524614) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-10-06** — created branch `z/fixJvmIc` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2026-10-05** — created branch `z/fixHiltUpstreamGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -12,17 +18,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-10-06** — commented on [#2908](https://github.com/ZacSweers/metro/pull/2908#issuecomment-6009733820) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-06** — opened PR [#2916](https://github.com/ZacSweers/metro/pull/2916) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-9169 + CI updates"
+**2026-10-06** — merged PR [#2916](https://github.com/ZacSweers/metro/pull/2916) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-9169 + CI updates"
 
 **2026-10-06** — created branch `z/backport-delegating-constructor` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2026-10-06** — merged PR [#979](https://github.com/ZacSweers/MoshiX/pull/979) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Backport Kotlin's delegating constructor helper"
-
-**2026-10-06** — created branch `z/kotlin-2.5.0-dev-9169` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-06** — opened PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
-
-**2026-10-05** — created branch `z/update-idea-2026.3-eap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
