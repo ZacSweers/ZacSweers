@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-06** — opened PR [#566](https://github.com/ZacSweers/FieldSpottr/pull/566) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Retry availability fetches with fresh Kernel sessions"
+
 **2026-10-06** — closed issue [#2904](https://github.com/ZacSweers/metro/issues/2904) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "compiler error on the factory generated for a @SubCircuitInject composable function"
 
 **2026-10-06** — merged PR [#2916](https://github.com/ZacSweers/metro/pull/2916) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-9169 + CI updates"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-06** — merged PR [#2916](https://github.com/ZacSweers/metro/pull/2916) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-9169 + CI updates"
 
 **2026-10-06** — created branch `z/backport-delegating-constructor` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-10-06** — merged PR [#979](https://github.com/ZacSweers/MoshiX/pull/979) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Backport Kotlin's delegating constructor helper"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
