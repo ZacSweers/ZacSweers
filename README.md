@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — created branch `automation/update-bbp-schedule-5b29b454406c234baa90fde6d0da6cf5dafa768e6f55872fe3d412d6e66cd2e9` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-05** — created branch `z/k250` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-06** — commented on [#8707](https://github.com/JetBrains/kotlin/pull/8707#issuecomment-6023240899) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-06** — commented on [#8707](https://github.com/JetBrains/kotlin/pull/8707#issuecomment-6019524614) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-06** — created branch `z/fixJvmIc` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-10-05** — created branch `z/fixHiltUpstreamGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
