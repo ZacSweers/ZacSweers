@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — created branch `z/fixHiltUpstreamGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-06** — merged PR [#979](https://github.com/ZacSweers/MoshiX/pull/979) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Backport Kotlin's delegating constructor helper"
 
 **2026-10-06** — commented on [#2908](https://github.com/ZacSweers/metro/pull/2908#issuecomment-6009733820) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-05** — created branch `z/update-idea-2026.3-eap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-05** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6008373777) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-02** — closed PR [#2906](https://github.com/ZacSweers/metro/pull/2906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
