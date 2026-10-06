@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-05** — Could not load GitHub activity. Please check back later.
+**2026-10-05** — created branch `z/update-idea-2026.3-eap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-05** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6008373777) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-02** — closed PR [#2906](https://github.com/ZacSweers/metro/pull/2906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-05** — merged PR [#2915](https://github.com/ZacSweers/metro/pull/2915) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate hint gen for hilt"
+
+**2026-10-05** — closed issue [#2909](https://github.com/ZacSweers/metro/issues/2909) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate class error when using Hilt interop"
+
+**2026-10-05** — merged PR [#978](https://github.com/ZacSweers/MoshiX/pull/978) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use Metro 1.4.5 package fragment compat"
+
+**2026-10-05** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6005014996) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-05** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-6004955718) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-05** — merged PR [#2915](https://github.com/ZacSweers/metro/pull/2915) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicate hint gen for hilt"
+
+**2026-10-05** — commented on [#2909](https://github.com/ZacSweers/metro/issues/2909#issuecomment-6004899848) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
