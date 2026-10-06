@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-06** — created branch `z/fixJvmIc` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
+
 **2026-10-05** — created branch `z/fixHiltUpstreamGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-06** — merged PR [#979](https://github.com/ZacSweers/MoshiX/pull/979) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Backport Kotlin's delegating constructor helper"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-06** — opened PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
 
 **2026-10-05** — created branch `z/update-idea-2026.3-eap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-05** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6008373777) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
