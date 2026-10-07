@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-07** — commented on [#2919](https://github.com/ZacSweers/metro/issues/2919#issuecomment-6044110933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-07** — merged PR [#25](https://github.com/ZacSweers/kempt/pull/25) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt EditorConfig support"
 
 **2026-10-07** — merged PR [#15](https://github.com/ZacSweers/kempt/pull/15) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Prepare for ktfmt native binaries"
@@ -19,10 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#568](https://github.com/ZacSweers/FieldSpottr/pull/568) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-07** — merged PR [#568](https://github.com/ZacSweers/FieldSpottr/pull/568) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-07** — merged PR [#564](https://github.com/ZacSweers/FieldSpottr/pull/564) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
-
-**2026-10-07** — merged PR [#566](https://github.com/ZacSweers/FieldSpottr/pull/566) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Retry availability fetches with fresh Kernel sessions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
