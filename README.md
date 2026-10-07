@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-07** — merged PR [#25](https://github.com/ZacSweers/kempt/pull/25) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add ktfmt EditorConfig support"
+
+**2026-10-07** — merged PR [#15](https://github.com/ZacSweers/kempt/pull/15) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Prepare for ktfmt native binaries"
+
 **2026-10-07** — created branch `automation/update-availability-37595395372` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-06** — created branch `z/kernel-fetch-retry` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
