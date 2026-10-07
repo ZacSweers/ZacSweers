@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-05** — created branch `z/k250` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2026-10-06** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6026703145) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-06** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6026702038) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-06** — commented on [#8707](https://github.com/JetBrains/kotlin/pull/8707#issuecomment-6023240899) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-06** — commented on [#2904](https://github.com/ZacSweers/metro/issues/2904#issuecomment-6019794014) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-06** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6018899761) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
