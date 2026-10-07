@@ -11,8 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#564](https://github.com/ZacSweers/FieldSpottr/pull/564) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
 
 **2026-10-07** — merged PR [#566](https://github.com/ZacSweers/FieldSpottr/pull/566) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Retry availability fetches with fresh Kernel sessions"
-
-**2026-10-05** — created branch `z/k250` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
