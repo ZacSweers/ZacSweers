@@ -13,8 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#566](https://github.com/ZacSweers/FieldSpottr/pull/566) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Retry availability fetches with fresh Kernel sessions"
 
 **2026-10-05** — created branch `z/k250` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2026-10-06** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6026703145) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
