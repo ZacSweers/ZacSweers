@@ -13,12 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
 
 **2026-10-07** — commented on [#2919](https://github.com/ZacSweers/metro/issues/2919#issuecomment-6047101317) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-07** — created branch `automation/update-availability-37569984122` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-07** — merged PR [#2920](https://github.com/ZacSweers/metro/pull/2920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency org.junit:junit-bom to v6""
-
-**2026-10-07** — merged PR [#2920](https://github.com/ZacSweers/metro/pull/2920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency org.junit:junit-bom to v6""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
