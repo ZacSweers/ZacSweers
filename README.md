@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-08** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6063374451) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-10-08** — created branch `z/betterBetaMatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-08** — opened PR [#2930](https://github.com/ZacSweers/metro/pull/2930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-10106 and map Kotlin prereleases to compat modules"
