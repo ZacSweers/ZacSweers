@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#2920](https://github.com/ZacSweers/metro/pull/2920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency org.junit:junit-bom to v6""
 
 **2026-10-07** — merged PR [#2920](https://github.com/ZacSweers/metro/pull/2920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency org.junit:junit-bom to v6""
-
-**2026-10-07** — commented on [#2919](https://github.com/ZacSweers/metro/issues/2919#issuecomment-6044110933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
