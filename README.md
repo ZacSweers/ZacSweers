@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-08** — created branch `z/betterBetaMatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-08** — opened PR [#2930](https://github.com/ZacSweers/metro/pull/2930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-10106 and map Kotlin prereleases to compat modules"
+
 **2026-10-08** — merged PR [#573](https://github.com/ZacSweers/FieldSpottr/pull/573) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-08** — merged PR [#573](https://github.com/ZacSweers/FieldSpottr/pull/573) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -11,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-08** — merged PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
 
 **2026-10-07** — merged PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
-
-**2026-10-07** — commented on [#2919](https://github.com/ZacSweers/metro/issues/2919#issuecomment-6047101317) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
