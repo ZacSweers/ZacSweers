@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-07** — opened PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
+**2026-10-08** — merged PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
+
+**2026-10-07** — merged PR [#2926](https://github.com/ZacSweers/metro/pull/2926) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to ktfmt 0.65"
 
 **2026-10-07** — commented on [#2919](https://github.com/ZacSweers/metro/issues/2919#issuecomment-6047101317) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-07** — merged PR [#15](https://github.com/ZacSweers/kempt/pull/15) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Prepare for ktfmt native binaries"
 
 **2026-10-07** — created branch `automation/update-availability-37595395372` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-06** — created branch `z/kernel-fetch-retry` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
