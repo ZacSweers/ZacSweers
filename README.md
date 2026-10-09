@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-09** — created branch `automation/update-availability-37906522215` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-10-09** — opened PR [#575](https://github.com/ZacSweers/FieldSpottr/pull/575) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-07** — created branch `revert-2918-renovate/major-junit-framework-monorepo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6074211152) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-08** — commented on [#8707](https://github.com/JetBrains/kotlin/pull/8707#issuecomment-6070239765) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-08** — merged PR [#2934](https://github.com/ZacSweers/metro/pull/2934) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Windows multiplatform sample compilation"
-
-**2026-10-08** — merged PR [#2930](https://github.com/ZacSweers/metro/pull/2930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-dev-10106 and map Kotlin prereleases to compat modules"
-
-**2026-10-08** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6067919413) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
