@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-08** — created branch `z/betterBetaMatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-08** — commented on [#2935](https://github.com/ZacSweers/metro/pull/2935#issuecomment-6073513690) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-07** — created branch `z/formatUpdate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-08** — merged PR [#2934](https://github.com/ZacSweers/metro/pull/2934) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Windows multiplatform sample compilation"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-08** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6065896197) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-08** — created branch `automation/update-availability-37751551837` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-08** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6063374451) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-08** — created branch `z/betterBetaMatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
