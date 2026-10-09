@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-09** — opened PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
+
+**2026-10-09** — merged PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
+
 **2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6087905233) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6082625253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-09** — opened PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
+**2026-10-09** — merged PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
 
 **2026-10-09** — merged PR [#2936](https://github.com/ZacSweers/metro/pull/2936) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-09** — created branch `automation/update-availability-37906522215` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-09** — merged PR [#575](https://github.com/ZacSweers/FieldSpottr/pull/575) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-07** — created branch `revert-2918-renovate/major-junit-framework-monorepo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6074211152) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
