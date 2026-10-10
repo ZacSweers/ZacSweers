@@ -4,9 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-09** — merged PR [#2941](https://github.com/ZacSweers/metro/pull/2941) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic-level compiler option"
+
 **2026-10-09** — opened PR [#2942](https://github.com/ZacSweers/metro/pull/2942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various graph code gen size optimizations"
 
-**2026-10-09** — opened PR [#2941](https://github.com/ZacSweers/metro/pull/2941) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic-level compiler option"
+**2026-10-09** — merged PR [#2941](https://github.com/ZacSweers/metro/pull/2941) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic-level compiler option"
 
 **2026-10-09** — created branch `z/unchangedMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-08** — created branch `z/windows-multiplatform-fix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — merged PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
-
-**2026-10-09** — merged PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
