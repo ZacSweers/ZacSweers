@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-10** — commented on [#2935](https://github.com/ZacSweers/metro/pull/2935#issuecomment-6102230464) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-10** — merged PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
+
 **2026-10-09** — created branch `z/missingTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — created branch `z/bindingFingerprints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-10** — opened PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
+**2026-10-10** — merged PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
 
 **2026-10-10** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6098158384) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-10** — merged PR [#2944](https://github.com/ZacSweers/metro/pull/2944) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-10** — merged PR [#576](https://github.com/ZacSweers/FieldSpottr/pull/576) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-10** — merged PR [#576](https://github.com/ZacSweers/FieldSpottr/pull/576) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
