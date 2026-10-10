@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-09** — created branch `z/diagnosticLevel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-10** — merged PR [#2942](https://github.com/ZacSweers/metro/pull/2942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various graph code gen size optimizations"
 
 **2026-10-09** — merged PR [#2941](https://github.com/ZacSweers/metro/pull/2941) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic-level compiler option"
@@ -19,10 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-09** — closed issue [#2919](https://github.com/ZacSweers/metro/issues/2919) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve interop with AutoDagger"
 
 **2026-10-09** — opened PR [#2940](https://github.com/ZacSweers/metro/pull/2940) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing circuit web test"
-
-**2026-10-09** — merged PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
-
-**2026-10-08** — created branch `z/windows-multiplatform-fix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
