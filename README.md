@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-09** — opened PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
+**2026-10-09** — created branch `z/unchangedMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6091391146) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-09** — closed issue [#2919](https://github.com/ZacSweers/metro/issues/2919) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve interop with AutoDagger"
+
+**2026-10-09** — opened PR [#2940](https://github.com/ZacSweers/metro/pull/2940) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing circuit web test"
+
+**2026-10-09** — merged PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
+
+**2026-10-08** — created branch `z/windows-multiplatform-fix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-09** — merged PR [#2939](https://github.com/ZacSweers/metro/pull/2939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding fingerprints"
 
 **2026-10-09** — merged PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
 
 **2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6087905233) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6082625253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-09** — merged PR [#2937](https://github.com/ZacSweers/metro/pull/2937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse parent multibinding getters in children"
-
-**2026-10-09** — merged PR [#2936](https://github.com/ZacSweers/metro/pull/2936) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-09** — merged PR [#2936](https://github.com/ZacSweers/metro/pull/2936) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-09** — merged PR [#575](https://github.com/ZacSweers/FieldSpottr/pull/575) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-09** — created branch `automation/update-availability-37906522215` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-09** — merged PR [#575](https://github.com/ZacSweers/FieldSpottr/pull/575) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
