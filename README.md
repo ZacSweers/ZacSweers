@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-10** — merged PR [#2940](https://github.com/ZacSweers/metro/pull/2940) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing circuit web test"
+
 **2026-10-10** — created branch `z/hoistSharedGetters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-10** — commented on [#2935](https://github.com/ZacSweers/metro/pull/2935#issuecomment-6102230464) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-10** — opened PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
 
 **2026-10-10** — merged PR [#2944](https://github.com/ZacSweers/metro/pull/2944) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
