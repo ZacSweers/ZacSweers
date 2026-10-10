@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-10** — opened PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
+
+**2026-10-10** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6098158384) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2026-10-10** — opened PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
+
 **2026-10-10** — merged PR [#2944](https://github.com/ZacSweers/metro/pull/2944) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-10** — created branch `automation/update-availability-38038433149` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-09** — created branch `z/diagnosticLevel` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-10** — merged PR [#2942](https://github.com/ZacSweers/metro/pull/2942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various graph code gen size optimizations"
-
-**2026-10-09** — merged PR [#2941](https://github.com/ZacSweers/metro/pull/2941) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic-level compiler option"
-
-**2026-10-09** — merged PR [#2942](https://github.com/ZacSweers/metro/pull/2942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various graph code gen size optimizations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
