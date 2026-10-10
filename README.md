@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-09** — commented on [#2932](https://github.com/ZacSweers/metro/pull/2932#issuecomment-6091391146) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — closed issue [#2919](https://github.com/ZacSweers/metro/issues/2919) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve interop with AutoDagger"
-
-**2026-10-09** — opened PR [#2940](https://github.com/ZacSweers/metro/pull/2940) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing circuit web test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
