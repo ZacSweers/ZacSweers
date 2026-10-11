@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-11** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6113250685) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-11** — commented on [#2592](https://github.com/ZacSweers/metro/pull/2592#issuecomment-6113227268) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-07-26** — closed PR [#2592](https://github.com/ZacSweers/metro/pull/2592) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support map keys on contributed generic types and default bindings "
+
 **2026-10-11** — opened PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
 
 **2026-10-11** — created branch `z/qualifiedMapReports` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-11** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — created branch `z/unchangedMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-10** — created branch `z/graphLifecycleCallbacks_claude` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-10** — opened PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
-
-**2026-10-10** — opened PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
