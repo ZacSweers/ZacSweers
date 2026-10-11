@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-10** — opened PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
+
+**2026-10-10** — opened PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
+
 **2026-10-10** — merged PR [#2940](https://github.com/ZacSweers/metro/pull/2940) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing circuit web test"
 
 **2026-10-10** — created branch `z/hoistSharedGetters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-10** — merged PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
 
 **2026-10-10** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6098158384) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-10** — opened PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
-
-**2026-10-10** — merged PR [#2944](https://github.com/ZacSweers/metro/pull/2944) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
