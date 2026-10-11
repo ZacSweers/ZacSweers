@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-09** — created branch `z/unchangedMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-10** — created branch `z/graphLifecycleCallbacks_claude` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-10** — opened PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
 
 **2026-10-10** — opened PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-09** — created branch `z/missingTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — created branch `z/bindingFingerprints` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-10** — merged PR [#2945](https://github.com/ZacSweers/metro/pull/2945) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse shared getters in parent graphs"
-
-**2026-10-10** — commented on [#7488](https://github.com/JetBrains/kotlin/pull/7488#issuecomment-6098158384) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
