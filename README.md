@@ -4,13 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-12** — merged PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
+
+**2026-10-12** — closed issue [#2928](https://github.com/ZacSweers/metro/issues/2928) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Self-loop check in analyzeMainGraph doesn't consider qualifiers on Map types"
+
 **2026-10-11** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6113250685) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-11** — commented on [#2592](https://github.com/ZacSweers/metro/pull/2592#issuecomment-6113227268) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-07-26** — closed PR [#2592](https://github.com/ZacSweers/metro/pull/2592) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support map keys on contributed generic types and default bindings "
 
-**2026-10-11** — opened PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
+**2026-10-11** — merged PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
 
 **2026-10-11** — created branch `z/qualifiedMapReports` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-11** — merged PR [#2950](https://github.com/ZacSweers/metro/pull/2950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-11** — merged PR [#2950](https://github.com/ZacSweers/metro/pull/2950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-11** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-09** — created branch `z/unchangedMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
