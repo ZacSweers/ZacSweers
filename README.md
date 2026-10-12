@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-10** — created branch `z/lifecycleCallbacks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-10** — created branch `z/fixTarget` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2026-10-12** — merged PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-11** — created branch `z/qualifiedMapReports` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-09** — created branch `z/codeGenOptimizations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-11** — merged PR [#2950](https://github.com/ZacSweers/metro/pull/2950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
