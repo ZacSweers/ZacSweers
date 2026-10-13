@@ -4,7 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-13** — opened PR [#2957](https://github.com/ZacSweers/metro/pull/2957) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicated multibinding builders"
+**2026-10-12** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-13** — merged PR [#2957](https://github.com/ZacSweers/metro/pull/2957) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicated multibinding builders"
+
+**2026-10-13** — closed issue [#647](https://github.com/slackhq/compose-lints/issues/647) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Rules docs point to outdated documentation"
+
+**2026-10-13** — merged PR [#2957](https://github.com/ZacSweers/metro/pull/2957) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicated multibinding builders"
 
 **2026-10-13** — opened PR [#2956](https://github.com/ZacSweers/metro/pull/2956) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use structural identity for type keys and qualifiers"
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-12** — merged PR [#2952](https://github.com/ZacSweers/metro/pull/2952) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-10** — created branch `z/lifecycleCallbacks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-10** — created branch `z/fixTarget` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-10-12** — merged PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
-
-**2026-10-12** — closed issue [#2928](https://github.com/ZacSweers/metro/issues/2928) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Self-loop check in analyzeMainGraph doesn't consider qualifiers on Map types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
