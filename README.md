@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-13** — opened PR [#2959](https://github.com/ZacSweers/metro/pull/2959) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 + compose + lifecycle + targets update"
+
+**2026-10-13** — created branch `z/composeAndroid37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-13** — merged PR [#2957](https://github.com/ZacSweers/metro/pull/2957) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicated multibinding builders"
 
 **2026-10-13** — opened PR [#2956](https://github.com/ZacSweers/metro/pull/2956) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use structural identity for type keys and qualifiers"
-
-**2026-10-12** — opened PR [#2955](https://github.com/ZacSweers/metro/pull/2955) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDEA publishing prep"
-
-**2026-10-12** — created branch `z/publishingPrep` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
