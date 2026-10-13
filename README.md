@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-13** — opened PR [#2957](https://github.com/ZacSweers/metro/pull/2957) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix duplicated multibinding builders"
+
+**2026-10-13** — opened PR [#2956](https://github.com/ZacSweers/metro/pull/2956) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use structural identity for type keys and qualifiers"
+
 **2026-10-12** — opened PR [#2955](https://github.com/ZacSweers/metro/pull/2955) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDEA publishing prep"
 
 **2026-10-12** — created branch `z/publishingPrep` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-12** — merged PR [#2951](https://github.com/ZacSweers/metro/pull/2951) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve map qualifiers in graph reports"
 
 **2026-10-12** — closed issue [#2928](https://github.com/ZacSweers/metro/issues/2928) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Self-loop check in analyzeMainGraph doesn't consider qualifiers on Map types"
-
-**2026-10-11** — commented on [#2917](https://github.com/ZacSweers/metro/issues/2917#issuecomment-6113250685) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-11** — commented on [#2592](https://github.com/ZacSweers/metro/pull/2592#issuecomment-6113227268) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
