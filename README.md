@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — opened PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-07-27** — closed PR [#2577](https://github.com/ZacSweers/metro/pull/2577) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 deps"
 
 **2026-10-13** — merged PR [#2959](https://github.com/ZacSweers/metro/pull/2959) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 + compose + lifecycle + targets update"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-13** — commented on [#647](https://github.com/slackhq/compose-lints/issues/647#issuecomment-6138656908) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
