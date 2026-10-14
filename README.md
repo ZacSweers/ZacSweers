@@ -6,7 +6,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 <!-- githubActivity starts -->
 **2026-10-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-14** — opened PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
