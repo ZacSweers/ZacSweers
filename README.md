@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-14** — opened PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-07-27** — closed PR [#2577](https://github.com/ZacSweers/metro/pull/2577) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 deps"
 
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-13** — merged PR [#2959](https://github.com/ZacSweers/metro/pull/2959) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 + compose + lifecycle + targets update"
 
 **2026-10-13** — created branch `z/composeAndroid37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-13** — merged PR [#2958](https://github.com/ZacSweers/metro/pull/2958) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
