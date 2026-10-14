@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-14** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6171285923) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-10-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-13** — closed issue [#2917](https://github.com/ZacSweers/metro/issues/2917) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "LinuxX64 build of viewmodel-compose"
 
 **2026-10-13** — merged PR [#2956](https://github.com/ZacSweers/metro/pull/2956) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use structural identity for type keys and qualifiers"
-
-**2026-10-13** — merged PR [#2955](https://github.com/ZacSweers/metro/pull/2955) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDEA publishing prep"
-
-**2026-10-13** — merged PR [#2959](https://github.com/ZacSweers/metro/pull/2959) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 + compose + lifecycle + targets update"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
