@@ -4,9 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — merged PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
+
 **2026-10-14** — created branch `z/regenFast` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-14** — opened PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
+**2026-10-14** — merged PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
 
 **2026-10-13** — created branch `z/fixStructuralCompares` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-07-27** — closed PR [#2577](https://github.com/ZacSweers/metro/pull/2577) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
