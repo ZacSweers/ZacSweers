@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-13** — created branch `z/parentDependencyReuse` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-13** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-14** — merged PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
 
 **2026-10-14** — created branch `z/regenFast` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-14** — merged PR [#580](https://github.com/ZacSweers/FieldSpottr/pull/580) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
