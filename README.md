@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — opened PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
+
 **2026-10-13** — created branch `z/fixStructuralCompares` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-07-27** — closed PR [#2577](https://github.com/ZacSweers/metro/pull/2577) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 deps"
 
 **2026-10-13** — merged PR [#2959](https://github.com/ZacSweers/metro/pull/2959) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Android 37 + compose + lifecycle + targets update"
-
-**2026-10-13** — closed issue [#2917](https://github.com/ZacSweers/metro/issues/2917) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "LinuxX64 build of viewmodel-compose"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
