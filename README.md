@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — closed issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
+
+**2026-10-14** — opened PR [#2963](https://github.com/ZacSweers/metro/pull/2963) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finish IDE releasing setup + cache-only find usages"
+
 **2026-10-13** — created branch `z/composeAndroid37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-13** — created branch `z/parentDependencyReuse` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-13** — created branch `z/fixStructuralCompares` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-14** — merged PR [#2961](https://github.com/ZacSweers/metro/pull/2961) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-14** — commented on [#8756](https://github.com/JetBrains/kotlin/pull/8756#issuecomment-6171285923) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-14** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
