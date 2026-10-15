@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-14** — created branch `automation/update-availability-38536418940` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-15** — merged PR [#2965](https://github.com/ZacSweers/metro/pull/2965) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-15** — merged PR [#581](https://github.com/ZacSweers/FieldSpottr/pull/581) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-14** — merged PR [#2963](https://github.com/ZacSweers/metro/pull/2963) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finish IDE releasing setup + cache-only find usages"
 
 **2026-10-13** — created branch `z/composeAndroid37` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-13** — created branch `z/parentDependencyReuse` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
