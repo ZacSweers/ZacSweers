@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-15** — opened PR [#581](https://github.com/ZacSweers/FieldSpottr/pull/581) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-14** — commented on [#705](https://github.com/Kotlin/ktfmt/issues/705#issuecomment-6183651305) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
 
 **2026-10-14** — merged PR [#2963](https://github.com/ZacSweers/metro/pull/2963) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finish IDE releasing setup + cache-only find usages"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-14** — merged PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
 
 **2026-10-14** — created branch `z/regenFast` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-14** — merged PR [#2962](https://github.com/ZacSweers/metro/pull/2962) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make regen faster"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
