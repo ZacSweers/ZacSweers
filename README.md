@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-16** — closed PR [#2967](https://github.com/ZacSweers/metro/pull/2967) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Only report @MapKey without @IntoMap when the member is part of a graph"
+
+**2026-10-16** — commented on [#2967](https://github.com/ZacSweers/metro/pull/2967#issuecomment-6208532577) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-15** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-15** — created branch `automation/update-availability-38707021031` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-15** — merged PR [#581](https://github.com/ZacSweers/FieldSpottr/pull/581) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-14** — commented on [#705](https://github.com/Kotlin/ktfmt/issues/705#issuecomment-6183651305) in [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt)
-
-**2026-10-14** — merged PR [#2963](https://github.com/ZacSweers/metro/pull/2963) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Finish IDE releasing setup + cache-only find usages"
-
-**2026-10-14** — closed issue [#705](https://github.com/Kotlin/ktfmt/issues/705) on [Kotlin/ktfmt](https://github.com/Kotlin/ktfmt): "Final standalone release while moving to kotlin toolchain"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
