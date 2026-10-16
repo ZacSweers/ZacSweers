@@ -4,7 +4,19 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-16** — Could not load GitHub activity. Please check back later.
+**2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-14** — created branch `z/releasingIdeaStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-16** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6218508222) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-16** — commented on [#2966](https://github.com/ZacSweers/metro/pull/2966#issuecomment-6218345349) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
