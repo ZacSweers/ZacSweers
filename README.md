@@ -4,13 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-16** — merged PR [#2976](https://github.com/ZacSweers/metro/pull/2976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow reuse of optional binding getters too"
+
 **2026-10-16** — labeled issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 
 **2026-10-16** — labeled issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 
 **2026-10-16** — opened issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 
-**2026-10-16** — opened PR [#2976](https://github.com/ZacSweers/metro/pull/2976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow reuse of optional binding getters too"
+**2026-10-16** — merged PR [#2976](https://github.com/ZacSweers/metro/pull/2976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow reuse of optional binding getters too"
 
 **2026-10-16** — opened PR [#2975](https://github.com/ZacSweers/metro/pull/2975) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph creators in companion blocks"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — merged PR [#8700](https://github.com/JetBrains/kotlin/pull/8700) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[FIR] Filter plugin predicates by declaration kind"
 
 **2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-14** — created branch `z/releasingIdeaStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
