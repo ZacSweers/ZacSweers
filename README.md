@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-16** — closed PR [#2967](https://github.com/ZacSweers/metro/pull/2967) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Only report @MapKey without @IntoMap when the member is part of a graph"
-
-**2026-10-16** — commented on [#2967](https://github.com/ZacSweers/metro/pull/2967#issuecomment-6208532577) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-15** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-15** — created branch `automation/update-availability-38707021031` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-14** — created branch `automation/update-availability-38536418940` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-15** — merged PR [#2965](https://github.com/ZacSweers/metro/pull/2965) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-15** — merged PR [#581](https://github.com/ZacSweers/FieldSpottr/pull/581) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-16** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
