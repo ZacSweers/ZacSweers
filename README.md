@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-16** — merged PR [#8700](https://github.com/JetBrains/kotlin/pull/8700) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[FIR] Filter plugin predicates by declaration kind"
+
 **2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-14** — created branch `z/releasingIdeaStuff` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — commented on [#2966](https://github.com/ZacSweers/metro/pull/2966#issuecomment-6218345349) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — merged PR [#2969](https://github.com/ZacSweers/metro/pull/2969) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-16** — merged PR [#582](https://github.com/ZacSweers/FieldSpottr/pull/582) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
