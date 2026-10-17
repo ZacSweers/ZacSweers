@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-17** — opened PR [#583](https://github.com/ZacSweers/FieldSpottr/pull/583) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-17** — merged PR [#583](https://github.com/ZacSweers/FieldSpottr/pull/583) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-17** — merged PR [#583](https://github.com/ZacSweers/FieldSpottr/pull/583) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-16** — commented on [#2966](https://github.com/ZacSweers/metro/pull/2966#issuecomment-6224797689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — labeled issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 
 **2026-10-16** — labeled issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
-
-**2026-10-16** — opened issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
