@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-16** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-6224094619) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-16** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6218277849) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-16** — commented on [#2967](https://github.com/ZacSweers/metro/pull/2967#issuecomment-6208519961) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6208496685) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — merged PR [#2976](https://github.com/ZacSweers/metro/pull/2976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow reuse of optional binding getters too"
 
 **2026-10-16** — opened PR [#2975](https://github.com/ZacSweers/metro/pull/2975) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph creators in companion blocks"
-
-**2026-10-16** — opened PR [#2974](https://github.com/ZacSweers/metro/pull/2974) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hidden companion-block helpers in IR"
-
-**2026-10-16** — opened PR [#2973](https://github.com/ZacSweers/metro/pull/2973) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add companion-mode compiler infrastructure"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
