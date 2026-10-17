@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-16** — created branch `z/companionFirCreators` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-16** — created branch `z/companionInfra` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — created branch `z/companionIrHelpers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — commented on [#2966](https://github.com/ZacSweers/metro/pull/2966#issuecomment-6224797689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-6224094619) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-16** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6218277849) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
