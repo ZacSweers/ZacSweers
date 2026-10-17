@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-17** — opened PR [#583](https://github.com/ZacSweers/FieldSpottr/pull/583) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-16** — commented on [#2966](https://github.com/ZacSweers/metro/pull/2966#issuecomment-6224797689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — commented on [#2890](https://github.com/ZacSweers/metro/issues/2890#issuecomment-6224094619) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-16** — labeled issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
 
 **2026-10-16** — opened issue [#2977](https://github.com/ZacSweers/metro/issues/2977) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support PredicateFilters"
-
-**2026-10-16** — merged PR [#2976](https://github.com/ZacSweers/metro/pull/2976) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow reuse of optional binding getters too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
