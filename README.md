@@ -4,11 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-16** — created branch `z/companionFirCreators` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-16** — created branch `z/companionInfra` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-16** — created branch `z/companionIrHelpers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-10-16** — created branch `z/optionalDependencyReuse` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
