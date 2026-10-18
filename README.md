@@ -4,7 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-18** — Could not load GitHub activity. Please check back later.
+**2026-10-18** — merged PR [#2982](https://github.com/ZacSweers/metro/pull/2982) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-18** — merged PR [#2982](https://github.com/ZacSweers/metro/pull/2982) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-18** — merged PR [#584](https://github.com/ZacSweers/FieldSpottr/pull/584) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-18** — merged PR [#584](https://github.com/ZacSweers/FieldSpottr/pull/584) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-16** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-17** — created branch `automation/update-availability-39017707763` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
