@@ -6,7 +6,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 <!-- githubActivity starts -->
 **2026-10-19** — created branch `automation/update-availability-39224863109` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2026-10-19** — opened PR [#585](https://github.com/ZacSweers/FieldSpottr/pull/585) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-19** — merged PR [#585](https://github.com/ZacSweers/FieldSpottr/pull/585) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
