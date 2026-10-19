@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-19** — commented on [#2984](https://github.com/ZacSweers/metro/issues/2984#issuecomment-6273197521) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-19** — merged PR [#2983](https://github.com/ZacSweers/metro/pull/2983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-19** — merged PR [#2983](https://github.com/ZacSweers/metro/pull/2983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-18** — closed issue [#501](https://github.com/uber/AutoDispose/issues/501) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Service loader file missing in error prone plugin"
-
-**2026-10-18** — merged PR [#2982](https://github.com/ZacSweers/metro/pull/2982) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-18** — merged PR [#2982](https://github.com/ZacSweers/metro/pull/2982) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
