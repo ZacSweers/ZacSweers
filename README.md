@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-20** — opened PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
+**2026-10-20** — merged PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
+
+**2026-10-20** — merged PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
 
 **2026-10-20** — merged PR [#2985](https://github.com/ZacSweers/metro/pull/2985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
@@ -15,14 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-20** — merged PR [#586](https://github.com/ZacSweers/FieldSpottr/pull/586) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-18** — created branch `automation/update-availability-39111836992` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-19** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-19** — commented on [#2984](https://github.com/ZacSweers/metro/issues/2984#issuecomment-6274569161) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-19** — commented on [#2984](https://github.com/ZacSweers/metro/issues/2984#issuecomment-6273197521) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-19** — merged PR [#2983](https://github.com/ZacSweers/metro/pull/2983) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
