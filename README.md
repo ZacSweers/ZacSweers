@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-19** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-19** — commented on [#2984](https://github.com/ZacSweers/metro/issues/2984#issuecomment-6274569161) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-19** — commented on [#2984](https://github.com/ZacSweers/metro/issues/2984#issuecomment-6273197521) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-18** — closed issue [#501](https://github.com/uber/AutoDispose/issues/501) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Service loader file missing in error prone plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
