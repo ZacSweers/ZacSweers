@@ -15,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-20** — merged PR [#586](https://github.com/ZacSweers/FieldSpottr/pull/586) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-20** — merged PR [#586](https://github.com/ZacSweers/FieldSpottr/pull/586) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-18** — created branch `automation/update-availability-39111836992` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
