@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-21** — opened PR [#2994](https://github.com/ZacSweers/metro/pull/2994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid generating unnecessary getters"
+**2026-10-21** — merged PR [#2994](https://github.com/ZacSweers/metro/pull/2994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid generating unnecessary getters"
+
+**2026-10-21** — merged PR [#2994](https://github.com/ZacSweers/metro/pull/2994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid generating unnecessary getters"
 
 **2026-10-21** — merged PR [#2993](https://github.com/ZacSweers/metro/pull/2993) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
@@ -13,10 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-20** — merged PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
 
 **2026-10-20** — merged PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
-
-**2026-10-20** — merged PR [#2985](https://github.com/ZacSweers/metro/pull/2985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-20** — merged PR [#2985](https://github.com/ZacSweers/metro/pull/2985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
