@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-21** — created branch `z/datalayer` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-21** — created branch `z/250beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-21** — merged PR [#2997](https://github.com/ZacSweers/metro/pull/2997) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta2"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-21** — merged PR [#2993](https://github.com/ZacSweers/metro/pull/2993) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-21** — merged PR [#2993](https://github.com/ZacSweers/metro/pull/2993) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-20** — merged PR [#2990](https://github.com/ZacSweers/metro/pull/2990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hoist more shared binding creation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
