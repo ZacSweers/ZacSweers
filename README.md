@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-22** — opened PR [#590](https://github.com/ZacSweers/FieldSpottr/pull/590) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-22** — merged PR [#590](https://github.com/ZacSweers/FieldSpottr/pull/590) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-22** — merged PR [#590](https://github.com/ZacSweers/FieldSpottr/pull/590) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-21** — created branch `z/datalayer` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-21** — merged PR [#2994](https://github.com/ZacSweers/metro/pull/2994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid generating unnecessary getters"
 
 **2026-10-21** — merged PR [#2994](https://github.com/ZacSweers/metro/pull/2994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid generating unnecessary getters"
-
-**2026-10-21** — merged PR [#2993](https://github.com/ZacSweers/metro/pull/2993) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
