@@ -4,7 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-22** — opened PR [#3001](https://github.com/ZacSweers/metro/pull/3001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-10-22** — merged PR [#3001](https://github.com/ZacSweers/metro/pull/3001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-22** — merged PR [#590](https://github.com/ZacSweers/FieldSpottr/pull/590) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
