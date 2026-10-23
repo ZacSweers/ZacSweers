@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-23** — commented on [#1977](https://github.com/slackhq/foundry/issues/1977#issuecomment-6366843115) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2026-10-23** — merged PR [#3003](https://github.com/ZacSweers/metro/pull/3003) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-23** — merged PR [#592](https://github.com/ZacSweers/FieldSpottr/pull/592) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-20** — created branch `z/hoistSharedDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-22** — merged PR [#3001](https://github.com/ZacSweers/metro/pull/3001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-22** — created branch `automation/update-availability-39749234059` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
