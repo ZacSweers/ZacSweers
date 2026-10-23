@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-23** — closed issue [#652](https://github.com/slackhq/compose-lints/issues/652) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeMutableParameters false positive: types matched by simple name (including extension receivers)"
+
 **2026-10-20** — created branch `z/hoistSharedDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-22** — merged PR [#3001](https://github.com/ZacSweers/metro/pull/3001) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-21** — created branch `z/datalayer` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-21** — created branch `z/250beta2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-21** — merged PR [#2997](https://github.com/ZacSweers/metro/pull/2997) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-Beta2"
-
-**2026-10-20** — created branch `automation/update-availability-39394774882` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
