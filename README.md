@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-23** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-24** — opened PR [#3005](https://github.com/ZacSweers/metro/pull/3005) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-10-24** — created branch `automation/update-availability-40078495048` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-24** — merged PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-23** — merged PR [#592](https://github.com/ZacSweers/FieldSpottr/pull/592) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-23** — closed issue [#1977](https://github.com/slackhq/foundry/issues/1977) on [slackhq/foundry](https://github.com/slackhq/foundry): "ModuleScore centrality silently becomes 0 when modules use type-safe project accessors"
-
-**2026-10-23** — merged PR [#3003](https://github.com/ZacSweers/metro/pull/3003) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-22** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
