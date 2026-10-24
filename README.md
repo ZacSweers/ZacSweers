@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-24** — opened PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context parameters on @Provides declarations"
+
+**2026-10-24** — opened PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
+
 **2026-10-24** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6388773859) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — closed PR [#2968](https://github.com/ZacSweers/metro/pull/2968) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bind Guava's Optional from @BindsOptionalOf declarations"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-24** — merged PR [#3005](https://github.com/ZacSweers/metro/pull/3005) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-24** — created branch `automation/update-availability-40078495048` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-24** — merged PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-24** — merged PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
