@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-23** — merged PR [#592](https://github.com/ZacSweers/FieldSpottr/pull/592) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-23** — closed issue [#652](https://github.com/slackhq/compose-lints/issues/652) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeMutableParameters false positive: types matched by simple name (including extension receivers)"
-
-**2026-10-20** — created branch `z/hoistSharedDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
