@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-24** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6388773859) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-16** — closed PR [#2968](https://github.com/ZacSweers/metro/pull/2968) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bind Guava's Optional from @BindsOptionalOf declarations"
+
 **2026-10-24** — created branch `z/graphLifecycle` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-24** — merged PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-24** — merged PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-23** — created branch `automation/update-availability-39925927573` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-23** — commented on [#1977](https://github.com/slackhq/foundry/issues/1977#issuecomment-6366843115) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
