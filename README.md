@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-24** — opened PR [#593](https://github.com/ZacSweers/FieldSpottr/pull/593) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-23** — created branch `automation/update-availability-39925927573` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-23** — commented on [#1977](https://github.com/slackhq/foundry/issues/1977#issuecomment-6366843115) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2026-10-23** — merged PR [#3003](https://github.com/ZacSweers/metro/pull/3003) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
