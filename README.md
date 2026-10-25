@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
 
 **2026-10-10** — closed PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
-
-**2026-10-10** — closed PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
