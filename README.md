@@ -4,23 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-25** — merged PR [#594](https://github.com/ZacSweers/FieldSpottr/pull/594) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-25** — merged PR [#594](https://github.com/ZacSweers/FieldSpottr/pull/594) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-25** — opened PR [#3012](https://github.com/ZacSweers/metro/pull/3012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix flaky implicit-usage IDE test"
-
-**2026-10-25** — created branch `z/fixImplicitUsageFlake` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — created branch `z/providerContextParameters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
-
-**2026-10-10** — closed PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
-
-**2026-10-10** — closed PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
+**2026-10-25** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
