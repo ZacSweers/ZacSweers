@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-24** — created branch `z/providerContextParameters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
+
 **2026-10-10** — closed PR [#2948](https://github.com/ZacSweers/metro/pull/2948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement graph lifecycle callbacks (codex impl)"
 
 **2026-10-10** — closed PR [#2949](https://github.com/ZacSweers/metro/pull/2949) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add graph lifecycle callbacks (claude impl)"
 
 **2026-10-24** — opened PR [#3011](https://github.com/ZacSweers/metro/pull/3011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph lifecycle API"
 
-**2026-10-24** — opened PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
+**2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
 
 **2026-10-24** — opened PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
 
 **2026-10-24** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6388773859) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-16** — closed PR [#2968](https://github.com/ZacSweers/metro/pull/2968) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bind Guava's Optional from @BindsOptionalOf declarations"
-
-**2026-10-24** — created branch `z/graphLifecycle` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — merged PR [#3005](https://github.com/ZacSweers/metro/pull/3005) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
