@@ -13,8 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-25** — merged PR [#3012](https://github.com/ZacSweers/metro/pull/3012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix flaky implicit-usage IDE test"
 
 **2026-10-25** — created branch `z/fixImplicitUsageFlake` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
