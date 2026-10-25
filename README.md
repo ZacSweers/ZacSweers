@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-25** — opened PR [#594](https://github.com/ZacSweers/FieldSpottr/pull/594) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-25** — opened PR [#3012](https://github.com/ZacSweers/metro/pull/3012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix flaky implicit-usage IDE test"
 
 **2026-10-25** — created branch `z/fixImplicitUsageFlake` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-24** — opened PR [#3011](https://github.com/ZacSweers/metro/pull/3011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph lifecycle API"
 
 **2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
-
-**2026-10-24** — opened PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
