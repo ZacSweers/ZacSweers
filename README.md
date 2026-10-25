@@ -4,9 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-10-25** — opened PR [#3012](https://github.com/ZacSweers/metro/pull/3012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix flaky implicit-usage IDE test"
+
+**2026-10-25** — created branch `z/fixImplicitUsageFlake` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-24** — created branch `z/providerContextParameters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
 
 **2026-10-24** — opened PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
-
-**2026-10-24** — commented on [#2968](https://github.com/ZacSweers/metro/pull/2968#issuecomment-6388773859) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-16** — closed PR [#2968](https://github.com/ZacSweers/metro/pull/2968) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bind Guava's Optional from @BindsOptionalOf declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
