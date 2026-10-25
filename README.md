@@ -12,9 +12,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-10-25** — created branch `z/fixImplicitUsageFlake` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-10-24** — created branch `z/providerContextParameters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
 **2026-10-24** — created branch `z/refreshCompanionSupertypesDump` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-24** — created branch `z/providerContextParameters` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-24** — merged PR [#3008](https://github.com/ZacSweers/metro/pull/3008) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support context params & extensions on `@Provides` declarations"
 
