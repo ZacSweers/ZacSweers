@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-26** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6425640622) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-10-26** — opened PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-26** — opened PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
