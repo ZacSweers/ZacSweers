@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-26** — opened PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-10-26** — opened PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
 
 **2026-10-25** — created branch `automation/update-availability-40177111450` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
