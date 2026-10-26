@@ -9,8 +9,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-25** — merged PR [#594](https://github.com/ZacSweers/FieldSpottr/pull/594) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-25** — merged PR [#594](https://github.com/ZacSweers/FieldSpottr/pull/594) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-25** — merged PR [#3012](https://github.com/ZacSweers/metro/pull/3012) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix flaky implicit-usage IDE test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
