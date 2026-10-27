@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-27** — opened PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
+
+**2026-10-27** — opened PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
+
 **2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
 
 **2026-10-27** — commented on [#652](https://github.com/slackhq/compose-lints/issues/652#issuecomment-6453718733) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-26** — created branch `automation/update-bbp-schedule-dfd0f30efc4427b3019847a127cdb93f652aa4d49c8735735c0b3c6be5c9668b` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-27** — merged PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-27** — merged PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-26** — created branch `z/optInIdeaRelease` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
