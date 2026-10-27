@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-27** — created branch `automation/update-availability-40474984724` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-10-27** — merged PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
+
 **2026-10-27** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6444897155) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-26** — created branch `automation/update-bbp-schedule-dfd0f30efc4427b3019847a127cdb93f652aa4d49c8735735c0b3c6be5c9668b` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-26** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6425640622) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-10-26** — opened PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-26** — opened PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
