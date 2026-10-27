@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-27** — opened PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
+**2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
+
+**2026-10-27** — commented on [#652](https://github.com/slackhq/compose-lints/issues/652#issuecomment-6453718733) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
 
 **2026-10-27** — created branch `automation/update-availability-40474984724` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-27** — merged PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-26** — created branch `z/optInIdeaRelease` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-26** — opened PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
-
-**2026-10-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
