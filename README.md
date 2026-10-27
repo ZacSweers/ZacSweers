@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-27** — opened PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
+
 **2026-10-27** — created branch `automation/update-availability-40474984724` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-27** — merged PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-26** — opened PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
 
 **2026-10-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-26** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6425640622) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
