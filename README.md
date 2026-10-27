@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-27** — opened PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-26** — created branch `z/optInIdeaRelease` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-26** — opened PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
