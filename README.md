@@ -4,23 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-27** — merged PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-27** — merged PR [#598](https://github.com/ZacSweers/FieldSpottr/pull/598) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-26** — created branch `z/optInIdeaRelease` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-26** — opened PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
-
-**2026-10-26** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-26** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6425640622) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-10-26** — opened PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-26** — opened PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
-
-**2026-10-25** — created branch `automation/update-availability-40177111450` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-10-27** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
