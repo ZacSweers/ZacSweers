@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-27** — created branch `z/fixKmpHiddenDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-10-28** — merged PR [#600](https://github.com/ZacSweers/FieldSpottr/pull/600) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-28** — merged PR [#600](https://github.com/ZacSweers/FieldSpottr/pull/600) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-27** — created branch `automation/update-availability-40474984724` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-27** — merged PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
-
-**2026-10-27** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6444897155) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
