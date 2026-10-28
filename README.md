@@ -12,7 +12,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-10-27** — opened PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
 
-**2026-10-27** — opened PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
+**2026-10-27** — merged PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
 
 **2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
 
