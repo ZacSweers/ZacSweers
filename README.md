@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-28** — merged PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
+
+**2026-10-28** — merged PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-28** — closed issue [#3017](https://github.com/ZacSweers/metro/issues/3017) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Upstream constructor change recompiles every file in the graph's module"
+
 **2026-10-27** — created branch `z/fixKmpHiddenDependencies` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-28** — merged PR [#600](https://github.com/ZacSweers/FieldSpottr/pull/600) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-28** — merged PR [#600](https://github.com/ZacSweers/FieldSpottr/pull/600) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
-**2026-10-27** — opened PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
+**2026-10-27** — merged PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
 
 **2026-10-27** — merged PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
 
 **2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
 
 **2026-10-27** — commented on [#652](https://github.com/slackhq/compose-lints/issues/652#issuecomment-6453718733) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2026-10-27** — merged PR [#3020](https://github.com/ZacSweers/metro/pull/3020) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix reading associated compilations in hidden deps checker"
-
-**2026-10-27** — created branch `automation/update-availability-40474984724` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-27** — merged PR [#8707](https://github.com/JetBrains/kotlin/pull/8707) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[IC] Fix invalidation of FIR plugin-generated JVM declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
