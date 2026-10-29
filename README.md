@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-29** — merged PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
+
 **2026-10-27** — created branch `z/fixJsWebpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-29** — merged PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -13,12 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-29** — merged PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-29** — merged PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-28** — created branch `automation/update-availability-40657006432` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-10-28** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6481008550) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-10-28** — merged PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
