@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-28** — merged PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
 
 **2026-10-28** — merged PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
-
-**2026-10-28** — merged PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
