@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-29** — opened PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-29** — merged PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-29** — merged PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-28** — created branch `automation/update-availability-40657006432` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-28** — merged PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
 
 **2026-10-28** — merged PR [#3015](https://github.com/ZacSweers/metro/pull/3015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-28** — closed issue [#3017](https://github.com/ZacSweers/metro/issues/3017) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Upstream constructor change recompiles every file in the graph's module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
