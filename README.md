@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-29** — opened PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-10-29** — merged PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-29** — merged PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-29** — merged PR [#603](https://github.com/ZacSweers/FieldSpottr/pull/603) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-28** — merged PR [#3023](https://github.com/ZacSweers/metro/pull/3023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC issue around origin classes"
 
 **2026-10-27** — created branch `z/fixIc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-28** — merged PR [#3022](https://github.com/ZacSweers/metro/pull/3022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix webpack"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
