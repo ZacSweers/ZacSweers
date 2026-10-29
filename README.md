@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-28** — commented on [#2940](https://github.com/slackhq/circuit/pull/2940#issuecomment-6481008550) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-10-28** — merged PR [#3007](https://github.com/ZacSweers/metro/pull/3007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh the GeneratedCompanionSupertypes dump"
-
-**2026-10-28** — merged PR [#3018](https://github.com/ZacSweers/metro/pull/3018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IDE plugin releases opt-in and fix signature verification dependency"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
