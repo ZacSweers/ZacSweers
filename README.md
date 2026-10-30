@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-30** — opened PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-30** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6515629149) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
