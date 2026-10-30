@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-10-30** — opened PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a 2.4.20 compat issue"
+**2026-10-30** — merged PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a 2.4.20 compat issue"
+
+**2026-10-30** — opened issue [#3286](https://github.com/google/ksp/issues/3286) on [google/ksp](https://github.com/google/ksp): "KSP 2.3.13 regression: library symbols disappear during concurrent in-process executions"
+
+**2026-10-30** — merged PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a 2.4.20 compat issue"
 
 **2026-10-30** — commented on [#3031](https://github.com/ZacSweers/metro/pull/3031#issuecomment-6531959045) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-29** — created branch `automation/update-availability-40842373210` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-10-30** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6515629149) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
