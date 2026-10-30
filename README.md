@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-30** — labeled issue [#2984](https://github.com/ZacSweers/metro/issues/2984) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Version check: support non-Gradle build tools"
+
 **2026-10-30** — merged PR [#3030](https://github.com/ZacSweers/metro/pull/3030) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-30** — merged PR [#3030](https://github.com/ZacSweers/metro/pull/3030) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
