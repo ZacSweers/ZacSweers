@@ -17,8 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-30** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6515629149) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-10-29** — merged PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
-
-**2026-10-27** — created branch `z/fixJsWebpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
