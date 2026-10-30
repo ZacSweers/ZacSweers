@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-10-30** — opened PR [#3030](https://github.com/ZacSweers/metro/pull/3030) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-10-29** — created branch `automation/update-availability-40842373210` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-10-30** — merged PR [#605](https://github.com/ZacSweers/FieldSpottr/pull/605) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -13,10 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-29** — merged PR [#8891](https://github.com/JetBrains/kotlin/pull/8891) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Publish runtime for missing Native targets"
 
 **2026-10-27** — created branch `z/fixJsWebpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-29** — merged PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-29** — merged PR [#3025](https://github.com/ZacSweers/metro/pull/3025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
