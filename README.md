@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-01** — opened PR [#606](https://github.com/ZacSweers/FieldSpottr/pull/606) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-10-30** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-29** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-30** — commented on [#3031](https://github.com/ZacSweers/metro/pull/3031#issuecomment-6531959045) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-10-30** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6531065832) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-10-30** — labeled issue [#2984](https://github.com/ZacSweers/metro/issues/2984) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Version check: support non-Gradle build tools"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
