@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-01** — opened PR [#3040](https://github.com/ZacSweers/metro/pull/3040) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-01** — merged PR [#3040](https://github.com/ZacSweers/metro/pull/3040) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-01** — merged PR [#3040](https://github.com/ZacSweers/metro/pull/3040) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-30** — created branch `automation/update-availability-41026610020` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-10-31** — merged PR [#3037](https://github.com/ZacSweers/metro/pull/3037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-10-31** — merged PR [#3037](https://github.com/ZacSweers/metro/pull/3037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-10-30** — merged PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a 2.4.20 compat issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
