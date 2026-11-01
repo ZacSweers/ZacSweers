@@ -16,7 +16,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-10-30** — opened issue [#3286](https://github.com/google/ksp/issues/3286) on [google/ksp](https://github.com/google/ksp): "KSP 2.3.13 regression: library symbols disappear during concurrent in-process executions"
 
-**2026-10-30** — opened PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-10-30** — merged PR [#3034](https://github.com/ZacSweers/metro/pull/3034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a 2.4.20 compat issue"
 
 **2026-10-30** — commented on [#3031](https://github.com/ZacSweers/metro/pull/3031#issuecomment-6531959045) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
