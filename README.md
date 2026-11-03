@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-03** — opened PR [#608](https://github.com/ZacSweers/FieldSpottr/pull/608) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-03** — merged PR [#608](https://github.com/ZacSweers/FieldSpottr/pull/608) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-03** — merged PR [#608](https://github.com/ZacSweers/FieldSpottr/pull/608) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -17,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-02** — commented on [#3039](https://github.com/ZacSweers/metro/issues/3039#issuecomment-6580550812) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-01** — created branch `automation/update-availability-41288594363` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-02** — merged PR [#28](https://github.com/ZacSweers/kempt/pull/28) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 2.0.0"
 
 **2026-11-02** — merged PR [#28](https://github.com/ZacSweers/kempt/pull/28) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 2.0.0"
 
