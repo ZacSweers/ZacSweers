@@ -8,7 +8,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-03** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6605669484) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-03** — merged PR [#3048](https://github.com/ZacSweers/metro/pull/3048) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-03** — merged PR [#3048](https://github.com/ZacSweers/metro/pull/3048) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-03** — merged PR [#3048](https://github.com/ZacSweers/metro/pull/3048) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
