@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-02** — opened PR [#3047](https://github.com/ZacSweers/metro/pull/3047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.5.20 support"
+**2026-11-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-02** — merged PR [#3047](https://github.com/ZacSweers/metro/pull/3047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.5.20 support"
+
+**2026-11-02** — merged PR [#3047](https://github.com/ZacSweers/metro/pull/3047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.5.20 support"
 
 **2026-11-02** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6594260228) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-02** — merged PR [#28](https://github.com/ZacSweers/kempt/pull/28) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 2.0.0"
 
 **2026-11-02** — merged PR [#28](https://github.com/ZacSweers/kempt/pull/28) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Bump starter versions: gjf 2.0.0"
-
-**2026-11-02** — merged PR [#607](https://github.com/ZacSweers/FieldSpottr/pull/607) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-02** — merged PR [#607](https://github.com/ZacSweers/FieldSpottr/pull/607) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
