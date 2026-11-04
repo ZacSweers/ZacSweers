@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-04** — opened PR [#3055](https://github.com/ZacSweers/metro/pull/3055) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-11-04** — merged PR [#609](https://github.com/ZacSweers/FieldSpottr/pull/609) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-04** — merged PR [#609](https://github.com/ZacSweers/FieldSpottr/pull/609) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-04** — merged PR [#3052](https://github.com/ZacSweers/metro/pull/3052) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up old tested dev versions"
 
 **2026-11-03** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6607204154) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-03** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6605669484) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
