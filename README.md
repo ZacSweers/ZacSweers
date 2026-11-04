@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-04** — opened PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI execution and cache reuse"
+
+**2026-11-04** — opened PR [#3056](https://github.com/ZacSweers/metro/pull/3056) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dependabot issues"
+
 **2026-11-04** — merged PR [#3055](https://github.com/ZacSweers/metro/pull/3055) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-04** — merged PR [#3055](https://github.com/ZacSweers/metro/pull/3055) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -17,10 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-04** — commented on [#3045](https://github.com/ZacSweers/metro/issues/3045#issuecomment-6624079377) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-04** — closed issue [#3045](https://github.com/ZacSweers/metro/issues/3045) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "java.io.IOException: bad zip: truncated header in extra field when parsing Unity Ads Quality AAR"
-
-**2026-11-04** — merged PR [#3052](https://github.com/ZacSweers/metro/pull/3052) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up old tested dev versions"
-
-**2026-11-04** — merged PR [#3053](https://github.com/ZacSweers/metro/pull/3053) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 
 **2026-11-04** — merged PR [#3052](https://github.com/ZacSweers/metro/pull/3052) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up old tested dev versions"
 <!-- githubActivity ends -->
