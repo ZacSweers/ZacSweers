@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-04** — opened PR [#3053](https://github.com/ZacSweers/metro/pull/3053) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
+**2026-11-04** — opened PR [#3052](https://github.com/ZacSweers/metro/pull/3052) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up old tested dev versions"
+
 **2026-11-03** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6607204154) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-03** — commented on [#3046](https://github.com/ZacSweers/metro/pull/3046#issuecomment-6605669484) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-03** — merged PR [#608](https://github.com/ZacSweers/FieldSpottr/pull/608) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-01** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-02** — merged PR [#3047](https://github.com/ZacSweers/metro/pull/3047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.5.20 support"
-
-**2026-11-02** — merged PR [#3047](https://github.com/ZacSweers/metro/pull/3047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve 2.5.20 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
