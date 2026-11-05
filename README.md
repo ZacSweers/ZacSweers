@@ -8,7 +8,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-02** — created branch `z/kotlinMainMemberInjection` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-04** — opened PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI execution and cache reuse"
+**2026-11-04** — opened PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI and cache reuse"
 
 **2026-11-04** — opened PR [#3056](https://github.com/ZacSweers/metro/pull/3056) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dependabot issues"
 
