@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-05** — opened PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-05** — merged PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-05** — merged PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-04** — opened PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI and cache reuse"
 
 **2026-11-04** — opened PR [#3056](https://github.com/ZacSweers/metro/pull/3056) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dependabot issues"
-
-**2026-11-04** — merged PR [#3055](https://github.com/ZacSweers/metro/pull/3055) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
