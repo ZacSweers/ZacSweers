@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-05** — opened PR [#610](https://github.com/ZacSweers/FieldSpottr/pull/610) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-05** — merged PR [#610](https://github.com/ZacSweers/FieldSpottr/pull/610) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-05** — merged PR [#610](https://github.com/ZacSweers/FieldSpottr/pull/610) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-04** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-04** — merged PR [#609](https://github.com/ZacSweers/FieldSpottr/pull/609) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-04** — merged PR [#609](https://github.com/ZacSweers/FieldSpottr/pull/609) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-04** — merged PR [#3053](https://github.com/ZacSweers/metro/pull/3053) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
