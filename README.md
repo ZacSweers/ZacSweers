@@ -4,19 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-06** — merged PR [#611](https://github.com/ZacSweers/FieldSpottr/pull/611) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-11-05** — created branch `z/compilerPluginApiTrial` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-06** — opened PR [#611](https://github.com/ZacSweers/FieldSpottr/pull/611) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-06** — merged PR [#611](https://github.com/ZacSweers/FieldSpottr/pull/611) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-05** — created branch `z/graphPrivateBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-05** — closed issue [#3039](https://github.com/ZacSweers/metro/issues/3039) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Proposal: docs site version pruning using new workflow"
-
-**2026-11-05** — commented on [#3074](https://github.com/ZacSweers/metro/pull/3074#issuecomment-6675139807) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-05** — closed issue [#3066](https://github.com/ZacSweers/metro/issues/3066) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`@GraphPrivate` on a `@Binds` still reaches graph extensions"
-
-**2026-11-05** — merged PR [#3073](https://github.com/ZacSweers/metro/pull/3073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@GraphPrivate @Binds` declarations leaking into graph extensions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
