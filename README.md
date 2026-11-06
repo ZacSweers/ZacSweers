@@ -4,7 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-05** — opened PR [#3073](https://github.com/ZacSweers/metro/pull/3073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@GraphPrivate @Binds` declarations leaking into graph extensions"
+**2026-11-05** — closed issue [#3039](https://github.com/ZacSweers/metro/issues/3039) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Proposal: docs site version pruning using new workflow"
+
+**2026-11-05** — commented on [#3074](https://github.com/ZacSweers/metro/pull/3074#issuecomment-6675139807) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-05** — closed issue [#3066](https://github.com/ZacSweers/metro/issues/3066) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`@GraphPrivate` on a `@Binds` still reaches graph extensions"
+
+**2026-11-05** — merged PR [#3073](https://github.com/ZacSweers/metro/pull/3073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@GraphPrivate @Binds` declarations leaking into graph extensions"
+
+**2026-11-05** — merged PR [#3073](https://github.com/ZacSweers/metro/pull/3073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix `@GraphPrivate @Binds` declarations leaking into graph extensions"
 
 **2026-11-05** — closed issue [#3063](https://github.com/ZacSweers/metro/issues/3063) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributed classes skip member injection with generateContributionProviders"
 
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-05** — merged PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI and cache reuse"
 
 **2026-11-05** — merged PR [#3070](https://github.com/ZacSweers/metro/pull/3070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing member injection with generateContributionProviders"
-
-**2026-11-05** — commented on [#3062](https://github.com/ZacSweers/metro/pull/3062#issuecomment-6661706455) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-04** — closed PR [#3062](https://github.com/ZacSweers/metro/pull/3062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incremental compilation issue with scope changes"
-
-**2026-11-05** — merged PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-05** — merged PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
