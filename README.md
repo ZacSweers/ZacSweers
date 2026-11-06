@@ -9,8 +9,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-05** — created branch `z/compilerPluginApiTrial` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-06** — merged PR [#611](https://github.com/ZacSweers/FieldSpottr/pull/611) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-05** — created branch `z/graphPrivateBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
