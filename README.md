@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-05** — closed issue [#3063](https://github.com/ZacSweers/metro/issues/3063) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributed classes skip member injection with generateContributionProviders"
+
+**2026-11-05** — merged PR [#3070](https://github.com/ZacSweers/metro/pull/3070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing member injection with generateContributionProviders"
+
 **2026-11-05** — merged PR [#3056](https://github.com/ZacSweers/metro/pull/3056) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dependabot issues"
 
 **2026-11-05** — merged PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI and cache reuse"
 
-**2026-11-05** — opened PR [#3070](https://github.com/ZacSweers/metro/pull/3070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing member injection with generateContributionProviders"
+**2026-11-05** — merged PR [#3070](https://github.com/ZacSweers/metro/pull/3070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing member injection with generateContributionProviders"
 
 **2026-11-05** — commented on [#3062](https://github.com/ZacSweers/metro/pull/3062#issuecomment-6661706455) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-05** — merged PR [#3064](https://github.com/ZacSweers/metro/pull/3064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-03** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-05** — created branch `automation/update-availability-41994426180` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-05** — merged PR [#610](https://github.com/ZacSweers/FieldSpottr/pull/610) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
