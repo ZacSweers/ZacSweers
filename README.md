@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-05** — created branch `z/graphPrivateBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-05** — closed issue [#3039](https://github.com/ZacSweers/metro/issues/3039) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Proposal: docs site version pruning using new workflow"
 
 **2026-11-05** — commented on [#3074](https://github.com/ZacSweers/metro/pull/3074#issuecomment-6675139807) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,13 +23,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-05** — merged PR [#3056](https://github.com/ZacSweers/metro/pull/3056) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dependabot issues"
 
 **2026-11-05** — merged PR [#3058](https://github.com/ZacSweers/metro/pull/3058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize CI and cache reuse"
-
-**2026-11-05** — merged PR [#3070](https://github.com/ZacSweers/metro/pull/3070) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing member injection with generateContributionProviders"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2026-11-05** — [Stop Sending Tall PR Stacks](https://www.zacsweers.dev/stop-sending-tall-pr-stacks/)
+
 **2026-06-29** — [How to Take an 11 Month Sabbatical](https://www.zacsweers.dev/how-to-take-an-11-month-sabbatical/)
 
 **2026-06-22** — [Introducing Kempt](https://www.zacsweers.dev/introducing-kempt/)
@@ -45,8 +47,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-02-09** — [Where are all the staff+ Android product engineers?](https://www.zacsweers.dev/where-are-the-staf-android-product-engineers/)
 
 **2026-01-29** — [Sponsoring Metro](https://www.zacsweers.dev/sponsoring-metro/)
-
-**2025-11-06** — [Metro's Design Doc](https://www.zacsweers.dev/metros-design-doc/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
