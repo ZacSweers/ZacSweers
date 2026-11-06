@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-05** — created branch `z/contributionMemberInjection` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-06** — merged PR [#3076](https://github.com/ZacSweers/metro/pull/3076) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More provider field/reuse cleanups"
 
 **2026-11-06** — merged PR [#3076](https://github.com/ZacSweers/metro/pull/3076) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More provider field/reuse cleanups"
