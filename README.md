@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-06** — created branch `z/gradle990Failures` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-07** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-07** — commented on [#3082](https://github.com/ZacSweers/metro/issues/3082#issuecomment-6710648997) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — commented on [#3081](https://github.com/ZacSweers/metro/issues/3081#issuecomment-6710639866) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
