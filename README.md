@@ -15,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-06** — merged PR [#3076](https://github.com/ZacSweers/metro/pull/3076) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More provider field/reuse cleanups"
 
 **2026-11-06** — merged PR [#3075](https://github.com/ZacSweers/metro/pull/3075) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-06** — merged PR [#3075](https://github.com/ZacSweers/metro/pull/3075) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
