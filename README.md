@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-07** — merged PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+
+**2026-11-07** — commented on [#3082](https://github.com/ZacSweers/metro/issues/3082#issuecomment-6713467821) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-07** — merged PR [#3085](https://github.com/ZacSweers/metro/pull/3085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Factor in receivers in deduping property accessors"
+
+**2026-11-07** — closed issue [#3082](https://github.com/ZacSweers/metro/issues/3082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A @Binds extension property named like a graph accessor makes the graph class fail to load (ClassFormatError)"
+
 **2026-11-07** — merged PR [#3086](https://github.com/ZacSweers/metro/pull/3086) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Set the Kotlin compiler version for JS box tests"
 
 **2026-11-07** — opened PR [#3088](https://github.com/ZacSweers/metro/pull/3088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph creators in user-declared companion objects"
 
 **2026-11-07** — commented on [#3081](https://github.com/ZacSweers/metro/issues/3081#issuecomment-6713102882) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-07** — opened PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
+**2026-11-07** — merged PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
 
 **2026-11-07** — closed issue [#3081](https://github.com/ZacSweers/metro/issues/3081) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A dynamic graph in a test compilation misses the main compilation's `internal` contributions"
 
 **2026-11-07** — merged PR [#3084](https://github.com/ZacSweers/metro/pull/3084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix calling declaration for dynamic graphs"
-
-**2026-11-07** — merged PR [#3086](https://github.com/ZacSweers/metro/pull/3086) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Set the Kotlin compiler version for JS box tests"
-
-**2026-11-07** — opened PR [#3085](https://github.com/ZacSweers/metro/pull/3085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Factor in receivers in deduping property accessors"
-
-**2026-11-07** — merged PR [#3084](https://github.com/ZacSweers/metro/pull/3084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix calling declaration for dynamic graphs"
-
-**2026-11-06** — created branch `z/gradle990Failures` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
