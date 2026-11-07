@@ -9,8 +9,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — merged PR [#3080](https://github.com/ZacSweers/metro/pull/3080) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-06** — created branch `z/forceProviderGetterFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-06** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
