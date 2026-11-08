@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-07** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-07** — created branch `z/dynamicGraphFriendContributions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — merged PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — commented on [#3081](https://github.com/ZacSweers/metro/issues/3081#issuecomment-6713102882) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — merged PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-11-07** — closed issue [#3081](https://github.com/ZacSweers/metro/issues/3081) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A dynamic graph in a test compilation misses the main compilation's `internal` contributions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
