@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-08** — opened PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-08** — commented on [#588](https://github.com/ZacSweers/FieldSpottr/pull/588#issuecomment-6727991519) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-08** — merged PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
+
+**2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
+
+**2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
+
 **2026-11-08** — merged PR [#3088](https://github.com/ZacSweers/metro/pull/3088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph creators in user-declared companion objects"
 
 **2026-11-08** — created branch `automation/update-availability-42462690944` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -13,16 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — created branch `z/jsBoxCompilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-08** — merged PR [#613](https://github.com/ZacSweers/FieldSpottr/pull/613) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-08** — merged PR [#613](https://github.com/ZacSweers/FieldSpottr/pull/613) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-07** — created branch `z/updateIdeTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-07** — created branch `z/dynamicGraphFriendContributions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-07** — merged PR [#3087](https://github.com/ZacSweers/metro/pull/3087) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update tested IDE versions"
-
-**2026-11-07** — commented on [#3082](https://github.com/ZacSweers/metro/issues/3082#issuecomment-6713467821) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
