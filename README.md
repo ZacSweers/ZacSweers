@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-08** — opened PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-08** — commented on [#588](https://github.com/ZacSweers/FieldSpottr/pull/588#issuecomment-6727991519) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — created branch `z/userCompanionFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — created branch `z/jsBoxCompilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-08** — merged PR [#613](https://github.com/ZacSweers/FieldSpottr/pull/613) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
