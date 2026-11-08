@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-07** — created branch `z/userCompanionFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-07** — created branch `z/jsBoxCompilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-08** — merged PR [#613](https://github.com/ZacSweers/FieldSpottr/pull/613) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — merged PR [#3085](https://github.com/ZacSweers/metro/pull/3085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Factor in receivers in deduping property accessors"
 
 **2026-11-07** — closed issue [#3082](https://github.com/ZacSweers/metro/issues/3082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A @Binds extension property named like a graph accessor makes the graph class fail to load (ClassFormatError)"
-
-**2026-11-07** — merged PR [#3086](https://github.com/ZacSweers/metro/pull/3086) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Set the Kotlin compiler version for JS box tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
