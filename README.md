@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-08** — created branch `automation/update-availability-42462690944` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-07** — created branch `z/userCompanionFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — created branch `z/jsBoxCompilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-07** — commented on [#3082](https://github.com/ZacSweers/metro/issues/3082#issuecomment-6713467821) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-07** — merged PR [#3085](https://github.com/ZacSweers/metro/pull/3085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Factor in receivers in deduping property accessors"
-
-**2026-11-07** — closed issue [#3082](https://github.com/ZacSweers/metro/issues/3082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A @Binds extension property named like a graph accessor makes the graph class fail to load (ClassFormatError)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
