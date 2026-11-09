@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-07** — created branch `z/bindsAccessorClash` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -15,14 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
 
 **2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
-
-**2026-11-08** — merged PR [#3088](https://github.com/ZacSweers/metro/pull/3088) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph creators in user-declared companion objects"
-
-**2026-11-08** — created branch `automation/update-availability-42462690944` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-07** — created branch `z/userCompanionFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-07** — created branch `z/jsBoxCompilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
