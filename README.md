@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-09** — merged PR [#3093](https://github.com/ZacSweers/metro/pull/3093) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-09** — merged PR [#3093](https://github.com/ZacSweers/metro/pull/3093) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-11-09** — merged PR [#616](https://github.com/ZacSweers/FieldSpottr/pull/616) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-09** — merged PR [#616](https://github.com/ZacSweers/FieldSpottr/pull/616) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
