@@ -4,13 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-08** — merged PR [#2913](https://github.com/ZacSweers/metro/pull/2913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Recognize companion-block providers in IDEA"
-
-**2026-11-08** — merged PR [#2975](https://github.com/ZacSweers/metro/pull/2975) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph creators in companion blocks"
-
-**2026-11-08** — merged PR [#2974](https://github.com/ZacSweers/metro/pull/2974) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hidden companion-block helpers in IR"
-
-**2026-11-08** — merged PR [#2973](https://github.com/ZacSweers/metro/pull/2973) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add companion-mode compiler infrastructure"
+**2026-11-09** — opened PR [#616](https://github.com/ZacSweers/FieldSpottr/pull/616) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
