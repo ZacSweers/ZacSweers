@@ -4,19 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-08** — merged PR [#589](https://github.com/ZacSweers/FieldSpottr/pull/589) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer prototypes"
+
+**2026-11-08** — created branch `automation/update-availability-42530140954` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-07** — created branch `z/bindsAccessorClash` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-08** — merged PR [#615](https://github.com/ZacSweers/FieldSpottr/pull/615) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-08** — commented on [#588](https://github.com/ZacSweers/FieldSpottr/pull/588#issuecomment-6727991519) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-08** — merged PR [#596](https://github.com/ZacSweers/FieldSpottr/pull/596) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
-
-**2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
-
-**2026-11-08** — merged PR [#3090](https://github.com/ZacSweers/metro/pull/3090) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the JS box skiko stub on Kotlin 2.5 test frameworks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
