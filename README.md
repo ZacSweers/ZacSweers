@@ -13,8 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-10** — merged PR [#620](https://github.com/ZacSweers/FieldSpottr/pull/620) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-10** — merged PR [#620](https://github.com/ZacSweers/FieldSpottr/pull/620) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-09** — merged PR [#619](https://github.com/ZacSweers/FieldSpottr/pull/619) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small data layer fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
