@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-11** — opened PR [#3104](https://github.com/ZacSweers/metro/pull/3104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tidy up runtime map factories"
+**2026-11-11** — merged PR [#3107](https://github.com/ZacSweers/metro/pull/3107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compare instances by identity in DoubleCheck's reentrant check"
 
-**2026-11-11** — merged PR [#3103](https://github.com/ZacSweers/metro/pull/3103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-11** — opened PR [#3113](https://github.com/ZacSweers/metro/pull/3113) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix two diagnostic edge cases in IrBindingGraph"
 
-**2026-11-11** — merged PR [#3103](https://github.com/ZacSweers/metro/pull/3103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-11** — opened PR [#3112](https://github.com/ZacSweers/metro/pull/3112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop double-counting dependency references of deferred types"
 
-**2026-11-11** — merged PR [#623](https://github.com/ZacSweers/FieldSpottr/pull/623) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-11** — opened PR [#3111](https://github.com/ZacSweers/metro/pull/3111) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph lifecycle warnings that share a source element"
 
-**2026-11-11** — merged PR [#623](https://github.com/ZacSweers/FieldSpottr/pull/623) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-11** — opened PR [#3110](https://github.com/ZacSweers/metro/pull/3110) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop generating an unused UUID tag for each allocated name"
 
-**2026-11-11** — merged PR [#3011](https://github.com/ZacSweers/metro/pull/3011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph lifecycle API"
+**2026-11-11** — opened PR [#3109](https://github.com/ZacSweers/metro/pull/3109) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a compiler crash for map multibindings whose values are maps"
 
-**2026-11-11** — opened PR [#2962](https://github.com/slackhq/circuit/pull/2962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuitx-adaptive with pane layouts for wide windows"
+**2026-11-11** — opened PR [#3108](https://github.com/ZacSweers/metro/pull/3108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tidy up map multibinding symbol selection and graph node override loop"
 
-**2026-11-09** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-11** — merged PR [#3107](https://github.com/ZacSweers/metro/pull/3107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compare instances by identity in DoubleCheck's reentrant check"
 
-**2026-11-10** — created branch `automation/update-availability-42782420891` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-11-11** — opened PR [#3106](https://github.com/ZacSweers/metro/pull/3106) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the duplicate provider check from SetFactory"
 
-**2026-11-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-11** — opened PR [#3105](https://github.com/ZacSweers/metro/pull/3105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep memoize thread-safe in IDE mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
