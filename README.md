@@ -4,7 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-10** — opened PR [#622](https://github.com/ZacSweers/FieldSpottr/pull/622) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix optimistic store races and add a conflated action runner"
+**2026-11-10** — merged PR [#622](https://github.com/ZacSweers/FieldSpottr/pull/622) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix optimistic store races and add a conflated action runner"
 
 **2026-11-09** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
