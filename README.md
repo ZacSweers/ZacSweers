@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — opened PR [#3104](https://github.com/ZacSweers/metro/pull/3104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tidy up runtime map factories"
+
 **2026-11-11** — merged PR [#3103](https://github.com/ZacSweers/metro/pull/3103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-11** — merged PR [#3103](https://github.com/ZacSweers/metro/pull/3103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-10** — created branch `automation/update-availability-42782420891` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-10** — merged PR [#622](https://github.com/ZacSweers/FieldSpottr/pull/622) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix optimistic store races and add a conflated action runner"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
