@@ -4,13 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — opened PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
+
+**2026-11-11** — merged PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
+
 **2026-11-11** — merged PR [#3111](https://github.com/ZacSweers/metro/pull/3111) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph lifecycle warnings that share a source element"
 
 **2026-11-11** — merged PR [#3115](https://github.com/ZacSweers/metro/pull/3115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Companion block edge cases"
 
 **2026-11-11** — merged PR [#3106](https://github.com/ZacSweers/metro/pull/3106) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the duplicate provider check from SetFactory"
 
-**2026-11-11** — opened PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
+**2026-11-11** — merged PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
 
 **2026-11-11** — closed PR [#3116](https://github.com/ZacSweers/metro/pull/3116) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document that a closing graph doesn't wait for an extension closing elsewhere"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — merged PR [#3113](https://github.com/ZacSweers/metro/pull/3113) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix two diagnostic edge cases in IrBindingGraph"
 
 **2026-11-11** — merged PR [#3104](https://github.com/ZacSweers/metro/pull/3104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tidy up runtime map factories"
-
-**2026-11-11** — merged PR [#3112](https://github.com/ZacSweers/metro/pull/3112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop double-counting dependency references of deferred types"
-
-**2026-11-11** — merged PR [#3109](https://github.com/ZacSweers/metro/pull/3109) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a compiler crash for map multibindings whose values are maps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
