@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-11** — merged PR [#3118](https://github.com/ZacSweers/metro/pull/3118) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bump 2.5.20 dev support"
+**2026-11-11** — closed PR [#626](https://github.com/ZacSweers/FieldSpottr/pull/626) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.material3:material3 to v1.12.0-SNAPSHOT+v-mazunin-enable-lifecycle-and-nav3-for-1-12-0-alpha02"
+
+**2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
 
 **2026-11-11** — merged PR [#3118](https://github.com/ZacSweers/metro/pull/3118) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bump 2.5.20 dev support"
 
-**2026-11-11** — opened PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
+**2026-11-11** — merged PR [#3118](https://github.com/ZacSweers/metro/pull/3118) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bump 2.5.20 dev support"
+
+**2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
 
 **2026-11-11** — merged PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
 
@@ -18,11 +22,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-11** — merged PR [#3106](https://github.com/ZacSweers/metro/pull/3106) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the duplicate provider check from SetFactory"
 
-**2026-11-11** — merged PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
-
-**2026-11-11** — closed PR [#3116](https://github.com/ZacSweers/metro/pull/3116) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document that a closing graph doesn't wait for an extension closing elsewhere"
-
-**2026-11-11** — merged PR [#3105](https://github.com/ZacSweers/metro/pull/3105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Keep memoize thread-safe in IDE mode"
+**2026-11-11** — opened PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
