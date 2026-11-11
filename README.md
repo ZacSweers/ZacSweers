@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — opened PR [#623](https://github.com/ZacSweers/FieldSpottr/pull/623) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-11-11** — merged PR [#3011](https://github.com/ZacSweers/metro/pull/3011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph lifecycle API"
 
 **2026-11-11** — opened PR [#2962](https://github.com/slackhq/circuit/pull/2962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuitx-adaptive with pane layouts for wide windows"
