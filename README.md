@@ -4,7 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-10** — Could not load GitHub activity. Please check back later.
+**2026-11-10** — created branch `automation/update-availability-42782420891` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-10** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-10** — merged PR [#622](https://github.com/ZacSweers/FieldSpottr/pull/622) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix optimistic store races and add a conflated action runner"
+
+**2026-11-09** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-10** — merged PR [#3099](https://github.com/ZacSweers/metro/pull/3099) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
