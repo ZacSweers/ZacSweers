@@ -4,11 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-11** — created branch `z/circuitx-adaptive` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2026-11-12** — opened PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
-**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6810061690) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2026-11-11** — closed PR [#626](https://github.com/ZacSweers/FieldSpottr/pull/626) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.material3:material3 to v1.12.0-SNAPSHOT+v-mazunin-enable-lifecycle-and-nav3-for-1-12-0-alpha02"
-
-**2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
