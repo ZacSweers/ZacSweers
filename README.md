@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — opened PR [#628](https://github.com/ZacSweers/FieldSpottr/pull/628) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer cleanups"
+
+**2026-11-12** — labeled issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
+
 **2026-11-11** — created branch `z/mapValuedMapMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-11** — created branch `z/bindingGraphDiagnosticFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-12** — commented on [#2964](https://github.com/slackhq/circuit/issues/2964#issuecomment-6827250912) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6827422708) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — closed issue [#3098](https://github.com/ZacSweers/metro/issues/3098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`ContributionHintIrTransformer.prepareHintFile` crashes with NotImplementedError: Unknown file when @Origin resolves to a compiled class"
-
-**2026-11-12** — merged PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
