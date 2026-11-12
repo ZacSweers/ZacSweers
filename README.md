@@ -22,7 +22,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-12** — closed issue [#3098](https://github.com/ZacSweers/metro/issues/3098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`ContributionHintIrTransformer.prepareHintFile` crashes with NotImplementedError: Unknown file when @Origin resolves to a compiled class"
 
-**2026-11-12** — merged PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent file entries"
+**2026-11-12** — merged PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
