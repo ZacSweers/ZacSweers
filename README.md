@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — commented on [#9011](https://github.com/JetBrains/kotlin/pull/9011#issuecomment-6810061690) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2026-11-11** — closed PR [#626](https://github.com/ZacSweers/FieldSpottr/pull/626) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.material3:material3 to v1.12.0-SNAPSHOT+v-mazunin-enable-lifecycle-and-nav3-for-1-12-0-alpha02"
 
 **2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — merged PR [#3115](https://github.com/ZacSweers/metro/pull/3115) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Companion block edge cases"
 
 **2026-11-11** — merged PR [#3106](https://github.com/ZacSweers/metro/pull/3106) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the duplicate provider check from SetFactory"
-
-**2026-11-11** — opened PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
