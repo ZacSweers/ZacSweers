@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-12** — opened PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-10** — created branch `z/data-followups` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — merged PR [#3118](https://github.com/ZacSweers/metro/pull/3118) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bump 2.5.20 dev support"
 
 **2026-11-11** — merged PR [#3118](https://github.com/ZacSweers/metro/pull/3118) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bump 2.5.20 dev support"
-
-**2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
