@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6832185231) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — commented on [#2964](https://github.com/slackhq/circuit/issues/2964#issuecomment-6827250912) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6827422708) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-12** — closed issue [#3098](https://github.com/ZacSweers/metro/issues/3098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`ContributionHintIrTransformer.prepareHintFile` crashes with NotImplementedError: Unknown file when @Origin resolves to a compiled class"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — created branch `z/circuitx-adaptive` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
