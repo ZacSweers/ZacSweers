@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-10** — created branch `z/data-followups` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-11** — commented on [#2964](https://github.com/slackhq/circuit/issues/2964#issuecomment-6812746364) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-11-11** — closed issue [#2964](https://github.com/slackhq/circuit/issues/2964) on [slackhq/circuit](https://github.com/slackhq/circuit): "Adding Foojay Toolchains Plugin"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — merged PR [#625](https://github.com/ZacSweers/FieldSpottr/pull/625) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Animate the time windows sheet as it changes"
 
 **2026-11-11** — merged PR [#3117](https://github.com/ZacSweers/metro/pull/3117) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test 2.5.0-RC"
-
-**2026-11-11** — merged PR [#3111](https://github.com/ZacSweers/metro/pull/3111) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph lifecycle warnings that share a source element"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
