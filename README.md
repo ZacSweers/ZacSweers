@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-12** — opened PR [#628](https://github.com/ZacSweers/FieldSpottr/pull/628) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer cleanups"
+**2026-11-12** — opened PR [#3126](https://github.com/ZacSweers/metro/pull/3126) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the FIR duplicate check for multibinds annotations"
+
+**2026-11-12** — opened PR [#3125](https://github.com/ZacSweers/metro/pull/3125) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Derived bindings"
+
+**2026-11-12** — merged PR [#628](https://github.com/ZacSweers/FieldSpottr/pull/628) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer cleanups"
+
+**2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6838098777) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — closed issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
+
+**2026-11-11** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — merged PR [#628](https://github.com/ZacSweers/FieldSpottr/pull/628) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer cleanups"
 
 **2026-11-12** — labeled issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
 
 **2026-11-11** — created branch `z/mapValuedMapMultibindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-11** — created branch `z/bindingGraphDiagnosticFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/compilerTidyUps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — commented on [#9779](https://github.com/JetBrains/kotlin/pull/9779#issuecomment-6834922576) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-11-12** — commented on [#9779](https://github.com/JetBrains/kotlin/pull/9779#issuecomment-6834882347) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6832185231) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — commented on [#2964](https://github.com/slackhq/circuit/issues/2964#issuecomment-6827250912) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6827422708) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
