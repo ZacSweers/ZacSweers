@@ -4,9 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — commented on [#3119](https://github.com/ZacSweers/metro/issues/3119#issuecomment-6827422708) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — closed issue [#3098](https://github.com/ZacSweers/metro/issues/3098) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`ContributionHintIrTransformer.prepareHintFile` crashes with NotImplementedError: Unknown file when @Origin resolves to a compiled class"
+
+**2026-11-12** — merged PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent file entries"
+
 **2026-11-11** — created branch `automation/update-availability-42986790787` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2026-11-12** — opened PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent file entries"
+**2026-11-12** — merged PR [#3123](https://github.com/ZacSweers/metro/pull/3123) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent file entries"
 
 **2026-11-11** — created branch `z/circuitx-adaptive-screenshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-12** — merged PR [#3120](https://github.com/ZacSweers/metro/pull/3120) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-12** — merged PR [#627](https://github.com/ZacSweers/FieldSpottr/pull/627) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-10** — created branch `z/data-followups` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-11** — commented on [#2964](https://github.com/slackhq/circuit/issues/2964#issuecomment-6812746364) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
