@@ -4,13 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — created branch `z/multibindsDuplicateCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-13** — merged PR [#3125](https://github.com/ZacSweers/metro/pull/3125) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Derived bindings"
 
 **2026-11-11** — created branch `z/parcelize-always-parcelable` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
-
-**2026-11-11** — created branch `z/lifecycleWarningBatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/doubleCheckReentrantIdentity` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
