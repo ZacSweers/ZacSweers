@@ -9,12 +9,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — created branch `z/doubleCheckReentrantIdentity` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-11** — created branch `z/companionBlocksReviewFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/deferredTypeRefCounts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/setFactoryDuplicateCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/memoizeIdeThreadSafety` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
