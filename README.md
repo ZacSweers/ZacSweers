@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — created branch `z/deferredTypeRefCounts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-11** — created branch `z/setFactoryDuplicateCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-11** — created branch `z/memoizeIdeThreadSafety` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-13** — merged PR [#3128](https://github.com/ZacSweers/metro/pull/3128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix suspend providers retaining the graph through their provider lambda"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — created branch `z/250rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-12** — opened PR [#629](https://github.com/ZacSweers/FieldSpottr/pull/629) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix command ordering after a cancelled command, retried edit order and stored outbox replies"
-
-**2026-11-12** — merged PR [#3127](https://github.com/ZacSweers/metro/pull/3127) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop the inline provider warning for `@PublishedApi internal` providers"
-
-**2026-11-12** — merged PR [#3126](https://github.com/ZacSweers/metro/pull/3126) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the FIR duplicate check for multibinds annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
