@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — created branch `z/lifecycleWarningBatching` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-11** — created branch `z/doubleCheckReentrantIdentity` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-11** — created branch `z/companionBlocksReviewFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-11** — created branch `z/deferredTypeRefCounts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-13** — merged PR [#3128](https://github.com/ZacSweers/metro/pull/3128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix suspend providers retaining the graph through their provider lambda"
 
 **2026-11-11** — created branch `z/concurrentChildClose` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-11** — created branch `z/time-windows-sheet-animations` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-11** — created branch `z/250rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
