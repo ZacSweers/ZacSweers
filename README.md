@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-11** — created branch `z/companionBlocksReviewFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-11** — created branch `z/deferredTypeRefCounts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-11** — created branch `z/setFactoryDuplicateCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — created branch `z/time-windows-sheet-animations` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-11** — created branch `z/250rc` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — opened PR [#629](https://github.com/ZacSweers/FieldSpottr/pull/629) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix command ordering after a cancelled command, retried edit order and stored outbox replies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
