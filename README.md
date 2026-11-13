@@ -4,11 +4,15 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — merged PR [#3127](https://github.com/ZacSweers/metro/pull/3127) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop the inline provider warning for `@PublishedApi internal` providers"
+
+**2026-11-12** — merged PR [#3126](https://github.com/ZacSweers/metro/pull/3126) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the FIR duplicate check for multibinds annotations"
+
 **2026-11-11** — created branch `z/runtimeFactoryTidyUps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-12** — opened PR [#3127](https://github.com/ZacSweers/metro/pull/3127) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop the inline provider warning for `@PublishedApi internal` providers"
+**2026-11-12** — merged PR [#3127](https://github.com/ZacSweers/metro/pull/3127) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop the inline provider warning for `@PublishedApi internal` providers"
 
-**2026-11-12** — opened PR [#3126](https://github.com/ZacSweers/metro/pull/3126) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the FIR duplicate check for multibinds annotations"
+**2026-11-12** — merged PR [#3126](https://github.com/ZacSweers/metro/pull/3126) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix the FIR duplicate check for multibinds annotations"
 
 **2026-11-12** — opened PR [#3125](https://github.com/ZacSweers/metro/pull/3125) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Derived bindings"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-12** — closed issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
 
 **2026-11-11** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — merged PR [#628](https://github.com/ZacSweers/FieldSpottr/pull/628) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Data layer cleanups"
-
-**2026-11-12** — labeled issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
