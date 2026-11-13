@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-11** — created branch `z/runtimeFactoryTidyUps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-13** — merged PR [#3128](https://github.com/ZacSweers/metro/pull/3128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix suspend providers retaining the graph through their provider lambda"
-
-**2026-11-11** — created branch `z/concurrentChildClose` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
