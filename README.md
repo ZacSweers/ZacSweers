@@ -4,7 +4,11 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-13** — opened PR [#3132](https://github.com/ZacSweers/metro/pull/3132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix anonymous suspend parameter defaults"
+**2026-11-13** — closed issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
+
+**2026-11-13** — merged PR [#3132](https://github.com/ZacSweers/metro/pull/3132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix anonymous suspend parameter defaults"
+
+**2026-11-13** — merged PR [#3132](https://github.com/ZacSweers/metro/pull/3132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix anonymous suspend parameter defaults"
 
 **2026-11-13** — reopened issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-12** — created branch `automation/update-availability-43182722419` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-12** — created branch `z/multibindsDuplicateCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-13** — merged PR [#3125](https://github.com/ZacSweers/metro/pull/3125) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Derived bindings"
-
-**2026-11-11** — created branch `z/parcelize-always-parcelable` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
