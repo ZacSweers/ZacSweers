@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-13** — merged PR [#3131](https://github.com/ZacSweers/metro/pull/3131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC lookup on older kotlin versions"
 
 **2026-11-13** — commented on [#3062](https://github.com/ZacSweers/metro/pull/3062#issuecomment-6868624320) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-13** — merged PR [#629](https://github.com/ZacSweers/FieldSpottr/pull/629) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix command ordering after a cancelled command, retried edit order and stored outbox replies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
