@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — created branch `z/derivedBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-12** — created branch `z/compiledOriginHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-14** — merged PR [#632](https://github.com/ZacSweers/FieldSpottr/pull/632) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Settle outbox handles when another writer ends a row behind the head"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-14** — merged PR [#3134](https://github.com/ZacSweers/metro/pull/3134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-12** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
