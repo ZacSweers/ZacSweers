@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-14** — merged PR [#3134](https://github.com/ZacSweers/metro/pull/3134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-14** — merged PR [#3134](https://github.com/ZacSweers/metro/pull/3134) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-12** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-13** — closed issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
-
-**2026-11-13** — merged PR [#3132](https://github.com/ZacSweers/metro/pull/3132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix anonymous suspend parameter defaults"
-
-**2026-11-13** — merged PR [#3132](https://github.com/ZacSweers/metro/pull/3132) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix anonymous suspend parameter defaults"
-
-**2026-11-13** — reopened issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
-
-**2026-11-13** — merged PR [#3131](https://github.com/ZacSweers/metro/pull/3131) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix an IC lookup on older kotlin versions"
+**2026-11-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
