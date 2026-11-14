@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-12** — created branch `z/compiledOriginHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-14** — merged PR [#632](https://github.com/ZacSweers/FieldSpottr/pull/632) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Settle outbox handles when another writer ends a row behind the head"
 
 **2026-11-14** — opened issue [#265](https://github.com/rickclephas/KMP-NativeCoroutines/issues/265) on [rickclephas/KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines): "Kotlin 2.5.0 prerelease support"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-14** — merged PR [#631](https://github.com/ZacSweers/FieldSpottr/pull/631) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-13** — closed issue [#3119](https://github.com/ZacSweers/metro/issues/3119) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Compiler crash on Kotlin 2.5.0-rc with an anonymous object as an @Inject default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
