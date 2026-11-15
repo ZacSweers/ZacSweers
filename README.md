@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-15** — opened PR [#633](https://github.com/ZacSweers/FieldSpottr/pull/633) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-15** — merged PR [#633](https://github.com/ZacSweers/FieldSpottr/pull/633) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-15** — merged PR [#633](https://github.com/ZacSweers/FieldSpottr/pull/633) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-13** — created branch `z/suspendProviderGraphRetention` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
