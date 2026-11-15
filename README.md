@@ -4,7 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-15** — Could not load GitHub activity. Please check back later.
+**2026-11-15** — opened PR [#633](https://github.com/ZacSweers/FieldSpottr/pull/633) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-13** — created branch `z/suspendProviderGraphRetention` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — created branch `z/publishedApiInlineProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — created branch `z/derivedBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-12** — created branch `z/compiledOriginHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-14** — merged PR [#632](https://github.com/ZacSweers/FieldSpottr/pull/632) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Settle outbox handles when another writer ends a row behind the head"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
