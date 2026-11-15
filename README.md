@@ -15,8 +15,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-12** — created branch `z/publishedApiInlineProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-12** — created branch `z/derivedBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-12** — created branch `z/compiledOriginHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
