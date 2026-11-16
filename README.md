@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-16** — opened PR [#635](https://github.com/ZacSweers/FieldSpottr/pull/635) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp images"
+
 **2026-11-13** — created branch `z/constructorScopeLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-16** — merged PR [#634](https://github.com/ZacSweers/FieldSpottr/pull/634) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
