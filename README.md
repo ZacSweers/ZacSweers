@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-17** — Could not load GitHub activity. Please check back later.
+**2026-11-17** — merged PR [#3139](https://github.com/ZacSweers/metro/pull/3139) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-17** — merged PR [#3139](https://github.com/ZacSweers/metro/pull/3139) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-17** — merged PR [#639](https://github.com/ZacSweers/FieldSpottr/pull/639) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-17** — merged PR [#639](https://github.com/ZacSweers/FieldSpottr/pull/639) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-16** — opened PR [#638](https://github.com/ZacSweers/FieldSpottr/pull/638) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add storedState, join and conflict keys, and stricter invalidation to the data layer"
+
+**2026-11-16** — created branch `z/fixbbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-16** — merged PR [#635](https://github.com/ZacSweers/FieldSpottr/pull/635) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp images"
+
+**2026-11-16** — merged PR [#635](https://github.com/ZacSweers/FieldSpottr/pull/635) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp images"
+
+**2026-11-13** — created branch `z/constructorScopeLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-16** — merged PR [#634](https://github.com/ZacSweers/FieldSpottr/pull/634) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
