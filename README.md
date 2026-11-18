@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-18** — opened PR [#641](https://github.com/ZacSweers/FieldSpottr/pull/641) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-11-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-17** — opened PR [#1979](https://github.com/slackhq/foundry/pull/1979) to [slackhq/foundry](https://github.com/slackhq/foundry): "Switch to FFM for macos thermals reading"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-17** — merged PR [#639](https://github.com/ZacSweers/FieldSpottr/pull/639) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-16** — opened PR [#638](https://github.com/ZacSweers/FieldSpottr/pull/638) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add storedState, join and conflict keys, and stricter invalidation to the data layer"
-
-**2026-11-16** — created branch `z/fixbbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
