@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-18** — opened PR [#641](https://github.com/ZacSweers/FieldSpottr/pull/641) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-17** — opened PR [#1979](https://github.com/slackhq/foundry/pull/1979) to [slackhq/foundry](https://github.com/slackhq/foundry): "Switch to FFM for macos thermals reading"
-
-**2026-11-17** — closed PR [#552](https://github.com/uber/AutoDispose/pull/552) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix dead API doc links on the website pages"
-
-**2026-11-17** — commented on [#3062](https://github.com/ZacSweers/metro/pull/3062#issuecomment-6955813462) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-17** — merged PR [#3139](https://github.com/ZacSweers/metro/pull/3139) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-17** — merged PR [#3139](https://github.com/ZacSweers/metro/pull/3139) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-17** — merged PR [#639](https://github.com/ZacSweers/FieldSpottr/pull/639) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-17** — merged PR [#639](https://github.com/ZacSweers/FieldSpottr/pull/639) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-16** — opened PR [#638](https://github.com/ZacSweers/FieldSpottr/pull/638) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add storedState, join and conflict keys, and stricter invalidation to the data layer"
+**2026-11-18** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
