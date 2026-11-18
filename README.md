@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-17** — opened PR [#1979](https://github.com/slackhq/foundry/pull/1979) to [slackhq/foundry](https://github.com/slackhq/foundry): "Switch to FFM for macos thermals reading"
+
 **2026-11-17** — closed PR [#552](https://github.com/uber/AutoDispose/pull/552) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix dead API doc links on the website pages"
 
 **2026-11-17** — commented on [#3062](https://github.com/ZacSweers/metro/pull/3062#issuecomment-6955813462) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-16** — opened PR [#638](https://github.com/ZacSweers/FieldSpottr/pull/638) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add storedState, join and conflict keys, and stricter invalidation to the data layer"
 
 **2026-11-16** — created branch `z/fixbbp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-16** — merged PR [#635](https://github.com/ZacSweers/FieldSpottr/pull/635) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp images"
 
 **2026-11-16** — merged PR [#635](https://github.com/ZacSweers/FieldSpottr/pull/635) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp images"
 <!-- githubActivity ends -->
