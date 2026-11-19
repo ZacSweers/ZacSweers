@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-19** — opened PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
+**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
+
+**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
 
 **2026-11-18** — opened PR [#2976](https://github.com/slackhq/circuit/pull/2976) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add PaneNavDecoration and PaneReplaceInterceptor to circuitx-adaptive"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-18** — merged PR [#641](https://github.com/ZacSweers/FieldSpottr/pull/641) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-17** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-17** — opened PR [#1979](https://github.com/slackhq/foundry/pull/1979) to [slackhq/foundry](https://github.com/slackhq/foundry): "Switch to FFM for macos thermals reading"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
