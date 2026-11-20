@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — opened PR [#3163](https://github.com/ZacSweers/metro/pull/3163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document how to run a single JVM box test"
+
+**2026-11-20** — opened PR [#3162](https://github.com/ZacSweers/metro/pull/3162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve extension-generated bindings across modules when omitting mirrors"
+
+**2026-11-20** — opened PR [#3161](https://github.com/ZacSweers/metro/pull/3161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate most legacy compiler tests to compiler-tests"
+
 **2026-11-20** — merged PR [#3151](https://github.com/ZacSweers/metro/pull/3151) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix fixture discovery, setup, and coverage in compiler tests"
 
 **2026-11-20** — closed PR [#3152](https://github.com/ZacSweers/metro/pull/3152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check fixture eligibility before running KSP"
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — closed PR [#3160](https://github.com/ZacSweers/metro/pull/3160) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run KSP and interop fixtures with their module classpaths"
 
 **2026-11-20** — closed PR [#3159](https://github.com/ZacSweers/metro/pull/3159) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve fixture imports and reports across test modules"
-
-**2026-11-20** — opened PR [#3160](https://github.com/ZacSweers/metro/pull/3160) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run KSP and interop fixtures with their module classpaths"
-
-**2026-11-20** — opened PR [#3159](https://github.com/ZacSweers/metro/pull/3159) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve fixture imports and reports across test modules"
-
-**2026-11-20** — created branch `z/compilerTestCoverage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
