@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-20** — merged PR [#646](https://github.com/ZacSweers/FieldSpottr/pull/646) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-20** — merged PR [#646](https://github.com/ZacSweers/FieldSpottr/pull/646) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-19** — opened PR [#3147](https://github.com/ZacSweers/metro/pull/3147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-18** — created branch `automation/update-availability-44266852172` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
-
-**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
-
-**2026-11-18** — opened PR [#2976](https://github.com/slackhq/circuit/pull/2976) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add PaneNavDecoration and PaneReplaceInterceptor to circuitx-adaptive"
-
-**2026-11-18** — opened PR [#2975](https://github.com/slackhq/circuit/pull/2975) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add the circuitx-adaptive module with pane strategies and pane state"
-
-**2026-11-18** — opened PR [#2974](https://github.com/slackhq/circuit/pull/2974) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add RewriteAll, a static animated scope helper, and the NavDecoration contract"
+**2026-11-20** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
