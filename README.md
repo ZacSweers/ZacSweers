@@ -4,21 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — opened PR [#3160](https://github.com/ZacSweers/metro/pull/3160) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run KSP and interop fixtures with their module classpaths"
+
+**2026-11-20** — opened PR [#3159](https://github.com/ZacSweers/metro/pull/3159) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve fixture imports and reports across test modules"
+
+**2026-11-20** — created branch `z/compilerTestCoverage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-20** — opened PR [#3158](https://github.com/ZacSweers/metro/pull/3158) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run the skipped diagnostic and dump fixtures and cover JS defaults"
+
+**2026-11-20** — opened PR [#3157](https://github.com/ZacSweers/metro/pull/3157) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scope compiler test helpers and sample extensions to their fixtures"
+
+**2026-11-20** — opened PR [#3153](https://github.com/ZacSweers/metro/pull/3153) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites once and verify the checked-in Java"
+
+**2026-11-20** — opened PR [#3152](https://github.com/ZacSweers/metro/pull/3152) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check fixture eligibility before running KSP"
+
+**2026-11-20** — opened PR [#3151](https://github.com/ZacSweers/metro/pull/3151) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix JUnit resolution and defer compiler test setup"
+
 **2026-11-20** — merged PR [#3147](https://github.com/ZacSweers/metro/pull/3147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-20** — merged PR [#646](https://github.com/ZacSweers/FieldSpottr/pull/646) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-20** — merged PR [#646](https://github.com/ZacSweers/FieldSpottr/pull/646) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-19** — merged PR [#3147](https://github.com/ZacSweers/metro/pull/3147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-18** — created branch `automation/update-availability-44266852172` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
-
-**2026-11-19** — merged PR [#642](https://github.com/ZacSweers/FieldSpottr/pull/642) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Material tab navigation with per-tab back stacks, native iOS tabs, and animated panes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
