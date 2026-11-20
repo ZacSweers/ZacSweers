@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — opened PR [#646](https://github.com/ZacSweers/FieldSpottr/pull/646) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
 **2026-11-18** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-19** — opened PR [#3147](https://github.com/ZacSweers/metro/pull/3147) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-18** — opened PR [#2975](https://github.com/slackhq/circuit/pull/2975) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add the circuitx-adaptive module with pane strategies and pane state"
 
 **2026-11-18** — opened PR [#2974](https://github.com/slackhq/circuit/pull/2974) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add RewriteAll, a static animated scope helper, and the NavDecoration contract"
-
-**2026-11-18** — merged PR [#3146](https://github.com/ZacSweers/metro/pull/3146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-18** — merged PR [#3146](https://github.com/ZacSweers/metro/pull/3146) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
