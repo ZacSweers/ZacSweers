@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — created branch `z/compilerTestRunners` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-21** — merged PR [#3167](https://github.com/ZacSweers/metro/pull/3167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-21** — merged PR [#3167](https://github.com/ZacSweers/metro/pull/3167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-19** — created branch `worktree-floating-toolbar` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-20** — created branch `z/compilerTestMigration` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-20** — created branch `z/jsGeneratedBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
