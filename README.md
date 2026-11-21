@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-21** — opened PR [#3165](https://github.com/ZacSweers/metro/pull/3165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse functional test results and TestKit downloads in CI"
+
 **2026-11-19** — created branch `worktree-floating-toolbar` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-20** — created branch `z/compilerTestMigration` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — closed issue [#431](https://github.com/ZacSweers/metro/issues/431) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move all :compiler tests to :compiler-tests"
 
 **2026-11-20** — merged PR [#3161](https://github.com/ZacSweers/metro/pull/3161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate most legacy compiler tests to compiler-tests"
-
-**2026-11-20** — merged PR [#3163](https://github.com/ZacSweers/metro/pull/3163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document how to run a single JVM box test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
