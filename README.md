@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-19** — created branch `worktree-floating-toolbar` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-20** — created branch `z/compilerTestMigration` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-20** — created branch `z/jsGeneratedBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-20** — merged PR [#3162](https://github.com/ZacSweers/metro/pull/3162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve extension-generated bindings across modules when omitting mirrors"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — merged PR [#3161](https://github.com/ZacSweers/metro/pull/3161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate most legacy compiler tests to compiler-tests"
 
 **2026-11-20** — merged PR [#3163](https://github.com/ZacSweers/metro/pull/3163) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Document how to run a single JVM box test"
-
-**2026-11-20** — merged PR [#3162](https://github.com/ZacSweers/metro/pull/3162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve extension-generated bindings across modules when omitting mirrors"
-
-**2026-11-20** — merged PR [#3161](https://github.com/ZacSweers/metro/pull/3161) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate most legacy compiler tests to compiler-tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
