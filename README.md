@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-21** — opened PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-21** — created branch `z/compilerFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — merged PR [#3162](https://github.com/ZacSweers/metro/pull/3162) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve extension-generated bindings across modules when omitting mirrors"
 
 **2026-11-18** — created branch `z/adaptive-1-foundations` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-11-18** — created branch `z/adaptive-2-strategy` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
