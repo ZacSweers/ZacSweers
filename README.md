@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-20** — created branch `z/compilerTestFixtures` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-20** — created branch `z/compilerTestRunners` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-21** — merged PR [#3167](https://github.com/ZacSweers/metro/pull/3167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-21** — merged PR [#3167](https://github.com/ZacSweers/metro/pull/3167) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-21** — created branch `z/compilerFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-21** — opened PR [#3166](https://github.com/ZacSweers/metro/pull/3166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding and injection bugs and speed up graph compilation"
-
-**2026-11-21** — opened PR [#3165](https://github.com/ZacSweers/metro/pull/3165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse functional test results and TestKit build scripts in CI"
-
-**2026-11-19** — created branch `worktree-floating-toolbar` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2026-11-21** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
