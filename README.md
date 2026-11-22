@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — created branch `automation/update-availability-44702429123` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-20** — created branch `z/compilerTestFixtures` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-20** — created branch `z/compilerTestRunners` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-21** — opened PR [#3166](https://github.com/ZacSweers/metro/pull/3166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding and injection bugs and speed up graph compilation"
 
 **2026-11-21** — opened PR [#3165](https://github.com/ZacSweers/metro/pull/3165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse functional test results and TestKit build scripts in CI"
-
-**2026-11-19** — created branch `worktree-floating-toolbar` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
