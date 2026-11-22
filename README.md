@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-22** — opened PR [#649](https://github.com/ZacSweers/FieldSpottr/pull/649) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-20** — created branch `z/functionalTestTiming` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-21** — merged PR [#3165](https://github.com/ZacSweers/metro/pull/3165) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Reuse functional test results and TestKit build scripts in CI"
 
 **2026-11-20** — created branch `automation/update-availability-44702429123` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -19,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-21** — merged PR [#648](https://github.com/ZacSweers/FieldSpottr/pull/648) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-21** — created branch `z/compilerFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
