@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-23** — opened PR [#3172](https://github.com/ZacSweers/metro/pull/3172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
+
+**2026-11-23** — merged PR [#3168](https://github.com/ZacSweers/metro/pull/3168) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph validation, navigation, and index refresh in IDEA"
+
 **2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
 
 **2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-23** — merged PR [#650](https://github.com/ZacSweers/FieldSpottr/pull/650) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-20** — created branch `z/compilerTestSelection` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-20** — created branch `z/focusedJvmBoxGuide` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-22** — opened PR [#3168](https://github.com/ZacSweers/metro/pull/3168) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph validation, navigation, and index refresh in IDEA"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
