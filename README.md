@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
+
+**2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
+
 **2026-11-23** — merged PR [#3169](https://github.com/ZacSweers/metro/pull/3169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-23** — merged PR [#3169](https://github.com/ZacSweers/metro/pull/3169) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — created branch `z/focusedJvmBoxGuide` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-22** — opened PR [#3168](https://github.com/ZacSweers/metro/pull/3168) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph validation, navigation, and index refresh in IDEA"
-
-**2026-11-22** — merged PR [#3166](https://github.com/ZacSweers/metro/pull/3166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding and injection bugs and speed up graph compilation"
-
-**2026-11-20** — created branch `z/compilerTestBuild` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
