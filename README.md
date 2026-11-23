@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-20** — created branch `z/focusedJvmBoxGuide` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-22** — opened PR [#3168](https://github.com/ZacSweers/metro/pull/3168) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph validation, navigation, and index refresh in IDEA"
+
 **2026-11-22** — merged PR [#3166](https://github.com/ZacSweers/metro/pull/3166) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding and injection bugs and speed up graph compilation"
 
 **2026-11-20** — created branch `z/compilerTestBuild` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-20** — created branch `automation/update-availability-44702429123` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-20** — created branch `z/compilerTestFixtures` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-20** — created branch `z/compilerTestRunners` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
