@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-23** — opened PR [#651](https://github.com/ZacSweers/FieldSpottr/pull/651) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Brooklyn Bridge Park schedule"
+
 **2026-11-23** — merged PR [#650](https://github.com/ZacSweers/FieldSpottr/pull/650) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-23** — merged PR [#650](https://github.com/ZacSweers/FieldSpottr/pull/650) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
