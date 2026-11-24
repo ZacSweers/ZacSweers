@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — merged PR [#652](https://github.com/ZacSweers/FieldSpottr/pull/652) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-24** — merged PR [#652](https://github.com/ZacSweers/FieldSpottr/pull/652) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-24** — merged PR [#3176](https://github.com/ZacSweers/metro/pull/3176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Docs refresh"
-
-**2026-11-24** — merged PR [#3176](https://github.com/ZacSweers/metro/pull/3176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Docs refresh"
-
-**2026-11-24** — opened PR [#3175](https://github.com/ZacSweers/metro/pull/3175) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-24** — merged PR [#3174](https://github.com/ZacSweers/metro/pull/3174) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-23** — created branch `z/cleanUpStaleTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-23** — merged PR [#3174](https://github.com/ZacSweers/metro/pull/3174) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-23** — merged PR [#3173](https://github.com/ZacSweers/metro/pull/3173) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-23** — merged PR [#3173](https://github.com/ZacSweers/metro/pull/3173) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
+**2026-11-24** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
