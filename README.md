@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — Could not load GitHub activity. Please check back later.
+**2026-11-24** — created branch `automation/update-availability-45356082050` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2026-11-23** — created branch `z/clearRemainingVerifiedTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — merged PR [#3177](https://github.com/ZacSweers/metro/pull/3177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-24** — merged PR [#3177](https://github.com/ZacSweers/metro/pull/3177) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-24** — created branch `z/docsRefresh` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-23** — created branch `z/clearVerifiedTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-23** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — merged PR [#652](https://github.com/ZacSweers/FieldSpottr/pull/652) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-24** — merged PR [#652](https://github.com/ZacSweers/FieldSpottr/pull/652) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-24** — merged PR [#3176](https://github.com/ZacSweers/metro/pull/3176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Docs refresh"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
