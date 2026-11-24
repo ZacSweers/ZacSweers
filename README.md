@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — merged PR [#3176](https://github.com/ZacSweers/metro/pull/3176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Docs refresh"
+
+**2026-11-24** — merged PR [#3176](https://github.com/ZacSweers/metro/pull/3176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Docs refresh"
+
+**2026-11-24** — opened PR [#3175](https://github.com/ZacSweers/metro/pull/3175) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
+
 **2026-11-24** — merged PR [#3174](https://github.com/ZacSweers/metro/pull/3174) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
 
 **2026-11-23** — created branch `z/cleanUpStaleTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-23** — merged PR [#3172](https://github.com/ZacSweers/metro/pull/3172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
 
 **2026-11-23** — merged PR [#3172](https://github.com/ZacSweers/metro/pull/3172) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-23** — merged PR [#3168](https://github.com/ZacSweers/metro/pull/3168) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix graph validation, navigation, and index refresh in IDEA"
-
-**2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
-
-**2026-11-23** — merged PR [#3170](https://github.com/ZacSweers/metro/pull/3170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clear stale test failures when CI passes on retry"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
