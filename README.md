@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-25** — opened PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-25** — merged PR [#3193](https://github.com/ZacSweers/metro/pull/3193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replace the mutable maps in AssistedFactoryFirGenerator with a FIR cache"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-24** — closed PR [#3187](https://github.com/ZacSweers/metro/pull/3187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use the compilerVersion override in IR annotation helpers"
 
 **2026-11-24** — opened PR [#3195](https://github.com/ZacSweers/metro/pull/3195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph diagnostics per element with one helper"
-
-**2026-11-24** — opened PR [#3194](https://github.com/ZacSweers/metro/pull/3194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run graph sort and cycle analysis on integer ids"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
