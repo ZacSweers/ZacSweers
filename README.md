@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — Could not load GitHub activity. Please check back later.
+**2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
+
+**2026-11-25** — merged PR [#3192](https://github.com/ZacSweers/metro/pull/3192) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move the suspend parallelMap helpers to the IDEA plugin"
+
+**2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
+
+**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
+
+**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the concurrent maps and locks that IR no longer needs"
+
+**2026-11-24** — closed PR [#3187](https://github.com/ZacSweers/metro/pull/3187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use the compilerVersion override in IR annotation helpers"
+
+**2026-11-24** — opened PR [#3195](https://github.com/ZacSweers/metro/pull/3195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph diagnostics per element with one helper"
+
+**2026-11-24** — opened PR [#3194](https://github.com/ZacSweers/metro/pull/3194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run graph sort and cycle analysis on integer ids"
+
+**2026-11-24** — merged PR [#3188](https://github.com/ZacSweers/metro/pull/3188) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split generateBindingCode into one function per binding kind"
+
+**2026-11-24** — merged PR [#3190](https://github.com/ZacSweers/metro/pull/3190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move declaration read models out of the transformer files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
