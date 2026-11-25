@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `z/clearEightVerifiedTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-25** — opened PR [#3206](https://github.com/ZacSweers/metro/pull/3206) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test kotlin 2.5.0-RC2"
+
 **2026-11-25** — opened PR [#656](https://github.com/ZacSweers/FieldSpottr/pull/656) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add ordering, reject keys, and supersede to outbox entries and optimistic changes"
 
 **2026-11-25** — created branch `z/irPlainLazy` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — opened PR [#3202](https://github.com/ZacSweers/metro/pull/3202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use int collections in the cycle and deferral analysis"
 
 **2026-11-25** — opened PR [#3201](https://github.com/ZacSweers/metro/pull/3201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Copy the reachable adjacency in linear time when most keys are reachable"
-
-**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
