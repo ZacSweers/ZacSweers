@@ -20,9 +20,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
 
-**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
 
-**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the concurrent maps and locks that IR no longer needs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
