@@ -4,9 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-25** — opened PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
+**2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
 
-**2026-11-25** — opened PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
+**2026-11-25** — merged PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
+
+**2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
+
+**2026-11-25** — merged PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
 
 **2026-11-25** — merged PR [#3207](https://github.com/ZacSweers/metro/pull/3207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a Gradle Plugin Portal mirror"
 
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — merged PR [#3207](https://github.com/ZacSweers/metro/pull/3207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a Gradle Plugin Portal mirror"
 
 **2026-11-25** — merged PR [#3202](https://github.com/ZacSweers/metro/pull/3202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use int collections in the cycle and deferral analysis"
-
-**2026-11-25** — merged PR [#3201](https://github.com/ZacSweers/metro/pull/3201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Copy the reachable adjacency in linear time when most keys are reachable"
-
-**2026-11-25** — merged PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
