@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-25** — opened PR [#656](https://github.com/ZacSweers/FieldSpottr/pull/656) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add ordering, reject keys, and supersede to outbox entries and optimistic changes"
+
+**2026-11-25** — created branch `z/irPlainLazy` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-24** — created branch `z/assistedFactoryFirCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-25** — merged PR [#3203](https://github.com/ZacSweers/metro/pull/3203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "De-flake CI"
@@ -19,10 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
