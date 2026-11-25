@@ -4,7 +4,13 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — opened PR [#654](https://github.com/ZacSweers/FieldSpottr/pull/654) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-24** — opened PR [#2986](https://github.com/slackhq/circuit/pull/2986) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a drag handle that resizes two panes in circuitx-adaptive"
+
+**2026-11-24** — merged PR [#654](https://github.com/ZacSweers/FieldSpottr/pull/654) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-24** — merged PR [#3183](https://github.com/ZacSweers/metro/pull/3183) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the lock guard that never fires from BindsMirrorClassTransformer"
+
+**2026-11-24** — merged PR [#654](https://github.com/ZacSweers/FieldSpottr/pull/654) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-22** — closed PR [#649](https://github.com/ZacSweers/FieldSpottr/pull/649) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
@@ -14,15 +20,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-24** — merged PR [#3182](https://github.com/ZacSweers/metro/pull/3182) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
 
-**2026-11-24** — opened PR [#3183](https://github.com/ZacSweers/metro/pull/3183) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the lock guard that never fires from BindsMirrorClassTransformer"
+**2026-11-24** — merged PR [#3183](https://github.com/ZacSweers/metro/pull/3183) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the lock guard that never fires from BindsMirrorClassTransformer"
 
 **2026-11-24** — merged PR [#3182](https://github.com/ZacSweers/metro/pull/3182) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up stale TODOs"
-
-**2026-11-24** — merged PR [#3180](https://github.com/ZacSweers/metro/pull/3180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix scoped providers in generic graphs"
-
-**2026-11-24** — merged PR [#3179](https://github.com/ZacSweers/metro/pull/3179) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small IR cleanups"
-
-**2026-11-24** — merged PR [#3180](https://github.com/ZacSweers/metro/pull/3180) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix scoped providers in generic graphs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
