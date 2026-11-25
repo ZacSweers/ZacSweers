@@ -4,25 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — created branch `z/clearEightVerifiedTodos` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-25** — merged PR [#3191](https://github.com/ZacSweers/metro/pull/3191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Group the map factory symbols by factory class"
 
-**2026-11-25** — opened PR [#3206](https://github.com/ZacSweers/metro/pull/3206) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Test kotlin 2.5.0-RC2"
+**2026-11-25** — opened PR [#3207](https://github.com/ZacSweers/metro/pull/3207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a Gradle Plugin Portal mirror"
 
-**2026-11-25** — opened PR [#656](https://github.com/ZacSweers/FieldSpottr/pull/656) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add ordering, reject keys, and supersede to outbox entries and optimistic changes"
+**2026-11-25** — merged PR [#3202](https://github.com/ZacSweers/metro/pull/3202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use int collections in the cycle and deferral analysis"
 
-**2026-11-25** — created branch `z/irPlainLazy` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-25** — merged PR [#3201](https://github.com/ZacSweers/metro/pull/3201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Copy the reachable adjacency in linear time when most keys are reachable"
 
-**2026-11-24** — created branch `z/assistedFactoryFirCaches` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-25** — merged PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
 
-**2026-11-25** — merged PR [#3203](https://github.com/ZacSweers/metro/pull/3203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "De-flake CI"
+**2026-11-25** — merged PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the concurrent maps and locks that IR no longer needs"
 
-**2026-11-25** — merged PR [#3203](https://github.com/ZacSweers/metro/pull/3203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "De-flake CI"
+**2026-11-25** — merged PR [#3194](https://github.com/ZacSweers/metro/pull/3194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run graph sort and cycle analysis on integer ids"
 
-**2026-11-24** — created branch `z/graphUnitLoops` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-25** — merged PR [#3195](https://github.com/ZacSweers/metro/pull/3195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph diagnostics per element with one helper"
 
-**2026-11-25** — opened PR [#3202](https://github.com/ZacSweers/metro/pull/3202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use int collections in the cycle and deferral analysis"
+**2026-11-25** — merged PR [#3189](https://github.com/ZacSweers/metro/pull/3189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run graph validation phases as loops over one state object per graph"
 
-**2026-11-25** — opened PR [#3201](https://github.com/ZacSweers/metro/pull/3201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Copy the reachable adjacency in linear time when most keys are reachable"
+**2026-11-25** — merged PR [#3186](https://github.com/ZacSweers/metro/pull/3186) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replace the mutable ParentContext with its snapshot"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
