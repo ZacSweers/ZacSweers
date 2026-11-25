@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-25** — merged PR [#3193](https://github.com/ZacSweers/metro/pull/3193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replace the mutable maps in AssistedFactoryFirGenerator with a FIR cache"
-
-**2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
-
-**2026-11-25** — merged PR [#3192](https://github.com/ZacSweers/metro/pull/3192) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move the suspend parallelMap helpers to the IDEA plugin"
-
-**2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
-
-**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
-
-**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the concurrent maps and locks that IR no longer needs"
+**2026-11-25** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
