@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-24** — opened PR [#3190](https://github.com/ZacSweers/metro/pull/3190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move declaration read models out of the transformer files"
-
-**2026-11-24** — opened PR [#3189](https://github.com/ZacSweers/metro/pull/3189) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run graph validation phases as loops over one state object per graph"
-
-**2026-11-24** — merged PR [#653](https://github.com/ZacSweers/FieldSpottr/pull/653) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update bbp gen"
-
-**2026-11-24** — opened PR [#3188](https://github.com/ZacSweers/metro/pull/3188) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split generateBindingCode into one function per binding kind"
-
-**2026-11-24** — opened PR [#3187](https://github.com/ZacSweers/metro/pull/3187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make IR annotation helpers honor the compilerVersion override"
-
-**2026-11-24** — opened PR [#3186](https://github.com/ZacSweers/metro/pull/3186) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Replace the mutable ParentContext with its snapshot"
-
-**2026-11-24** — opened PR [#3185](https://github.com/ZacSweers/metro/pull/3185) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small metro-common cleanups"
-
-**2026-11-24** — opened PR [#3184](https://github.com/ZacSweers/metro/pull/3184) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More small IR cleanups"
-
-**2026-11-24** — opened PR [#2986](https://github.com/slackhq/circuit/pull/2986) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a drag handle that resizes two panes in circuitx-adaptive"
-
-**2026-11-24** — merged PR [#654](https://github.com/ZacSweers/FieldSpottr/pull/654) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-24** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
