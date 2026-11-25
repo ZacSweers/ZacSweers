@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-25** — merged PR [#3200](https://github.com/ZacSweers/metro/pull/3200) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-25** — merged PR [#655](https://github.com/ZacSweers/FieldSpottr/pull/655) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -16,13 +20,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 **2026-11-25** — merged PR [#3199](https://github.com/ZacSweers/metro/pull/3199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up maven repo setup"
 
-**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Give IR its own unsynchronized lazy and remove the global memoize mode"
+**2026-11-25** — opened PR [#3198](https://github.com/ZacSweers/metro/pull/3198) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove the concurrent maps and locks that IR no longer needs"
-
-**2026-11-24** — closed PR [#3187](https://github.com/ZacSweers/metro/pull/3187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use the compilerVersion override in IR annotation helpers"
-
-**2026-11-24** — opened PR [#3195](https://github.com/ZacSweers/metro/pull/3195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Batch graph diagnostics per element with one helper"
+**2026-11-24** — opened PR [#3197](https://github.com/ZacSweers/metro/pull/3197) to [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
