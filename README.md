@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-26** — merged PR [#3208](https://github.com/ZacSweers/metro/pull/3208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for classes with injected members"
 
 **2026-11-24** — created branch `z/removeBindsMirrorLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,10 +13,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-26** — opened PR [#2987](https://github.com/slackhq/circuit/pull/2987) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small adaptive tweaks"
-
-**2026-11-25** — merged PR [#2986](https://github.com/slackhq/circuit/pull/2986) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a drag handle that resizes two panes in circuitx-adaptive"
-
-**2026-11-25** — merged PR [#2962](https://github.com/slackhq/circuit/pull/2962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Show pet details beside the pet list on wide windows in STAR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
