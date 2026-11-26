@@ -4,6 +4,18 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-26** — merged PR [#3217](https://github.com/ZacSweers/metro/pull/3217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh graph data in IDEA validation tests that assert fresh cached results"
+
+**2026-11-26** — merged PR [#504](https://github.com/ZacSweers/kotlin-compile-testing/pull/504) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Use Kotlin's CLI parser to validate compiler arguments"
+
+**2026-11-26** — merged PR [#504](https://github.com/ZacSweers/kotlin-compile-testing/pull/504) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Use Kotlin's CLI parser to validate compiler arguments"
+
+**2026-11-26** — merged PR [#2987](https://github.com/slackhq/circuit/pull/2987) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small adaptive tweaks"
+
+**2026-11-26** — merged PR [#3217](https://github.com/ZacSweers/metro/pull/3217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh graph data in IDEA validation tests that assert fresh cached results"
+
+**2026-11-25** — created branch `z/linearReachableAdjacency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-26** — opened PR [#3216](https://github.com/ZacSweers/metro/pull/3216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve implicit class keys for scoped map entries inherited from a parent graph"
 
 **2026-11-26** — opened PR [#3214](https://github.com/ZacSweers/metro/pull/3214) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@OverridesParentBinding` in IDEA graph validation"
@@ -11,18 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-26** — opened PR [#3213](https://github.com/ZacSweers/metro/pull/3213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[MEEP-2341] Add explicit overrides for inherited bindings in graph extensions"
 
 **2026-11-26** — merged PR [#3211](https://github.com/ZacSweers/metro/pull/3211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve some IDEA deprecations"
-
-**2026-11-24** — created branch `z/irPipelineFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — merged PR [#3211](https://github.com/ZacSweers/metro/pull/3211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve some IDEA deprecations"
-
-**2026-11-24** — created branch `z/fixGenericParentExtension` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-10-14** — closed PR [#8756](https://github.com/JetBrains/kotlin/pull/8756) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Implement common decls as Parcelable on Android"
-
-**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
