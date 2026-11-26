@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-26** — merged PR [#3219](https://github.com/ZacSweers/metro/pull/3219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore the graph refresh mode after IDEA tests that enable automatic refresh"
+
+**2026-11-26** — opened PR [#3220](https://github.com/ZacSweers/metro/pull/3220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report duplicate implicit class keys against scoped entries inherited from a parent graph"
+
+**2026-11-26** — merged PR [#3219](https://github.com/ZacSweers/metro/pull/3219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore the graph refresh mode after IDEA tests that enable automatic refresh"
+
+**2026-11-26** — opened PR [#3218](https://github.com/ZacSweers/metro/pull/3218) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update 2.5.20 dev to 2.5.20-dev-6103"
+
 **2026-11-26** — merged PR [#3217](https://github.com/ZacSweers/metro/pull/3217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh graph data in IDEA validation tests that assert fresh cached results"
 
 **2026-11-26** — merged PR [#504](https://github.com/ZacSweers/kotlin-compile-testing/pull/504) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Use Kotlin's CLI parser to validate compiler arguments"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-26** — merged PR [#3217](https://github.com/ZacSweers/metro/pull/3217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh graph data in IDEA validation tests that assert fresh cached results"
 
 **2026-11-25** — created branch `z/linearReachableAdjacency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — opened PR [#3216](https://github.com/ZacSweers/metro/pull/3216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve implicit class keys for scoped map entries inherited from a parent graph"
-
-**2026-11-26** — opened PR [#3214](https://github.com/ZacSweers/metro/pull/3214) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@OverridesParentBinding` in IDEA graph validation"
-
-**2026-11-26** — opened PR [#3213](https://github.com/ZacSweers/metro/pull/3213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[MEEP-2341] Add explicit overrides for inherited bindings in graph extensions"
-
-**2026-11-26** — merged PR [#3211](https://github.com/ZacSweers/metro/pull/3211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve some IDEA deprecations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
