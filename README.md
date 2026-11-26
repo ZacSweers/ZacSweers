@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
 **2026-11-24** — created branch `z/removeIrGuards` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-24** — created branch `z/splitGenerateBindingCode` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
