@@ -21,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-24** — created branch `z/removeBindsMirrorLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — opened PR [#2987](https://github.com/slackhq/circuit/pull/2987) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small adaptive tweaks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
