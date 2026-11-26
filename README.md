@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `z/removeIrGuards` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-24** — created branch `z/splitGenerateBindingCode` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-24** — created branch `z/mapFactorySymbols` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
