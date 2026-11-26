@@ -4,6 +4,16 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-25** — merged PR [#2975](https://github.com/slackhq/circuit/pull/2975) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add the circuitx-adaptive module with pane strategies and pane state"
+
+**2026-11-25** — merged PR [#2974](https://github.com/slackhq/circuit/pull/2974) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add RewriteAll, a static animated scope helper, and the NavDecoration contract"
+
+**2026-11-25** — merged PR [#656](https://github.com/ZacSweers/FieldSpottr/pull/656) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add ordering, reject keys, and supersede to outbox entries and optimistic changes"
+
+**2026-11-24** — created branch `z/diagnosticBatcher` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-25** — commented on [#2986](https://github.com/slackhq/circuit/pull/2986#issuecomment-7180642474) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2026-11-24** — created branch `z/declarationReadModels` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-24** — created branch `z/irCompatSlot` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-24** — created branch `z/smallIrCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
-
-**2026-11-25** — merged PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
-
-**2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
