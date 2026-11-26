@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-26** — Could not load GitHub activity. Please check back later.
+**2026-11-24** — created branch `z/irPipelineFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-26** — opened PR [#3211](https://github.com/ZacSweers/metro/pull/3211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve some IDEA deprecations"
+
+**2026-11-24** — created branch `z/fixGenericParentExtension` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-10-14** — closed PR [#8756](https://github.com/JetBrains/kotlin/pull/8756) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "[Parcelize] Implement common decls as Parcelable on Android"
+
+**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+
+**2026-11-24** — created branch `z/removeIrGuards` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `z/splitGenerateBindingCode` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `z/mapFactorySymbols` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
