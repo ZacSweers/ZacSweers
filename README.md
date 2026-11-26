@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-25** — merged PR [#2986](https://github.com/slackhq/circuit/pull/2986) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a drag handle that resizes two panes in circuitx-adaptive"
+
+**2026-11-25** — merged PR [#2962](https://github.com/slackhq/circuit/pull/2962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Show pet details beside the pet list on wide windows in STAR"
+
+**2026-11-25** — merged PR [#2976](https://github.com/slackhq/circuit/pull/2976) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add PaneNavDecoration and PaneReplaceInterceptor to circuitx-adaptive"
+
+**2026-11-25** — created branch `z/mavenCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-25** — merged PR [#2975](https://github.com/slackhq/circuit/pull/2975) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add the circuitx-adaptive module with pane strategies and pane state"
 
 **2026-11-25** — merged PR [#2974](https://github.com/slackhq/circuit/pull/2974) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add RewriteAll, a static animated scope helper, and the NavDecoration contract"
@@ -15,14 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — commented on [#2986](https://github.com/slackhq/circuit/pull/2986#issuecomment-7180642474) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2026-11-24** — created branch `z/declarationReadModels` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/moveParallelMap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/irCompatSlot` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/smallIrCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
