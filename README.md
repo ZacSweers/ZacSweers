@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-26** — opened PR [#2987](https://github.com/slackhq/circuit/pull/2987) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small adaptive tweaks"
 
 **2026-11-25** — merged PR [#2986](https://github.com/slackhq/circuit/pull/2986) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a drag handle that resizes two panes in circuitx-adaptive"
@@ -15,14 +17,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — created branch `z/mavenCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-25** — merged PR [#2975](https://github.com/slackhq/circuit/pull/2975) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add the circuitx-adaptive module with pane strategies and pane state"
-
-**2026-11-25** — merged PR [#2974](https://github.com/slackhq/circuit/pull/2974) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add RewriteAll, a static animated scope helper, and the NavDecoration contract"
-
-**2026-11-25** — merged PR [#656](https://github.com/ZacSweers/FieldSpottr/pull/656) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add ordering, reject keys, and supersede to outbox entries and optimistic changes"
-
-**2026-11-24** — created branch `z/diagnosticBatcher` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-25** — commented on [#2986](https://github.com/slackhq/circuit/pull/2986#issuecomment-7180642474) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
