@@ -4,6 +4,12 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-26** — opened PR [#3216](https://github.com/ZacSweers/metro/pull/3216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve implicit class keys for scoped map entries inherited from a parent graph"
+
+**2026-11-26** — opened PR [#3214](https://github.com/ZacSweers/metro/pull/3214) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@OverridesParentBinding` in IDEA graph validation"
+
+**2026-11-26** — opened PR [#3213](https://github.com/ZacSweers/metro/pull/3213) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[MEEP-2341] Add explicit overrides for inherited bindings in graph extensions"
+
 **2026-11-26** — merged PR [#3211](https://github.com/ZacSweers/metro/pull/3211) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve some IDEA deprecations"
 
 **2026-11-24** — created branch `z/irPipelineFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
 
 **2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-24** — created branch `z/removeIrGuards` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/splitGenerateBindingCode` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/mapFactorySymbols` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
