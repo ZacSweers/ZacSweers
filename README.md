@@ -4,23 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-26** — merged PR [#3210](https://github.com/ZacSweers/metro/pull/3210) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
-
-**2026-11-24** — created branch `z/removeIrGuards` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/splitGenerateBindingCode` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/mapFactorySymbols` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — merged PR [#3208](https://github.com/ZacSweers/metro/pull/3208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for classes with injected members"
-
-**2026-11-24** — created branch `z/removeBindsMirrorLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-24** — created branch `z/smallCommonCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2026-11-26** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
