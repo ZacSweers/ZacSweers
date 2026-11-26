@@ -4,6 +4,14 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `z/declarationReadModels` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `auto/update-ide-mappings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `z/moveParallelMap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-24** — created branch `z/irCompatSlot` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-24** — created branch `z/smallIrCleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
@@ -11,12 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — merged PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
 
 **2026-11-25** — merged PR [#659](https://github.com/ZacSweers/FieldSpottr/pull/659) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix Hudson River Park reader fallback"
-
-**2026-11-25** — merged PR [#3209](https://github.com/ZacSweers/metro/pull/3209) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit FIR contribution providers to their container's scope"
-
-**2026-11-25** — merged PR [#3207](https://github.com/ZacSweers/metro/pull/3207) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a Gradle Plugin Portal mirror"
-
-**2026-11-25** — opened PR [#3208](https://github.com/ZacSweers/metro/pull/3208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report missing bindings for classes with injected members"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
