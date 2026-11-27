@@ -4,9 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-27** — merged PR [#3225](https://github.com/ZacSweers/metro/pull/3225) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-27** — opened PR [#29](https://github.com/ZacSweers/kempt/pull/29) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add kempt-core for reusable formatter APIs"
 
-**2026-11-27** — merged PR [#3225](https://github.com/ZacSweers/metro/pull/3225) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update IDE version mappings"
+**2026-11-27** — commented on [#16](https://github.com/ZacSweers/kempt/issues/16#issuecomment-7227580346) in [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
+
+**2026-11-27** — closed issue [#16](https://github.com/ZacSweers/kempt/issues/16) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support editorconfig in relevant tools"
+
+**2026-11-26** — closed PR [#3222](https://github.com/ZacSweers/metro/pull/3222) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency dev.zacsweers.kctfork:ksp to v0.15.0"
+
+**2026-11-25** — created branch `z/missingMemberInjectedBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2026-11-27** — merged PR [#3216](https://github.com/ZacSweers/metro/pull/3216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve implicit class keys for scoped map entries inherited from a parent graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
