@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-25** — created branch `z/250rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — created branch `z/deprecations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — merged PR [#3218](https://github.com/ZacSweers/metro/pull/3218) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update 2.5.20 dev to 2.5.20-dev-6103"
-
-**2026-11-24** — created branch `z/adaptive-5-drag` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-11-26** — commented on [#505](https://github.com/ZacSweers/kotlin-compile-testing/pull/505#issuecomment-7207192414) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2026-11-26** — closed PR [#505](https://github.com/ZacSweers/kotlin-compile-testing/pull/505) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v6"
-
-**2026-11-24** — created branch `automation/update-availability-45523043100` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-26** — merged PR [#3219](https://github.com/ZacSweers/metro/pull/3219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore the graph refresh mode after IDEA tests that enable automatic refresh"
-
-**2026-11-26** — opened PR [#3220](https://github.com/ZacSweers/metro/pull/3220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report duplicate implicit class keys against scoped entries inherited from a parent graph"
-
-**2026-11-26** — merged PR [#3219](https://github.com/ZacSweers/metro/pull/3219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore the graph refresh mode after IDEA tests that enable automatic refresh"
+**2026-11-27** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
