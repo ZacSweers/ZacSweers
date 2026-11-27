@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-24** — created branch `automation/update-availability-45523043100` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-26** — merged PR [#3219](https://github.com/ZacSweers/metro/pull/3219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Restore the graph refresh mode after IDEA tests that enable automatic refresh"
 
 **2026-11-26** — opened PR [#3220](https://github.com/ZacSweers/metro/pull/3220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report duplicate implicit class keys against scoped entries inherited from a parent graph"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-26** — merged PR [#2987](https://github.com/slackhq/circuit/pull/2987) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small adaptive tweaks"
 
 **2026-11-26** — merged PR [#3217](https://github.com/ZacSweers/metro/pull/3217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refresh graph data in IDEA validation tests that assert fresh cached results"
-
-**2026-11-25** — created branch `z/linearReachableAdjacency` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
