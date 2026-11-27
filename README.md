@@ -19,8 +19,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-27** — merged PR [#3223](https://github.com/ZacSweers/metro/pull/3223) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop limiting the override and local Maven repositories to Kotlin dev versions"
 
 **2026-11-25** — created branch `z/250rc2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2026-11-26** — created branch `z/deprecations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
