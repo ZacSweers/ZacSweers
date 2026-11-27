@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-25** — created branch `z/outbox-ordering-admission` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2026-11-25** — created branch `z/fix-availability-reader` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2026-11-27** — merged PR [#3223](https://github.com/ZacSweers/metro/pull/3223) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Stop limiting the override and local Maven repositories to Kotlin dev versions"
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-26** — commented on [#505](https://github.com/ZacSweers/kotlin-compile-testing/pull/505#issuecomment-7207192414) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2026-11-26** — closed PR [#505](https://github.com/ZacSweers/kotlin-compile-testing/pull/505) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v6"
-
-**2026-11-24** — created branch `automation/update-availability-45523043100` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
