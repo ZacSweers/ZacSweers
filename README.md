@@ -11,12 +11,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-25** — created branch `z/deflakeParallelMap` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2026-11-27** — merged PR [#663](https://github.com/ZacSweers/FieldSpottr/pull/663) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-27** — merged PR [#663](https://github.com/ZacSweers/FieldSpottr/pull/663) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
-
-**2026-11-25** — created branch `z/outbox-ordering-admission` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2026-11-25** — created branch `z/fix-availability-reader` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
