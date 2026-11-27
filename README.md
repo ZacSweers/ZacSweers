@@ -4,6 +4,10 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-27** — opened PR [#3228](https://github.com/ZacSweers/metro/pull/3228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle 9.9.3"
+
+**2026-11-27** — opened PR [#3227](https://github.com/ZacSweers/metro/pull/3227) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix report for star-projected generic `@Inject` class keys"
+
 **2026-11-27** — opened PR [#29](https://github.com/ZacSweers/kempt/pull/29) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add kempt-core for reusable formatter APIs"
 
 **2026-11-27** — commented on [#16](https://github.com/ZacSweers/kempt/issues/16#issuecomment-7227580346) in [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
