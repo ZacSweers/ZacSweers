@@ -4,11 +4,17 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-27** — opened PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
+**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
+
+**2026-11-26** — created branch `z/moreAdaptive` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2026-11-27** — merged PR [#3229](https://github.com/ZacSweers/metro/pull/3229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve IntelliJ Platform artifacts without asking Maven Central"
+
+**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
 
 **2026-11-27** — opened PR [#3230](https://github.com/ZacSweers/metro/pull/3230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve unqualified requests for qualified @Inject classes in IDE graph validation"
 
-**2026-11-27** — opened PR [#3229](https://github.com/ZacSweers/metro/pull/3229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve IntelliJ Platform artifacts without asking Maven Central"
+**2026-11-27** — merged PR [#3229](https://github.com/ZacSweers/metro/pull/3229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve IntelliJ Platform artifacts without asking Maven Central"
 
 **2026-11-27** — merged PR [#3228](https://github.com/ZacSweers/metro/pull/3228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle 9.9.3"
 
@@ -17,12 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-27** — merged PR [#3228](https://github.com/ZacSweers/metro/pull/3228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Gradle 9.9.3"
 
 **2026-11-27** — merged PR [#3227](https://github.com/ZacSweers/metro/pull/3227) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix report for star-projected generic `@Inject` class keys"
-
-**2026-11-27** — opened PR [#29](https://github.com/ZacSweers/kempt/pull/29) to [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Add kempt-core for reusable formatter APIs"
-
-**2026-11-27** — commented on [#16](https://github.com/ZacSweers/kempt/issues/16#issuecomment-7227580346) in [ZacSweers/kempt](https://github.com/ZacSweers/kempt)
-
-**2026-11-27** — closed issue [#16](https://github.com/ZacSweers/kempt/issues/16) on [ZacSweers/kempt](https://github.com/ZacSweers/kempt): "Support editorconfig in relevant tools"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
