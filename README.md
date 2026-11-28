@@ -4,7 +4,9 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-28** — opened PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+**2026-11-28** — merged PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-28** — merged PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-28** — merged PR [#3235](https://github.com/ZacSweers/metro/pull/3235) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve a qualified `@Inject` class for requests with no qualifier in the IDEA plugin"
 
@@ -21,8 +23,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
 
 **2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
-
-**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
