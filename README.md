@@ -4,25 +4,7 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-27** — opened PR [#3234](https://github.com/ZacSweers/metro/pull/3234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report an error when a Set or Map key has both a whole binding and multibinding contributions"
-
-**2026-11-27** — opened PR [#3233](https://github.com/ZacSweers/metro/pull/3233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Encode and render unsigned qualifier arguments as unsigned numbers"
-
-**2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
-
-**2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
-
-**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
-
-**2026-11-26** — created branch `z/moreAdaptive` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2026-11-27** — merged PR [#3229](https://github.com/ZacSweers/metro/pull/3229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve IntelliJ Platform artifacts without asking Maven Central"
-
-**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
-
-**2026-11-27** — opened PR [#3230](https://github.com/ZacSweers/metro/pull/3230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve unqualified requests for qualified @Inject classes in IDE graph validation"
-
-**2026-11-27** — merged PR [#3229](https://github.com/ZacSweers/metro/pull/3229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve IntelliJ Platform artifacts without asking Maven Central"
+**2026-11-27** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
