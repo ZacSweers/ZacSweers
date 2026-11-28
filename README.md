@@ -4,7 +4,25 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-11-28** — Could not load GitHub activity. Please check back later.
+**2026-11-28** — opened PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
+
+**2026-11-28** — merged PR [#3235](https://github.com/ZacSweers/metro/pull/3235) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve a qualified `@Inject` class for requests with no qualifier in the IDEA plugin"
+
+**2026-11-27** — closed PR [#3230](https://github.com/ZacSweers/metro/pull/3230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve unqualified requests for qualified @Inject classes in IDE graph validation"
+
+**2026-11-28** — merged PR [#3235](https://github.com/ZacSweers/metro/pull/3235) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Resolve a qualified `@Inject` class for requests with no qualifier in the IDEA plugin"
+
+**2026-11-28** — merged PR [#3233](https://github.com/ZacSweers/metro/pull/3233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Encode and render unsigned qualifier arguments as unsigned numbers"
+
+**2026-11-27** — opened PR [#3234](https://github.com/ZacSweers/metro/pull/3234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report an error when a Set or Map key has both a whole binding and multibinding contributions"
+
+**2026-11-27** — merged PR [#3233](https://github.com/ZacSweers/metro/pull/3233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Encode and render unsigned qualifier arguments as unsigned numbers"
+
+**2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
+
+**2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
+
+**2026-11-27** — merged PR [#3231](https://github.com/ZacSweers/metro/pull/3231) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a missing binding when an `@Inject` class is requested with and without its qualifier"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
