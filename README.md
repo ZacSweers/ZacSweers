@@ -4,6 +4,8 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-11-26** — created branch `z/parentBindingOverrides` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2026-11-28** — merged PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
 
 **2026-11-28** — merged PR [#665](https://github.com/ZacSweers/FieldSpottr/pull/665) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update availability data"
@@ -19,8 +21,6 @@ Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 **2026-11-27** — opened PR [#3234](https://github.com/ZacSweers/metro/pull/3234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report an error when a Set or Map key has both a whole binding and multibinding contributions"
 
 **2026-11-27** — merged PR [#3233](https://github.com/ZacSweers/metro/pull/3233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Encode and render unsigned qualifier arguments as unsigned numbers"
-
-**2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
 
 **2026-11-27** — merged PR [#3232](https://github.com/ZacSweers/metro/pull/3232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate compiler test suites at build time instead of checking them in"
 <!-- githubActivity ends -->
